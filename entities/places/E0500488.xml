@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500488">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Königliche Hofoper (Berlin)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName when-iso="1743/1918">Königliche Hofoper</placeName>
+               <placeName from-iso="1918">Staatsoper Berlin</placeName>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Unter den Linden 7</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500029">Berlin</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="DE"/>
+                  <geo>52.516667 13.395</geo>
+               </location>
+               <desc><date when-iso="1741/1743">1741–43</date> von <persName key="E0300290">Friedrich II.</persName> errichtetes Opernhaus</desc>
+               <note><date when-iso="1843">1843</date> abgebrannt, <date when-iso="1843/1844">1843–44</date> Wiederaufbau</note>
+               <note><date when-iso="1918">1918</date> Umbennung in Staatsoper Berlin</note>
+               <note><date when-iso="1941">1941</date> zerstört, <date when-iso="1941/1942">1941–42</date> Wiederaufbau</note>
+               <note><date when-iso="1945">1945</date> zerstört, <date when-iso="1951/1955">1951–55</date> Wiederaufbau</note>
+               <idno type="GND">1087233062</idno>
+               <idno type="geonames">6944100</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

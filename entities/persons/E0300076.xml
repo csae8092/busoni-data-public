@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lula Mysz-Gmeiner</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">130136972</idno>
+               <persName type="reg">
+                  <surname>Mysz-Gmeiner</surname>,
+                  <forename>Lula</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1876-08-16"/>
+                  <placeName key="E0500124">Kronstadt</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1948-08-07"/>
+                  <placeName key="E0500123">Schwerin</placeName>
+               </death>
+               <sex value="f"/>
+               <occupation>Sängerin</occupation>
+               <occupation>Gesangslehrerin</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

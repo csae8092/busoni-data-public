@@ -1,0 +1,34 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <!-- Index-Einträge für biblio -->
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <range>
+            <create qname="tei:placeName" type="xs:string"/>
+            <create qname="tei:term" type="xs:string"/>
+            <create qname="tei:author" type="xs:string"/>
+            <create qname="tei:editor" type="xs:string"/>
+            <create qname="@key" type="xs:string"/>
+            <create qname="tei:date">
+                <field name="date-when" match="@when-iso" type="xs:string"/>
+                <field name="date-notBefore" match="@notBefore-iso" type="xs:string"/>
+                <field name="date-notAfter" match="@notAfter-iso" type="xs:string"/>
+                <field name="date-from" match="@from-iso" type="xs:string"/>
+                <field name="date-to" match="@to-iso" type="xs:string"/>
+            </create>
+            <create qname="@type" type="xs:string"/>            
+            <create qname="@xml:id" type="xs:string"/>
+            <create qname="@target" type="xs:string"/>
+        </range>
+        <fulltext default="none" attributes="false"/>
+        <lucene diacritics="no">
+            <analyzer class="org.apache.lucene.analysis.standard.NoDiacriticsStandardAnalyzer"/>
+            <text qname="tei:biblStruct">
+                <ignore qname="tei:title"/>
+                <ignore qname="tei:author"/>
+                <ignore qname="tei:editor"/>
+            </text>
+            <text qname="tei:title" boost="25"/>
+            <text qname="tei:author" boost="2.0"/>
+            <text qname="tei:editor" boost="2.0"/>
+        </lucene>
+    </index>
+</collection>

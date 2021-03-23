@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300572">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Claire Dux</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-02-28" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">116259272</idno>
+                    <idno type="VIAF">71577736</idno>
+                    <persName type="reg">
+                        <surname>Dux</surname>, 
+                        <forename>Claire</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Clara</forename>
+                        <forename>Auguste</forename>
+                        <surname>Dux</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1885-08-02"/>
+                        <placeName key="E0500645">Witkowo</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1967-10-08"/>
+                        <placeName key="E0500374">Chicago</placeName>
+                    </death>
+                    <sex value="f"/>
+                    <occupation>Sopranistin</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

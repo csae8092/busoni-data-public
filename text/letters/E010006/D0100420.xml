@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100420">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="de">Brief von Paul Bekker an Ferruccio Busoni (Hofheim am Taunus, 2. Dezember 1923)</title>
+            <title xml:lang="en">Letter by Paul Bekker to Ferruccio Busoni (Hofheim am Taunus, 2 December 1923)</title>
+            <author key="E0300111">Paul Bekker</author>
+            <respStmt>
+               <resp>Prepared by</resp>
+               <persName key="E0300372">
+                  <forename>Sophia</forename>
+                  <surname>Dörner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitization by</resp>
+               <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date when-iso="2018-01"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Briefe</title>
+            <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country key="DE">Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                  <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                  <collection>Nachlass Ferruccio Busoni</collection>
+                  <idno>Mus.Nachl. F. Busoni B II, 259</idno>
+                  <altIdentifier>
+                     <idno type="D-B.olim">Mus.ep. P. Bekker 11 (Busoni-Nachl. B II)</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <institution>Kalliope-Verbund</institution>
+                     <idno>DE-611-HS-573000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary><persName key="E0300111">Bekker</persName> dankt für <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100419">letzten Brief</ref>; befürchtet, ein persönliches Gespräch über sein geplantes <rs key="E0800239">Buch</rs> zu <persName key="E0300006">Richard Wagner</persName> werde sich nicht verwirklichen lassen; erkundigt sich nach <persName key="E0300017">Busonis</persName> <title key="E0400218">Doktor Faust</title>.</summary>
+                  <msItem>
+                     <docDate resp="#major_hand"><date when-iso="1923-12-02"/></docDate>
+                     <!--docDate resp="#post" sameAs="#post_abs"><date when-iso="....-..-.."/></docDate -->
+                     <!--docDate resp="#post" sameAs="#post_rec"><date when-iso="....-..-.."/></docDate -->
+                     <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1923-12-02"/></docDate>
+                     <incipit>ich danke Ihnen für Ihre Zeilen u. werde mich freuen</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <extent>
+                           <measure type="folio">1 Blatt</measure>
+                           <measure type="pages">2 beschriebene Seiten</measure>
+                        </extent>
+                        <condition>Der Brief ist gut erhalten; Briefumschlag auf der Vorderseite rechts
+                           unvollständig (infolge Aufriss); ohne Briefmarke; Poststempel unkenntlich.</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote xml:id="major_hand" scope="major" medium="blue_ink" scribe="author" scribeRef="#E0300111">Hand des Absenders Paul Bekker, Brieftext in blauer Tinte, in deutscher Kurrentschrift.</handNote>
+                     <handNote xml:id="major_hand_stamp" scope="major" medium="black_ink" scribe="author" scribeRef="E0300111">Adress-Stempel des Absenders Paul Bekker (schwarze Tinte)</handNote>
+                     <handNote xml:id="recipient_w" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300059" cert="high">Vmtl. Hand Gerda Busonis, die auf der Umschlagrückseite die Zuordnung <q>Paul Bekker</q>, sowie das Empfangsdatum mit Bleistift notiert hat.</handNote>
+                     <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat.</handNote>
+                     <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                     <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                     <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                     <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                  </handDesc>
+                  <accMat>
+                     
+                     <pb n="3" facs="D0100420_3.jpg"/>
+                     
+                     <note type="stamp" place="top-right" resp="#post">
+                        <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                           <placeName><gap atLeast="1" unit="word" reason="illegible"/></placeName>
+                           
+                           <!-- SD: evtl. reason="paper missing" zulässig? -->
+                           
+                           <lb/><date><gap atLeast="8" unit="char" reason="illegible"/></date>
+                           <lb/><gap atLeast="1" unit="word" reason="illegible"></gap>
+                        </stamp>
+                     </note>
+                                         
+                     <address>
+                        <addrLine rend="align(right)">Herrn Dr <persName key="E0300017"><choice><abbr>F.</abbr><expan>Ferruccio</expan></choice> Busoni</persName></addrLine>
+                        <addrLine rend="align(right) space-above"><hi rend="underline"><placeName key="E0500029">Berlin</placeName> W 30</hi></addrLine>
+                        <addrLine rend="align(right)"><placeName key="E0500072">Viktoria<choice><orig> </orig><reg>-</reg></choice>Luise<choice><orig>p</orig><reg>-P</reg></choice>latz</placeName> <supplied reason="paper missing">11</supplied></addrLine>
+                     </address>
+                     
+                     <address rend="align(left)">
+                        <addrLine><persName key="E0300111">Bekker</persName></addrLine>
+                        <addrLine><placeName key="E0500447">Hofheim <choice><abbr>i. T.</abbr><expan>im Taunus</expan></choice></placeName></addrLine>
+                     </address>
+                     
+                     <pb n="4" facs="D0100420_4.jpg"/>
+                     
+                     
+                     <note type="shelfmark" place="top-center" resp="#archive">
+                        <add xml:id="addSig">Mus.Nachl. F. Busoni B II, 259-Beil.</add>
+                     </note>
+                     
+                     <note type="shelfmark" place="above-center" rend="align(center)" resp="#archive">
+                        <del rend="strikethrough" xml:id="delSig">
+                           <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/> B II</stamp></del>
+                        <lb/><add xml:id="addNote">(o. Marke)</add>
+                     </note>
+                     
+                     <substJoin target="#delSig #addNote"/>
+                     
+                     <note type="annotation" place="center" rend="large align(center)" resp="#recipient_w">2/12/1923</note>
+                     <note  type="annotation" place="right" rend="large" resp="#recipient_w">Paul Bekker</note>
+
+                     <note type="shelfmark" place="bottom-center" resp="#archive">
+                        <del rend="strikethrough" xml:id="olimDB">
+                           Mus.ep. P. Bekker 11</del>
+                     </note>
+                     
+                  </accMat>
+               </physDesc>
+               <history>
+                  <origin>
+                            <origPlace key="E0500462">Hofheim am Taunus</origPlace>
+                            <origDate when-iso="1923-12-02"/>
+                        </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+         </projectDesc>
+         <editorialDecl>
+            <hyphenation eol="hard" rend="sh">
+               <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+            </hyphenation>
+            <punctuation marks="all" placement="external">
+               <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+            </punctuation>
+            <quotation marks="none">
+               <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+            </quotation>
+            <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr
+               target="http://www.busoni-nachlass.org/E1000003"/></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc ref="http://www.busoni-nachlass.org/D0100420">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+               <date when="1923-12-02" cert="high"/>
+               <placeName ref="http://www.geonames.org/2902533" key="E0500462">Hofheim am Taunus</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+               <date when="1923-12-02" cert="low"/>
+               <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="replyTo" target="#D0100419"/>
+               <!--ref type="repliedBy" target="#D01004.."/-->
+               <ref type="previous" target="#D0100419"/>
+               <ref type="next" target="#D0100421"/>
+            </correspContext>
+         </correspDesc>
+         <langUsage>
+            <language ident="de"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+         <change when-iso="2018-02-13" who="#E0300372">Erste Transkription, status unfinished</change>
+         <change when-iso="2018-03-16" who="#E0300372">Transkription, Auszeichnungen, status unfinished</change>
+         <change when-iso="2018-03-25" who="#E0300372">Korrekturen, Kommentare, status proposed</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/875171354/manifest">
+      <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7600000001"/>
+      <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7600000002"/>
+      <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7600000003"/>
+      <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7600000004"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="transcription">
+            
+            <pb n="1" facs="D0100420_1.jpg"/>
+            
+            <note type="shelfmark" resp="#archive" place="top-right">
+               <del rend="strikethrough right-of align(right)" xml:id="del">Mus.ep. P. Bekker 11 (Busoni-
+                  <lb break="no"/>Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+               <add place="top-left" xml:id="add">Mus.Nachl. F. Busoni B II, 259</add>
+            </note>
+            
+            <substJoin target="#add #del"/>
+            
+            <note type="stamp" resp="#major_hand_stamp" place="right">
+               <stamp rend="align(left) majuscule tiny">
+                  <address>
+                     <addrLine><placeName key="E0500462">Hofheim <choice><abbr>i.</abbr><expan>im</expan></choice> Taunus</placeName></addrLine>
+                     <addrLine rend="align(right)"><placeName key="E0500470">3 Kapellenstrasse</placeName></addrLine>
+                     <addrLine rend="align(center)">Tel. 97.</addrLine>
+                  </address>
+               </stamp> 
+            </note>
+            
+            <opener>               
+               
+               <salute rend="align(left) space-above">Sehr verehrter Herr Dr<reg>.</reg> <persName key="E0300017">Busoni</persName>, </salute>
+            </opener>
+            
+            
+            <p rend="space-above">ich danke Ihnen für <ref type="E010006" target="#D0100419">Ihre Zeilen</ref>
+               <choice><abbr>u.</abbr><expan>und</expan></choice> werde mich freuen,
+               <lb/>wenn ich denken darf, da<choice><orig>ß</orig><reg>ss</reg></choice> meine Wendung
+               
+               <note type="commentary" resp="#E0300372">
+                  Gemeint ist die Ansprache an <persName key="E0300017">Busoni</persName> 
+                  im Vorwort zu <persName key="E0300111">Bekkers</persName> Band <q rend="dq-du"><title key="E0800240">Neue Musik</title></q> 
+                  (vgl. <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100419">letzten Brief</ref>; 
+                  <bibl><ref target="#E0800240"/>, S. VII–XI</bibl>).
+               </note>
+               
+               an Sie,
+               <lb/>unerwartet wie sie kam, von Ihnen nicht unange
+               <lb break="no"/>nehm empfunden wird.
+               <lb/>Da<choice><orig>ß</orig><reg>ss</reg></choice> ein <title key="E0800239"><persName key="E0300006">Wagner</persName><pc>=</pc>Buch</title> sowohl 
+               verspätet als verfrüht
+               <lb/>wirken könnte, möchte ich akzeptieren, indem ich die
+               <lb/>doppelte Negation als Bejahung betrachte <choice><abbr>u</abbr><expan>und</expan></choice> also meine,
+               <lb/>es mü<choice><orig>ß</orig><reg>ss</reg></choice>te dann gerade jetzt zur rechten Zeit ko<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>en.</p>
+            <p rend="indent-first">Sprechen würde ich gern darüber, schreiben lä<choice><orig>ß</orig><reg>ss</reg></choice>t sich<reg>’</reg>s
+               <lb/>schwer, nachdem man ein ganzes Buch darüber zu schreiben
+               <lb/>hat. Der Versuch einer kritischen Erfassung des Phänomens
+               <lb/><persName key="E0300006">Wagner</persName> erscheint mir aber geradezu als Voraussetzung
+               <lb/>einer Klärung der musik<choice><orig>ae</orig><reg>ä</reg></choice>sthetischen Begriffe <choice><abbr>u</abbr><expan>und</expan></choice> Anschauungen 
+               <lb/>– schon darum, meine ich, mü<choice><orig>ß</orig><reg>ss</reg></choice>te er gewagt werden,
+               <lb/>geradeso, wie man es in musikalischer Beziehung wagen
+               <lb/>mü<choice><orig>ß</orig><reg>ss</reg></choice>te.</p>
+            <p rend="indent-first">Es wäre sehr schön, darüber zu reden, aber ich fürchte,
+               <lb/>einstweilen nicht dazu zu kommen,
+               
+               <note type="commentary" resp="#E0300372">
+                  Trotz beiderseitigem Interesse ist es nie zu einem persönlichen Gespräch über <persName key="E0300006">Wagner</persName> gekommen 
+                  <bibl>(vgl. <ref target="#E0800171"/>, S.&#8239;554)</bibl>.
+               </note>
+               
+               wir leben im be
+               <lb break="no"/>setzten Gebiet unter noch recht schwierigen äußeren Ver
+               <lb break="no"/>hältnissen<reg>,</reg> <choice><abbr>u</abbr><expan>und</expan></choice> eine Reise nach <placeName key="E0500029">Berlin</placeName> 
+               zählt zu den phan
+               <lb break="no"/>tastischen Projekten. Ob Sie wohl der Weg einmal in
+               
+               <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note>
+               
+               <pb n="2" facs="D0100420_2.jpg"/>die Nähe von <placeName key="E0500153"><choice><abbr>Frkf.</abbr><expan>Frankfurt</expan></choice></placeName>
+               oder <placeName key="E0500061">Wiesbaden</placeName> führt? <placeName key="E0500462">Hofheim</placeName> liegt
+               <lb/>gerade zwischen beiden.</p>
+            <p rend="indent-first">Und wie wird es mit dem <title key="E0400218">Faust</title>? Ich hörte gern
+               <lb/>einmal etwas darüber – davon darf man nicht sagen –
+               <lb/><choice><abbr>u</abbr><expan>und</expan></choice> über manches andere – aber wo ich hin<orig> </orig>ko<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>e
+               <lb/><choice><abbr>u</abbr><expan>und</expan></choice> Sie zu treffen hoffen könnte, da sind Sie nicht,
+               <lb/>wie in <placeName key="E0500463">Donaueschingen</placeName> <choice><abbr>u</abbr><expan>und</expan></choice> 
+               <placeName key="E0500023">Salzburg</placeName><reg>,</reg>
+               
+               <note type="commentary" resp="#E0300372"><persName key="E0300111">Bekker</persName> hatte gehofft,
+                  <persName key="E0300017">Busoni</persName> bei den <q rend="dq-du"><placeName key="E0500463">Donaueschinger</placeName> Kammermusik-Aufführungen zur 
+                     Förderung zeitgenössischer Tonkunst</q> bzw. den kurze Zeit später veranstalteten 
+                  <q rend="dq-du">Internationalen Kammermusikaufführungen <placeName key="E0500023">Salzburg</placeName></q> zu treffen. <persName key="E0300111">Bekkers</persName> Anwesenheit 
+                  geht aus seiner Besprechung in der <orgName key="E0600070">Frankfurter Zeitung</orgName> hervor <bibl>(vgl. <ref target="#E0800180"/>, S.&#8239;1&#8239;f.)</bibl>. 
+                  <persName key="E0300017">Busoni</persName>, der bereits im Herbst <date when-iso="1922">1922</date> gesundheitlich angeschlagen war, konnte den Veranstaltungen nicht persönlich beiwohnen, ließ sich
+                  jedoch in <placeName key="E0500463">Donaueschingen</placeName> von <persName key="E0300059">Gerda</persName> vertreten. <bibl>(vgl. <ref target="#E0800016"/>, S.&#8239;51)</bibl>.
+               </note>
+               
+           <!--SD: Ich habe mich bei diesem Kommentar gefragt, ob es evtl. sinnvoll wäre noch eine Entitätengruppe "event" anzulegen, da mir 
+           nicht recht klar war, wie ich die Veranstaltungen besser auszeichnen kann. Ich habe auch einmal in die TEI P5 Guidelines geschaut und 
+           vermute, dass evtl. eine Auszeichnung über den <listEvent>-tag funktionieren könnte (http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-listEvent.html).
+           Sie sind sicher vertrauter mit den Guidelines als ich, ich wollte nur kenntlich machen, dass ich mir Gedanken gemacht habe.-->
+               
+               <!-- CS: gute Idee! -->
+               
+               <choice><abbr>u</abbr><expan>und</expan></choice> dann wären
+               <lb/>ja auch die vielen Menschen da.</p>
+            
+            
+            <closer>
+               <salute rend="indent-first">Leben Sie recht wohl<reg>,</reg> <choice><abbr>u</abbr><expan>und</expan></choice> behalten Sie mich in mög
+                  <lb break="no"/>lichst gutem Angedenken.</salute>
+               <signed rend="align(right)">Ihr aufrichtig ergebener
+                  <lb/><persName key="E0300111">Paul Bekker</persName></signed>
+               
+               <note type="date" place="left-of" resp="#major_hand">
+                  <date when-iso="1923-12-02">2<choice><orig>/XII
+                     <lb/></orig><reg>.XII.19</reg></choice>23</date>
+               </note>
+            </closer>
+            
+            
+            <note type="stamp" resp="#sbb_st_blue" place="bottom-right">
+               <stamp resp="#sbb_st_blue">Nachlaß Busoni</stamp>
+            </note>
+            
+            
+         </div>
+      </body>
+   </text>
+</TEI>

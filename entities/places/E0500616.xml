@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500616">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Solingen</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-27" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place type="settlement">
+                    <placeName>Solingen</placeName>
+                    <location>
+                        <country key="DE"/>
+                        <geo>51.171389 7.083333</geo>
+                    </location>
+                    <idno type="GND">4055431-4</idno>
+                    <idno type="geonames">2831580</idno>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

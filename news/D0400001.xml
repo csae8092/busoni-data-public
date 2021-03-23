@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0400001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="de">Neue Website gestartet!</title>  
+            <title xml:lang="en">New website launched!</title>
+            <author key="E0300315">Jakob Schmidt</author> 
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date when="2018-09-24T00:00:00"/>            
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">News</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when-iso="2018-09-06" who="#E0300315">Neuigkeit verfasst.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="news">
+      <body>
+         <div xml:lang="de">
+            <p>
+               Nach einer langen Arbeitsphase geht heute die neue, datenbankgestützte Oberfläche für unsere digitale Edition online.
+               Die bisherige, auf statischer XSL/HTML-Transformation basierende Seite wird durch eine <ref type="ext" target="https://exist-db.org/">eXist-db</ref>-Applikation ersetzt,
+               die zahlreiche neue Aufbereitungs- und Darstellungsweisen ermöglicht.  
+            </p>
+            <p>Zu den neuen Features zählen unter anderem: 
+               <list rend="liststyle">
+                  <item>das Filtern von Einträgen im Register,</item>
+                  <item>das Suchen mithilfe einer internen Datenbanksuche,</item>
+                  <item>das Zuschalten externer Informationen in Registereinträgen,</item>
+                  <item>das Umschalten der Oberfläche auf Englisch und</item>
+                  <item>der Export von Dokumenten als Nur-Text und PDF (experimentell).</item>                  
+               </list>
+            </p>
+            <p>Grundlage der Webapplikation ist die <ref type="ext" target="https://github.com/Edirom/WeGA-WebApp">WeGA-WebApp</ref> der <ref type="ext" target="http://weber-gesamtausgabe.de">Carl-Maria-von-Weber-Gesamtausgabe</ref>,
+               welche von <ref type="ext" target="https://weber-gesamtausgabe.de/de/A009001.html">Peter Stadler</ref> entwickelt wurde. Wir danken ihm für seine Vorarbeit und Unterstützung, die diese Umsetzung überhaupt erst möglich gemacht haben.               
+            </p>
+            <p>
+               Mit der Entwicklung der neuen Oberfläche gingen auch zahlreiche Anpassungen der Datenstruktur einher. Details lassen sich unseren <ref target="#E1000003">Editionsrichtlinien</ref> entnehmen.
+               Einblick in die Datensätze ist neuerdings auch über <ref type="ext" target="https://scm.cms.hu-berlin.de/busoni-schriften/busoni-data-public">GitLab</ref> möglich, wo eine Kopie des aktuell öffentlichen Standes
+               einsehbar ist. Die Entwicklung der Daten und der App findet jedoch nach wie vor intern statt; bei Interesse an Mitarbeit wenden Sie sich bitte an die <ref target="#E1000002">Herausgeber</ref>.               
+            </p>
+            <p>
+               Einige Punkte unserer Agenda sind bisher offen geblieben; dazu gehören sowohl neue Funktionen und Verbesserungen der Homepage als auch Entwicklungen auf anderen Gebieten, z.&#8239;B. der weiteren Dokumentation unserer TEI-Richtlinien 
+               im ODD-Format. Die Arbeit an diesem Projekt kann damit noch lange nicht als abgeschlossen gelten und wird hoffentlich in Zukunft weitere Beachtung erfahren. Bis auf Weiteres bleiben daher auch die meisten codierten Dokumente
+               in einem offiziell unfertigen Zustand (ablesbar an der <code>&lt;revisionDesc&gt;</code> bzw. dem entsprechenden Label in der Oberfläche). Mit Fragen und Anmerkungen zu den Dokumenten oder der Seite können Sie sich an unsere
+               Kontaktadresse <email>edition[at]busoni-nachlass.org</email> wenden.
+            </p>
+            <p>Mit der Publikation der neuen Seite endet auch meine Arbeitszeit in diesem Projekt, welches ich seit dem Frühjahr 2016 in der Seminararbeit und zuletzt vor allem in der Entwicklung betreut habe.
+               Ich freue mich, dass wir unsere ehrgeizigen Ziele zumindest teilweise erreichen konnten. Vielen Dank an <persName key="E0300313">Ullrich Scheideler</persName>
+               und <persName key="E0300314">Christian Schaper</persName> für das entgegengebrachte Vertrauen und die gute Zusammenarbeit!               
+            </p>
+         </div>
+         <div xml:lang="en">
+            <p>
+               After long working hours, the new interface for our digital edition is finally being lauched today.
+               The previous page was based on static XSL/HTML transformation and has now been replaced by an <ref type="ext" target="https://exist-db.org/">eXist-db</ref> application which enables numerous new editing and display modes.  
+            </p>
+            <p>New features include: 
+               <list rend="liststyle">
+                  <item>filtering of index entries,</item>
+                  <item>searching using an internal database search,</item>
+                  <item>switching on external information in index entries,</item>
+                  <item>switching between user interface languages (currently German and English),</item>
+                  <item>exporting documents to plain text and PDF (experimental).</item>                  
+               </list>
+            </p>
+            <p>The web app is based on the <ref type="ext" target="https://github.com/Edirom/WeGA-WebApp">WeGA-WebApp</ref> used by the <ref type="ext" target="http://weber-gesamtausgabe.de">Carl-Maria-von-Weber-Gesamtausgabe</ref>,
+               which was developed by <ref type="ext" target="https://weber-gesamtausgabe.de/de/A009001.html">Peter Stadler</ref>. We thank Peter for his groundwork and his support, which made this implementation possible in the first place.
+            </p>
+            <p>
+               The development of the new interface has been accompanied by numerous adjustments to the data structure. Details can be found in our <ref target="#E1000003">Edition guidelines</ref>.
+               Access to the data records is now also possible via <ref type="ext" target="https://scm.cms.hu-berlin.de/busoni-schriften/busoni-data-public">GitLab</ref>, where a copy of the current public status is available.
+               However, the current development is still kept non-public; if you are interested in collaborating, please contact the <ref target="#E1000002">editors</ref>.               
+            </p>
+            <p>
+               Some points of our agenda have remained open so far, including new functions and improvements of the homepage as well as developments in other areas, e.&#8239;g. further documentation of our TEI guidelines in ODD format.
+               The work on this project cannot be regarded as finished yet and will hopefully receive further attention in the future. For the time being, most of the coded documents will remain in an officially unfinished state (as documented in <code>&lt;revisionDesc&gt;</code>, and represented in the corresponding label in the user interface). If you have any questions or comments on the documents or the website, you can contact us via the
+               contact address <email>edition[at]busoni-nachlass.org</email>.
+            </p>
+            <p>With the publication of the new page, my time in the project comes to an end. In early 2016, I began as a seminar assistant and shortly thereafter with the work on the homepage, which took most of my time in the last year.
+               I am happy that we have been able to at least partially achieve our ambitious goals! Many thanks to <persName key="E0300313">Ullrich Scheideler</persName> and <persName key="E0300314">Christian Schaper</persName>
+               for the trust placed in me and the good cooperation!
+            </p>                       
+         </div>
+      </body>
+   </text>
+</TEI>

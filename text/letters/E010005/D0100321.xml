@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100321">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Ludwig Rubiner (Genève, 21. April 1918)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Ludwig Rubiner (Genève, 21 April 1918)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300378">
+                        <forename>Elizaveta</forename>
+                        <surname>Willert</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 1012</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 806a (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-565431</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary> <persName key="E0300017">Busoni</persName> beschhreibt an <persName key="E0300126">Rubiner</persName>  seine Gedanken über sein Werk <title key="E0400218">Doktor Faust</title>; bzw. reflektiert <persName key="E0300017">Busoni</persName> über den Ihnalt des Textes und die Rolle von Mephistopheles, über Gute und Böse; Es figuriert den Titel <title key="E0400107">Faust II</title>. </summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-04-21"/></docDate>                          
+                            <incipit>Es ist nicht leicht zu präzisieren, was</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">12 Bogen</measure>
+                                    <measure type="pages"> 3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation> Keine Besonderheiten der Seitenfolge</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="relative" scribeRef="#E0300059">Umschrift von Gerda Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>                            
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand Gerda Busonis, die mit Bleistift eine Brief-Aussortierung vorgenommen und mit Bleistift der Titel <q>Brief an Rubiner</q>  und <q>Über Goethes Faust II Teil</q>notiert hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500219">Genf</origPlace>
+                            <origDate when-iso="1918-04-21"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100321">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1918-04-21"/>
+                    <placeName ref="http://www.geonames.org/2660646" key="E0500219">Genève</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100320"/>
+                    <ref type="repliedBy" target="#D0100322"/>
+                    <ref type="previous" target="#D01003320"/>
+                    <ref type="next" target="#D0100322"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-03-27" who="#E0300378">in Bearbeitung</change>
+            <change when-iso="2018-04-01" who="#E0300378">status="proposed"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/859164314/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001D11000000001"/> 
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001D11000000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001D11000000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001D11000000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001D11000000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001D11000000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-center" resp="#archive">
+                    <del rend="strikethrough">Mus.ep. F.Busoni
+                        <lb/>(Busoni-Nachl.  <handShift
+                            new="#archive_red"/>B I)</del>  </note>
+                <note type="shelfmark" place="above"> Mus.Nachl.F. Busoni B I, 1012</note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                <note type="annotation" place="inline" resp="#gerda.busoni">Brief an Rubiner</note>
+                
+                <opener>
+                    <dateline>21. April 1918</dateline>
+                </opener>
+                
+                <p rend="indent-fisrt"> Es ist nicht leicht zu präzisieren, was mir
+                    <lb/><title key="E0400107">Faust II</title> bedeutet; planmä<choice><orig>ss</orig><reg>ß</reg></choice>ig Ihre Frage zu beant<lb break="no"/>worten ist mir sogar gegenwärtig unmöglich.
+                    <lb/>Allein es ist mir selbst wichtig, etwas darüber
+                    <lb/>festzustellen; <choice><abbr>u.</abbr><expan>und</expan></choice>  so schicke ich mich an, an diesem
+                    <lb/>Sonntag Vormittag nach einem gut gerat<orig>h</orig>enen
+                    <lb/>Konzert<choice><orig> Abend</orig><reg>abend</reg></choice>, einige Klarheit zu gewinnen
+                    <choice><abbr>u.</abbr><expan>und</expan></choice>  nach Kräften zu formulieren. <note type="commentary" resp="#E0300378"><date when-iso="1918-02/1918-04">Von Februar bis April 1918</date> fand in <placeName key="E0500132">Zürich</placeName> eine Reihe von fünf <soCalled>Populären Konzerten</soCalled> zur <q>Entwicklung des Klavierkonzertes</q> statt (<date when-iso="1918-02-25">25. Februar</date>, <date when-iso="1918-03-11">11. März</date>, <date when-iso="1918-03-25">25. März</date>, <date when-iso="1918-04-08">8. April 1918</date>, <date when-iso="1918-04-23">23. April 1918</date>, vgl. <bibl><ref target="#E0800058"/>, S. 65—77.</bibl>). Den Sonntag, den <date when-iso="1918-04-21">21. April 1918</date> verbrachte <persName key="E0300017">Busoni</persName> in <placeName key="E0500219">Genf</placeName>, wo er am
+                        <date when-iso="1918-04-20">Samstag, 20. April 1918</date>, ein Konzert in der <orgName key="E0600113" xml:lang="fr">Salle de la Réformation et hôtel Victoria </orgName> gab (vgl. <bibl><ref target="#E0800186"/>, S. 6, Sp. 1</bibl>).
+                    </note>
+                </p>
+                
+                <p rend="indent-first">Zunächst, <choice><abbr>u.</abbr><expan>und</expan></choice> wie Sie längst wissen, sehe
+                    <lb/>ich alles als Künstler an. Und da spricht
+                    <lb/>mich manches eindringlichst an; in der
+                    <lb/>Tat reicht der Dichter hier an die höchsten Höhen. 
+                    <lb/>Ich nenne: Faust<orig>’</orig>s Ansprache an die Sonne.
+                    <lb rend="first-right"/>Die Szene, die von den Müttern spricht. 
+                    <lb rend="first-right"/>Die vier grauen Weiber.
+                    <lb/>und - als <hi rend="underline">Aufbau</hi> der vollständige letzte
+                    <lb rend="inline"/>Abschnitt.</p> 
+                <p rend="indent-first">Wunderbar tröstlich ist mir die Tatsache,
+                    <lb/>dass im <title key="E0400218">Faust</title> ein bedeutender Teil <supplied reason="omitted">die</supplied>
+                    <lb rend="inline"/>Bearbeitung
+                    <lb/>ist. Indisches Drama, Puppenspiel <note type="commentary" resp="#E0300378"> <persName key="E0300017">Busonis</persName> Anmmerkung über das Puppenspiel bezieht sich im <title key="E0400431">Faust</title> auf unterschiedliche Art und Weise auf den Puppenspiel-Topos .
+                        <lb/>Erstens beruht das Drama <title key="E0400431">Doktor Faust</title> von <persName key="E0300124">Goethe</persName> ursprunglich auf dem <title key="E0400322"></title>Puppenspiel von <persName key="E0300356">Karl Simrock</persName>.
+                        <lb/>Zweitens erscheint das Puppenspiel als ein Motiv in <persName key="E0300017">Busonis</persName>Komposition. Mehr dazu: <bibl><ref target="#E0800016"/>, S. 101.</bibl></note>, <persName key="E0300215">Dante </persName>—
+                    <note type="commentary" resp="#E0300378">Der Gedanke an <persName key="E0300215">Dante</persName>ist an der Stelle nicht zufällig: <persName key="E0300017">Busoni</persName>setzt sich bereits im Jahr <date when-iso="1913">1913</date>mit dem Dante-Stoff auseinander.
+                        <lb/>So erwähnt er in einem Brief an seine Frau <persName key="E0300059">Gerda Busoni</persName> das geplante Werk. 
+                        <lb/><bibl><ref target="#E0800185"/>, S. 46.</bibl></note>
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> auf jedem Schritt auch Details–Entlehnungen
+                    <lb/>begegnen uns. (So halte ich die erste Strophe
+                    <lb/>des Schlussstückes für die Beschreibung
+                    <lb/>eines altdeutschen Kupferstiches: </p>
+                <p rend="indent-first"> <q rend="dq-du" source="#E0400107">Waldung,sie schwankt heran</q>, u.s.w <supplied reason="omitted">).</supplied>
+                    <note type="commentary" resp="#E0300378"><persName key="E0300124">Goethe</persName>, <title key="E0400107">Faust II</title>, V. Akt, Grablegung.</note></p>    
+                
+                <p rend="indent-first">Drittens, sagte ich schon in meinem Briefe <note type="commentary" resp="#E0300378"> Der Brief ist nicht vorhanden</note>,
+                    <lb/>gibt der <title key="E0400107">II. Faust </title><choice><reg>-</reg><orig> </orig></choice>Antwort <choice><abbr>u.</abbr><expan>und</expan></choice> Aufschluss auf
+                    <lb/>Fragen <choice><abbr>u.</abbr><expan>und</expan></choice> Situationen des Lebens, wie kein
+                    <lb/>anderes dramatisches Werk.       
+                </p>
+                <p rend="indent-first">Sehr behutsam, <choice><abbr>u.</abbr><expan>und</expan></choice> ganz anders als <persName key="E0300197">Schiller<choice><orig> 	&#8217;s</orig><reg>s</reg></choice></persName>
+                    <lb/>sogenannte Menschlichkeit, <choice><abbr>u.</abbr><expan>und</expan></choice> geradezu um<lb break="no" rend="after:="/>wälzend gegen alle frühere <choice><abbr>u.</abbr><expan>und</expan></choice> auch noch
+                    <lb/>spätere Befangenheit des Dramas, ist die völlige
+                    
+                    <pb n="2"/>
+                    
+                    <note type="object" resp="#E0300378">[Rückseite von Textteil 1, vacant]</note> 
+                    
+                    
+                    <pb n="3"/>
+                    <note type="shelfmark" place="margin-left"> Mus.Nachl.F. Busoni B I, 1012</note>
+                    <lb/>Vernachlässigung, ja, Umkehrung der
+                    <lb/><q rend="dq-du">dramatischen Schuld.</q> </p>
+                
+                <p rend="indent-first">Der unschuldige Valentin <note type="commentary" resp="#E0300378">Valentin ist der ältere Bruder von Margarete aus
+                    dem Drama <title key="E0400107">Faust</title> von<persName key="E0300124">Goethe</persName><bibl><ref target="#E0800183"/>, S. 132.</bibl></note>  geht an seiner Be<lb break="no"/> schränklichkeit zu Grunde, die ahnungslose 
+                    <lb/>mehrfache Sünderin Gretchen wird zum Lich
+                    <lb break="no"/>testen gehoben. Faust – der so viel Unheil
+                    <lb/>anrichtet – in Erkennung seiner hohen Ziele
+                    <lb/>zur Höhe emporgezogen. </p>
+                <p rend="indent-first">Das ist der Dichtung wertvollster, unver<lb break="no"/>gänglicher Kern, der noch schie<choice><orig>ss</orig><reg>ß</reg></choice>en <choice><abbr>u.</abbr><expan>und</expan></choice> blühen
+                    <lb/>wird, wenn der Mensch als Durchschnitt
+                    <lb/>so weit stehen wird, wie <persName key="E0300124">Goethe</persName> damals
+                    <lb/>als Einziger in <placeName key="E0500015">Deutschland </placeName>— wo heute
+                    <lb/>vereinzelte <choice><abbr>u.</abbr><expan>und</expan></choice> nicht genug Entschlossene stehen. 
+                </p>
+                <p rend="indent-first">Prophetisch enthält <title key="E0400107">Faust II</title> auch Vieles;<note type="commentary" resp="#E0300378">Für Busoni spielt der philosophische Aspekt der Faust-Thematik eine wichtige Rolle.
+                    <lb/>Vor allem im Vorspiel II präsentiert sich Busoni als <q rend="dq-du">Ästhetiker</q>, der nach <q rend="dq-du">Geistigem</q> strebt. Vgl. <bibl><ref target="#E0800185"/>, S. 28—29.</bibl></note>
+                    <lb/>der heutige Gro<choice><orig>ss</orig><reg>ß</reg></choice>industrielle mit seinem rück
+                    <lb break="no"/>sichtlos durchgeführten gro<choice><reg>ß</reg><orig>ss</orig></choice>en Plane ist z.B.
+                    <lb/>in dem alten <title key="E0400431">Faust</title>  bereit geschaut <choice><abbr>u.</abbr><expan>und</expan></choice> festgenagelt.</p>
+                
+                <p rend="indent-first">Mit allen diesen durchhaus <soCalled rend="dq-du">modern</soCalled>
+                    <lb/>empfundenen bedeutsamen Momenten,
+                    <lb/>steht der breite Raum<supplied reason="omitted">,</supplied> den <persName key="E0300124">Goethe</persName> der Antike
+                    <lb/>zuwendet <supplied reason="omitted">,</supplied> in merkwürdigem Gegensatze.</p>
+                
+                <p rend="indent-first">Die Geburt <persName key="E0300168">Byrons </persName>als Ergebnis hellenischer
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> germanischer Kultur, scheint mir zu
+                    <lb/>zeitlich <choice><abbr>u.</abbr><expan>und</expan></choice> lokal gedacht; dem weitge
+                    <lb break="no" rend="after:="/>spannten Bogen entfällt der Pfeil dem
+                    <lb/>Schützen vor die Fü<choice><orig>ss</orig><reg>ß</reg></choice>e!
+                </p>
+                
+                <p rend="indent-first">Dichterisch
+                    
+                    <note type="commentary" resp="#E0300378">Das Dichterische nimmt für <persName key="E0300017">Busoni</persName> einen besonderen Platz in seinem Schaffen. Er beschäftigt sich lebenslang mit Opertexten und reflektiert über die Zusammenhänge zwischen Musik und Dichtung.  Vgl. <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                    den <ref type="E010004" target="#D0200001" n="6">Abschnitt über Unkörperlichkeit in der Musik (S. 6 f.)</ref> der <rs key="E0800315">Erstausgabe</rs>) und das Kapitel <q rend="dq-du">Der Dichter</q> bei <bibl><ref target="#E0800001"/>, S. 107—126.</bibl></note>
+                    
+                    möchte ich aus meinen
+                    <lb/>persönlichen Eindrüke noch erwähnen,
+                    <lb/>dass ich es als eine gro<choice><reg>ß</reg><orig>ss</orig></choice>e Steigerung
+                    <lb/>ansehe, dass Mephistopheles aus dem
+                    <lb/>Hausnarren des 1. Teils, zur wirklichen
+                    
+                    <note type="stamp" place="bottom" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp></note>
+                    
+                    <pb n="4"/>           
+                    <note type="object" resp="#E0300378">[Rückseite von Textteil 2, vacat]</note>
+                    
+                    <pb n="5"/>    
+                    <note type="shelfmark" place="margin-left"> Mus.Nachl.F. Busoni B I, 1012</note>
+                    
+                    <note type="foliation" place="margin-right" resp="#archive">[3]</note>
+                    <lb/>monumentalen Bosheit einer Phorkyas
+                    <lb/>auswächst.<note type="commentary" resp="#E0300378">Siehe dazu <bibl><ref target="#E0800183"/>, S. 107</bibl></note>        
+                </p>
+                
+                <p rend="indent-first">Ebenfalls gesteigert ist die Darstellung,
+                    <lb/>das Aussprechen alles Erfahrenen <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>Erlebten, gegenüber den parallelen Momenten des I. Teiles.
+                </p>
+                
+                <p rend="indent-first"> Denken Sie nur an das Aufstehen
+                    <lb/>des Baccalaurens – <choice><abbr>u.</abbr><expan>und</expan></choice> an so manchen
+                    <lb/>Spruch : die sämtlich allerdings erst
+                    <lb/>vom <q rend="dq-du underline">reiferen Alter</q> aus angehört, ihre
+                    <lb/>Bedeutung erschli<choice><reg>ß</reg><orig>ss</orig></choice>en. Ich halte es
+                    <lb/>für ganz unmöglich <choice><reg>,</reg><orig> </orig></choice> dass ein Mann
+                    <lb/>von 20–30 Jahren den <title key="E0400107">II Faust </title>  <hi rend="underline">lebendig</hi>
+                    <lb/>begreif<gap atLeast="1" unit="char" reason="erasure"></gap>en könne; das Merkmal des
+                    <lb/>gro<choice><reg>ß</reg><orig>ss</orig></choice>en Dichterwerkes aber ergibt dies
+                    <lb/>wiederung aus der unleugbaren Tat<lb break="no"/>sache, dass <title key="E0400431"></title>Faust im einzelnen <hi rend="underline">jedem</hi>
+                    <lb/><hi rend="underline">Alter</hi> etwas gibt, <choice><abbr>u.</abbr><expan>und</expan></choice> keinem das
+                    <lb/>Ganze.   <note type="commentary" resp="#E0300378">Siehe dazu ein Abschnitt über Busonis <q rend="dq-du">Sehnsucht</q> nach <persName key="E0300124">Goethes</persName><title key="E0400431">Faust </title>.<bibl><ref target="#E0800184"/>, S. 35.</bibl></note>    
+                </p>
+                <closer>
+                    <dateline rend="align(left)">Geneve. 21. April
+                        <lb/> 1918</dateline>
+                    <signed rend="align(left)"><persName key="E0300017">F. Busoni</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="bottom" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp></note>
+                
+                <pb n="6"/> 
+                <note type="object" resp="#E0300378">[Rückseite von Textteil 2]</note>
+                <note type="annotation" place="inline" resp="#gerda.busoni">Über Goethes Faust II Teil</note>
+                
+                
+                
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+

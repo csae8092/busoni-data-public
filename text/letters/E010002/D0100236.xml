@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100236">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Briefkarte von Hans Huber an Ferruccio Busoni (Basel, 8. Oktober 1916)</title>
+                <title xml:lang="en">Correspondence card by Hans Huber to Ferruccio Busoni (Basel, 8 October 1916)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2270</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 43 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621781</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> hebt ein Thema aus <persName key="E0300017">Busonis</persName> <title key="E0400233">Rondò Arlecchinoso</title> hervor; bezweifelt die Praktikabilität einer Streicherfigur; will das Stück <persName key="E0300132">Hermann Suter</persName> zur Aufführung weitergeben.</summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-10-08"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1916-10-08"/></docDate>
+                            <incipit>So leicht die Partitur Ihres <rs key="E0400233">Reigen</rs> aussieht</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Briefkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Die Briefkarte ist gut erhalten; Umschlag links unvollständig infolge Aufriss, offenbar ohne Textverlust.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf dem Umschlag die Zuordnung <q>Huber</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="3"/>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent"><placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine rend="indent"><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" resp="#post" place="bottom-left">
+                                <stamp rend="round border majuscule align(center)" xml:id="post_abs">
+                                    <placeName key="E0500097">Basel</placeName> 2
+                                    <lb/><date when-iso="1916-10-08">8.X.16</date>.VII–
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                            
+                            <pb n="4"/>
+                            
+                            <note type="annotation" place="top-center" resp="#recipient">Huber</note>
+                            
+                            <note type="stamp" resp="#post" place="right">
+                                <stamp rend="round border majuscule align(center)" xml:id="post_rec">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/>-<date when-iso="1916-10-08">8.X.16</date>-12
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough"><handShift new="#sbb_st_blue"/><stamp>Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp><handShift new="#archive"/>Mus.ep. H. Huber 43</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 2270-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097">Basel</origPlace>
+                            <origDate when-iso="1916-10-08"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100236">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-10-08"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100235"/>
+                    <ref type="next" target="#D0100133"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+            <change when-iso="2017-11-22" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873379756/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAC800000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAC800000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAC800000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAC800000004"/>
+    </facsimile>
+    <text type="cor_card">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. H. Huber 43 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">
+                            Mus.Nachl. F. Busoni B II, 2270
+                        </add>
+                    </subst>
+                </note>
+                
+                <fw place="center" rend="italic"><orgName key="E0600020">Musikschule und Konservatorium <placeName key="E0500097">Basel</placeName></orgName>.</fw>
+                
+                <p><seg type="opener" subtype="salute">Lieber <foreign xml:lang="it" rend="latin">Maestro</foreign>!</seg> So leicht die Partitur Ihres
+                    <lb/><rs key="E0400233">Reigen</rs> aussieht, so schwer ist der Klang aus
+                    <lb/>derselben herauszulesen. Das stellt nun ein Stück
+                    <lb/>dar, welches man erst nach dem Hören richtig
+                    <lb/>beurt<orig>h</orig>eilen darf. Lustige Einfälle sind die
+                    <lb/>Taktverschiebungen des schönen <unclear reason="illegible" cert="high">Themas</unclear>:
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/D0100236-nb1.xml"/>
+                        <graphic width="116px" height="36px" url="D0100236_ex_1.png"/>
+                        <desc>Kurzes Thema aus <persName key="E0300017">Ferruccio Busonis</persName>, <title key="E0400233">Rondò Arlecchinesco op. 46</title></desc>
+                    </notatedMusic>
+                    
+                    etc.
+                
+                    <note type="commentary" resp="#E0300314">Ein genauer Bezugspunkt zu <persName key="E0300017">Busonis</persName> <title key="E0400233">Rondò Arlecchinesco op. 46</title> ist nicht ersichtlich.</note>
+                </p>
+                
+                <p rend="indent-first">Ich wundere mich, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie bei
+                    <lb/>den Streicherfiguren
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/D0100236-nb2.xml"/>
+                        <graphic width="150px" height="36px" url="D0100236_ex_2.png"/>
+                        <desc>Streicherfigur aus <persName key="E0300017">Ferruccio Busonis</persName> <title key="E0400233">Rondò Arlecchinesco op. 46</title></desc>
+                    </notatedMusic>
+                    <gap atMost="2" unit="char" reason="illegible"/>
+                    
+                    <note type="commentary" resp="#E0300314">Vmtl. bezogen auf Zf. 30 T. 6 ̽ff. von <persName key="E0300017">Ferruccio Busonis</persName> <title key="E0400233">Rondò Arlecchinesco op. 46</title>; allerdings ist nirgends eine exakte Entsprechung auszumachen zum schließlich gedruckten Notentext auszumachen.</note>
+                    
+                    die Figur
+                    <lb/>nicht mit dem <choice><abbr>folgd.</abbr><expan>folgenden</expan></choice> Takte abschließen. Es ist
+                    <lb/>für das <hi rend="latin">Orchester</hi> doch viel leichter <choice><abbr>&amp;</abbr><expan>und</expan></choice> für
+                    <lb/>den Klang sicherer! – Das Stück gebe ich <persName key="E0300132" rend="latin">Suter</persName>,
+                    <lb/>der dasselbe in einem Konzerte <subst><del rend="overwritten">machen</del><add place="across">aufs</add></subst>
+                    
+                    <pb n="2"/>
+                    
+                    Progra<choice><abbr>m&#773;</abbr><expan>mm</expan></choice> setzen mu<choice><orig>ß</orig><reg>ss</reg></choice>. Mit
+                    <lb/>
+                    
+                    <notatedMusic place="center">
+                        <ptr target="nb/D0100236-nb3.xml"/>
+                        <choice><orig><graphic width="200px" height="128px" url="D0100236_ex_3.png"/></orig><reg><graphic width="200px" height="116px" url="D0100236_ex_3_reg.png"/></reg></choice>
+                        <desc>Abschiedsgruß <persName key="E0300125">Hubers</persName>, textiert mit <q>Ade!</q> und <q>Donnerwetter!</q></desc>
+                    </notatedMusic>
+                    
+                    <note type="commentary" resp="#E0300314"> Evtl. ein frei textiertes musikalisches Zitat, nicht ermittelt.</note>
+                    
+                    nehme ich für heute mit herzlichem
+                    <lb/>Gruße <choice><abbr>&amp;</abbr><expan>und</expan></choice> Dank für das schöne Geschenk
+                    <lb/>Abschied</p>
+                
+                <closer rend="align(center)">
+                    <salute>Ihr</salute>
+                    <signed><persName key="E0300125" rend="latin">Hans Huber</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

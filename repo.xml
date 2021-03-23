@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>busoni data library</description>
+    <author>Digitale Edition «Ferruccio Busoni – Briefe und Schriften»</author>
+    <website>busoni-nachlass.org</website>
+    <status>dev</status>
+    <license>CC BY-NC-SA 4.0</license>
+    <copyright>true</copyright>
+    <type>library</type>
+    <target>busoni-data</target>    
+    <finish>post-install.xql</finish>    
+</meta>

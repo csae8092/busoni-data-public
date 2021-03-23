@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Claude Debussy</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-18" who="#E0300372">Status reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118524186</idno>
+               <idno type="VIAF">6219636</idno>
+               <idno type="ISNI">0000000121190614</idno>
+               <persName type="reg">
+                  <surname>Debussy</surname>,
+                  <forename>Claude</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Achille-Claude</forename>
+                  <surname>Debussy</surname>
+               </persName>
+               <persName type="pseud">
+                  Monsieur Croche
+               </persName>
+               <birth>
+                  <date when-iso="1862-08-22"/>
+                  <placeName key="E0500035">Saint-Germain-en-Laye</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1918-03-25"/>
+                  <placeName key="E0500012">Paris</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Pianist</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

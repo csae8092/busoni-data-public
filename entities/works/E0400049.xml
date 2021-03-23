@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400049">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oehlenschläger, Adam Gottlob: Aladdin</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2018-10-17" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="lit">
+                    <monogr>
+                        <author key="E0300479">Adam Gottlob Oehlenschläger</author>
+                        <title level="m" xml:lang="da">Aladdin eller den forunderlige lampe</title>
+                        <title level="m" xml:lang="de">Aladdin oder die Wunderlampe</title>
+                        <title level="m" xml:lang="de" type="sub">Dramatisches Gedicht in 2 Teilen</title>
+                        <idno type="GND">7657659-0</idno>
+                        <imprint>
+                            <date when-iso="1805" type="written"/>
+                            <pubPlace key="E0500398">Kopenhagen</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1808" type="firstprint"/>
+                            <pubPlace key="E0500115">Amsterdam</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1815-12-15" type="firstperf"/>
+                            <pubPlace key="E0500002">Wien</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <ref type="ext" subtype="mdz" target="#bsb10115709">Digitalisat in der Digitalen Bibliothek des Münchner Digitalisierungs-Zentrums.</ref>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

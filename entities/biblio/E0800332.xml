@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800332">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ambros 1909
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="lit">
+                    <analytic>
+                        <author key="E0300595">
+                            <forename>August</forename>
+                            <forename>Wilhelm</forename>
+                            <surname>Ambros</surname>
+                        </author>
+                        <editor key="E0300093">
+                            <forename>Hugo</forename>
+                            <surname>Leichtentritt</surname>
+                        </editor>
+                        <title level="a">Geschichte der Musik</title>
+                        <title level="a" type="sub">Vierter Band</title>
+                        <idno type="DNB">978508130</idno>
+                    </analytic>
+                    <monogr sameAs="#E0800331">  
+                        <imprint>
+                            <date when-iso="1909"/>
+                            <pubPlace key="E0500007">Leipzig</pubPlace>
+                            <note>Revision und Erweiterung (bis zur Zeit um 1650)</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>                
+            </listBibl>
+        </body>
+    </text>
+</TEI>

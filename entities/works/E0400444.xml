@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400444">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leichtentritt, Hugo: Violinkonzert</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-02-23" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300093">Hugo Leichtentritt</author>
+                  <title level="m">Violinkonzert</title>
+                  <imprint>
+                     <date when-iso="1913/1914" type="composed"/>
+                     <note>vgl. <bibl><ref target="#E0800277"/>, S. 343</bibl></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1916" type="finished"/>
+                     <note>s. <ref type="E010009" target="#D0101513">Brief vom <date when-iso="1916-08-06">6. August 1916</date></ref></note>
+                  </imprint>
+               </monogr>
+               <note>
+                  Im Katalog der Library of Congress ist das Violinkonzert mit der Opuszahl 14 gekennzeichnet (vgl. <bibl><ref target="#E0800325"></ref>, S. 6</bibl>). Da das 
+                  <ref target="#E0400443">Klavierquintett</ref> dieselbe Opuszahl trägt und das <ref type="ext" target="https://www.lexm.uni-hamburg.de/object/lexm_lexmperson_00000971">Lexikon verfolgter Musiker und Musikerinnen der NS-Zeit</ref> (Stand: <date when-iso="2020-07-23">23.07.2020</date>)
+                  wiederum op. 15 als eindeutige Kennung angibt, lässt sich die Frage nach der Opuszahl nicht zweifelsfrei klären.
+               </note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

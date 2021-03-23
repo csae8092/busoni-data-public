@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800267">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. N. 1951</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-25" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <title level="a">Memoiren eines <rs key="E0300208">Pianisten</rs></title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600150">Die Tat</orgName></title>
+                        <title level="j" type="sub"><placeName key="E0500092">Schweizerische</placeName> unabhängige Tageszeitung</title>
+                        <imprint><date when-iso="1951-08-17"/></imprint>
+                        <biblScope unit="volume">16. Jahrgang</biblScope>
+                        <biblScope unit="no">221</biblScope>
+                        <biblScope unit="page">6</biblScope>
+                    </monogr>
+                    <ref type="ext" target="www.e-newspaperarchives.ch/?a=d&amp;d=DTT19510817-01.2.26">Digitalisat der <placeName key="E0500092">Schweizerischen</placeName> Nationalbibliothek</ref>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

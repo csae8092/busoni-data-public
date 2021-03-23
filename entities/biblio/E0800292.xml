@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800292">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tucker 1998</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-02-22" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <forename>Spencer</forename>
+                            <surname>Tucker</surname>
+                        </author>
+                        <editor>
+                            <forename>Jeremy</forename>
+                            <surname>Black</surname>
+                        </editor>
+                        <title level="m">The Great War</title>
+                        <title level="m" type="sub">1914-18</title>
+                        <idno type="DNB">958476659</idno>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <publisher>UCL Press</publisher>
+                            <date when-iso="1998"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Warfare and History</title>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

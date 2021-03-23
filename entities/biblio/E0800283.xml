@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800283">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schönberg / Brinkmann 1995</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-11-12" who="#E0300372">angelegt</change>
+            <change when-iso="2019-11-12" who="#E0300372">Korrektur xml:id</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300023">
+                            <forename>Arnold</forename>
+                            <surname>Schönberg</surname>
+                        </author>
+                        <editor>
+                            <forename>Reinhold</forename>
+                            <surname>Brinkmann</surname>
+                        </editor>
+                        <title level="a">Dokumente</title>
+                    </analytic>
+                    <monogr>
+                        <author key="E0300023">
+                            <forename>Arnold</forename>
+                            <surname>Schönberg</surname>
+                        </author>
+                        <editor>
+                            <forename>Reinhold</forename>
+                            <surname>Brinkmann</surname>
+                        </editor>
+                        <title level="m">Melodramen und Lieder mit Instrumenten</title>
+                        <title level="m" type="sub">Teil 1: <title key="E0400041">Pierrot lunaire</title> op. 21 – Kritischer Bericht, Studien zur Genesis, Skizzen, Dokumente</title>
+                        <idno type="DNB">1004214731</idno>
+                        <imprint>
+                            <pubPlace>Mainz</pubPlace>
+                            <pubPlace>Wien</pubPlace>
+                            <publisher>Schott</publisher>
+                            <publisher>Universal Edition</publisher>
+                            <date when-iso="1995"/>
+                        </imprint>
+                        <biblScope unit="page">225–305</biblScope>
+                    </monogr>
+                    <series>
+                        <title level="s"><persName key="E0300023">Arnold Schönberg</persName>. Sämtliche Werke</title>
+                        <biblScope unit="volume">VI:B:24,1</biblScope>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

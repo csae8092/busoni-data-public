@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fleischmann 1984</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <forename>Benno</forename>
+                     <surname>Fleischmann</surname>
+                  </author>
+                  <title level="a">Musik bei <persName key="E0300043">Reinhardt</persName></title>
+               </analytic>
+               <monogr>
+                  <editor>
+                     <forename>Knut</forename>
+                     <surname>Boeser</surname>
+                  </editor>
+                  <editor>
+                     <forename>Renata</forename>
+                     <surname>Vatková</surname>
+                  </editor>
+                  <title level="m"><persName key="E0300043">Max Reinhardt</persName> in <placeName key="E0500029">Berlin</placeName></title>
+                  <idno type="DNB">870960091</idno>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>Edition Hentrich, Frölich &amp; Kaufmann</publisher>
+                     <date when-iso="1984"/>
+                  </imprint>
+                  <biblScope unit="page">279</biblScope><!-- genauer Umfang fehlt! identisch mit E0800029? -->
+               </monogr>
+               <series>
+                  <title level="s">Stätten der Geschichte <placeName key="E0500029">Berlins</placeName></title>
+                  <biblScope unit="volume">6</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

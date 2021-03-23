@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100219">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (26. Mai 1919, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (26 May 1919, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docDate><date when-iso="1919-05-26"/></docDate>
+                            <incipit>ich adressierte an Sie (glaub ich) zuletzt nach Vitznau</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Nummerierung innerhalb des Briefwechsels mit Bleistift eingetragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1919-05-26"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;42&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100219">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1919-05-26"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <!-- DIESER BRIEF IST DIE ANTWORT AUF -->
+                    <!--<ref type="replyTo" target="#D0100..."/>-->
+                    <!-- ZU DIESEM BRIEF IST DER FOLGENDE DIE ANTWORT -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>-->
+                    <ref type="previous" target="#D0100218"/>
+                    <ref type="next" target="#D0100252"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">74.</note>
+                
+                <opener>
+                    <dateline>26 Mai 1919</dateline>
+                    <salute>Lieber, Verehrter,</salute>
+                </opener>
+
+                <p>ich adressierte an Sie
+                <lb/>(glaub ich) zuletzt nach <placeName key="E0500200">Vitznau</placeName>
+                <lb/>als Sie noch in <placeName key="E0500183">Locarno</placeName> sassen, oder
+                <lb/>umgekehrt: – jedenfalls erstatte ich
+                <lb/>Ihnen den gewünschten Kurzen
+                <lb/>Berichten über den ”Schweizer
+                <lb/>lieben Naturburschen“ am tönenden
+                <lb/>Liederquell. – Seitdem besuchte ich
+                <lb/>wieder einmal Chaux du Fonds, als 
+                <lb/>konzertierender Pianist, und hielt
+                <lb/>mich auf dem Rückweg im reizvollen
+                <lb/>Neuchâtel zwei Tage auf; wo mir
+                <lb/>Sonne und Schweigen, Wein und 
+                <lb/>Monotonie auffällig wohl t<orig>h</orig>aten.
+                <lb/>Eine Sonnenmorgen verführte mich 
+                <lb/>nach Aarau, das ich zum ersten Mal
+                <lb/>sah. Ich kenne die <placeName key="E0500092">Schweiz</placeName> zu wenig
+                <lb/>(wie ich von Allem zu wenig
+                <lb/>kenne): – nun sind aber auch
+                <lb/>die Fahrten umständlichen und
+                <lb/>nicht verlockend.</p>
+                
+                <pb n="2"/>
+                
+                <p>Dieser Brief ist ein Begleitschreiben.
+                <lb/>Er reist mit dem 2. Hefte der
+                <lb/><choice><orig>C</orig><reg>K</reg></choice>lavierübung, die Ihnen – auf
+                    <lb/>dern Neuschreibung der <orgName key="E0600020"><placeName key="E0500097">Basler</placeName>
+                <lb/>Musikschule</orgName> – zugedacht ist.
+                <lb/>Das Material dazu häuft sich in 
+                <lb/>meinem Kopfe derart, dass ich
+                <lb/>im Fortsetzen etwas erschreckt 
+                <lb/>innehalte. Wahrscheinlich werde
+                <lb/>ich jedes Jahr ein solches Heft
+                <lb/>herausgeben <choice><abbr>u.</abbr><expan>und</expan></choice> hoffe, mit dem
+                <lb/>sechsten abzuschlie<choice><orig>ss</orig><reg>ß</reg></choice>en! So Gott will.
+                <lb/>– Dieser selbe Gott scheint in letzter
+                <lb/>Zeit Manches nicht zu wollen. Es
+                <lb/>kommt in keinem Lande zu Ruhe
+                <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Klarheit und ich stehe nun
+                <lb/>vor dem Dilemma, in der <placeName key="E0500092">Schweiz</placeName>
+                <lb/>abzusterben, oder ein ganz neues
+                <lb/>Leben zu beginnen. Zum ersten
+                <lb/>zu jung, zum zweiten nicht
+                <lb/>jung genug, fühle ich mich
+                <lb/>unentschlossen (auch nicht das
+                <lb/>Richtige!), und doch geb “ich” noch
+                <lb/>nicht alles auf. Also weiter mit
+                <lb/>Hoffen und Arbeiten. </p>
+
+                <closer><salute>Ich grü<choice><orig>ss</orig><reg>ß</reg></choice>e
+                Sie herzlich <choice><abbr>u.</abbr><expan>und</expan></choice> verehrungsvoll
+                Ihr treuer</salute> <signed><persName key="E0300017">F. Busoni</persName></signed></closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+
+                <pb n="4"/>
+
+            <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

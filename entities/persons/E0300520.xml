@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300520">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Louis Gruenberg</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2018-12-11" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">103802479</idno>
+                    <idno type="VIAF">7576511</idno>
+                    <idno type="ISNI">0000000123197967</idno>
+                    <persName type="reg">
+                        <surname>Gruenberg</surname>,
+                        <forename>Louis</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Louis</forename>
+                        <forename>Theodor</forename>
+                        <surname>Gruenberg</surname>
+                    </persName>
+                    <persName type="pseud">
+                        <forename>George</forename>
+                        <surname>Edwards</surname>
+                    </persName>
+                    <birth>
+                        <date calendar="Gregorian" when-iso="1884-08-03"/>
+                        <date calendar="Julian" when-iso="1884-07-22"/>
+                        <placeName key="E0500424">Brest-Litowsk</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1964-06-10"/>
+                        <placeName key="E0500594">Beverly Hills</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Komponist</occupation>
+                    <occupation>Pianist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

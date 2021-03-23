@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100110">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 31. Oktober 1915)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 31 October 1915)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300336">
+                        <forename>Emilija</forename>
+                        <surname>Temirkulovaite</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> schickt <persName key="E0300125">Huber</persName> einen Programmentwurf zu vier Klavierabenden.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1915-10-31"/></docDate>
+                            <incipit>Hiermit unterbreite ich Ihnen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc> 
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Nummerierung mit Bleistift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1915-10-31"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S. 11</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1915-10-31"/>                    
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100230"/>
+                    <ref type="previous" target="#D0100109"/>
+                    <ref type="next" target="#D0100230"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2016-12-10" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01-11" who="#E0300336">Bearbeitung übernommen, status unfinished</change>
+            <change when-iso="2017-04-05" who="#E0300336">Bearbeitung abgeschlossen, status proposed</change>
+            <change when-iso="2017-06-24" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+            <change when-iso="2018-06-11" who="#E0300314">zurückgestuft auf unfinished (Werkauszeichnung, Layout)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <dateline>
+                        <placeName key="E0500132">Zürich</placeName>,
+                        <placeName key="E0500189">Scheuchzer<choice><orig>S</orig><reg>s</reg></choice>tr. 36</placeName>,
+                        <date when-iso="1915-10-31">am 31. <choice><abbr>O.</abbr><expan>Oktober</expan></choice> 1915</date>.
+                    </dateline>
+                    <salute>Maestro dilettissimo,</salute>
+                </opener>
+                
+                <p> 
+                    <choice><orig>H</orig><reg>h</reg></choice>iermit unterbreite ich Ihnen 
+                    <lb/>einen Entwurf zu vier <choice><orig>C</orig><reg>K</reg></choice>lavier<choice><orig>Abenden,</orig><reg>abenden</reg></choice>
+                    <lb/>und erbitte daraufhin Ihre 
+                    <lb/>etwaigen Vorschläge, anderenfalls
+                    <lb/><seg rend="align(center)">Ihre Zustimmung:</seg>
+                </p>
+                
+                <table>
+                    <row>
+                        <cell>
+                            <list style="roman no_dot">
+                                <head><persName key="E0300012" rend="underline">Bach</persName>.</head>
+                                <item>
+                                    <list>
+                                        <head><add place="above">(<choice><orig>o</orig><reg>O</reg></choice>rgel)</add></head>
+                                        <item><title key="E0400126">Vorspiel x Fuge Es dur</title></item>
+                                        <item><title key="E0400127"> </title> 3 ChoralVorspiele
+                                            <lb/><seg rend="align(right)">(Clavecin)</seg></item>
+                                    </list>
+                                </item>
+                                <item>2 Pr<choice><orig>ae</orig><reg>ä</reg></choice> x Fugen <choice><abbr>(W.Cl.)</abbr><expan>Das wohltemperierte Klavier</expan></choice>
+                                    <lb/>Capriccio <soCalled rend="dq-du">Abreise</soCalled>
+                                    <lb/><title><choice><abbr>Chromat.</abbr><expan>Chromatische</expan></choice> Fantasie</title>
+                                </item>
+                                <item>
+                                    <title key="E0400149">Goldberg <choice><abbr>Variat.</abbr><expan>Variationen</expan></choice></title>
+                                </item>
+                            </list>
+                            <p><hi rend="underline"><persName key="E0300001">Beethoven</persName> </hi>
+                                <lb/>I.<title key="E0400266"> Eroica <choice><abbr>Variat.</abbr><expan>Variationen</expan></choice> </title> 
+                                <lb/>II <title key="E0400267"> Sonate 109 </title> 
+                                <lb/><title key="E0400146"> 6 Bagatellen 126</title>
+                                <lb/>III<title key="E0400003"> Sonate op 106</title>     </p>
+                        </cell>
+                        <cell>
+                            <p><hi rend="underline"><persName key="E0300137">Chopin</persName> </hi>
+                                <lb/>I<title key="E0400125">12 Et<choice><orig>u</orig><reg>ü</reg></choice>den (op 10. <choice><abbr>od.</abbr><expan>oder</expan></choice>25) </title>
+                                <lb/>II.<title key="E0400170"> 24 Préludes</title> 
+                                <lb/>III.<title key="E0400159"> 4 te Ballade</title>
+                                <lb/><title key="E0400375">Scherzo Cis m.</title>   
+                                <lb/><title key="E0400176">Polonaise As d.</title></p>
+                            
+                            <p><hi rend="underline" n="2"><persName key="E0300013">Liszt</persName></hi>
+                                
+                                
+                                <lb/>I. <title key="E0400157">Sonate</title>
+                                <lb/>II<title key="E0400123" rend="dq-du">La Suisse</title>
+                                <lb/>   (N°1 - 9)
+                                <lb/>III.<title key="E0400244">2 Legenden</title> 
+                                <lb/> <hi rend="underline" n="2"><choice><abbr>od.</abbr><expan>oder</expan></choice></hi> <title key="E0400155">  6 <persName key="E0300081">Paganini</persName> <choice><abbr>Etdn.</abbr><expan>Etüden</expan></choice> </title>
+                                <lb/> <hi rend="underline" n="2"><choice><abbr>od.</abbr><expan>oder</expan></choice></hi> <title key="E0400279">Norma Fantasie</title> </p>
+                        </cell>
+                    </row>
+                </table>
+                
+                <p>
+                    Ich theile alle meine Programme in <hi rend="underline">drei</hi>
+                    <lb/>Absätze ein; beim vierten Herauskommen habe
+                    <lb/>ich ein Gefühl, als ob das Publikum sagte: <said>Ist
+                        <lb/>der schon wieder da?! – </said> Zu welcher Zeit,
+                    <lb/>am frühesten, könnten die Abende statt-
+                    <lb/>finden? In welchem Abstand von einander?
+                    <lb/>Und in welchen Saale?
+                </p>
+                
+                <closer>
+                    <salute rend="align(right)">Mit Hochachtung <choice><abbr>u.</abbr><expan>und</expan></choice> Anhänglichkeit
+                        <lb/><seg rend="align(center)">Ihr ergebenster</seg></salute> 
+                    <lb/><signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed> </closer>
+                <pb n="2"/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100412">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Paul Bekker (Zürich, 19./20. August 1920)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Paul Bekker (Zurich, 19/20 August 1920)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300388">
+                        <forename>Morten</forename>
+                        <surname>Grage</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-NH">Yale University, Irving S. Gilmore Music Library, New Haven, CT</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>New Haven (CT)</settlement>
+                        <institution key="US-NH">Gilmore Music Library</institution>
+                        <collection>The Paul Bekker Papers</collection>
+                        <idno>MSS 50, I.A. Correspondence - Individual, A-E: Box 2, Folder 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> dankt <persName key="E0300111">Bekker</persName> für die Auseinandersetzung mit seiner <persName key="E0300012">Bach</persName>-Ausgabe und bittet um die Würdigung in einem Artikel; schlägt ihm einen Artikel in der <orgName key="E0600026">Neuen Zürcher Zeitung</orgName> zum Zustand der Musik vor.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-08-20"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1920-08-19"/></docDate>
+                            <incipit>als ich ich Ihnen den 2.Band <persName key="E0300012">Bach</persName> zusenden lie<choice><orig>ss</orig><reg>ß</reg></choice></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc><!-- Beschreibung der beteiligten Hände, reduzieren und/oder ergänzen -->
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                                                      
+                            <pb n="3" facs="D0100412_3.jpg"/>
+                            
+                            <note  type="annotation" resp="#major_hand" place="top-left">Dr. <persName key="E0300017"><choice><abbr>F.</abbr><expan>Ferruccio</expan></choice> Busoni</persName> <placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice> VI.</placeName></note>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1920-08-19">19.VIII.20.</date> – 17
+                                    <lb/>VIII
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1920-08-19">19.VIII.20.</date> – 17
+                                    <lb/>VIII
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine rend="align(right)">Herrn <persName key="E0300111">Paul Bekker</persName></addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500462">Hofheim im Taunus</placeName></addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500470">Kapellenstra<choice><orig>ss</orig><reg>ß</reg></choice>e 2</placeName></addrLine>
+                            </address>
+                           
+                            <pb n="4" facs="D0100412_4.jpg"/>
+                            
+                            <note type="objdesc" resp="#E0300388">[Rückseite des Briefumschlags, vacat]</note>
+                           
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace key="E0500132">Zürich</origPlace> vermutlich am <origDate when-iso="1920-08-19" cert="high">19. August 1920</origDate> verfasst (Poststempel), ist aber auf den <origDate when-iso="1920-08-20" cert="low">20.</origDate> vordatiert.</origin> 
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100412">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1920-08-20"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                </correspAction>
+                <correspContext><!-- Stellung im Briefwechsel -->
+                    <ref type="replyTo" target="#D0100411"/><!-- Antwort auf -->
+                    <ref type="repliedBy" target="#D0100413"/><!-- beantwortet von -->
+                    <ref type="previous" target="#D0100411"/><!-- vorheriger Brief -->
+                    <ref type="next" target="#D0100413"/><!-- nächster Brief -->
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-02-19" who="#E0300388">Transkription begonnen, status unfinished</change>
+            <change when-iso="2018-03-22" who="#E0300388">Codierung, Transkription und Kommentierung vorläufig abgeschlossen, status proposed.</change>
+            <!-- weitere Einträge hinzufügen, mindestens bei jedem Statuswechsel (unfinished, proposed, candidate, approved) -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1" facs="D0100412_1.jpg"/><!-- Seite 1, Dateinamen und Seitennummer ergänzen, z.B. D0100405_1.jpg -->
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <date when-iso="1920-08-20">20<reg>.</reg> <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1920</date>
+                    </dateline>
+                    <salute rend="align(center)">Hochverehrter Herr <persName key="E0300111">Paul Bekker</persName>,</salute>
+                </opener>
+                
+                <p rend="indent-first">als ich Ihnen den <rs key="E0800178" n="2"><choice><orig>2.</orig><reg>zweiten</reg></choice> Band <persName key="E0300012">Bach</persName></rs>
+                   
+                   <note type="commentary" resp="#E0300388">Gemeint ist der <rs key="E0400136">zweite Band des Wohltemperierten Klaviers</rs> in der von <persName key="E0300017">Busoni</persName> herausgebenen <rs key="E0800178"><persName key="E0300012">Bach</persName>-Ausgabe</rs> (erschienen bei <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>); vgl. den <ref type="E010006" target="#D0100411">vorangegangenen Brief <persName key="E0300111">Bekkers</persName> an <persName key="E0300017">Busoni</persName> vom <date when-iso="1920-08-16">16. August 1920</date></ref>.</note>
+                   
+                   <lb/>zusenden lie<choice><orig>ss</orig><reg>ß</reg></choice>, beabsichtigte ich nicht
+                   <lb/>im Entferntesten, Sie damit zum
+                   <lb/>Handeln zu veranlassen. Sollte Ihnen
+                   <lb/>die Arbeit aber wichtig genug erscheinen,
+                   <lb/>so w<choice><orig>ae</orig><reg>ä</reg></choice>re ich allerdings durch eine
+                   <lb/>Würdigung derselben aus Ihrer Feder
+                   <lb/>sehr beglückt. – Andere Werke sollen
+                   <lb/>Ihnen gern nachgeschickt werden;
+                   
+                    <note type="commentary" resp="#E0300388">Anscheinend wurden <persName key="E0300111">Bekker</persName> noch weitere Bände aus der <rs key="E0800178"><persName key="E0300012">Bach</persName>-Ausgabe</rs> zugesandt, darunter fälschlicherweise der von <persName key="E0300017">Busonis</persName> Mitarbeiter <persName key="E0300031">Egon Petri</persName> bearbeitete Band 9 <bibl>(<ref target="#E0800050"/>, S.&#8239;756)</bibl> . <persName key="E0300111">Bekker</persName> bezog sich in seinem Artikel vom <date when-iso="1921-06-11">11. Juni 1921</date> jedoch nur auf die ersten zwei Bände, die <persName key="E0300017">Busonis</persName> <rs key="E0800178">Ausgabe</rs> des <title key="E0400433">Wohltemperierten Klaviers</title> enthalten (vgl. <bibl><ref target="#E0800174"/>, S.&#8239;1f.)</bibl>.</note>
+                   
+                   <lb/>für das geäußerte Interesse danke 
+                   <lb/>ich Ihnen erkenntlichst.</p>
+                <p rend="indent-first">Dem <orgName key="E0600110" rend="dq-uu-straight">Schweizerland</orgName> konnte
+                    <lb/>der Grundgedanke Ihres schönen
+                    <lb/>Aufsatzes unmöglich behagen:
+                    
+                    <note type="commentary" resp="#E0300388"> Vgl. den <ref type="E010006" target="#D0100411">vorangegangenen Brief</ref> <persName key="E0300111">Bekkers</persName>. Der Artikel <q rend="dq-du">Die <soCalled rend="sq-du">Rückkehr zur Natur</soCalled></q> sollte ursprünglich im <orgName key="E0600110">Schweizerland</orgName> veröffentlicht werden, erschien aber stattdessen am <date when-iso="1920-06-12">12. Juni 1920</date> in der <orgName key="E0600070">Frankfurter Zeitung</orgName>.</note>
+                    
+                    die
+                    <lb/><quote rend="dq-du">Rettung in<orig>’</orig>s Dorf</quote>
+                    
+                    <note type="commentary" resp="#E0300388"><persName key="E0300017">Busoni</persName> paraphrasiert hier aus <persName key="E0300111">Bekkers</persName> Aufsatz <q rend="dq-du">Die <soCalled rend="sq-du">Rückkehr zur Natur</soCalled></q>. Dort heißt es richtig: <quote rend="dq-du">während die Politik sich immer mehr zum Denken in überstaatlichen und überkontinentalen Begriffen bequemen mu<choice><orig>ß</orig><reg>ss</reg></choice>, wird in der Kunst — das Dorf als Rettung gepriesen.</quote><bibl><lb/>(<persName key="E0300111">Paul Bekker</persName>, Die <soCalled rend="dq-du">Rückkehr zur Natur</soCalled>, in: <title key="E0800241">Kritische Zeitbilder</title>, S. 327–336, hier S. 327f.)</bibl></note>
+                    
+                    traf es <subst><del rend="overwritten"><unclear reason="overwritten">ja</unclear></del><add place="right-of">geradezu</add></subst>
+                    <lb/>in seinen Kern! Sie scheinen die
+                    <lb/>Gegend nicht zu kennen <choice><orig>.....</orig><reg>…</reg></choice><metamark function="insertion" target="#add_es">*</metamark></p>
+                <p rend="indent-first">Ich freue mich, Sie wieder
+                    <lb/>einmal gedruckt zu lesen, gönne 
+                    <lb/>Ihnen jedoch die so nöt<orig>h</orig>igen Ferien.</p>
+                <closer>
+                    <salute>Mit freundlichsten Grü<choice><orig>ss</orig><reg>ß</reg></choice>en
+                    <lb rend="align(right)"/>Ihr hochachtend <choice><abbr>u</abbr><expan>und</expan></choice> herzlich
+                        <lb rend="align(right)"/>ergebener</salute>
+                    <signed rend="inline"><persName key="E0300017">F. Busoni</persName></signed>
+                </closer>
+                
+                <pb n="2" facs="D0100412_2.jpg"/>
+                
+               <postscript>
+                   <p><add xml:id="add_es">*– es wäre aber recht wünschens
+                       <lb break="no"/>wert<orig>h</orig> (<choice><abbr>u.</abbr><expan>und</expan></choice> an der Zeit)<reg>,</reg> da<choice><orig>ß</orig><reg>ss</reg></choice> sie etwa
+                       <lb/>in der <orgName key="E0600026" rend="dq-du">Neuen Zürcher</orgName> einiges
+                       <lb/>Aufklärende und Zurechtrückende
+                       <lb/>publizierten.
+                       
+                       <note type="commentary" resp="#E0300388"> Zu einem solchen Artikel kam es nicht. Der früheste Beitrag <persName key="E0300111">Bekkers</persName> in der <orgName key="E0600026">Neuen Zürcher Zeitung</orgName> stammt aus dem Jahre <date when-iso="1922">1922</date>, ein Bericht über das Tonkünstlerfest in <placeName key="E0500229">Düsseldorf</placeName> <bibl>(vgl. <ref target="#E0800171"/>, 714&#8239;f.)</bibl>.</note>
+                       
+                       Ich dachte (wenn
+                       <lb/>ich mich so weit wagen darf –) an 
+                       <lb/>eine Schrift <soCalled rend="dq-du">wo stehen wir?</soCalled>,
+                       
+                       <note type="commentary" resp="#E0300388">Mit diesem Titel bezieht sich <persName key="E0300017">Busoni</persName> hier möglicherweise auf einen musikästhetischen Artikel <persName key="E0300111">Bekkers</persName> aus dem Jahr <date when-iso="1913">1913</date> in der <orgName key="E0600070">Frankfurter Zeitung</orgName>: <soCalled rend="dq-du">Wohin treiben wir</soCalled><bibl> (in: <persName key="E0300111">Paul Bekker</persName>, <title key="E0800241">Kritische Zeitbilder</title>, S. 247–259)</bibl>.</note>
+
+                       <lb/>darin alles Lebendig<pc>=</pc>erhaltene,
+                       <lb/>Verblasste, Überwundene auf
+                       <lb break="no"/>gezählt <choice><abbr>u.</abbr><expan>und</expan></choice> auf seinen Platz ge
+                       <lb break="no" rend="dh"/>stellt würde, aus dem die Musik
+                       <lb break="no"/>literatur, – die wir aus Gewohnheit 
+                       <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Trägheit – gedankenlos weiter
+                       <lb/>pflegen, statuten<orig><pc>=</pc></orig>mäßig sich 
+                       <lb/>zusammensetzt. Ihr Schlagwort
+                       <lb/><quote rend="dq-du">zuviel <persName key="E0300001">Beethoven</persName></quote>
+                       
+                       <note type="commentary" resp="#E0300388">Wahrscheinlich bezieht sich <persName key="E0300017">Busoni</persName> auf <persName key="E0300111">Bekkers</persName> soeben (am Morgen des <date when-iso="1920-08-19">19. August 1920</date>) erschienenen Artikel <q rend="dq-du"><persName key="E0300001">Beethoven</persName>-Feste</q>, in dem die gehäuften Aufführungen im <persName key="E0300001">Beethoven</persName>-Jahr <date when-iso="1920">1920</date> kritisiert werden: <quote rend="dq-du">Alles aber, was man bis jetzt an Vorankündigungen von Musikveranstaltungen […] hört, ist geeignet, stilles Grauen vor dem nächsten Musikwinter zu wecken, vor der <persName key="E0300001">Beethoven</persName>flut, die sich in sinnloser Fülle über die Menschen ergießen wird. […] Wer <persName key="E0300001">Beethoven</persName> wirklich kennt und erlebt, weiß, da<choice><orig>ß</orig><reg>ss</reg></choice> seine Kunst viel zu feurig und ergreifend ist, […] um in Massen und in der Häufigkeit eines Kaffeekränzchens genossen werden zu können.</quote> <bibl>(<ref target="#E0800172"/>, S.&#8239;2)</bibl>.</note>
+                       
+                       und
+                       <lb/>die lichte Kritik <subst><del rend="overwritten"><gap reason="overwritten"/></del><add place="above">über</add></subst> <persName key="E0300009">Brahms</persName>
+                       <lb/>(anlässlich des Quartett-Zyklus)
+                       
+                       <note type="commentary" resp="#E0300388"><persName key="E0300017">Busoni</persName> bezieht sich auf die im <date when-iso="1920-06">Juni 1920</date> erschienene Rezension <persName key="E0300111">Bekkers</persName> eines Konzertzyklus des <orgName key="E0600015">Rosé-Quartetts</orgName> in <placeName key="E0500153">Frankfurt</placeName>, bei dem neben Werken von <persName key="E0300010">Mozart</persName> und <persName key="E0300002">Schubert</persName> Kammermusik von <persName key="E0300009">Brahms</persName> zur Aufführung kam. <persName key="E0300111">Bekker</persName> kritisiert hier: Den Hörern <quote rend="dq-du">öffnete <rs key="E0300009">er</rs> eine Welt, die nicht groß, aber klar und rein gesehen war, sich gegen alles Neuzeitliche, alles Werdende, Drängende, Problematische fest abschlo<choice><orig>ß</orig><reg>ss</reg></choice> und das Gewesene nochmals in bestimmter, reifer, persönlich erfasster Nachbildung neu entstehen ließ. Sehr schön in sich, menschlich oft warm und ergreifend, denn in <persName key="E0300009">Brahms</persName> lebte ein Dämon unter der Maske des Philisters. Aber dabei doch eigentlich eng – nur eine wahrhaft arme, unfruchtbare Zeit konnte […] einen solchen Künstler des geistigen Rückzuges als einen ihrer Repräsentanten erkennen und feiern.</quote> <bibl>(<ref target="#E0800173"/>, S.&#8239;1)</bibl>.</note>
+                       
+                       <lb/>gäben treffliche Ausgangspunkte.
+                       <lb rend="align(center)"/> Wie gefällt Ihnen das Thema?</add></p>
+                   <signed rend="align(right)"><persName key="E0300017">F. B.</persName></signed>
+               </postscript>     
+                 
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Heinrich Schenker (Berlin, 11. September 1897)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Heinrich Schenker (Berlin, 11 September 1897)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-RIVu">University of California, Riverside, Special Collections and Archives</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">Vereinigte Staaten von Amerika</country>
+                        <settlement>Riverside</settlement>
+                        <institution key="US-RIVu">University of California, Special Collections and Archives</institution>
+                        <collection>Oswald Jonas memorial collection</collection>
+                        <idno>Box 9, Folder 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bietet Kontakt zu <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> an; fragt nach dem Stand der <title key="E0400304">Fantasie</title>; dankt für das Angebot, in der <q><orgName key="E0600057">Zukunft</orgName></q> zu veröffentlichen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1897-09-10/1897-09-11"/></docDate>
+                            <incipit>Für Ihre freundlichen, stets willkommenen Zeilen besten Dank!</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Seitenfolge: 1, 3, 2, 4</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1897-09-11"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800079"/>, S.&#8239;79&#8239;f.</bibl>
+                            <bibl><ref target="#E0800103"/>, S.&#8239;14&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen (Kodierung berücksichtigt mit dem Attribut <att>n</att>="2" auch die gelegentliche Wiederholung des Bindestrichs am folgenden Zeilenbeginn).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100061">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1897-09-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100060"/>
+                    <ref type="repliedBy" target="#D0100063"/>
+                    <ref type="previous" target="#D0100060"/>
+                    <ref type="next" target="#D0100063"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de-DE">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-05-12" who="#E0300318">Datei als Platzhalter erstellt</change>
+            <change when-iso="2017-06-06" who="#E0300317">Transkription angefertigt.</change>
+            <change when-iso="2017-06-30" who="#E0300317">Erstkodierung durchgeführt; mit den Auszeichnungen begonnen</change>
+            <change when-iso="2018-05-16" who="#E0300317">Kommentierung abgeschlossen.</change>
+            <change when-iso="2018-06-20" who="#E0300317">erste Kontrolle der Metadaten abgeschlossen.</change>
+            <change when-iso="2018-07-17" who="#E0300317">Rechtschreibung in der Lesefassung überprüft.</change>
+            <change when-iso="2018-07-23" who="#E0300317">Status von todo auf propsed gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <salute rend="align(right)">Sehr verehrter Herr
+                        <lb/><choice><orig>Doctor</orig><reg>Doktor</reg></choice>.</salute>
+                </opener>
+                
+                <p>Für Ihre freundlichen,
+                    <lb/>stets willkommenen Zeilen
+                    <lb/>besten Dank!</p>
+                <p rend="indent-first">Ich bin gern erbötig<reg>,</reg>
+                    <lb/>eine Brücke zwischen
+                    <lb/>Ihnen und dem Hause
+                    <lb/><orgName key="E0600002">Breitkopf</orgName> herzustellen<reg>,</reg>
+                    <lb/>und bin – ohne <choice><orig>Etwas</orig><reg>etwas</reg></choice>
+                    <lb/>versprechen zu <choice><orig>koennen</orig><reg>können</reg></choice> –
+                    <lb/>keineswegs ohne Hoffnung.</p>
+                <p rend="indent-first">Wollen Sie nun die
+                    <lb/><title key="E0400304" rend="dq-du">Fantasie</title> zusammen
+                    <lb break="no"/><choice><orig>schmieden</orig><reg>schmieden,</reg></choice> um <subst><del rend="overwritten">S</del><add place="across">s</add></subst>ie diesem
+                    <lb/>Verlage als eine <choice><orig>vollgiltige</orig><reg>vollgültige</reg></choice>
+                    
+                    <pb n="2"/>
+                    Probe Ihres Talentes
+                    <lb/>zu überreichen? Und
+                    <lb/>soll ich Ihnen zu diesem
+                    <lb/>Zwecke das <choice><orig>Manuscript</orig><reg>Manuskript</reg></choice>
+                    <lb/>zurücksenden?</p>
+                <p rend="indent-first"><orgName key="E0600002">Breitkopfs</orgName> gehen
+                    <lb/>nicht so sehr auf
+                    <lb/><hi rend="underline">augenblicklichen</hi> Erfolg
+                    <lb/><choice><orig>aus,</orig><reg>aus</reg></choice> wie andere Verleger,
+                    
+                    <note type="commentary" resp="#E0300317">Über ihre eigene Verlagspolitik um <date when-iso="1900">1900</date> schrieben <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> <date when-iso="1919">1919</date> rückblickend, es sei gelungen, <quote>mit neuen Werken in der vorderen Reihe ernster Musik zu bleiben und zugleich durch eigenes organisatorisches Wirken den Grund zu einem Neubau zu legen, der den Hauptbedürfnissen ernster, musikalischer Erziehung und öffentlicher Musikpflege dient</quote> (<bibl><ref target="#E0800051"/>, S.&#8239;523</bibl>).</note><!-- trifft die Selbstaussage denn zu? oder die von Busoni? was sagt die Literatur dazu? -->
+                    
+                    <lb/>die sich Ihnen so
+                    <lb/><del rend="strikethrough">sehr</del> unverbindlich
+                    <lb/>gezeigt haben; dafür
+                    <lb/>werfen <choice><sic>S</sic><corr>s</corr></choice>ie allerdings
+                    <lb/>nicht <choice><orig>allzuprächtig</orig><reg>allzu prächtig</reg></choice>
+                    <lb/>mit Honorare<supplied reason="omitted">n</supplied> herum.
+                    
+                    <pb n="3"/>
+                    Auch sind sie, wo <choice><sic>S</sic><corr>s</corr></choice>ie einen
+                    <lb/><choice><orig>Werth</orig><reg>Wert</reg></choice> erkennen, <choice><orig>bestaendiger</orig><reg>beständiger</reg></choice>
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> beharrlicher<orig>,</orig> als die
+                    <lb/><choice><orig>Sen<subst><del rend="overwritten">t</del><add place="across">s</add></subst>ations-verleger</orig><reg>Sensationsverleger</reg></choice>.</p>
+                <p rend="indent-first">Die Aussicht, die Sie mir
+                    <lb/>freundlich eröffnen, in
+                    <lb/><persName key="E0300294">Harden<orig>’</orig>s</persName> <orgName key="E0600057">Zukunft</orgName> ein
+                    <lb/>Plätzchen zu meiner
+                    <lb/>Verfügung haben zu
+                    <lb/><choice><orig>koennen</orig><reg>können</reg></choice>, ist mir sehr
+                    <lb/>erwünscht. Obwohl ich
+                    <lb/><hi rend="underline">jetzt</hi> gerade nicht die
+                    <lb/>Zeit habe, Literarisches
+                    <lb/>zu verfassen, so <subst><del rend="strikethrough">habe</del><add place="above">hege</add></subst>
+                    <lb/>ich doch für <choice><orig>spaetere</orig><reg>spätere</reg></choice>
+                    <lb/>Gelegenheiten<orig>,</orig> <choice><orig>Einiges</orig><reg>einiges</reg></choice>
+                    
+                    <pb n="4"/>
+                    <hi rend="underline">in petto</hi>, zur Aussprechung
+                    <lb/>dessen mir die <choice><orig>Einraümung</orig><reg>Einräumung</reg></choice>
+                    <lb/>einiger Spalten in einer
+                    <lb/><rs key="E0600057">Zeitschrift, wie die <persName key="E0300294">Harden</persName>
+                        <lb break="no"/>sche</rs>, höchst willkommen
+                    <lb/><choice><orig>waere</orig><reg>wäre</reg></choice>.
+                    
+                    <note type="commentary" resp="#E0300317"><persName key="E0300017">Busoni</persName> veröffentlichte keinen Artikel in <persName key="E0300294">Hardens</persName> Zeitschrift <orgName key="E0600057">Die Zukunft</orgName>.</note>
+                    
+                    </p>
+                <p rend="indent-first">Haben Sie also dafür
+                    <lb/>Dank <choice><abbr>u.</abbr><expan>und</expan></choice> antworten Sie
+                    <lb/>bald <seg type="closer" subtype="salute">Ihrem freundlichst
+                        <lb/><choice><orig>grüssenden</orig><reg>grüßenden</reg></choice>,
+                        <lb/><seg rend="align(right)">achtungsvoll ergebenen</seg></seg></p>
+                
+                <closer>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio B<reg>.</reg> Busoni</persName></signed>
+                </closer>
+                
+                <dateline rend="align(center) space-above">
+                    <choice><orig><placeName key="E0500029">Berlin</placeName></orig><reg><placeName key="E0500029">Berlin</placeName>,</reg></choice>
+                    am <date when-iso="1897-09-11">1<subst><del rend="overwritten">0</del><add place="across">1</add></subst>.9.1897</date>.
+                </dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

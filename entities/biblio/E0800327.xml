@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800327">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Apollonio 1972</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-24" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <editor>
+                            <forename>Umbro</forename>
+                            <surname>Apollonio</surname>
+                        </editor>
+                        <title level="m">Der Futurismus</title>
+                        <title level="m" type="sub">Manifeste und Dokumente einer künstlerischen Revolution 1909-1918</title>
+                        <imprint>
+                            <pubPlace>Köln</pubPlace>
+                            <publisher>M. DuMont Schauberg</publisher>
+                            <date when-iso="1972"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">DuMont Dokumente</title>
+                        <title level="s" type="sub">
+                            Eine Sammlung von Originaltexten, Dokumenten und grundsätzlichen Arbeiten zur Kunstgeschichte, Archäologie, Musikgeschichte
+                            und Geisteswissenschaft
+                        </title>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

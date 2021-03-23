@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800094">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni / Vianna da Motta / Concert-Direction Hermann Wolff 1898</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <author key="E0300232">
+                     <forename>José</forename>
+                     <surname>Vianna</surname>
+                     <surname>da Motta</surname>
+                  </author>
+                  <editor>
+                     <orgName key="E0600001">Concert-Direction Hermann Wolff</orgName>
+                  </editor>
+                  <title level="m"><persName key="E0300017">Ferruccio Busoni</persName>’s Cyclus von 4 Clavier Orchester Abenden</title>
+                  <title level="m" type="sub">Die Haupterscheinungen auf dem Gebiete des Clavierconcertes von <persName key="E0300012">J. S. Bach</persName> bis <persName key="E0300013">Liszt</persName></title>
+                  <title level="m" type="sub">Mit historisch-kritischen Erläuterungen von <persName key="E0300232">José Vianna da Motta</persName> und einer thematischen Uebersicht der zum Vortrag gelangenden Clavier-Concerte</title>
+                  <idno type="#D-B">Busoni-Nachl. E 1898, 7 A</idno>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>Buchdruckerei Otto Lange, Berlin C.</publisher>
+                     <date when-iso="1898-10-29"/>
+                     <date when-iso="1898-11-05"/>
+                     <date when-iso="1898-11-12"/>
+                     <date when-iso="1898-11-19"/>
+                  </imprint>
+               </monogr>
+               <note>Programmbuch</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

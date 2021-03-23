@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300236">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ferdinand Löwe</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119273853</idno>
+               <idno type="VIAF">100330556</idno>
+               <idno type="ISNI">0000000114960721</idno>
+               <persName type="reg">
+                  <surname>Löwe</surname>,
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1865-02-19"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1925-01-06"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musiker</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Musiklehrer</occupation>
+               <affiliation from-iso="1877">Schüler am <orgName key="E0600049">Konservatorium der Gesellschaft der Musikfreunde Wien</orgName>.</affiliation>
+               <affiliation when-iso="1884">Lehrtätigkeit am <orgName key="E0600049">Konservatorium der Gesellschaft der Musikfreunde Wien</orgName>.</affiliation>
+               <affiliation when-iso="1900/1904">Leiter der <orgName key="E0600091">Gesellschaftskonzerte</orgName> der <orgName key="E0600047">Gesellschaft der Musikfreunde Wien</orgName>.</affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

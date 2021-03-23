@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800203">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bach / Busoni 1920b</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300012" role="cmp">
+                     <forename>Johann</forename>
+                     <forename>Sebastian</forename>
+                     <surname>Bach</surname>
+                  </author>
+                  <author key="E0300017" role="arrgr">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <editor key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </editor>
+                  <title level="m"><persName key="E0300012">Bach</persName>-<persName key="E0300017">Busoni</persName></title>
+                  <title level="m" type="sub">Bearbeitungen, Studien und Kompositionen für Pianoforte nach <persName key="E0300012">Johann Sebastian Bach</persName> von <persName key="E0300017">Ferruccio Busoni</persName></title>
+                  <edition>Gesammelte Ausgabe in 7 Bänden</edition>
+                  <edition>2., erweiterte Auflage</edition>
+                  <idno type="PPN">508651603</idno>
+                  <imprint>
+                     <date when-iso="1916/1920"/>
+                     <pubPlace>Leipzig</pubPlace>
+                     <publisher>
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                     </publisher>
+                  </imprint>
+                  <biblScope unit="volume" n="1">
+                     <title level="m">Bearbeitungen, I. Lehrstücke</title>
+                     <idno type="BVB">BV007760001</idno>
+                     <date when-iso="1916">1916</date>
+                     <note>18 kleine Präludien und eine Fughetta; 15 zweistimmige Inventionen; 15 dreistimmige Inventionen; vier Duette; Präludium, Fuge und Allegro Es-Dur</note>
+                  </biblScope>
+                  <biblScope unit="volume" n="2">
+                     <title level="m">Bearbeitungen, II. Meisterstücke</title>
+                     <idno type="PPN">508652464</idno>
+                     <idno type="BVB">BV007760002</idno>
+                     <date when-iso="1916">1916</date>
+                     <note><title key="E0400378">Chromatische Fantasie und Fuge</title>; Klavierkonzert d-Moll; <title key="E0400379">Aria mit 30 Veränderungen (Goldberg-Variationen)</title></note>
+                  </biblScope>
+                  <biblScope unit="volume" n="3">
+                     <title level="m">Übertragungen</title>
+                     <idno type="BVB">BV007760003</idno>
+                     <date when-iso="1916">1916</date>
+                     <note>Präludium und Fuge für Orgel D-Dur; <title key="E0400377">Präludium und Fuge für Orgel Es-Dur</title>; Toccata für Orgel d-Moll; <title key="E0400192">Toccata für Orgel C-Dur</title>; Zehn Orgel-Choralvorspiele; Chaconne für Violine</note>
+                  </biblScope>
+                  <biblScope unit="volume" n="4">
+                     <title level="m">Kompositionen und Nachdichtungen</title>
+                     <idno type="PPN">508654637</idno>
+                     <idno type="BVB">BV007760004</idno>
+                     <date when-iso="1916">1916</date>
+                     <note>Fantasia; <title key="E0400307">Preludio, Fuga e Fuga figurata</title> (Nr. 2 aus <title key="E0400429">An die Jugend</title>); <title key="E0400376">Capriccio über die Abreise des vielgeliebten Bruders</title>; Fantasie, Adagio und Fuge c-Moll; <title key="E0400395">Choralvorspiel und Fuge über ein <persName key="E0300012">Bach</persName>sches Fragment (der <q>Fantasia contrappuntistica</q> kleine Ausgabe)</title>; <title key="E0400018">Fantasia contrappuntistica</title></note>
+                  </biblScope>
+                  <biblScope unit="volume" n="5">
+                     <title level="m" key="E0400396">Das Wohltemperierte Klavier (Erster Teil)</title>
+                     <idno type="BVB">BV007760005</idno>
+                     <date when-iso="1916">1916</date>
+                  </biblScope>
+                  <biblScope unit="volume" n="6">
+                     <title level="m" key="E0400397">Das Wohltemperierte Klavier (Zweiter Teil)</title>
+                     <idno type="BVB">BV007760006</idno>
+                     <date when-iso="1916">1916</date>
+                  </biblScope>
+                  <biblScope unit="volume" n="7">
+                     <title level="m">Bearbeitungen, Übertragungen, Studien und Kompositionen</title>
+                     <idno type="PPN">508655846</idno>
+                     <date when-iso="1920">1920</date>
+                     <note>Drei Tokkaten e-Moll, g-Moll, G-Dur; Fantasie, Fuge, Andante und Scherzo; Chromatische Fantasie und Fuge für Violoncello und Klavier bearbeitet; <title key="E0400286">Improvisation über das <persName key="E0300012">Bach</persName>sche Chorallied <q>Wie wohl ist mir, o Freund der Seele</q> für zwei Klaviere</title>; <title key="E0400140">Kanonische Variationen und Fuge (über das Thema <persName key="E0300290">König Friedrichs des Großen</persName>) aus dem <title key="E0400139">Musikalischen Opfer</title></title>; Sonatina brevis in signo Joannis Sebastiani Magni (in freier Nachdichtung von <persName key="E0300012">Bachs</persName> kleiner Fantasie und Fuge d-Moll); Versuch einer organischen Klavier-Notenschrift</note>
+                  </biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

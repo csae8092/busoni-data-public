@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600132">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humboldt-Universität zu Berlin</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="university">
+               <idno type="GND">1220138-8</idno>
+               <idno type="VIAF">162898525</idno>
+               <orgName>Humboldt-Universität zu <placeName key="E0500029">Berlin</placeName></orgName>
+               <desc>Älteste <placeName key="E0500029">Berliner</placeName> Universität, gegründet <date when-iso="1809">1809</date> unter dem Namen <title>Universität zu <placeName key="E0500029">Berlin</placeName></title>, <date when-iso="1828/1945">von 1828 bis 1945</date> unter dem Namen <title>Friedrich-Wilhelms-Universität</title>; unter dem gegenwärtigen Namen <date from-iso="1949">seit 1949</date>.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

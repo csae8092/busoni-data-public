@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300224">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Richard Heuberger</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118550470</idno>
+               <idno type="VIAF">64274345</idno>
+               <idno type="ISNI">0000000110677961</idno>
+               <persName type="reg">
+                  <surname>Heuberger</surname>,
+                  <forename>Richard</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Richard</forename>
+                  <forename>Franz</forename>
+                  <forename>Josef</forename>
+                  <surname>Heuberger</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1850-06-18"/>
+                  <placeName key="E0500295">Graz</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1914-10-28"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <occupation>Musiklehrer</occupation>
+               <occupation>Musikkritiker</occupation>
+               <affiliation when-iso="1895/1902">Mitarbeiter der <orgName key="E0600035">Neue Freie Presse</orgName></affiliation>
+               <affiliation when-iso="1899/1903">Präsident des <orgName key="E0600053">Tonkünstlervereins</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

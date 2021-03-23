@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800171">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eichhorn 2002</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Andreas</forename>
+                     <surname>Eichhorn</surname>
+                  </author>
+                  <title level="m"><persName key="E0300111">Paul Bekker</persName></title>
+                  <title level="m" type="sub">Facetten eines kritischen Genies</title>
+                  <idno type="DNB">967537568</idno>
+                  <imprint>
+                     <pubPlace>Hildesheim</pubPlace>
+                     <pubPlace>Zürich</pubPlace>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>Georg Olms Verlag</publisher>
+                     <date when-iso="2002"/>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Studien und Materialien zur Musikwissenschaft</title>
+                  <biblScope unit="volume">29</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

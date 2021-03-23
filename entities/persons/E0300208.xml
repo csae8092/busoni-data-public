@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300208">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robert Freund</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">116781718</idno>
+               <idno type="VIAF">30296524</idno>
+               <idno type="ISNI">0000000110500170</idno>
+               <persName type="reg">
+                  <surname>Freund</surname>,
+                  <forename>Robert</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1852-04-01"/>
+                  <placeName key="E0500188">Budapest</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1936-04-08"/>
+                  <placeName key="E0500188">Budapest</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <affiliation when-iso="1876/1881">Erster Klavierlehrer an der <orgName key="E0600136"><placeName key="E0500132">Zürcher</placeName> Musikschule</orgName></affiliation>
+               <residence to-iso="1865">
+                  <placeName key="E0500062">Budapest</placeName>
+               </residence>
+               <residence when-iso="1865/1868">
+                  <placeName key="E0500007">Leipzig</placeName>
+               </residence>
+               <residence when-iso="1869/1870">
+                  <placeName key="E0500029">Berlin</placeName>
+               </residence>
+               <residence when-iso="1870/1875">
+                  <placeName key="E0500062">Budapest</placeName>
+               </residence>
+               <residence when-iso="1875/1881">
+                  <placeName key="E0500132">Zürich</placeName>
+               </residence>
+               <residence when-iso="1881/1882">
+                  <placeName key="E0500062">Budapest</placeName>
+               </residence>
+               <residence when-iso="1882/1912">
+                  <placeName key="E0500132">Zürich</placeName>
+               </residence>
+               <residence from-iso="1912">
+                  <placeName key="E0500062">Budapest</placeName>
+               </residence>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

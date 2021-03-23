@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300517">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst von Schuch</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2018-10-21" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">117117153</idno>
+                    <idno type="VIAF">51858688</idno>
+                    <idno type="ISNI">0000000081306212</idno>
+                    <persName type="reg">
+                        <surname>Schuch</surname>,
+                        <forename>Ernst</forename>
+                        <nameLink>von</nameLink>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Ernest</forename>
+                        <forename>Gottfried</forename>
+                        <surname>Schuch</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1846-11-23"/>
+                        <placeName key="E0500295">Graz</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1914-05-10"/>
+                        <placeName key="E0500589">Kötzschenbroda</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Dirigent</occupation>
+                    <occupation>Kapellmeister</occupation>
+                    <affiliation when-iso="1872/1914">Musikdirektor, <date from-iso="1889">ab 1889</date> Generalmusikdirektor, der 
+                        <orgName key="E0600119">Königlichen musikalischen Kapelle</orgName> (<placeName key="E0500052">Dresden</placeName>)</affiliation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

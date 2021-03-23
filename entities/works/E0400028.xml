@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schönberg, Arnold: 6 Lieder für eine mittlere Singstimme und Klavier op. 3</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300023">Arnold Schönberg</author>
+                  <title level="m">6 Lieder für eine mittlere Singstimme und Klavier</title>
+                  <idno type="op">3</idno>
+                  <idno type="GND">300417381</idno>
+                  <imprint>
+                     <date when-iso="1903-03-18" type="composed-part"/>
+                     <note>Nr. 1, <title level="m">Wie Georg Frundsberg von sich selber sang</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1903-11-09" type="composed-part"/>
+                     <note>Nr. 2, <title level="m">Die Aufgeregten</title></note>
+                  </imprint>
+                  <imprint>
+                     <date from-iso="1899-05-07" to-iso="1903-10" type="composed-part"/>
+                     <note>Nr. 3, <title level="m">Warnung</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1900-03-31" type="composed-part"/>
+                     <note>Nr. 4, <title level="m">Hochzeitslied</title></note>
+                  </imprint>
+                  <imprint>
+                     <date from-iso="1903-09-02" to-iso="1903-11-10" type="composed-part"/>
+                     <note>Nr. 5, <title level="m">Geübtes Herz</title></note>
+                  </imprint>
+                  <imprint>
+                     <date from-iso="1900-11-20" to-iso="1903-10" type="composed-part"/>
+                     <note>Nr. 6, <title level="m">Freihold</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1907-01-26" type="firstperf-part"/>
+                     <note>Nr. 1, 2, 3, 4, 5</note>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1919-03-26" type="firstperf-part"/>
+                     <note>Nr. 6</note>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1904" type="firstprint"/>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

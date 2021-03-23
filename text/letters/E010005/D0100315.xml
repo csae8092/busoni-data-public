@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100315">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Muralto, 21. Februar 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Muralto, 21 February 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300378">
+                        <forename>Elizaveta</forename>
+                        <surname>Willert</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4273</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 14 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723723</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300126">Rubiner</persName> bedauert <persName key="E0300017">Busonis</persName> Stocken bei der Arbeit an <title key="E0400218">Doktor Faust</title>; verzichtet in seiner <rs key="E0400316">aktuellen Arbeit</rs> bewusst auf <q>schwingenden Klang</q> der Sprache; hat <persName key="E0300125">Hans Huber</persName> (<q>ungewohnt beweglich für einen Schweizer</q>) und <persName key="E0300358">Wolfgang Hartmann</persName> (<q>sehr gequält, aber nicht unsympathisch</q>) getroffen; beklagt das Agieren des Generals <persName key="E0300359">Max Hoffmann</persName> bei den Friedensverhandlungen von <placeName key="E0500424">Brest-Litowsk.</placeName></summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-02-21"/>Donnerstag <choice><orig>a</orig><reg>A</reg></choice>bend</docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1918-02-21"
+                            /></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1918-02-22"
+                            /></docDate>
+                            
+                            <incipit>Dass äu<choice><orig>ss</orig><reg>ß</reg></choice>erer Aufenthalt <rs key="E0400218">Ihre Partitur</rs> stocken lässt</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/>
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500291">Muralto</placeName>
+                                    <lb/><date when-iso="1918-02-21">21 II 18</date>
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine rend="indent"><persName key="E0300017">Prof. Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent align(center)"><placeName key="E0500132">Zürich</placeName> VI</addrLine>
+                                <addrLine rend="indent align(center)"><placeName key="E0500189">Scheuchzerstr. 36</placeName>.</addrLine>
+                            </address>
+                            <pb n="6"/>
+                            <address rend="align(center)">
+                                <addrLine>Abs.:</addrLine>
+                                <addrLine rend="inline"><persName key="E0300126">Rubiner</persName>.</addrLine>
+                                <addrLine rend="inline"><placeName key="E0500291">Muralto</placeName> – <placeName key="E0500183">Locarno</placeName></addrLine>
+                                <addrLine rend="underline"><placeName key="E0500447">Villa Rossa</placeName>.</addrLine>
+                            </address>
+                            <note type="annotation" place="below" resp="#major_hand" rend="align(center)">Wer ist Ihr biederer
+                                <lb/> Impresario?</note><!-- worauf bezieht sich die Bemerkung? -->
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) rotate(-90)">
+                                    
+                                    <gap reason="incomplete" atLeast="1" unit="word"/>
+                                    <lb/><date when-iso="1918-02-22">22.II.18</date>–2
+                                    <lb/>Briefträger II
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="shelfmark" place="bottom-center" resp="#archive" rend="align(center)">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp> Mus.ep. L. Rubiner 14</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4273-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500291">Muralto</origPlace>
+                            <origDate when-iso="1918-02-21"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100315">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-02-21"/>
+                    <placeName ref="http://www.geonames.org/6692335" key="E0500291">Muralto</placeName>
+                </correspAction>
+                
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100314"/>
+                    <ref type="next" target="#D0100316"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-23" who="#E0300378">in Bearbeitung status="unfinished"</change>
+            <change when-iso="2018-02-11" who="#E0300378">status="proposed"</change>
+            <change when-iso="2018-02-19" who="#E0300314">erste Durchsicht</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873476166/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3400000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3400000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3400000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3400000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3400000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3400000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                <note type="shelfmark" place="top-left" resp="#archive" rend="rotate(-90)">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. L. Rubiner 14 (Busoni-Nachl.) <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <note type="shelfmark" place="top" resp="#archive">
+                    <add xml:id="addSig">Mus.Nachl. F. Busoni
+                        <lb/>B II, 4273</add>
+                </note>
+                
+                <substJoin target="#delSig #addSig"/>
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <date when-iso="1918-02-21">Donnerstag <choice><orig>a</orig><reg>A</reg></choice>bend</date>.
+                    </dateline>
+                    <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                    
+                    <salute>Sehr <choice><orig>l</orig><reg>L</reg></choice>ieber! </salute>
+                </opener>
+                
+                <p>Dass äu<choice><orig>ss</orig><reg>ß</reg></choice>erer Aufenthalt <rs key="E0400218">Ihre
+                        <lb/>Partitur</rs> stocken lässt,<!-- was ist vorgefallen? --> erfüllt
+                    <lb/>mich mit Schmerz – auch egoi
+                    <lb break="no"/>stischem: sie war mir ein Ansporn, <lb/>das Höchste zu versuchen! <add place="inline">Ich erhoffe
+                        <lb/>Höchstes vom <title key="E0400218">Faust</title>!!!! —</add></p>
+                <p>Ihr Brief <!-- ist der erhalten? -->macht mich gänzlich
+                    <lb/>glücklich und
+                    <lb/><seg rend="indent-2">legt mir die höchste Verant</seg> <lb break="no"/>wortung auf. —<note type="stamp" place="inline" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note></p>
+                
+                
+                
+                <p> Ich kann <supplied reason="omitted">an</supplied> die Dinge nur heran
+                    <lb break="no"/>gehen; ob ich sie erfülle, wei<choice><orig>ss</orig><reg>ß</reg></choice>
+                    <lb/>ich nicht. Oft schaudere ich inmitten <rs key="E0400316">der Arbeit</rs> und
+                    <lb/>komme mir kindisch oder
+                    <pb n="2"/>
+                    wahnsinnig vor. Dann hält mich
+                    <lb/>aber wieder die Vernunft aufrecht,
+                    <lb/>und da<subst><del rend="overwritten">ss</del><add place="across">s</add></subst> Wissen, dass ich selbst
+                    <lb/>durch die Dinge hindurchgegangen
+                    <lb/>bin.</p>
+                <p> Mit einer Bemerkung in der
+                    <lb/><date when-iso="1918-01-01">Neujahrsnacht</date> haben Sie unendlich
+                    <lb/>recht gehabt. Dies einmal mündlich. <lb/>Wüsste keinen Menschen, dem
+                    <lb/>ich das geistige Vertrauen
+                    <lb/>so schenken müsste<orig>,</orig> wie Ihnen!</p>
+                
+                <p rend="indent-first space-above"> Indes – <q rend="dq-du">zur Sprache gewan
+                    <lb break="no"/>delte Musik</q> ist fast zu stark
+                    <lb/>für <rs key="E0400316">mein Unternehmen</rs>. Ich
+                    <lb/>nehme, absichtlich, meiner Sprache
+                    <lb/>den schwingenden Klang, ich
+                    <lb/>nehme ihr die <soCalled rend="dq-du">schönen</soCalled> Worte, ich
+                    <lb/>lasse sie oft so sachlich
+                    <lb/>sein, dass das normale
+                    <pb n="3"/>
+                    <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                    Auge sie <soCalled rend="dq-du">hässlich</soCalled> nennen
+                    <lb/>müsste. Ich lasse sie streiten, <lb/>überzeugen, suggerieren, befehlen – <lb/>
+                    wenigstens ich versuche das – <lb/>und in <hi rend="underline">alltäglicher</hi>
+                    Sprache.</p>
+                
+                <p>
+                    <foreign xml:lang="it">Ha rag<orig>g</orig>ione, ora scorgemi là, <lb/>dove i suoi voti mi collocavano</foreign>, <note type="commentary" resp="#E0300378">Du hast recht, jetzt siehst du mich dort,wo seine Stimmen mich platziert haben</note><lb/>aber ich hatte es im Leben nicht
+                    <lb/>
+                    billiger, ich musste durch manches. <lb/>Gerade Sie wissen das, denn Sie
+                    <lb/>haben mich viel genauer beobach
+                    <lb break="no"/>tet<orig>,</orig> als <add place="above">irgend</add>jemand; und in den
+                    <lb/>Kern hinein. Immer voraus
+                    <lb break="no"/>gesetzt, dass <rs key="E0400316">meine Arbeit</rs> gelingt. </p>
+                
+                <p rend="indent-first space-above">Neulich, nachdem ich bisher
+                    <lb/>nur je <choice><orig>½</orig><reg>eine halbe</reg></choice> Minute mit
+                    <persName key="E0300125">Huber</persName> gesprochen, <lb/>volle <choice><orig>5</orig><reg>fünf</reg></choice> Minuten zusammengesessen. <lb/>Sie hatten Recht: ein feiner und
+                    <lb/>sympathischer Mensch, ungewohnt
+                    <lb/>beweglich für einen Schweizer. <lb/>Wir werden uns noch sehen. <pb n="4"/>
+                    Doch wei<choice><orig>ss</orig><reg>ß</reg></choice> ich noch nicht, ob nicht
+                    <lb/>zu<reg> </reg>viel typische Kunstatmosphäre
+                    <lb/>um ihn ist. </p>
+                
+                <p rend="indent-first"> Ich traf <persName key="E0300358">Wolfgang Hartmann</persName>, <note type="commentary" resp="#E0300378">
+                    <persName key="E0300358">Hartmann</persName> gehörte zu <persName key="E0300017">Busonis</persName>
+                    <placeName key="E0500132">Zürcher</placeName> Freundeskreis  <bibl>(<ref target="#E0800016"/>, S.&#8239;45&#8239;f.)</bibl>.</note> <lb/>er fragte nach Ihnen, sehr bedrückt, <lb/>keine Antwort auf einen Brief <note type="commentary" resp="#E0300378">Folgende Brief ist bis jetzt noch nirgendwo aufgetaucht</note>
+                    <lb/>erhalten zu haben. <hi rend="underline">Was</hi>
+                    er im
+                    <lb/>Inneren ist, wei<choice><orig>ss</orig><reg>ß</reg></choice> ich nicht; vielleicht
+                    <lb/>ist er auch der ewige Neuling, <lb/>
+                    probiert alles irgendwo bis zu
+                    <lb/>einem gewissen Grade aus. Er
+                    <lb/>lockt mich nicht sehr, ist sehr
+                    <lb/>gequält, aber nicht unsympathisch. </p>
+                <milestone unit="section" style="—" rend="align(center)"/>
+                
+                <p rend="indent-first"> Frieden, ja. Natürlich. <lb/><foreign xml:lang="fr">La paix d’abord</foreign>.<note type="commentary" resp="#E0300378">Frieden zuerst</note>Dass aber die
+                    <lb/>Brutalitätsschnauze <persName key="E0300359">General
+                        <lb/>Hoffmann</persName> der <soCalled rend="dq-du"><subst><del rend="overwritten"><gap reason="overwritten" atLeast="1" unit="char"/></del><add place="across">m</add></subst>oralische Sieger</soCalled>
+                    <lb/>für Generationen sein soll, hat
+                    <lb/>mich vorlaufig zwei Tage meines
+                    <lb/>Lebens gekostet. Und er war doch schon
+                    <lb/>so vernünftig: <q rend="dq-du">Krieg führen wir
+                        <lb/>nicht, aber mit Ihnen machen wir
+                        <lb/>keinen Vertrag!</q> Nun ist es nichts, und
+                    <lb/>auch noch 8 Milliarden Rubel <choice><orig>C</orig><reg>K</reg></choice>ontri  <lb break="no"/>butionen! <note type="commentary" resp="#E0300378"> <persName key="E0300359"></persName>Max Hoffmann und seine Tätigkeit als Generalstabschef spielte eine wichtige Rolle 
+                        <lb/>bei den Friedensverhandlungen in <placeName key="E0500424">Brest-Litowsk </placeName>. Vor allem war <persName key="E0300359">Hoffmann </persName> 
+                        <lb/>der Anreger der Friedenskonferenz, infolgedessen am <date when-iso="1918-03-03">3. März 1918</date> ein Friedensvertrag zwischen Sowjetrussland und dem Militärbündnis geschlossen wurde.</note> <seg type="closer" subtype="salute">Händedruck von Herzen Ihnen</seg></p>
+                
+                <closer>
+                    <signed rend="align(right)">Ihr <persName key="E0300126">Ludwig Rubiner</persName></signed>
+                </closer>
+                
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300294">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maximilian Harden</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118545892</idno>
+               <idno type="VIAF">71514430</idno>
+               <idno type="ISNI">0000000108584985</idno>
+               <persName type="reg">
+                  <surname>Harden</surname>,
+                  <forename>Maximilian</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Felix</forename>
+                  <forename>Ernst</forename>
+                  <surname>Witkowski</surname>
+               </persName>
+               <persName type="baptism" from-iso="1878">
+                  <forename>Maximilian</forename>
+                  <surname>Harden</surname>
+               </persName>
+               <persName type="pseud">Apostata</persName>
+               <birth>
+                  <date when-iso="1861-10-20"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1927-10-30"/>
+                  <placeName key="E0500298">Montana</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Journalist</occupation>
+               <affiliation>Herausgeber der Wochenzeitschrift <orgName key="E0600057">Die Zukunft</orgName></affiliation>
+               <event when-iso="1892"><ab>Gründung der Wochenzeitschrift <orgName key="E0600057">Die Zukunft</orgName></ab></event>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

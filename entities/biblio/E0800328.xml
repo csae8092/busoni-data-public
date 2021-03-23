@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800328">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Willimann 1996</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-25" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>Joseph</forename>
+                            <surname>Willimann</surname>
+                        </author>
+                        <title level="a">Damit <q>Musik zu Musik</q> werde</title>
+                        <title level="a" type="sub"><persName key="E0300017">Busonis</persName> zweiter <q>offener</q> Brief an <persName key="E0300111">Paul Bekker</persName></title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <forename>Felix</forename>
+                            <surname>Meyer</surname>
+                        </editor>
+                        <title level="m">Klassizistische Moderne</title>
+                        <title level="m" type="sub">Eine Begleitpublikation zur Konzertreihe im Rahmen der Veranstaltungen <q>10&#160;Jahre Paul Sacher Stiftung</q></title>
+                        <title level="m" type="sub">Werkeinführungen, Essays, Quellentexte</title>
+                        <idno type="DNB">94804862X</idno>
+                        <idno type="PPN">215789814</idno>
+                        <idno type="BVB">BV010967817</idno>
+                        <imprint>
+                            <pubPlace>Winterthur</pubPlace>
+                            <publisher>Amadeus Verlag</publisher>
+                            <date when-iso="1996"/>
+                        </imprint>
+                        <biblScope unit="page">430–433</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

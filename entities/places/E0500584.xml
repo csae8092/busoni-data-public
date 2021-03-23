@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500584">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tempelherrenhaus (Weimar)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Tempelherrenhaus</placeName>
+               <location>
+                  <settlement key="E0500144">Weimar</settlement>
+                  <country key="DE"/>
+                  <country key="DXDE" to-iso="1945"/>
+                  <geo>50.975833 11.332222</geo>
+               </location>
+               <desc><date when-iso="1786/1787">1786–87</date> als Orangerie im <placeName key="E0500144">Weimarer</placeName> Park an der Ilm erbaut; <date when-iso="1816">1816</date> Anbau eines Turms (vmtl. nach einem Entwurf von <persName key="E0300124">Goethe</persName>) und <date when-iso="1811/1823">1811–23</date> Umbau zu einem Sommersalon für den herzoglichen Hof; Nutzung für Konzerte (u. a. von <persName key="E0300013">Franz Liszt</persName>), kleinere Empfänge und Ausstellungen; im 20. Jahrhundert Atelier für Bauhaus-Künstler; <date when-iso="1945">1945</date> bei einem Luftangriff zerstört; Turmruine noch erhalten und <date when-iso="1998">1998</date> restauriert.</desc>
+               <idno type="GND">7857762-7</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

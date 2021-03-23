@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300563">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oscar Sonneck</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-02-22" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">122760662</idno>
+                    <idno type="VIAF">59210528</idno>
+                    <idno type="ISNI">0000000109059867</idno>
+                    <persName type="reg">
+                        <surname>Sonneck</surname>,
+                        <forename>Oscar</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Oscar</forename>
+                        <forename>George</forename>   
+                        <forename>Theodore</forename>
+                        <surname>Sonneck</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1873-10-06"/>
+                        <placeName key="E0500639">Jersey City</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1928-10-30"/>
+                        <placeName key="E0500031">New York</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Musikwissenschaftler</occupation>
+                    <occupation>Bibliothekar</occupation>
+                    <occupation>Komponist</occupation>
+                    <affiliation when-iso="1915/1928">Herausgeber von <orgName key="E0600154">The Musical Quarterly</orgName></affiliation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

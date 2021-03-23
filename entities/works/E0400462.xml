@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400462">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: Ab irato</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="m">Ab irato</title>
+                        <title level="m" type="sub">Étude de perfectionnement de la Méthode des Méthodes de Fétis</title>
+                        <idno type="wcat">S&#160;143</idno>
+                        <idno type="wcat">R&#160;4b</idno>
+                        <idno type="GND">1189371197</idno>
+                        <imprint>
+                            <date when-iso="1852" type="composed"/>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1852" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600064">Schlesinger</orgName>
+                            </publisher>
+                            <pubPlace key="E0500029">Berlin</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <note>Basiert auf <title key="E0400461">Morceau de salon</title>.</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

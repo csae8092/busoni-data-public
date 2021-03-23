@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300233">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfred Jerger</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">132076047</idno>
+               <idno type="VIAF">37102181</idno>
+               <idno type="ISNI">0000000108886537</idno>
+               <persName type="reg">
+                  <surname>Jerger</surname>,
+                  <forename>Alfred</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Alois</forename>
+                  <surname>Wendelin</surname>
+               </persName>
+               <persName type="pseud">
+                  <forename>Alfred</forename>
+                  <surname>Jerger</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1889-06-09"/>
+                  <placeName key="E0500063">Brünn</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1976-11-18"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger (Bariton)</occupation>
+               <affiliation when-iso="1913/1919">Mitglied des <orgName key="E0600037">Stadttheaters <placeName key="E0500132">Zürich</placeName></orgName> (Chordirektor, Solorepetitor, Kapellmeister, Schauspieler, Sänger)</affiliation>
+               <affiliation when-iso="1922/1960">Mitglied der <orgName key="E0600135"><placeName key="E0500002">Wiener</placeName> Staatsoper</orgName></affiliation>
+               <event when-iso="1917"><ab>Sänger in der <placeName key="E0500132">Zürcher</placeName> Uraufführung von <persName key="E0300017">Ferruccio Busonis</persName> Oper <title key="E0400153">Turandot</title></ab></event>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

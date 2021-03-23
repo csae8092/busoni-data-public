@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100133">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 28. Oktober 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 28 October 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>                   
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bittet <persName key="E0300125">Huber</persName> um Platzierung eines eigenen Textes über <persName key="E0300097">Max Reger</persName> in den <orgName key="E0600019">Basler Nachrichten</orgName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-10-28"/></docDate>
+                            <incipit>ich möchte Sie herzlich bitten</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Nummerierung des Briefs mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die eine römische Nummerierung mit Bleistift eingetragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-10-28"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S. 21</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-10-28"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100134"/>
+                    <ref type="previous" target="#D0100236"/>
+                    <ref type="next" target="#D0100134"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2016-12-10" who="#E0300315"> Datei als Platzhalter erstellt, Transkription ausstehend. </change>
+            <change when-iso="2016-12-12" who="#E0300314"> gemeinsame Ersttranskription im Seminar; Status: unfinished </change>
+            <change when-iso="2017-11-10" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">26.</note>
+                
+                <opener>
+                    <salute>Verehrtester Freund,</salute>
+                </opener>
+                
+                <p rend="indent-first">ich möchte Sie herzlich
+                    <lb/>bitten, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie Ihren Einfluss <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>Ihre Mühe daran wendeten, diese
+                    <lb/>beigelegten Zeilen
+                    
+                    <note type="commentary" resp="#E0300314">Einlage nicht erhalten.</note>
+                    
+                    in die Spalten
+                    <lb/>der <orgName key="E0600019"><hi rend="underline"><placeName key="E0500097">Basler</placeName> Nachrichten</hi></orgName> zu führen.</p>
+                
+                <!--
+                    Kommentar zum dort evtl. erschienenen Text zum Tod von Max Reger (11. Mai 1916);
+                    lt. Refardt S. 21 ("im Herbst 1916") dort ein Artikel "Max Reger im Basler Musikleben" von Hermann Suter
+                    siehe Wilhelm Merian, Hermann Suter, Bd. 1, S. 150
+                -->
+                
+                <p rend="indent-first">Ich halte es für ange
+                    <lb break="no"/>bracht, auch einen anderen Gesichts
+                    <lb break="no"/>punkt über <persName key="E0300097">M. R.</persName>
+                    
+                    <note type="commentary" resp="#E0300314">Ein Text <persName key="E0300017">Busonis</persName> über <persName key="E0300097">Max Reger</persName> ist in den <orgName key="E0600019"><placeName key="E0500097">Basler</placeName> Nachrichten</orgName> offenbar nicht erschienen.</note>
+                    
+                    <!-- ist der Text im Nachlass auffindbar oder anderweitig erschienen? keine Treffer in Kalliope, evtl. in "Einheit der Musik"?-->
+                    
+                    den Lesern
+                    <lb/>vorzustellen, denn hier droht
+                    <lb/>immerhin eine neue Gefahr
+                    <lb/>der Stockung für die Ent
+                    <lb break="no"/>wicklung des Musikalisch-Wahren.</p>
+                
+                <!-- Position Busonis zu Reger anderweitig feststellbar? -->
+                
+                <p rend="indent-first">Ich wende mich an Sie
+                    <lb/>auch deshalb, weil Sie das, was
+                    <lb/>ich meine – am schnellsten
+                    <lb/>verstehen werden.</p>
+                
+                <closer>
+                    <salute rend="indent-first">Verehrungsvoll <choice><abbr>u.</abbr><expan>und</expan></choice> herzlich</salute>
+                    <signed rend="align(right)">Ihr <persName key="E0300017">F<reg>.</reg> Busoni</persName></signed>
+                    <dateline>
+                        <placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName><reg>,</reg>
+                        <date when-iso="1916-10-28">28. <choice><abbr>O.</abbr><expan>Oktober</expan></choice> 1916</date>.
+                    </dateline>
+                </closer>
+                
+                <pb n="2"/>
+                
+                <note type="numbering" place="top-left" resp="#unknown_hand">VI</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800271">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schmidt 1904a</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-27" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300032">
+                            <forename>Leopold</forename>
+                            <surname>Schmidt</surname>
+                        </author>
+                        <title level="a">Dur und Moll.</title>
+                        <title level="a" type="sub"><placeName key="E0500029">Berlin</placeName>, <date when-iso="1904-11-15">15. November</date>. (Novitäten-Schau.)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600067">Signale für die musikalische Welt</orgName></title>
+                        <idno type="DNB">947363564</idno>
+                        <imprint><date when-iso="1904-11-23"/></imprint>
+                        <biblScope unit="volume">62. Jahrgang</biblScope>
+                        <biblScope unit="no">63/64</biblScope>
+                        <biblScope unit="page">1160–1162</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

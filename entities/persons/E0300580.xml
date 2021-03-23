@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300580">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Irma Bekk</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-08-24" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">117099775</idno>
+                    <idno type="VIAF">117099775</idno>
+                    <idno type="ISNI">000000000999628X</idno>
+                    <persName type="reg">
+                        <surname>Bekk</surname>,
+                        <forename>Irma</forename>
+                    </persName>
+                    <persName type="married">
+                        <forename>Irma</forename>
+                        <surname>Schaeffer</surname>
+                    </persName>
+                    <sex value="f"/>
+                    <occupation>Schriftstellerin</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

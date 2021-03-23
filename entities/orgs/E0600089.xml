@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Journal de Genève</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="newspaper">
+               <idno type="GND">4554750-6</idno>
+               <idno type="ZDB">192128-9</idno>
+               <orgName>Journal de Genève</orgName>
+               <desc><date when-iso="1826/1998">Zwischen 1826 und 1998</date> in <placeName key="E0500219">Genf</placeName> erschienene Tageszeitung.</desc>
+               <bibl><ref type="ext" target="http://www.letempsarchives.ch/">Digitalisate bei Le Temps Archives</ref></bibl>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

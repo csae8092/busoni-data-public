@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400371">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liszt, Franz (arr. Busoni, Ferruccio): Fantasie über zwei Motive aus W. A. Mozarts Die Hochzeit des Figaro («Figaro-Fantasie»)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct corresp="#E0400356" type="mus" subtype="arrgt">
+               <monogr>
+                  <author key="E0300013" role="cmp">Franz Liszt</author>
+                  <author key="E0300017" role="arrgr">Ferruccio Busoni</author>
+                  <title level="m">Fantasie über zwei Motive aus <persName key="E0300010">W. A. Mozarts</persName> <title key="E0400354">Die Hochzeit des Figaro</title></title>
+                  <title level="m" type="epit" subtype="pop">Figaro-Fantasie</title>
+                  <idno type="wcat">K B 66</idno>
+                  <idno type="DNB">350513376</idno> <!-- Erscheinungsdatum und übergeordneter Werktitel in diesem Datensatz nicht korrekt -->
+                  <idno type="PPN">363075933</idno> <!-- Einheitssachtitel nicht korrekt -->
+                  <idno type="BVB">BV023943578</idno>
+                  <edition>Ergänzung des von <persName key="E0300013">Liszt</persName> unvollendeten <rs key="E0400356">Ms.</rs>
+                  </edition>
+                  <imprint>
+                     <date when-iso="1912" type="firstprint"/>
+                     <pubPlace key="E0500061">Wiesbaden</pubPlace>
+                     <pubPlace key="E0500007">Leipzig</pubPlace>
+                     <pubPlace key="E0500012">Paris</pubPlace>
+                     <publisher>
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                     </publisher>
+                     <note>Nach dem fast vollendeten Originalmanuskript ergänzt und <persName key="E0300254">Moriz Rosenthal</persName> zugeeignet von <persName key="E0300017">Ferruccio Busoni</persName>.</note>
+                  </imprint>
+               </monogr>
+               <note>lt. Erstausgabe Ergänzung des Ms. von <persName key="E0300013">Liszt</persName>; tatsächlich fehlt bei dieser Bearbeitung aber fast die Hälfte (betrifft den <title key="E0400002">Don Giovanni</title>-Abschnitt) des <rs key="E0400356">Originals</rs> (<bibl><ref target="#E0800201"/>, Vorwort</bibl>)</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

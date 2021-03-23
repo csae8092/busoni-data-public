@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800306">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zöllner 1920</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-07-30" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <surname>Zöllner</surname>
+                  </author>
+                  <title level="a">Der Sizilianer</title>
+                  <title level="a" type="sub">
+                     Ein heiteres Spiel mit Tänzen in 1 Aufzug, Dichtung frei nach <persName key="E0300573">Molière</persName>, Musik von 
+                     <persName key="E0300093">Hugo Leichtentritt</persName>. Uraufführung im Stadttheater von <placeName key="E0500304">Freiburg i. B.</placeName>
+                     am <date when-iso="1920-05-28">28. Mai 1920</date>
+                  </title>
+               </analytic>
+               <monogr>
+                  <title level="j"><orgName key="E0600148"> Neue Zeitschrift für Musik</orgName></title>
+                  <imprint>
+                     <date when-iso="1920-07-01"/>
+                  </imprint>
+                  <biblScope unit="volume">87</biblScope>
+                  <biblScope unit="no">13</biblScope>
+                  <biblScope unit="page">195-196</biblScope>
+               </monogr>
+               <ref type="ext" target="https://archive.org/details/NeueZeitschriftFuerMusik1920Jg87/page/n269/mode/2up">Digitalisat im Internet Archive</ref>                   
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800259">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>C. K. H. 1897</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-06" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <name>C. K. H.</name>
+                        </author>
+                        <title level="a"><persName key="E0300525">Arthur Amory Codman</persName></title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <forename>John</forename>
+                            <forename>Ward</forename>
+                            <surname>Dean</surname>
+                        </editor>
+                        <title level="j">The New England Historical and Genealogical Register</title>
+                        <imprint><date when-iso="1897"/></imprint>
+                        <biblScope unit="volume">51</biblScope>
+                        <biblScope unit="page">365–366</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

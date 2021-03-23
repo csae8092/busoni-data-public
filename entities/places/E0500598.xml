@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500598">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schönleinstraße 2 (Zürich)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-02" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place type="building">
+                    <placeName>Schönleinstraße 11</placeName>
+                    <location>
+                        <settlement key="E0500132">Zürich</settlement>
+                        <country key="CH"/>
+                        <geo>47.373930 8.552133</geo>
+                    </location>
+                    <desc>Wohnadresse für den Winter von <persName key="E0300208">Robert Freund</persName> und <rs key="E0300434">seiner Frau</rs> ab Ende 
+                        <date when-iso="1901">1901</date> bis zum Umzug nach <placeName key=" E0500495">Untere Zäune 7</placeName> 
+                        (<date when-iso="1903-03/1904-10">zw. März 1903 und Oktober 1904</date>, genauer Zeitpunkt nicht ermittelt)</desc>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

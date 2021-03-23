@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800288">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fulcher 2005</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-02-19" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Jane</forename>
+                     <forename><abbr>F.</abbr></forename>
+                     <surname>Fulcher</surname>
+                  </author>
+                  <title level="m">The Composer As Intellectual</title>
+                  <title level="m" type="sub">Music and Ideology in <placeName key="E0500014">France</placeName> <date when-iso="1914/1940">1914–1940</date></title>
+                  <idno type="PPN">387288856</idno>
+                  <imprint>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>Oxford University Press</publisher>
+                     <date when-iso="2005"/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

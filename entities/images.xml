@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="images">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Bildindex zu «Ferruccio Busoni – Briefe und Schriften»</title>
+                <title xml:lang="en">Index to images in “Ferruccio Busoni – Letters and Writings”</title>
+                <respStmt>
+                    <resp>Encoding by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://busoni-nachlass.org/docs/principles"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt; bereits vorhandene Einträge: i0001–i0005</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <listBibl>
+                
+                <biblStruct xml:id="i0001" type="portrait">
+                    <monogr>
+                        <respStmt>
+                            <resp>Photoatelier</resp>
+                            <orgName key="E0600016">Varischi &amp; Artico</orgName>
+                        </respStmt>
+                        <title>[Bildnis <persName key="E0300017">Ferruccio Busonis</persName>]</title>
+                        <imprint>
+                            <pubPlace key="E0500133">Mailand</pubPlace>
+                            <date notBefore-iso="1912" notAfter-iso="1913"/>
+                        </imprint>
+                        <imprint facs="http://resolver.staatsbibliothek-berlin.de/SBB0001AF9C00000001">
+                            <pubPlace>Berlin</pubPlace>
+                            <publisher>
+                                <orgName>Staatsbibliothek zu Berlin </orgName>
+                                <idno>Mus.Nachl. F. Busoni P II, 41</idno>
+                            </publisher>
+                            <date when-iso="2015"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                
+                <biblStruct xml:id="i0002" type="photo" subtype="portrait">
+                    <monogr>
+                        <respStmt>
+                            <resp>Fotograf</resp>
+                            <persName>Oscar Brettschneider</persName>
+                        </respStmt>
+                        <respStmt>
+                            <resp>Bearbeiter</resp>
+                            <persName>F. O. Wolter</persName>
+                        </respStmt>
+                        <title>[Bildnis <persName key="E0300017">Ferruccio Busoni</persName> 40-jährig]</title>
+                        <imprint>
+                            <pubPlace key="E0500027">Berlin</pubPlace>
+                            <date when-iso="1906"/>
+                        </imprint>
+                        <imprint facs="http://resolver.staatsbibliothek-berlin.de/SBB0001D27000000001">
+                            <pubPlace>Berlin</pubPlace>
+                            <publisher>
+                                <orgName>Staatsbibliothek zu Berlin </orgName>
+                                <idno>N. Mus. P 108,4</idno>
+                            </publisher>
+                            <date when-iso="2016"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                
+                <biblStruct xml:id="i0003" type="photo" subtype="interieur">
+                    <monogr>
+                        <respStmt>
+                            <resp>Fotograf</resp>
+                            <persName>Pöchhacker</persName>
+                        </respStmt>
+                        <title>[Musikzimmer <persName key="E0300017">Ferruccio Busoni</persName>]</title>
+                        <imprint>
+                            <pubPlace key="E0500072">Viktoria-Luise-Platz 11, Berlin</pubPlace>
+                            <date when-iso="1921"/>
+                        </imprint>
+                        <imprint facs="http://resolver.staatsbibliothek-berlin.de/SBB0001AF9B00000001">
+                            <pubPlace>Berlin</pubPlace>
+                            <publisher>
+                                <orgName>Staatsbibliothek zu Berlin </orgName>
+                                <idno>Mus.Nachl. F. Busoni P II, 31</idno>
+                            </publisher>
+                            <date when-iso="2015"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>                
+                
+                <biblStruct xml:id="i0004" type="postcard" subtype="portrait">
+                    <monogr>
+                        <title><persName key="E0300017">Busoni</persName></title>
+                        <imprint>
+                            <date notBefore-iso="1890" notAfter-iso="1900" cert="high"/>
+                        </imprint>
+                        <imprint facs="https://cdn.loc.gov/master/pnp/cph/3c20000/3c26000/3c26500/3c26592u.tif">
+                            <pubPlace>Washington, D. C.</pubPlace>
+                            <publisher>
+                                <orgName>The Library of Congress</orgName>
+                                <idno>LC-USZ62-126592</idno>
+                            </publisher>
+                        </imprint>
+                    </monogr>
+                </biblStruct>                
+                
+                <biblStruct xml:id="i0005" sameAs="#E0400047" type="painting" subtype="portrait">
+                    <monogr>
+                        <author key="E0300083">Umberto Boccioni</author>
+                        <title>Ritratto del Maestro <persName key="E0300017">Busoni</persName></title>
+                        <imprint>
+                            <pubPlace key="E0500134">Pallanza</pubPlace>
+                            <date when-iso="1916-06-22"/>
+                        </imprint>
+                        <imprint facs="http://www.gnam.beniculturali.it/zoom.php?id=152&amp;w=1280&amp;n=0&amp;f=1">
+                            <pubPlace>Rom</pubPlace>
+                            <publisher>
+                                <orgName>Galleria nazionale d’arte moderna</orgName>
+                                <idno>3874</idno>
+                            </publisher>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                
+
+            </listBibl>
+        </body>
+    </text>
+</TEI>

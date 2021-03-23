@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100173">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (vmtl. Zürich, 29. Dezember 1917)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (prob. Zurich, 29 December 1917)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300330">
+                        <forename>Sebastian</forename>
+                        <surname>Schade</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> plant Wiederholung des <placeName key="E0500132">Zürcher</placeName> Klavierabends mit <persName key="E0300184">Ernst Lochbrunner</persName> in <placeName key="E0500097">Basel</placeName>; berichtet von <persName key="E0300175">Voltaire</persName>-Lektüre als Kompositionsvorbild.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-12-29"/></docDate>
+                            <incipit>Meinem, in einem Briefe vom 27. ausgesprochenen Wunsche,</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der mit Bleistift die Paginierung vorgenommen und das Datum auf die erste Seite übertragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1917-12-29"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;36</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100173">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1917-12-29"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100172"/>
+                    <ref type="repliedBy" target="#D0100174"/>
+                    <ref type="previous" target="#D0100172"/>
+                    <ref type="next" target="#D0100174"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315"> Datei als Platzhalter erstellt, Transkription ausstehend. </change>
+            <change when-iso="2017-03-16" who="#E0300330">Bearbeitung begonnen</change>
+            <change when-iso="2017-03-31" who="#E0300330">status="proposed"</change>
+            <change when-iso="2017-06-13" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" resp="#archive" place="top-right">63.</note>
+                
+                <note type="dating" resp="#archive" place="right"><date when-iso="1917-12-29">29. Dez. 1917</date></note>
+                
+                <opener><salute>Lieber Verehrter,</salute></opener>
+                
+                <p rend="indent-first">
+                    <choice><orig>Meinem,</orig><reg>meinem</reg></choice> in einem <choice><abbr>Bfe.</abbr><expan>Briefe</expan></choice>
+                    <lb/>vom <date when-iso="1917-12-27">27.</date> ausgesprochenen Wunsche
+                    
+                    <note type="commentary" resp="#E0300330">Ein Brief vom <date when-iso="1917-12-27">27. Dezember 1917</date> liegt nicht vor; gemeint ist aber offenbar der <ref type="E010002" target="#1917-12-26-hb">Brief vom <date when-iso="1917-12-26">26. Dezember</date></ref>.</note>
+                    
+                    <lb/>kamen Sie am selben Tage
+                    <lb/>spontan entgegen, was mich
+                    <lb/>doppelt beglückte. Seien Sie
+                    <lb/>bedankt. Ich nehme an, dass
+                    <lb/>das kleine<reg>,</reg> nach <placeName key="E0500097">Basel</placeName> gericht
+                    <lb break="no"/>ete Schreiben Ihnen nachge
+                    <lb break="no"/>sandt wurde, also das<supplied>s</supplied> ich
+                    <lb/>jeder Wiederholung heute mich
+                    <lb/>enthalte. – Froh bin ich darüber,
+                    <lb/>dass Sie an Ihrer Aufrichtung
+                    <lb/>durch Ruhe <choice><abbr>u.</abbr><expan>und</expan></choice> Pflege erfolgreich
+                    <lb/>arbeiten. So sehe ich auch
+                    <lb/>einer baldigen Begegnung in
+                    <lb/><placeName key="E0500097">Basel</placeName> entgegen, wo ich mit
+                    <lb/><persName key="E0300184">Lochbrunner</persName> (der als Partner
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>lles erfüllte) den gemeinsamen
+                    <lb/>Klavier<choice><orig>A</orig><reg>a</reg></choice>bend produzieren möchte.
+                    
+                    <note type="commentary" resp="#E0300330"><persName key="E0300017">Busonis</persName> Konzert mit <persName key="E0300184">Ernst Lochbrunner</persName> an zwei Klavieren (<date when-iso="1917-12-18">18. Dezember 1917</date>, <placeName key="E0500320">Tonhalle <placeName key="E0500132">Zürich</placeName></placeName>; <bibl>vgl. <ref target="#E0800047"/>, S. 48</bibl>) ist offenbar in <placeName key="E0500097">Basel</placeName> nicht wiederholt worden.</note>
+                </p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" resp="#archive" place="top-right">(2)</note>
+                
+                <p rend="indent-first">
+                    Dieser Tage las ich wieder
+                    <lb/>mit Staunen <choice><abbr>u.</abbr><expan>und</expan></choice> Erquickung
+                    <lb/><persName key="E0300175">Voltaire<orig>’</orig>s</persName>
+                    <title key="E0400207" rend="underline" xml:lang="fr">Dictionnaire <choice><orig>filosof</orig><reg>philosoph</reg></choice>ique</title>;
+                    <lb/>welcher Geist <choice><abbr>u.</abbr><expan>und</expan></choice> welche Menschlich
+                    <lb break="no"/>keit künden sich darin! (Vor
+                    <lb/>der Vollkommenheit des St<choice><orig>y</orig><reg>i</reg></choice>les
+                    <lb/>zu schweigen.) So möchte ich
+                    <lb/>komponieren können. Namentlich
+                    <lb/><title key="E0400209" rend="dq-du">Candide</title> schwebt mir als Beispiel
+                    <lb/>vor dafür, wie man nur das
+                    <lb/>Allernot<orig>h</orig>wendigste, dieses aber
+                    <lb/>auf das Eindringlichste, sagen sollte.
+                </p>
+                
+                <p rend="indent-first">
+                    Ich versuche es – auf <hi rend="underline">mein</hi>
+                    <lb/>Format angepasst <choice><orig>..</orig><reg>…</reg></choice> (was eigent
+                    <lb break="no"/>lich ein Widerspruch ist<choice><orig>.)</orig><reg>).</reg></choice>
+                </p>
+                
+                <closer>
+                    <salute rend="indent-first">Leben Sie wohl und wohler;
+                    <lb/>in treuer Verehrung
+                        <lb/><seg rend="align(right)">Ihr ergebener</seg></salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline rend="align(left)"><date when-iso="1917-12-29">29. <choice><abbr>Dez.</abbr><expan>Dezember</expan></choice> 1917</date></dateline>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300330">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300330">[Rückseite von Textseite 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

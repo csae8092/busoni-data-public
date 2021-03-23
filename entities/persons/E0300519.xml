@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300519">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leo Sirota</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2018-12-11" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">132180014</idno>
+                    <idno type="VIAF">39577748</idno>
+                    <idno type="ISNI">0000000081187938</idno>
+                    <persName type="reg">
+                        <surname>Sirota</surname>,
+                        <forename>Leo</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Leo</forename>
+                        <forename>Gregorovič</forename>
+                        <surname>Sirota</surname>
+                    </persName>
+                    <birth>
+                        <date calendar="Gregorian" when-iso="1885-05-04"/>
+                        <date calendar="Julian" when-iso="1885-04-22"/>
+                        <placeName key="E0500593">Kamjanez-Podilskyj</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1965-02-24"/>
+                        <placeName key="E0500031">New York</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Pianist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

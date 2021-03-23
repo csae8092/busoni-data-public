@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800269">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N.&#160;N.&#160;1900h</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-27" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <title level="a">Concertumschau.</title>
+                        <title level="a" type="sub"><placeName key="E0500489">Aachen</placeName>.</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600099">Musikalisches Wochenblatt</orgName></title>
+                        <title level="j" type="sub">Organ für Musiker und Musikfreunde</title>
+                        <idno type="DNB">1046056204</idno>
+                        <imprint><date when-iso="1900-11-08"/></imprint>
+                        <biblScope unit="volume">31. Jahrgang</biblScope>
+                        <biblScope unit="no">46</biblScope>
+                        <biblScope unit="page">616–617</biblScope>
+                    </monogr>
+                    <ref type="ext" target="https://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00142722">Digitalisat der Thüringer Universitäts- und Landesbibliothek Jena</ref>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

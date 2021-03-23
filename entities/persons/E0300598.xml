@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300598">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Josquin Desprez</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">118524895</idno>
+                    <idno type="VIAF">100226284</idno>
+                    <idno type="ISNI">0000000121033870</idno>
+                    <persName type="reg">
+                        <surname>Desprez</surname>,
+                        <forename>Josquin </forename>
+                    </persName>
+                    <persName type="alt">
+                        <forename>Josquin</forename>
+                        <forename>de</forename>
+                        <surname>Prés</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1440"/>
+                        <placeName key="E0500669">Condé-sur-l'Escaut</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1521-08-27"/>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Musiker</occupation>
+                    <occupation>Komponist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

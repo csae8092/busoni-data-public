@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0101515">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hugo Leichtentritt an Ferruccio Busoni (Berlin, 28. September 1916)</title>
+                <title xml:lang="en">Letter by Hugo Leichtentritt to Ferruccio Busoni (Berlin, 28 September 1916)</title>
+                <author key="E0300093">Hugo Leichtentritt</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300327">
+                        <forename>Juliane</forename>
+                        <surname>Imme</surname>
+                    </persName>
+                </respStmt>
+                <!-- ab Verfügbarkeit des Digitalisats der Staatsbibliothek:
+                    <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                    </respStmt>
+                -->
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <!-- <date when-iso="2022-01"/> als publiziert zu deklarieren erst nach Ablauf der urheberrechtlichen Schutzfrist-->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010009">Briefwechsel Ferruccio Busoni – Hugo Leichtentritt</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno> Mus.Nachl. F. Busoni B II, 2771+2771a</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Leichtentritt 14 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-639602</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300093">Leichtentritt</persName> ist erfreut, dass die <ref target="#E0800114">Biographie</ref> auf <persName key="E0300017">Busonis</persName> Anerkennung stößt; schickt Todesanzeige <persName key="E0300083">Boccionis</persName> aus der <orgName key="E0600055">Vossischen Zeitung</orgName>; hat den <title key="E0400451">Sizilianer</title> (ohne Partitur) fertig komponiert; erwartet erneute Musterung; vertritt <persName key="E0300547">Philipp Scharwenka</persName> am <rs key="E0600159">Konservatorium</rs>; gratuliert zum <title key="E0400133">Arlecchino</title>; bittet <persName key="E0300017">Busoni</persName>, einen Check von <orgName key="E0600129">Schirmer</orgName> für ihn postalisch entgegenzunehmen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-09-28"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-09-30"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1916-10-04"/></docDate>
+                            <incipit>Es ist mir eine Freude, aus Ihrem Briefe zu ersehen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive_fol">Foliierung durch das Archiv, mit Bleistift oben rechts auf den Vorderseiten.</foliation>
+                                <collation>Seitenfolge: 1, 3, 2 (3 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300093">Hand des Absenders Hugo Leichtentritt, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive_sig" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Beistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_fol" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="newspaper" scope="minor" medium="black_ink" scribe="journalist">aufgeklebter Zeitungsausschnitt, Fraktursatz</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border align(center)">
+                                    <supplied reason="low-ink"><placeName rend="majuscule" key="E0500029">Berlin W</placeName></supplied>
+                                    <lb/><date when-iso="1916-09-30">30.9.16.<unclear cert="medium" reason="low-ink">6-7V.</unclear></date>
+                                    <lb/>* 30 d
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine rend="align(left)">Herrn</addrLine>
+                                <addrLine rend="align(center) latin"><persName key="E0300017">Prof. Ferruccio Busoni</persName>.</addrLine>
+                                
+                                <note type="stamp" place="center" resp="#dsb_st_red">
+                                    <stamp rend="round border align(center) small">
+                                        Deutsche
+                                        <supplied reason="faded"><lb/>Staatsbibliothek
+                                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></supplied>
+                                    </stamp>
+                                </note>
+                                
+                                <addrLine rend="right align(left) latin underline"><placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine rend="right align(left) latin"><placeName key="E0500189">Scheuchzer<choice><orig> S</orig><reg>s</reg></choice>tr. 36.</placeName></addrLine>
+                                <addrLine rend="left latin underline"><placeName key="E0500092">Schweiz</placeName>.</addrLine>
+                                
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <address rend="align(center) latin">
+                                <addrLine>
+                                    <persName key="E0300093">Dr. H. Leichtenritt</persName>. <placeName key="E0500029">Berlin</placeName> W. 57.
+                                </addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border align(center) majuscule">
+                                    <placeName key="E0500132">Zü<supplied reason="low-ink">rich</supplied></placeName>
+                                    <lb/><date when-iso="1916-10-04">-4.X.16 XI</date>
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="center" rend="align(center)" resp="#archive_sig" xml:id="addSignature">
+                                <add place="above" rend="align(center)">Mus.Nachl. F. Busoni B II, 2771-Beil.</add>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive_sig" xml:id="delSignature">
+                                <del rend="strikethrough align(center)">
+                                    Mus.ep. H. Leichtentritt 14
+                                    <lb/><handShift new="#sbb_st_blue"/>Nachlaß Busoni <handShift new="#archive_red"/>B II
+                                </del>
+                            </note>
+                            
+                            <substJoin target="#delSignature #addSignature"/>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1916-09-28"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0101515">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116878363" key="E0300093">Leichtentritt, Hugo</persName>
+                    <date when="1916-09-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <!-- Zu überarbeiten, wenn Busoni-Briefe aus der LOC vorliegen -->
+                <correspContext>
+                    <!--<ref type="replyTo" target="#..."/>
+                    <ref type="repliedBy" target="#..."/>-->
+                    <ref type="previous" target="#D0101513"/>
+                    <ref type="next" target="#D0101524"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2020-03-12" who="#E0300327">Erstellung der Datei und erstmalige Bearbeitung; status="unfinished".</change>
+            <change when-iso="2020-09-24" who="#E0300327">Kommentierung abgeschlossen; status="proposed".</change>
+            <change when-iso="2020-11-14" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive_sig">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. H. Leichtentritt 14 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive_sig"/>)</del>
+                        <add place="margin-left" rend="rotate(-90)">Mus.Nachl. F. Busoni B II, 2771</add>
+                    </subst>
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#archive_fol">[1]</note>
+                
+                <opener>
+                    <dateline rend="right align(center) latin">
+                        <address>
+                            <addrLine>
+                                <placeName key="E0500634">Berlin W. Winterfeldt<choice><orig> S</orig><reg>s</reg></choice>tr. 25<hi rend="sup underline" n="2">a</hi></placeName>
+                            </addrLine>
+                        </address>
+                        <date when-iso="1916-09-28">
+                            <choice><abbr>d.</abbr><expan>den</expan></choice> 2<subst><del rend="overwritten">7</del><add place="across">8</add></subst>. <choice><abbr>Sept.</abbr><expan>September</expan></choice> 1916.
+                        </date>
+                    </dateline>
+                    <salute rend="align(left)">Sehr verehrter Meister <persName key="E0300017" rend="latin">Busoni</persName>!</salute>
+                </opener>
+                
+                <p rend="indent-first">
+                    Es ist mir eine Freude, aus Ihrem Briefe
+                    <lb/>zu ersehen, da<choice><orig>ß</orig><reg>ss</reg></choice> <rs key="E0800114">mein kleines Büchlein über
+                        <lb/>Sie</rs> Ihren Beifall findet. Leider fällt es in eine
+                    <lb/>sehr ungünstige Zeit und wird wohl kaum so
+                    <lb/>wirksam sein, wie ich wünschte, indes damit
+                    <lb/>mu<choice><orig>ß</orig><reg>ss</reg></choice> man sich in diesen unruhigen Zeiten
+                    <lb/>abfinden. Sie schreiben, wie nahe Ihnen der Tod
+                    <lb/>von <persName key="E0300083" rend="latin">Boccioni</persName> geht.
+                    
+                    <note type="commentary" resp="#E0300327">Die <ref target="#E0800060">Edition von Beaumont</ref> enthält keinen Brief, in dem sich <persName key="E0300017">Busoni</persName> zum Tod <persName key="E0300083">Boccionis</persName> äußert und sich für die <rs key="E0800114">Biographie</rs> bedankt.</note>
+                    
+                    Ich sende Ihnen darüber einen
+                    <lb/>Ausschnitt aus der <orgName key="E0600055">Vossischen Zeitung</orgName>. Man hat
+                    <lb/>diesen Künstler hier sehr wenig gekannt. Wenn
+                    <lb/>es wahr ist, da<choice><orig>ß</orig><reg>ss</reg></choice> er zu den <q rend="dq-du">eifrigsten Kriegs
+                        <lb break="no"/>hetzern</q> gehörte, so hat er in tragischer Weise
+                    <lb/>den italienischen Nationalwahnsinn gebüßt.
+                    <lb/>Wann wird endlich die Welt wieder einmal
+                    <lb/>zur Besinnung kommen? Von mir selbst kann
+                    <lb/>ich berichten, da<choice><orig>ß</orig><reg>ss</reg></choice> ich in genau zwei Monaten
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive_fol">[2]</note>
+                    
+                    den <title key="E0400451" rend="dq-du">Sizilianer</title> fertig komponiert habe. Ob ich zur
+                    <lb/>Ausarbeitung der Partitur jetzt die nötige Muße
+                    <lb/>finden werde, erscheint mir sehr zweifelhaft, weil
+                    <lb/>demnächst eine neue Musterung meines Jahr
+                    <lb break="no"/>gangs bevorsteht und ich nicht darauf rechnen
+                    <lb/>kann, wiederum befreit zu werden.
+                    
+                    <note type="commentary" resp="#E0300327"><persName key="E0300093">Leichtentritt</persName> trat am <date when-iso="1917-01-02">2. Januar 1917</date> seinen Wehrdienst an (vgl. <bibl><ref target="#E0800277"/>, S. 351</bibl>).</note>
+                    
+                    Zudem
+                    <lb/>habe ich jetzt im <rs key="E0600159">Konservatorium</rs> viel zu unter
+                    <lb break="no"/>richten, in Vertretung von <persName key="E0300547" rend="latin">Philipp Scharwenka</persName>,
+                    <lb/>der leider so schwer erkrankt ist, da<choice><orig>ß</orig><reg>ss</reg></choice> man
+                    <lb/>kaum auf Genesung hoffen darf. Überdies be
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp xml:id="dsb_p2" rend="round border align(center) small rotate(90)">
+                            Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb break="no"/>ginnt auch die Konzertsaison wieder <foreign xml:lang="it" rend="latin">crescendo
+                        <lb/>ed accel<sic>l</sic>erando</foreign>,
+                    
+                    <note type="commentary" resp="#E0300327">It.: zunehmend und schneller werdend [mus.]</note>
+                    
+                    so da<choice><orig>ß</orig><reg>ss</reg></choice> es mit den schönen Mo
+                    <lb break="no"/>naten der Muße und des Schaffens vorläufig
+                    <lb/>wohl vorbei ist. Zum <title key="E0400133" rend="latin dq-du">Arlecchino</title> gratuliere
+                    <lb/>ich bestens
+                    
+                    <note type="commentary" resp="#E0300327">Am <date when-iso="1916-08-10">10. August</date> meldet <persName key="E0300017">Busoni</persName> in einem Brief an <persName key="E0300093">Leichtentritt</persName>, dass er die Komödie <title key="E0400133">Arlecchino</title> beendet habe (vgl. <bibl><ref target="#E0800060"/>, S. 242 f.</bibl>).</note>
+                    
+                    und wünschte nur<reg>,</reg> diese neue Schöp
+                    <lb break="no"/>fung bald kennen zu lernen. Ich habe auch
+                    <lb/>eine Bitte an Sie. <orgName key="E0600129" rend="latin">Schirmer</orgName> in <placeName key="E0500031" rend="latin">New York</placeName> schuldet
+                    <lb/>mir seit einem Jahr <choice><orig>hundert</orig><reg>100</reg></choice> Dollars. Durch
+                    <lb/>die unterbrochene Postverbindung erreicht mich
+                    <lb/>ein Brief aus <placeName key="E0500093">Amerika</placeName> <subst><del rend="strikethrough">überhaupt nicht</del><add place="above">nur sehr selten</add></subst>, und
+                    <lb/>ein Check überhaupt nicht. Wenn der Check
+                    
+                    <pb n="3"/>
+                    
+                    <note type="stamp" place="top-center" resp="#dsb_st_red">
+                        <stamp sameAs="#dsb_p2" rend="round border align(center) small">
+                            Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    an Sie gesandt würde und Sie ihn mir hersenden würden, so wäre
+                    <lb/>vielleicht eine Möglichkeit, da<choice><orig>ß</orig><reg>ss</reg></choice> er in meine Hände kommt. Da
+                    <lb/>demnächst eine mir bekannte Dame nach <placeName key="E0500093">Amerika</placeName> reist, so
+                    <lb/>würde sie eine dementsprechende Botschaft bei <orgName key="E0600129" rend="latin">Schirmer’s</orgName> <subst><del rend="overwritten"><gap extent="1" unit="char" reason="overwritten"/></del><add place="across">ü</add></subst>berbringen,
+                    <lb/>vorausgesetzt, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie einverstanden sind<supplied reason="omitted">.</supplied>
+                </p>
+                
+                <quote type="cutting" rend="fraktur">
+                    
+                    <note type="shelfmark" place="margin-right center" rend="rotate(90)" resp="#archive_sig">
+                        B II, 2771a
+                    </note>
+                    
+                    <persName key="E0300083" rend="bold">Umberto Boccioni</persName> †. Am <date when-iso="1916-08-17">1<choice><sic>8</sic><corr>7</corr></choice>. August</date> ist <persName key="E0300083" rend="spaced-out">Umberto Boc
+                        <lb break="no"/>cioni</persName>, 34 Jahre alt,
+                    
+                    <note type="commentary" resp="#E0300327">Tatsächlich starb <persName key="E0300083">Boccioni</persName> im Alter von 33 Jahren; auch die im Folgenden genannten Eigennamen (<placeName key="E0500646">Cievo</placeName>, <persName key="E0300470">Filippo Tommaso Marinetti</persName>) enthalten Fehler.</note>
+                    
+                    als Artillerist in der italienischen Armee
+                    <lb/>durch Sturz vom Pferde bei <placeName key="E0500646">Chiero</placeName> ums Leben gekommen. <persName key="E0300083">Boc
+                        <lb break="no"/>cioni</persName> gehörte mit <persName key="E0300470">F. I. Marinetti</persName> zu den Führern der Futu
+                    <lb break="no"/>risten und hat sich durch die Mitautorschaft des futuristischen
+                    <lb/>Manifestes<orig>,</orig> sowie durch seine Tätigkeit als Bildhauer, Maler und
+                    <lb/>Schriftsteller einen Namen gemacht. Ernst genommen wurde er
+                    <lb/>allerdings nur von wenigen. Seit Beginn des Krieges war <persName key="E0300083">Boc
+                        <lb break="no"/>cioni</persName> einer der eifrigsten Kriegshetzer in <placeName key="E0500013">Italien</placeName>. Er hat das Wort
+                    
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">
+                            Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb/>vom <quote rend="dq-du">Krieg, der einzigen Hygiene der Welt</quote> geprägt
+                    
+                    <note type="commentary" resp="#E0300327"><persName key="E0300470">Filippo Tommaso Marinetti</persName> gilt als Begründer des Futurismus, einer avantgardistischen Bewegung mit Ursprung in <placeName key="E0500013">Italien</placeName>. <date when-iso="1909">1909</date> veröffentlichte er das <bibl><ref target="#E0800307">Futuristische Manifest</ref></bibl>, in dem er den gewaltsamen Bruch mit allem Althergebrachten fordert. So heißt es in dem <rs key="E0800307">Manifest</rs> unter anderem: <q>Wir wollen den Krieg verherrlichen – die einzige Hygiene der Welt – den Militarismus, den Patriotismus, die Vernichtungstat der Anarchisten, die schönen Ideen, für die man stirbt, und die Verachtung des Weibes</q> (Übersetzung nach <bibl><ref target="#E0800327"/>, S. 34</bibl>). <persName key="E0300083">Boccioni</persName> schloss sich der Bewegung an und brachte <date when-iso="1910">1910</date> das <title>Manifest der futuristischen Maler</title> heraus, in dem er zusammen mit anderen Künstlern zur Innovation in der Kunst aufruft und die Loslösung vom traditionellen Kunstbetrieb fordert.</note>
+                    
+                    und hat mit
+                    <lb/>seine<choice><sic>n</sic><corr>m</corr></choice> Gesinnungsgenossen Marchetti
+                    <!-- Leonzio Marchetti? -->
+                    
+                    <note type="commentary" resp="#E0300327">Gemeint: <persName key="E0300470">Marinetti</persName>?</note>
+                    
+                    zusammen in <placeName key="E0500085">Mailand</placeName> und
+                    <lb/>anderen italienischen Großstädten an der Interventionistenbewegung
+                    <lb/>hervorragenden Anteil gehabt. Seine Bildhauereien sind vor dem
+                    <lb/>Krieg auch in <placeName key="E0500015">Deutschland</placeName> wiederholt gezeigt worden. <persName key="E0300083">Boccioni</persName>
+                    <lb/>war von Geburt <placeName key="E0500676">Calabrese</placeName>.
+                    
+                </quote>
+                
+                <note type="commentary" resp="#E0300327">Der Artikel erschien am <date when-iso="1916-09-07">7. September</date> in der Morgenausgabe der <orgName key="E0600055">Vossischen Zeitung</orgName> (vgl. <bibl><ref target="#E0800303"/></bibl>).</note>
+                
+                <closer>
+                    <salute>Es grüßt Sie und Ihre Angehörigen herzlichst</salute>
+                    <salute rend="align(center)">Ihr sehr ergebener</salute>
+                    <signed rend="latin align(right)"><persName key="E0300093">H. Leichtentritt</persName>.</signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300327">[Rückseite von Textseite 2]</note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300162">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>George Sand</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-19" who="#E0300552">Ergänzt und überprüft</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118605348</idno>
+               <idno type="VIAF">46766944</idno>
+               <persName type="reg">
+                  <surname>Sand</surname>,
+                  <forename>George</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Amantine</forename>
+                  <forename>Aurore</forename>
+                  <forename>Lucile</forename>
+                  <surname>Dupin</surname>
+               </persName>
+               <persName type="baptism">
+                  <forename>Amandine</forename>
+                  <forename>Aurore</forename>
+                  <forename>Lucie</forename>
+                  <surname>Dupin</surname>
+               </persName>
+               <persName type="married">
+                  <forename>Amantine</forename>
+                  <forename>Aurore</forename>
+                  <forename>Lucile</forename>
+                  <roleName type="nobility">Baroness</roleName>
+                  <surname>Dudevant</surname>
+               </persName>
+               <persName type="pseud">
+                  <forename>George</forename>
+                  <surname>Sand</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1804-07-01"/>
+                  <placeName key="E0500012">Paris</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1876-06-08"/>
+                  <placeName key="E0500221">Nohant-Vic</placeName>
+               </death>
+               <sex value="f"/>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800270">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. N. 1900i</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-27" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <title level="a">Dur und Moll.</title>
+                        <title level="a" type="sub"><placeName key="E0500535">Brüssel</placeName>.</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600067">Signale für die musikalische Welt</orgName></title>
+                        <idno type="DNB">947363564</idno>
+                        <imprint><date when-iso="1900-11-07"/></imprint>
+                        <biblScope unit="volume">58. Jahrgang</biblScope>
+                        <biblScope unit="no">60</biblScope>
+                        <biblScope unit="page">946–955</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

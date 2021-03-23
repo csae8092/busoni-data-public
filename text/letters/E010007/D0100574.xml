@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100574">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (Brüssel, 26. Oktober 1900)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (Brussels, 26 October 1900)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Zz">Zentralbibliothek Zürich</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Zürich</settlement>
+                        <institution key="CH-Zz">Zentralbibliothek Zürich</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection>Nachlass Robert Freund &amp; Etelka Freund</collection>
+                        <idno>Ms. Z II 157 a.1.11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> berichtet von seinen Begegnungen mit französischen Musikern (Konzert mit <persName key="E0300488">Marteau</persName> 
+                            in <placeName key="E0500489">Aachen</placeName>, privates Vorspiel von <persName key="E0300475">Fauré</persName> bei <persName key="E0300493">Ysaÿe</persName>, 
+                            Opernvorstellung mit <persName key="E0300161">Saint-Saëns</persName>); lässt <persName key="E0300420">Etelka</persName> für ihre Grüße danken und bittet darum, 
+                            dass sie sich <q>zwei kurze Monate</q> vor einem <q>wichtigen Schritt ihres Lebens</q> nicht zu sehr zerstreut und die Zeit ausnutzt.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1900-10-26"/>26 Oct 900</docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1900-10-26"/></docDate>
+                            <incipit>Während Sie in <placeName key="E0500012">Paris</placeName> sind</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten; Umschlag mit Aufriss oben (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat
+                            </handNote>
+                            <handNote xml:id="post_pen" scope="minor" medium="blue_pen" scribe="postoffice" cert="high">
+                                vmtl. Hand eines Postangestellten, der mit blauem Buntstift einen Vermerk auf der Umschlagvorderseite gemacht hat
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="3" facs="D0100574_3.jpg"/>
+                            <note type="shelfmark" place="top-right" rend="tiny" resp="#archive">11</note>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center) small">
+                                    <foreign xml:lang="fr">
+                                        <placeName key="E0500535">Bruxelles</placeName>
+                                        <lb/><date when-iso="1900-10-26">26
+                                            <lb/>Octo
+                                            <lb/>18–19
+                                            <lb/>00</date>
+                                        <lb/>Depart
+                                    </foreign>
+                                </stamp>
+                            </note>
+                            <fw place="margin-left" rend="align(center) space-below">
+                                <foreign xml:lang="fr">
+                                    <hi rend="caps large">Le Grand Hôtel</hi>
+                                    <lb/><hi rend="caps small spaced-out"><placeName key="E0500535">Bruxelles</placeName></hi>
+                                    <figure>
+                                        <figDesc>Ansicht Le Grand Hôtel Bruxelles</figDesc>
+                                    </figure>
+                                    <hi rend="majuscule tiny">J. Curtet·Hugon</hi>
+                                    <lb/><hi rend="tiny">Administrateur·Directeur</hi>
+                                </foreign>
+                            </fw>
+                            <address rend="align(right)">
+                                <addrLine>Herrn<note type="annotation" place="inline" rend="sup large" resp="#post_pen">/sa<gap reason="illegible" atLeast="2" unit="char"/></note></addrLine>
+                                <addrLine><persName key="E0300208">Robert Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500605">Hôtel de Londres</placeName></addrLine>
+                                <addrLine><hi rend="underline"><placeName key="E0500012">Paris</placeName></hi></addrLine>
+                            </address>
+                            
+                            <pb n="4" facs="D0100574_4.jpg"/> 
+                            <note type="objdesc" resp="#E0300361">[Rückseite Umschlag, vacat]</note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500535">Brüssel</origPlace>
+                            <origDate when-iso="1900-10-26"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100574">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1900-10-26"/>
+                    <placeName ref="http://www.geonames.org/2800866" key="E0500535">Brüssel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1900-10-29" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2880121" key="E0500534">Kleinlaufenburg</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100512"/>
+                    <ref type="previous" target="#D0100511"/>
+                    <ref type="next" target="#D0100512"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-06-24" who="#E0300361">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-07-25" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-03-06" who="#E0300361">status="proposed"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100574_1.jpg"/>
+                <note type="shelfmark" place="top-right" rend="tiny" resp="#archive">11</note>
+                
+                <fw place="top-center" rend="align(center) small">
+                    <foreign xml:lang="fr">
+                        <hi rend="majuscule bold italic large">Le</hi> <hi rend="caps bold italic huge">Grand Hôtel</hi>
+                        <lb/><hi rend="italic">Société Anonyme</hi> au Capital 1.500.000
+                        <lb/><hi rend="caps spaced-out">J. Curtet–Hugon,</hi> <hi rend="majuscule tiny">Administrateur–Directeur</hi>
+                    </foreign>
+                </fw>
+                <fw place="center">
+                    <figure><figDesc>Ansicht Eden Restaurant Hôtel</figDesc></figure>
+                </fw>
+                <fw place="margin-left" rend="align(center) tiny">
+                    <foreign xml:lang="fr">
+                        <hi rend="caps italic large"><placeName key="E0500535">Bruxelles</placeName></hi>
+                        <lb/><hi rend="bold small">1</hi><hi rend="bold sup tiny">er</hi> <hi rend="bold majuscule spaced-out small">Ordre</hi>
+                        <lb/><hi rend="spaced-out normal">250 Chambres &amp; Salons</hi>
+                        <lb/><hi rend="bold italic large">Superbe Restaurant </hi>
+                        <lb/><hi rend="majuscule bold spaced-out small">Bar &amp; Grill Room</hi>
+                        <lb/><seg rend="align(left)"><hi rend="tiny">Bureaux de</hi> <hi rend="majuscule tiny">Poste Télégraphe</hi></seg>
+                        <lb/><hi rend="majuscule tiny">Chemins de Fer</hi>
+                        <lb/><hi rend="majuscule tiny">Wagons–Lits</hi>
+                        <figure>
+                            <figDesc>Ansicht Le Grand Hôtel Bruxelles</figDesc>
+                        </figure>
+                        <seg rend="indent-first-neg"><hi rend="caps spaced-out">Le Grand Hôtel</hi></seg>
+                        <lb/><seg rend="indent-2"><hi rend="caps spaced-out"><placeName key="E0500535">Bruxelles</placeName></hi></seg>
+                        <lb/><hi rend="spaced-out">1</hi><hi rend="sup small">er</hi> <hi rend="spaced-out">Ordre</hi>
+                        <milestone unit="section" style="—" rend="align(center)"/>
+                    </foreign>
+                </fw>
+                <fw place="margin-right" rend="align(center) tiny">
+                    <foreign xml:lang="fr">
+                        <hi rend="caps italic large"><placeName key="E0500545">Cap d'Ail</placeName></hi>
+                        <lb/><hi rend="bold small">1</hi><hi rend="bold sup tiny">er</hi> <hi rend="bold majuscule spaced-out small">Ordre</hi>
+                        <lb/><hi rend="spaced-out normal">150 Chambres &amp; Salons</hi>
+                        <lb/><hi rend="bold italic large"> Eden Restaurant</hi>
+                        <lb/><seg rend="indent-2">Station</seg>
+                        <lb/><seg rend="indent"><hi rend="majuscule bold spaced-out small"><placeName key="E0500551">Turbie</placeName></hi> <hi rend="bold sup small">s</hi><hi rend="majuscule bold spaced-out small">/ Mer</hi></seg>
+                        <lb/><hi rend="small">à 5 minutes de</hi>
+                        <lb/><seg rend="indent-2"><hi rend="caps small"><placeName key="E0500357">Monte Carlo</placeName></hi></seg>
+                        <lb/><hi rend="italic tiny">la plus Belle exposition
+                            <lb/>du Littoral</hi> <hi rend="majuscule tiny">plein midi</hi>
+                        <milestone unit="section" style="—" rend="align(center)"/>
+                        <hi rend="tiny">Télégraphe:</hi> <hi rend="majuscule tiny"><placeName key="E0500545">Cap d'Ail</placeName></hi>
+                        <lb/><hi rend="tiny">Poste:</hi> <hi rend="majuscule bold tiny"><placeName key="E0500545">Cap d'Ail</placeName> par <placeName key="E0500159">Monaco</placeName></hi>
+                        <milestone unit="section" style="—" rend="align(center)"/>
+                        <hi rend="caps tiny">Colis Postaux</hi>
+                        <lb/><hi rend="majuscule bold tiny"><placeName key="E0500551">La Turbie</placeName> s/ Mer (Gare)</hi>
+                        <milestone unit="section" style="—" rend="align(center)"/>
+                    </foreign>
+                </fw>
+                <fw place="below" rend="align(center) tiny">
+                    <foreign xml:lang="fr">Eden Restaurant
+                        <lb/><hi rend="majuscule tiny">ouvert</hi>
+                        <lb/><hi rend="tiny">du 1</hi><hi rend="sup tiny">er</hi> <hi rend="tiny">Décembre au 1</hi><hi rend="sup tiny">er</hi> <hi rend="tiny">Mai</hi>
+                    </foreign>
+                </fw>
+                
+                <opener>
+                    <dateline rend="space-above align(right)">                    
+                        <fw place="inline"><seg rend="italic">le </seg></fw><date when-iso="1900-10-26"><choice><orig>26 Oct 900</orig><reg>26. Oktober 1900</reg></choice></date><orig>.</orig>
+                    </dateline>
+                </opener>
+                <p rend="indent-first"><seg type="opener" subtype="salute">Verehrter Freund.</seg> Während Sie in
+                    <lb/><placeName key="E0500012">Paris</placeName> sind,
+                    
+                    <note type="commentary" resp="#E0300361">
+                        In einem Brief an die zu diesem Zeitpunkt noch in <placeName key="E0500029">Berlin</placeName> weilenden <rs type="persons" key="E0300432 E0300420">Schwestern</rs> 
+                        teilt <persName key="E0300208">Freund</persName> mit: <q><foreign xml:lang="fr"><rs key="E0300434">Ma femme</rs> […] sera le <date when-iso="1900-10-17">17</date> 
+                            ou <date when-iso="1900-10-18">18</date> à <placeName key="E0500599">Cherbourg</placeName>. Peut-être j’irai déjà dans quelques jours à 
+                            <placeName key="E0500012">Paris</placeName> pour l’y attendre. La difficulté est d’y trouver des chambres convenables […].</foreign></q> 
+                        (<persName key="E0300208">Robert Freund</persName> an <persName key="E0300432">Irma</persName> und <persName key="E0300420">Etelka Freund</persName>; 
+                        <placeName key="E0500534">Kleinlaufenburg</placeName>, <date when-iso="1900-10-08">08.10.1900</date>; CH-Zz, Ms. Z II 157.6.3) <persName key="E0300208">Freund</persName> 
+                        war also nach <placeName key="E0500012">Paris</placeName> gereist, um <rs key="E0300434">seine Frau</rs> in Empfang zu nehmen und mit ihr noch einige Tage dort zu 
+                        verweilen. <persName key="E0300434">Codman</persName>, eine gebürtige Amerikanerin, stattete ihrer <rs key="E0500093">alten Heimat</rs> regelmäßige Besuche ab 
+                        (vgl. <ref type="E010007" target="#D0100516"><persName key="E0300208">Freunds</persName> Brief vom <date when-iso="1904-11-05" cert="high">05.11.1904</date></ref>) 
+                        und befand sich evtl. auf der Rückreise von dort. <persName key="E0300420">Etelka</persName> (und sehr wahrscheinlich auch ihre Schwester <persName key="E0300432">Irma</persName>) 
+                        fuhren von <placeName key="E0500029">Berlin</placeName>, wo <persName key="E0300420">Etelka</persName> im Anschluss an den <placeName key="E0500144">Weimarer</placeName> 
+                        Meisterkurs noch ihr Pianisten-Debut mit <persName key="E0300017">Busoni</persName> vorbereitet hatte, ebenfalls nach <placeName key="E0500012">Paris</placeName>. 
+                        (vgl. dritte Anm. im <ref type="E010007" target="#D0100512">folgenden Brief</ref>)
+                        <lb/><lb/>Eine angemsessene Unterkunft hat <persName key="E0300208">Freund</persName> mit dem <placeName key="E0500605">Hôtel de Londres</placeName> offenbar gefunden. 
+                        Ein Brief <persName key="E0300017">Busonis</persName> belegt, dass das <rs type="persons" key="E0300208 E0300434">Ehepaar Freund</rs> bei einem 
+                        <placeName key="E0500012">Paris</placeName>-Aufenthalt <date when-iso="1901">im Jahr darauf</date> wieder dort logiert hat. <q><date when-iso="1901-05-02">Tagsüber</date> 
+                            <rs type="persons" key="E0300208 E0300434">Mr. und Mrs. Freund</rs> beim <placeName key="E0500606">Louvre</placeName> begegnet</q>, berichtet 
+                        <persName key="E0300017">Busoni</persName> <rs key="E0300059">seiner Frau</rs>. Und am <date when-iso="1901-05-03">Tag darauf</date>: 
+                        <q>Mit <rs type="persons" key="E0300208 E0300434">Freunds</rs> im <placeName key="E0500605">Hôtel de Londres</placeName> 12 Uhr dejeunirt. Angenehmen Gang und 
+                            Gespräch mit <persName key="E0300208">Robert</persName> bis 3 Uhr gehabt.</q> (<bibl><ref target="#E0800023"/>, Bd. 1, Br. 196 vom 
+                                <date when-iso="1901-05-02">02.</date> und <date when-iso="1901-05-03">03.05.1901</date>, S. 216</bibl>)
+                    </note>
+                    
+                    treffe ich einen vornehmen
+                    <lb/>T<orig>h</orig>eil des musikalischen <placeName key="E0500012">Paris</placeName> auf meinen
+                    <lb/>Reisen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300017">Busoni</persName> war als Konzertpianist unterwegs und spielte u. a. am <date when-iso="1900-10-28">28.10.1900</date> unter der Leitung 
+                        von <persName key="E0300493">Eugène Ysaÿe</persName> im <placeName key="E0500535">Brüsseler</placeName> <placeName key="E0500607">Théâtre de l'Alhambra</placeName>, 
+                        wo bereits am <date when-iso="1900-10-27">Tag zuvor</date> nachmittags eine Generalprobe stattgefunden hatte. Für <persName key="E0300017">Busoni</persName> 
+                        standen das <title key="E0400407">4. Klavierkonzert</title> von <persName key="E0300001">Beethoven</persName> sowie <persName key="E0300176">Anton Rubinsteins</persName> 
+                        <title key="E0400406">Thema und Variationen op. 88</title> auf dem Programm. (vgl. Programm; D-B, Mus.Nachl. F. Busoni E 1900, 12) Weitere Konzerte folgten im 
+                        <date when-iso="1900-11">November</date> u. a. in <placeName key="E0500047">London</placeName> und im <date when-iso="1900-12">Dezember</date> in 
+                        <placeName key="E0500033">Köln</placeName>, <placeName key="E0500498">Den Haag</placeName>, <placeName key="E0500115">Amsterdam</placeName> und 
+                        <placeName key="E0500149">Utrecht</placeName>. (vgl. diverse Programme; D-B, Mus.Nachl. F. Busoni E 1900, 13 bis 22)
+                    </note>
+                    
+                    In <placeName key="E0500489">Aachen</placeName> hörte ich <hi rend="underline"><persName key="E0300488">Marteau</persName></hi>
+                    <lb/><persName key="E0300489">Sindings</persName> <rs key="E0400425">Violin<choice><orig>Concert</orig><reg>konzert</reg></choice></rs> spiel<subst><del rend="overwritten">te</del><add place="across">en</add></subst>;
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Die Aufführung erfolgte im Rahmen des 1. Städtischen Abonnement-Konzerts in <placeName key="E0500489">Aachen</placeName> unter der musikalischen Leitung von 
+                        <persName key="E0300543">Eberhard Schwickerath</persName>. (<bibl><ref target="#E0800269">N. N. 1900h</ref>, Konzertnotiz im <orgName key="E0600099">Musikalischen 
+                            Wochenblatt</orgName> vom <date when-iso="1900-11-08">08.11.1900</date>, S. 616</bibl>)
+                        <lb/><persName key="E0300017">Busoni</persName> lernte <persName key="E0300488">Henri Marteau</persName> im <date when-iso="1901">folgenden Jahr</date> im Zuge 
+                        einer Aufführung seiner <title key="E0400268">2.&#160;Violinsonate</title> näher kennen. (vgl. <bibl><ref target="#E0800023"/>, 
+                            Bd.&#160;2, Anm.&#160;112, S.&#160;851&#160;f.</bibl>)
+                        <lb/><persName key="E0300489">Christian Sinding</persName> und <persName key="E0300017">Busoni</persName> hatten sich bereits <date when-iso="1888">1888</date> in 
+                        <placeName key="E0500007">Leipzig</placeName> angefreundet. (vgl. <bibl><ref target="#E0800218"/>, S.&#160;81&#160;f.</bibl>) 
+                        <date when-iso="1902">1902</date> wurde sein <title key="E0400345">Rondo infinito</title> in deutscher Erstaufführung von <persName key="E0300017">Busoni</persName> 
+                        ins Programm seines 1.&#160;<orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabends</orgName> aufgenommen (vgl. 
+                        <bibl><ref target="#E0800218">ebd.</ref></bibl>, S.&#160;332) – eine Auszeichnung in Anbetracht der Vielzahl an Komponisten, die im Rahmen dieser neuen 
+                        Konzertreihe mit Werken von noch unbekannten zeitgenössischen Künstlern aufgeführt werden wollten.
+                    </note>
+                    
+                    <date when-iso="1900-10-26">heute</date>
+                    
+                    <lb/>Mittag trug <hi rend="underline"><persName key="E0300475">Fauré</persName></hi> seine Variationen
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist vermutlich Faurés <title key="E0400426">op.73 (<foreign xml:lang="fr">Thème et Variations</foreign>)</title>.
+                    </note>
+                    
+                    <lb/>bei <persName key="E0300493">Ysa<choice><orig>y</orig><reg>ÿ</reg></choice>e</persName> uns vor und <choice><orig>A</orig><reg>a</reg></choice>bends werde
+                    <lb/>ich <hi rend="underline"><persName key="E0300161"><choice><abbr>St</abbr><expan>Saint</expan></choice>-Saëns</persName></hi> kennen<orig> </orig>lernen, der die
+                    <lb/>50. Aufführung seines <title key="E0400427">Samson et Dalila</title>
+                    <lb/>dirigi<reg>e</reg>rt.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Die umjubelte Aufführung fand im <placeName key="E0500617">Théâtre Royal de la Monnaie</placeName> statt. <persName key="E0300161">Saint-Saëns</persName> dirigierte 
+                        seine <rs key="E0400427">Oper</rs> allerdings nicht selbst. Als <q>Beigaben</q> wurden weitere seiner Werke ausschnittweise dargeboten, wodurch die Vorstellung de 
+                        facto zu einem Festakt für den <rs key="E0300161">Komponisten</rs> avancierte. Dieser war ob der <q>ihm zutheil gewordenen Aufnahme sehr gerührt</q> und zeigte 
+                        sich zufrieden mit der Ausführung. (<bibl><ref target="#E0800270">N. N. 1900i</ref>, Konzertnotiz in den <orgName key="E0600067">Signalen</orgName> vom 
+                            <date when-iso="1900-11-07">07.11.1900</date>, S. 949</bibl>) <persName key="E0300017">Busoni</persName> greift diesen Abend in seinen Erinnerungen an 
+                        <persName key="E0300161">Saint-Saëns</persName> rückblickend noch einmal auf. (vgl. <bibl><ref target="#E0800276">Busoni&#160;1921 [Weindel&#160;2006]</ref>, S.&#160;112</bibl>)
+                        
+                    </note>
+                    
+                    Sie sehen, manchmal
+                    <lb/>kommen die Berge zum Propheten.</p>
+                <p rend="indent-first">Sagen Sie<orig>,</orig> bitte<orig>,</orig> <persName key="E0300420">Etel</persName> meinen Dank
+                    <lb/>für ihren schriftlichen, sehr lieben und
+                    <lb/>sehr eiligen Gru<choice><orig>ss</orig><reg>ß</reg></choice>;
+                    
+                    <note type="commentary" resp="#E0300361">Nicht ermittelt.</note>
+                    
+                    ich bin froh, dass
+                    
+                    <note type="shelfmark" place="bottom-left" rend="small space-above" resp="#archive">Ms. Z II 157 a.1</note>
+                    
+                    <pb n="2" facs="D0100574_2.jpg"/>
+                    <choice><sic>S</sic><corr>s</corr></choice>ie sich <rs key="E0500012">dort</rs> <del rend="strikethrough">und <gap atLeast="1" unit="char" reason="deleted"/></del> ihrer Jugend
+                    <lb/>freut und <choice><sic>I</sic><corr>i</corr></choice>hres Umganges
+                    <lb/>genie<choice><orig>ss</orig><reg>ß</reg></choice>t. Ich möchte, dass <choice><sic>S</sic><corr>s</corr></choice>ie sich
+                    <lb/>in diesem Augenblicke nicht <hi rend="underline">zu</hi>
+                    <lb/>sehr zerstreut; zwei kurze Monate 
+                    <lb/>noch zu einem wichtigen Schritt ihres
+                    <lb/>Lebens, die ausgenutzt werden sollen!
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Knapp zwei Monate später – am <date when-iso="1901-01-17">17.01.1901</date> – gab <persName key="E0300420">Etelka Freund</persName> ihr Debut als Konzertpianistin im 
+                        <placeName key="E0500074">Beethoven-Saal</placeName> in <placeName key="E0500029">Berlin</placeName>. Gemeinsam mit dem <orgName key="E0600007">Philharmonischen Orchester</orgName> 
+                        und unter der Leitung von <persName key="E0300017">Busoni</persName> brachte sie ein äußerst umfangreiches Programm zu Gehör: <persName key="E0300001">Beethovens</persName> 
+                        <title key="E0400010">3. Klavierkonzert</title>, <persName key="E0300009">Brahms</persName>’ <title key="E0400303">1. Klavierkonzert</title> sowie die 
+                        <title key="E0400360">Spanische Rhapsodie für Klavier und Orchester</title> von <persName key="E0300013">Liszt</persName>/<persName key="E0300017">Busoni</persName>. 
+                        Ein zweites Konzert – diesmal ein Klavier-Abend solo – fand am <date when-iso="1901-01-24">24.01.1901</date> im <placeName key="E0500609">Bechstein-Saal</placeName> statt.
+                        Dort spielte sie <title key="E0400377">Präludium und Fuge Es-Dur</title> von <persName key="E0300012">Bach</persName>/<persName key="E0300017">Busoni</persName>, 
+                        <persName key="E0300013">Liszts</persName> <title key="E0400157">h-Moll-Sonate</title> sowie die <title key="E0400125">12 Etüden op. 10</title> von 
+                        <persName key="E0300137">Chopin</persName>. (vgl. Programme; CH-Zz, Ms. Z II 157.36) 
+                        <lb/><lb/>Mit Bezug auf ihr Debut konnte man später in der <orgName key="E0600014">Allgemeinen Musikzeitung</orgName> lesen: <q>Als eine begabte Pianistin stellte 
+                            sich <persName key="E0300420">Frl. Etelka Freund</persName> vor […] Wohl liefen noch manche Unebenheiten mit unter, die aus einem Mangel an Konzentration, hier 
+                            und dort auch wohl aus einem nicht völlig zulangenden Verständniß für den Inhalt ihrer Aufgaben resultiren mochten, aber der größte Theil ihrer Interpretation 
+                            gelang <persName key="E0300420">Frl. Freund</persName> so über das landläufige Maß hinaus gut, daß die Aufmerksamkeit auf die junge Dame als auf ein echtes Klaviertalent 
+                            hingelenkt wurde. Mit virtuoser Lebendigkeit wurde Vieles im ersten Satz des <persName key="E0300001">Beethoven</persName>-<rs key="E0400010">Konzertes</rs> in 
+                            effektvolle Beleuchtung gerückt, mit Eindringlichkeit, edlem Ausdruck und trefflicher Phrasirung wurden die Eingangstakte des <q>Largo</q> gespielt. In dem 
+                            letzten Satz hatte <persName key="E0300420">Frl. Freund</persName> das Unglück zu entgleisen. Hätte sie die Sache nicht gar zu leicht genommen, wäre das Ziel 
+                            auch wohl ohne Stockung erreicht worden; es war nämlich auffallend, mit welcher Ernsthaftigkeit die Pianistin sich nach diesem Zwischenfall in ihre Aufgabe versenkte. […]</q>
+                        (<bibl><ref target="#E0800263"/>, Kritik in der <orgName key="E0600014">AMZ</orgName> vom <date when-iso="1901-01-25">25.01.1901</date>, S. 63 f.</bibl>)
+                    </note>
+                    
+                    <lb/>Dazwischen fallen noch Reisen, <del rend="striketrough">Weinach</del>
+                    <lb/>Weihnachten, <date when-iso="1901-01-01">Neujahr</date> – und was noch? –<reg>,</reg>
+                    <lb/>was <choice><sic>S</sic><corr>s</corr></choice>ie zur Genüge aus der Sammlung
+                    <lb/>bringen kann. Ich bitte <persName key="E0300420">Etel</persName><reg>,</reg> nicht
+                    <lb/>ungeduldig zu sein, wenn ich die
+                    <lb/>höchst unamüsante Stimme des
+                    <lb/>Gewissens repräsenti<reg>e</reg>re – unnöt<orig>h</orig>ig
+                    <lb/>zu sagen, wie ehrlich ich es meine.</p>
+                <p rend="indent-first">Grüßen Sie Ihre sehr verehrte <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>liebe <rs key="E0300434">Frau</rs>, <persName key="E0300420">Etel</persName> <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300432">Irma</persName>, wenn
+                    <lb/><choice><sic>S</sic><corr>s</corr></choice>ie mit ist<orig>,</orig> (was nicht deutlich
+                    <lb/>zu entnehmen war). <seg type="closer" subtype="salute">Ihnen
+                        <lb/>ein herzliches Lebewohl von
+                        <lb/>Ihrem freundschaf<supplied reason="omitted">t</supplied>lichst ergebenen</seg>
+                    <seg type="closer" subtype="signed" rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

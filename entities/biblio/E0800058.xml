@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Willimann 1994</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <editor>
+                     <forename>Joseph</forename>
+                     <surname>Willimann</surname>
+                  </editor>
+                  <title level="m">Der Briefwechsel zwischen <persName key="E0300017">Ferruccio Busoni</persName> und <persName key="E0300129">Volkmar Andreae</persName></title>
+                  <title level="m" type="sub">1907–1923</title>
+                  <idno type="DNB">940871327</idno>
+                  <imprint>
+                     <pubPlace>Zürich</pubPlace>
+                     <publisher>Komissionsverlag Hug &amp; Co.</publisher>
+                     <date when-iso="1994"/>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Neujahrsblatt der Allgemeinen Musikgesellschaft Zürich</title>
+                  <biblScope unit="volume">178</biblScope>
+               </series>
+               <ref type="ext"
+                    target="https://archive.org/stream/BriefwechselZwischenFerruccioBusoniUndVolkmarAndreae/BusoniBriefwechselMitVolkmarAndreae_djvu.txt">Volltext im Internet Archive</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

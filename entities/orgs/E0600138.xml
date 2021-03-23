@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600138">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liceo musicale (Bologna)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="conservatory">
+               <idno type="GND">1014013-X</idno>
+               <orgName>Liceo musicale (<placeName key="E0500368">Bologna</placeName>)</orgName>
+               <desc><date when-iso="1804-12-03">Am 3. Dezember 1804</date> eröffnet; u. a. geleitet von <persName key="E0300082">Gioachino Rossini</persName> (<date when-iso="1839/1848">1839–1848</date>) und <persName key="E0300017">Ferruccio Busoni</persName> (<date when-iso="1913/1914">1913/14</date>); <date from-iso="1945">seit 1945</date> unter dem Namen <mentioned>Conservatorio <persName key="E0300513">Giovanni Battista Martini</persName></mentioned>.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

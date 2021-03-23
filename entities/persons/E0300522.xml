@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300522">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Józef Turczyński</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="reviewed">
+            <change when-iso="2018-12-11" who="#E0300314">angelegt</change>
+            <change when-iso="2020-01-12" who="#E0300361">status="reviewed"</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">173860087</idno>
+                    <idno type="VIAF">42104663</idno>
+                    <idno type="ISNI">0000000115567024</idno>
+                    <persName type="reg">
+                        <surname>Turczyński</surname>,
+                        <forename>Józef</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1884-02-02"/>
+                        <placeName key="E0500595">Schytomyr</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1953-12-27"/>
+                        <placeName key="E0500187">Lausanne</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Pianist</occupation>
+                    <occupation>Musikpädagoge</occupation>
+                    <occupation>Musikwissenschaftler</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

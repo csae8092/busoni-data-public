@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100573">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (Weimar, 12. September 1900)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (Weimar, 12 September 1900)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Zz">Zentralbibliothek Zürich</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Zürich</settlement>
+                        <institution key="CH-Zz">Zentralbibliothek Zürich</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection>Nachlass Robert Freund &amp; Etelka Freund</collection>
+                        <idno>Ms. Z II 157 a.1.10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> vermeldet einen entscheidenden Fortschritt in der pianistischen Entwicklung von 
+                            <persName key="E0300420">Etelka</persName>; dankt für <persName key="E0300208">Freunds</persName> Einwilligung,
+                            mit <persName key="E0300420">Etelka</persName> im Anschluss an die <q><placeName key="E0500144">Weimarer</placeName> Studienzeit</q> 
+                            noch ihre <q><placeName key="E0500029">Berliner</placeName> Programme</q> vorbereiten zu dürfen; ist enttäuscht über 
+                            <persName key="E0300208">Freunds</persName> nicht erfolgten Besuch in <placeName key="E0500144">Weimar</placeName> und hofft auf ein 
+                            Wiedersehen in <placeName key="E0500029">Berlin</placeName>.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1900-09-12"/>12. S. 900</docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1900-09-12"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1900-09-13"/></docDate>
+                            <incipit>In wenigen Tagen ist unsere <placeName key="E0500144">Weimarer</placeName> Studienzeit zu Ende</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Die vier Seiten des Bogens sind in der Reihenfolge 1, 3, 2, 4 beschrieben.</collation>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100573_5.jpg"/>
+                            <note type="shelfmark" place="top-right" resp="#archive">10</note>
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border align(center) small">
+                                    <seg rend="majuscule"><placeName key="E0500144">Wei<supplied reason="illegible">ma</supplied>r</placeName></seg>
+                                    <lb/><date when-iso="1900-09-12">12.9.00</date>.9–10.V.
+                                    <lb/>★ ★ b
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn <persName key="E0300208">Robert Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500534">Klein<choice><orig>–L</orig><reg>l</reg></choice>aufenburg</placeName></addrLine>
+                                <addrLine><placeName key="E0500499">Großherzogt<orig>h</orig>um
+                                    <lb/><seg rend="align(right)">Baden<orig>.</orig></seg></placeName>
+                                </addrLine>
+                            </address>
+                            
+                            <pb n="6" facs="D0100573_6.jpg"/>
+                            <note type="stamp" place="left" rend="rotate(180)" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500534">Klein<supplied reason="low-ink">laufenburg</supplied></placeName>
+                                    <lb/><date when-iso="1900-09-13">13/9
+                                    <lb/>00</date>
+                                    <lb/>* 3<supplied reason="illegible">–4 N. *</supplied>
+                                </stamp>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500144">Weimar</origPlace>
+                            <origDate when-iso="1900-09-12"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100573">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1900-09-12"/>
+                    <placeName ref="http://www.geonames.org/2812482" key="E0500144">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <placeName ref="http://www.geonames.org/2880121" key="E0500534">Kleinlaufenburg</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100513"/>
+                    <ref type="repliedBy" target="#D0100510"/>
+                    <ref type="previous" target="#D0100513"/>
+                    <ref type="next" target="#D0100510"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-06-24" who="#E0300361">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-07-24" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-02-28" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100573_1.jpg"/>
+                <note type="shelfmark" place="top-right" rend="small space-below" resp="#archive">10</note>
+                <opener>
+                    <salute rend="space-above space-below">Sehr verehrter Freund.</salute>
+                </opener>
+                <p>In wenigen Tagen ist
+                    <lb/>unsere <placeName key="E0500144">Weimarer</placeName>
+                    <lb/>Studienzeit zu Ende <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>wie ich glaube, für <choice><orig>A</orig><reg>a</reg></choice>lle<orig>,</orig>
+                    <lb/>mit gutem Erfolge.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Auf Einladung von <persName key="E0300511">Carl Alexander</persName>, Großherzog von <placeName key="E0500583">Sachsen-Weimar-Eisenach</placeName>,
+                        gab <persName key="E0300017">Busoni</persName> von Anfang <date when-iso="1900-07/1900-09">Juli bis September 1900</date> einen Meisterkurs für etwa
+                        15 fortgeschrittene Klavierschüler im <placeName key="E0500144">Weimarer</placeName> <placeName key="E0500584">Tempelherrenhaus</placeName>.
+                        Sie trafen sich zweimal die Woche. Diejenigen, die ein Werk vorbereitet hatten, spielten es vor; die übrigen hörten zu. Interessierten Zuhörern
+                        war der Zutritt ebenfalls gestattet; bisweilen war auch der <rs key="E0300511">Großherzog</rs> selbst anwesend. Rein spieltechnische
+                        Herausforderungen wurden während dieser Stunden kaum thematisiert, vielmehr stand die Musik selbst im Vordergrund. Darüber hinaus beschränkte sich der Unterricht 
+                        keineswegs auf die Zeit im <placeName key="E0500584">Tempelherrenhaus</placeName>. <persName key="E0300017">Busoni</persName> war die meiste Zeit des Tages – und 
+                        der Nacht – von seiner aufgeweckten Schülerschar umgeben, in dem Bestreben jeden einzelnen bestmöglich kennenzulernen und fördern zu können. Eine solche 
+                        Meisterklasse fand in <placeName key="E0500144">Weimar</placeName> <date when-iso="1901-07/1901-08">von Juli bis August des darauffolgenden Jahres</date> noch 
+                        einmal statt. (<bibl><ref target="#E0800265"/>, S. 39 f.</bibl>; <bibl><ref target="#E0800218"/>, S. 125 ff.</bibl>; 
+                        <bibl><ref target="#E0800016"/>, S. 148 ff.</bibl>) NB: In einigen Quellen falsche Datierung der <placeName key="E0500144">Weimarer</placeName> 
+                        Meisterklassen auf <date when-iso="1901">1901</date>/<date when-iso="1902">02</date>. (vgl. etwa <bibl><ref target="#E0800038">Busoni/Weindel 1999a</ref>, 
+                            S. 327, Anm. 30</bibl> oder <bibl><ref target="#E0800254"/>, S. 89</bibl>) 
+                    </note>
+                    
+                    <lb/>Am meisten vielleicht
+                    <lb/>für <persName key="E0300420">Etel</persName>, welche in dieser
+                    <lb/>Frist einen<reg>,</reg> wie mir
+                    <lb/>scheint<reg>,</reg> entscheiden<supplied reason="ommited">d</supplied>en
+                    <lb/>Schritt vollbracht hat.
+                    <lb/>Das <soCalled rend="dq-du"><foreign xml:lang="fr"><choice><sic>á peu prés</sic><corr>à peu près</corr></choice></foreign></soCalled>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        à peu près [frz.]: nur so ungefähr, unvollkommen, halbe Sache. – <persName key="E0300017">Busoni</persName> greift hier eine Formulierung aus 
+                        <persName key="E0300208">Freunds</persName> <ref type="E010007" target="#D0100513" n="1">vorherigem Brief</ref> auf.
+                    </note>
+                    
+                    <lb/>ist geschwunden und
+                    <lb/>am <date when-iso="1900-09-09">letzten Sonntag</date>
+                    <lb/>hat sie mit ihrem
+                    <lb/>Spiel zum ersten Male
+                    <note type="shelfmark" place="bottom-left" rend=" small space-above" resp="#archive">Ms. Z II 157 a.1</note>
+                    
+                    <pb n="2" facs="D0100573_2.jpg"/>
+                    vermocht<reg>,</reg> ein kleines,
+                    <lb/>aber kritisches
+                    <lb/>Publikum zu ergreifen
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> zu packen.
+                
+                <note type="commentary" resp="#E0300361">
+                    Eine nicht genauer datierte Briefkarte von <persName key="E0300059">Gerda Busoni</persName> an <persName key="E0300420">Etelka</persName> bestätigt diesen Eindruck: 
+                    <q>[…] Nimm diesen Kranz als ein kleines Zeichen von dem grossen Eindruck den ich gestern von dein[em] Spiel hatte. <persName key="E0300420">Etel</persName>, 
+                        ich weiss jetzt dass du eine Künstlerin bist[.]</q> (hs. Notiz mit Bleistift auf dem Umschlag verso: <q>Sommer <date when-iso="1900">1900</date>, 
+                            <placeName key="E0500144">Weimar</placeName> nach einer <persName key="E0300017">Busoni</persName>-Stunde</q>; CH-Zz, Ms.&#160;Z&#160;II&#160;157&#160;a.3.4)
+                </note>
+                
+                </p>
+                <p rend="indent-first">Ich glaube<reg>,</reg> dass <choice><orig><subst><del rend="overwritten">der</del><add place="across">das</add></subst></orig><reg>der</reg></choice>
+                    <lb/>heikelste Moment ihrer
+                    <lb/>Entwicklung überschritten
+                    <lb/>ist und das<reg>s</reg> der Weg
+                    <lb/>vor ihr eben liegt; <del rend="strikethrough">wenn
+                        <lb/>auch noch nicht</del> sie
+                    <lb/>braucht nur<orig>,</orig> mit
+                    <lb/>Beständigkeit weiter zu
+                    <lb/>schreiten. Ich bin
+                    <lb/>glücklich<reg>,</reg> Ihnen mit
+                    <lb/>gutem Gewissen diese
+                    <lb/>Resultate mitt<orig>h</orig>eilen
+                    <lb/>zu k<choice><orig>oe</orig><reg>ö</reg></choice>nnen. –</p>
+                
+                <pb n="3" facs="D0100573_3.jpg"/>
+                <p>Nun scheint mir eine
+                    <lb/>plötzliche Unterbrechung und
+                    <lb/>das Zurückkehren in die
+                    <lb/><rs key="E0500188">heimische Atmosphäre</rs> nicht
+                    <lb/>gleich am Platze. Rückfälle
+                    <lb/>sind kaum zu befürchten, <subst><del rend="overwritten">n</del><add place="across">d</add></subst>och
+                    <lb/>nicht mit Sicherheit ausgeschlossen.
+                    <lb/>So habe ich darauf gedrungen,
+                    <lb/>dass <persName key="E0300420">Etel</persName> vorl<choice><sic>a</sic><corr>ä</corr></choice>ufig noch nach
+                    <lb/><placeName key="E0500029">Berlin</placeName> kommt und mit
+                    <lb/>Freude vernommen, dass Sie
+                    <lb/>in meinen Wunsch gewilligt haben.
+                    
+                    <pb n="4" facs="D0100573_4.jpg"/>
+                    Ich will wenigstens ihre
+                    <lb/><placeName key="E0500029">Berliner</placeName> Programme zu Ende
+                    <lb/>vorbereiten.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Betrifft <persName key="E0300420">Etelka Freunds</persName> nahendes Debut als Konzertpianistin in <placeName key="E0500029">Berlin</placeName> unter dem 
+                        Dirigat von <persName key="E0300017">Busoni</persName> sowie ihren ersten Solo-Klavier-Abend eine Woche danach. (vgl. dazu die Anm. in 
+                        <persName key="E0300017">Busonis</persName> <ref type="E010007" target="#D0100574" n="2">Brief vom <date when-iso="1900-10-26">26.10.1900</date></ref>)
+                    </note>
+                    
+                    –</p>
+                <p rend="indent-first">Eine Entt<choice><sic>a</sic><corr>ä</corr></choice>uschung haben
+                    <lb/>Sie dagegen uns durch Ihr
+                    <lb/>Ausbleiben bereitet; doch
+                    <lb/>muss ich die gewiss triftigen
+                    <lb/>Gründe <subst><del rend="strikethrough">Ihres Ausbleibens</del>
+                        <lb/><add place="margin-left">desselben</add></subst> respe<choice><orig>cti</orig><reg>ktie</reg></choice>ren.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300208">Freund</persName> hatte im <ref type="E010007" target="#D0100513" n="3">vorherigen Brief</ref> einen evtl. Besuch in 
+                        <placeName key="E0500144">Weimar</placeName> in Aussicht gestellt, was aber nicht geschah. <q>Triftige[] Gründe</q> dafür benennt er nicht. 
+                        <persName key="E0300208">Freund</persName> beendet das Thema im <ref type="E010007" target="#D0100510">folgenden Brief</ref> mit einem bedauernden, 
+                        aber knappen <q>es ging nicht</q>.
+                    </note>
+                    
+                    Hoffentlich geht es
+                    <lb/>uns nicht ebenso in <placeName key="E0500029">Berlin</placeName>. –</p>
+                <closer>
+                    <salute rend="indent-first">Seien Sie herzlichst <choice><abbr>u.</abbr><expan>und</expan></choice> achtungsvollst<lb/>gegrüßt.</salute>
+                    <signed rend="align(center)">Ihr sehr ergebener
+                        <lb/><seg rend="align(right)"><persName key="E0300017">F. Busoni</persName></seg>
+                    </signed>
+                    <lb/><lb/><dateline rend="align(left) rotate(45)">
+                        <placeName key="E0500144">Weimar</placeName><reg>,</reg>
+                        <lb/><date when-iso="1900-09-12">12. <choice><abbr>S.</abbr><expan>September</expan></choice> <reg>1</reg>900</date><orig>.</orig>
+                    </dateline>   
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500411">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marijampolė / Mariampol</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="settlement">
+               <placeName xml:lang="lt">Marijampolė</placeName>
+               <placeName xml:lang="de">Mariampol</placeName>
+               <location>
+                  <country key="LT"/>
+                  <country key="RU" to-iso="1915"/>
+                  <country key="LT" when-iso="1918/1940"/>
+                  <country key="SUHH" when-iso="1944/1990"/>
+                  <geo>54.55 23.35</geo>
+               </location>
+               <idno type="GND">4479467-8</idno>
+               <idno type="geonames">597231</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

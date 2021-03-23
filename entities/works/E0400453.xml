@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400453">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leichtentritt, Hugo: Chinesisch-deutsche Tages- und Jahreszeiten von Goethe op. 4</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-03-06" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300093" role="cmp">Hugo Leichtentritt</author>
+                  <author key="E0300124" role="lyr">Johann Wolfgang Goethe</author>
+                  <title level="m">Chinesisch-deutsche Jahres- und Tageszeiten von Goethe</title>
+                  <title level="m" type="sub">Ein Liederzyklus für eine Singstimme mit Pianoforte</title>
+                  <idno type="op">4</idno>
+                  <imprint>
+                     <pubPlace key="E0500007">Leipzig</pubPlace>
+                     <publisher>Hofmeister</publisher>
+                     <date when-iso="1912-09" type="firstprint"/>
+                     <note>vgl. <ref type="ext" subtype="anno" target="#hof #1912 #231">Hofmeister Monatsbericht</ref>, Stand: <date when-iso="2020-08-02">02.08.2020</date></note>
+                  </imprint>
+               </monogr>
+               <note><persName key="E0300093">Leichtentritt</persName> komponierte später auch eine Fassung für Orchester und Singstimme (vgl. <bibl><ref target="#E0800277"/>, S. 337</bibl>).</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400308">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni, Ferruccio: Giga, Bolero e Variazione (Studie nach Mozart)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-12" who="#E0300361">Widmungsträger ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300017">Ferruccio Busoni</author>
+                  <title level="m">Giga, Bolero e Variazione (Studie nach <persName key="E0300010">Mozart</persName>)</title>
+                  <idno type="wcat">K 254</idno>
+                  <idno type="no">3</idno>
+                  <idno type="GND">300239327</idno>
+                  <imprint>
+                     <date when-iso="1909-07" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <pubPlace key="E0500007">Leipzig</pubPlace>
+                     <date when-iso="1909" type="firstprint"/>
+                  </imprint>
+               </monogr>
+               <series sameAs="#E0400429">
+                  <biblScope unit="volume" n="3">3. Heft</biblScope>
+               </series>
+               <note type="dedicatee"><persName key="E0300519">Leo Sirota</persName></note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

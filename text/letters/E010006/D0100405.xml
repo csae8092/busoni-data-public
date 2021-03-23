@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100405"><!-- header ok -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Paul Bekker (Zürich, 14. Mai 1920)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Paul Bekker (Zurich, 14 May 1920)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300416">
+                        <forename>Angelina</forename>
+                        <surname>Smyschlajew</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-NH">Yale University, Irving S. Gilmore Music Library, New Haven, CT</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>New Haven (CT)</settlement>
+                        <institution key="US-NH">Gilmore Music Library</institution>
+                        <collection>The Paul Bekker Papers</collection>
+                        <idno>MSS 50, I.A. Correspondence - Individual, A-E: Box 2, Folder 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> bittet um Veröffentlichung seines beiliegenden <placeName key="E0500027">Bayreuther</placeName> Briefes in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName>.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-05-14"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1920-05-14"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec_1"><date when-iso="1920-05-15"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec_2" cert="high"><date when-iso="1920-05-18"/></docDate>
+                            <docDate resp="#post_pencil"><date when-iso="1920-05-18" cert="high">Dienstag</date></docDate>
+                            <incipit>ich wünschte, dass der Brief, den Sie anbei finden werden</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Brief und Umschlag etwas zerknittert; Büroklammerspuren vierfach; Umschlagaufriss oben (ohne Textverlust), Umschlagecken zerknickt; ansonsten gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift</handNote>
+                            <handNote sameAs="#major_hand_red" scope="minor" medium="red_pen" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, der den Hinweis <q>Expres – Einschreiben</q> auf dem Umschlag zusätzlich rot unterstrichen hat</handNote>
+                            <handNote xml:id="post_pencil" scope="minor" medium="pencil" scribe="postoffice" cert="high">
+                                vmtl. Hand eines Postangestellten, der mit Bleistift in einer Mischung aus lateinischer Schreibschrift und Kurrent u. a. die neue Adresse auf dem Umschlag vermerkt hat</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="label" scope="minor" medium="black_print" scribe="postoffice">
+                                Postaufkleber</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="3"/>
+                            
+                            <note type="label" place="margin-right" rend="large" resp="#label">
+                                <label rend="square border align(center)">Express</label>
+                            </note>
+                            <hi rend="underline-sqare-black-red" resp="#major_hand #major_hand_red">Expres<reg>s</reg> – Einschreiben</hi>                         
+
+                            <address>
+                                <addrLine rend="small">(von D<seg rend="sup small">r̲</seg>. <persName key="E0300017"><choice><abbr>F.</abbr><expan>Ferruccio</expan></choice> Busoni</persName>, <placeName key="E0500189">Scheuchzer<choice><abbr>str.</abbr><expan>straße</expan></choice> 36</placeName><orig>.</orig>)</addrLine>
+                            </address>
+                            <note type="stamp" place="margin-right" rend="small" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/><date when-iso="1920-05-14"><supplied reason="low-ink">14.V.</supplied>20</date>.–18
+                                    <lb/>VIII
+                                    <lb/>Fil. Bahnhof
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="right-of" rend="small" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132"><supplied reason="low-ink">Z</supplied>ür<supplied reason="low-ink">ich</supplied></placeName>
+                                    <lb/><date when-iso="1920-05-14"><supplied reason="low-ink">14.</supplied>V.20</date><supplied reason="low-ink">.–18</supplied>
+                                    <lb/>VIII
+                                    <lb/>Fil. Bahnhof
+                                </stamp>
+                            </note>
+                            <note type="label" place="margin-left" rend="square border align(center) space-above" resp="#label">
+                                <table>
+                                    <row>
+                                        <cell rend="bold scale(1.3,1.7)">R</cell>
+                                        <cell rend="tiny">
+                                            <placeName key="E0500132">Zürich</placeName> 3 Bahnhof
+                                            <lb/><seg rend="bold spaced-out">№ 143</seg>
+                                        </cell>
+                                    </row>
+                                </table>
+                            </note>
+
+                            <address rend="space-above">
+                                <addrLine rend="align(center)">Herrn <persName key="E0300111">Paul Bekker</persName><orig>,</orig></addrLine>
+                                <addrLine rend="align(center)">
+                                    <subst>
+                                        <add><note type="annotation" place="center" rend="align(center) small" resp="#post_pencil">verzogen nach <placeName key="E0500462"><hi rend="underline">Hofheim</hi> (<placeName key="E0500654">Taunus</placeName>)</placeName></note></add>
+                                        <del rend="strikethrough" resp="#post_pencil">Redaktion der <orgName key="E0600070" rend="dq-uu"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName></del>
+                                    </subst>
+                                </addrLine>
+                                <addrLine>
+                                    <subst>
+                                        <add><note type="annotation" place="center" rend="align(center) small" resp="#post_pencil"><placeName key="E0500470">Kap<orig>p</orig>ellen<choice><abbr>str.</abbr><expan>straße</expan></choice> 2</placeName></note></add>
+                                        <del rend="strikethrough" resp="#post_pencil"><seg rend="align(center)"><hi rend="underline"><placeName key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></placeName><orig>.</orig></hi></seg></del>
+                                    </subst>
+                                </addrLine>     
+                            </address>
+           
+                            <pb n="4"/>
+                            
+                            <note type="annotation" place="top" rend="small" resp="#post_pencil">
+                                nach <placeName key="E0500462">Hofheim <placeName key="E0500654">Taunus</placeName></placeName>
+                                <lb/><seg rend="align(right)">H<unclear reason="illegible" cert="medium">o</unclear>f<gap atLeast="3" unit="char" reason="illegible"/> <unclear reason="illegible" cert="high">17/4</unclear></seg>
+                                <lb/><seg rend="indent-first">nicht angetroffen</seg>
+                                <lb/><seg rend="align(right) space-below"><gap extent="1" unit="word" reason="illegible" rend="align(right)"/><unclear reason="illegible" cert="high">/5</unclear></seg>
+                            </note>
+                            <note type="stamp" place="left" rend="small" resp="#post">
+                                <stamp xml:id="post_rec_1" rend="round border majuscule align(center) rotate(180)">
+                                    <placeName key="E0500153">Frankfurt</placeName>
+                                    <lb/><date when-iso="1920-05-15">15.5.20</date>.9-10N.
+                                    <lb/><placeName key="E0500153"><placeName key="E0500655"><supplied reason="illegible">(Mai</supplied>n)</placeName></placeName> 1 30
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="margin-right" rend="small" resp="#post">
+                                <stamp xml:id="post_rec_2" rend="round border majuscule align(center) rotate(-45)">
+                                    <placeName key="E0500462">Hofheim</placeName>
+                                    <lb/><date when-iso="1920-05-18" cert="high">1<unclear reason="illegible">8</unclear>.5.20</date>.5-6V
+                                    <lb/>* <placeName key="E0500654">Taunus</placeName> <seg rend="minuscule">a</seg>
+                                </stamp>
+                            </note>                     
+                            <note type="annotation" place="bottom-center" rend="rotate(180) small space-below" resp="#post_pencil">
+                                bis <date to-iso="1920-05-18" cert="high">Dienstag</date> <unclear reason="illegible" cert="high">mittag</unclear>
+                                <lb/>lagern <unclear reason="illegible" cert="medium">für</unclear> <date when-iso="1920-05-18">18.5.<unclear reason="illegible" cert="medium">20</unclear></date>
+                                <lb/><gap atLeast="1" unit="word" reason="illegible"/>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1920-05-14"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100405">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1920-05-14"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100406"/>
+                    <ref type="previous" target="#D0100404"/>
+                    <ref type="next" target="#D0100406"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Kommentare ausstehend, status todo.</change>
+            <change when-iso="2018-03-26" who="#E0300416">status=unfinished</change>
+            <change when-iso="2018-04-03" who="#E0300416">proposed</change>
+            <change when-iso="2018-06-06" who="#E0300314">status zurückgesetzt auf unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <dateline rend="align(right) space-below"><placeName key="E0500132">Zürich</placeName><reg>,</reg> <date when-iso="1920-05-14">14<reg>.</reg> Mai 1920</date></dateline>
+                    <salute rend="indent-2-first space-below">Sehr verehrter Herr <persName key="E0300111">Bekker</persName>,</salute>
+                </opener>
+                
+                <p rend="indent-first">ich wünschte, dass der Brief, den              
+                    <lb/>Sie anbei finden werden, in der <orgName key="E0600070"><choice><abbr><placeName key="E0500153">Frkf.</placeName> Z.</abbr><expan><placeName key="E0500153">Frankfurter</placeName> Zeitung</expan></choice></orgName>
+                    <lb/>unter Ihren Auspizien <add place="above" rend="small">ab</add>gedruckt
+                    <lb/>würde.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Der beigefügte Brief – in <persName key="E0300111">Bekkers</persName> <ref type="E010006" target="#D0100406">Antwort</ref> als <q><placeName key="E0500027">Bayreuther</placeName> Brief</q> bezeichnet – ist eine zehnseitige <q>offene Erwiederung [sic]</q> <persName key="E0300017">Busonis</persName> auf <persName key="E0300111">Paul Bekkers</persName> <date when-iso="1920-05-09">wenige Tage zuvor</date> in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName> veröffentlichten <rs key="E0800310"><placeName key="E0500027">Bayreuth</placeName>-Artikel</rs>. 
+                    </note>
+                    <!-- noch näher erschließen: was ist der bayreuther brief? -->
+
+                    – Sollten Sie praktische 
+                    <lb/>Bedenken tragen, es zu t<orig>h</orig>un,
+                    <lb/>so müsste ich not<orig>h</orig>gedrungen 
+                    <lb/>den Brief anderswo veröffentlichen.
+                
+                <note type="commentary" resp="#E0300361">
+                    <persName key="E0300017">Busonis</persName> <q><placeName key="E0500027">Bayreuther</placeName> Brief</q> wurde nicht in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName> abgedruckt (vgl. die nachfolgende Korrespondenz) und zu seinen Lebzeiten auch nirgendwo anders. Die <rs key="E0800329">Erstveröffentlichung</rs> erfolgte im Jahr <date when-iso="1996">1996</date> im Rahmen einer Begleitpublikation zu einer Konzertreihe in <placeName key="E0500097">Basel</placeName> (vgl. <bibl><ref target="#E0800328"/>, S. 430</bibl>). Das Originalmanuskript befindet sich heute im <persName key="E0300017">Busoni</persName>-Nachlass der Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName> (vgl. <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB000237CB00000001">Digitalisat</ref>, D-B, Mus.Nachl. F. Busoni C I, 157A).
+                </note></p>
+                
+                <p rend="indent-first">Was darinnen zu lesen steht,
+                    <lb/>ist nicht die Frucht momentaner 
+                    <lb/>Aufwallung, sondern eines 
+                    <lb/>leben<supplied reason="omitted">s</supplied>langen Leidens, das ich
+                    <lb/>um<orig> </orig>so schwerer trug, als ich
+                    <lb/>es still zu tragen hatte.</p>
+                <p rend="indent-first">Ich hoffte, dass Revolutionen
+                    <lb/>nicht allein eine soziale und
+                    <lb/>wirt<orig>h</orig>schaftliche Angelegenheit 
+                    <lb/>bleiben würden; dass das Weg
+                    <lb break="no"/>räumen alter Formen und 
+                    <lb/>Glauben in das Geistige hin
+                    <lb break="no" rend="dh after:-"/><seg rend="indent-2">übergriffe.</seg></p>
+                
+                <pb n="2"/>
+                
+                <p rend="indent-first">Vielleicht braucht es eine
+                    <lb/>längere Zeit zu derartigen
+                    <lb/>Wirkungen, als ich erwartete:
+                    <lb/>genug, dass die Anzeichen<reg> </reg><add place="above" rend="small">dafür</add><reg> </reg>sich
+                    <lb/>doch etwas bemerkbar machen, 
+                    <lb/>wie Ihre <rs key="E0800310">Demolierung von
+                    <lb/><seg rend="indent-2"><orig>—</orig> <placeName key="E0500027">Bayreuth</placeName> <orig>—</orig></seg></rs>
+                    <lb/>beweist.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        
+                    </note>
+                    <!-- Materialsammlung Bekkers Bayreuth-Glosse:
+                        kontra Bayreuther Festspiele:
+                        - unwirtschaftlich
+                        - »Unsicherheit der politischen Verhältnisse« (Streikrisiko; logistische Hürden; hohe Lebenshaltungskosten in Bayreuth allgemein … für deutsche Besucher umso mehr, alles hinge also von internationalem Publikum ab)
+                        => Lohnt es also den ganzen Aufwand? Aktuell scheint es keine Bestrebungen hinsichtlich einer »Wiederaufnahme der Festspiele« zu geben. Ist das ein Verlust für das »deutsche[] Kunstleben«?
+                        => der »Geist von Bayreuth« nicht mehr das, was er mal war                        
+                        pro und kontra Bayreuth:
+                        - »künstlerische[] Werte der Festspiele lagen zuletzt hauptsächlich in der einzigartigen Chor- und Orchesterleistung« (großartige Ensembleleistungen von Chor und Orchester), aber dem gegenüber »sah und hörte [man] viele mittelmäßige Solisten«
+                        *** irgendwie FAZIT: Wagner als Musiker ist toll, die Institution Bayreuth (Festspiele) ist überflüssig
+                        
+                        Busoni bezieht sich hier auf eine Glosse Bekkers mit dem Titel »Bayreuth«, die …
+                        Mit Ausbruch des Ersten Weltkrieges 1914 wurde der Spielbetrieb der Bayreuther Festspiele temporär unterbrochen und erst 1924 wieder aufgenommen (vgl. Eichhorn 2002, S. 334)
+                    -->
+                    
+                    – Ich danke Ihnen 
+                    <lb/>im Voraus für ihre freundliche
+                    <lb/>Mühe mit dem Artikel<orig>,</orig>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist <persName key="E0300017">Busonis</persName> beigefügter <q><placeName key="E0500027">Bayreuther</placeName> Brief</q>.
+                    </note>
+                    
+                    und
+                    <lb/>zeichne <seg type="closer" subtype="salute">mit achtungsvollsten
+                        <lb/>Grü<choice><orig>ss</orig><reg>ß</reg></choice>en als Ihr sehr ergebener</seg></p>
+                
+                <closer>
+                    <signed rend="align(right) space-above"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

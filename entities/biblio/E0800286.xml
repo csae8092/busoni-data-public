@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800286">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Walton 2009</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-01-25" who="#E0300372">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <forename>Chris</forename>
+                            <surname>Walton</surname>
+                        </author>
+                        <title level="m"><persName key="E0300141">Othmar Schoeck</persName></title>
+                        <title level="m" type="sub">Life and Works</title>
+                        <idno type="PPN">603675344</idno>
+                        <imprint>
+                            <pubPlace>Rochester, NY</pubPlace>
+                            <publisher>University of Rochester Press</publisher>
+                            <date when-iso="2009"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Eastman studies in music</title>
+                        <biblScope unit="volume">65</biblScope>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300205">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Arnold Walther</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-20" who="#E0300550">Datensatz überprüft, Statusänderung reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119111608</idno>
+               <idno type="VIAF">10648405</idno>
+               <idno type="ISNI">0000000034835592</idno>
+               <persName type="reg">
+                  <surname>Walther</surname>,
+                  <forename>Karl</forename>
+                  <forename>Arnold</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1846-12-28"/>
+                  <placeName key="E0500266">Balsthal</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1924-11-06"/>
+                  <placeName key="E0500190">Solothurn</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Kirchenmusiker</occupation>
+               <occupation>Pädagoge</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

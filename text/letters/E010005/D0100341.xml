@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100341">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Ludwig Rubiner (London, 29. November 1919)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Ludwig Rubiner (London, 29 November 1919)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300378">
+                        <forename>Elizaveta</forename>
+                        <surname>Willert</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 1016</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 810 (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-565437</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> scheint enttäuscht von der <placeName key="E0500047">Londoner</placeName>-Gesellschaft zu sein; Er erzählt <persName key="E0300126">Rubiner</persName> über seine Korrespondenz mit <persName key="E0300443">Bernard Shaw</persName>. </summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-11-29"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1919-11-28"/></docDate>                          
+                            <incipit>heute – da ich Ihren Brief vom 20. empfange</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">12 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation> keine Besonderheiten der Seitenfolge</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die auf der Umschlagrückseite mit Bleistift der Kürzel <q>IV s</q> notiert hat.</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="7"/> 
+                            <note type="annotation" place="top" resp="#autor" rend="underline"><placeName key="E0500015" xml:lang="en">Germany</placeName></note>
+                            <note type="stamp" place="top-center" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500571" rend="majuscule">St. Johns Wood</placeName> N.W. 8
+                                    <lb/> 8. 15 PM
+                                    <lb/><date when-iso="1919-11-28">28 NOV 19</date>
+                                    
+                                </stamp>
+                            </note>
+                            
+                            
+                            
+                            <address>
+                                <addrLine>Herrn</addrLine> 
+                                <addrLine><persName key="E0300126">Ludwig Rubiner</persName></addrLine>
+                                <addrLine><placeName key="E0500072">Viktoria-Luise-Platz 11</placeName></addrLine>
+                                <addrLine> <placeName key="E0500029"> <hi rend="underline">Berlin</hi></placeName>W 30</addrLine>
+                            </address>
+                            <note type="annotation" resp="#author" place="inline"> bei <persName key="E0300017">Busoni</persName></note>
+                            
+                            
+                            <pb n="8"/> 
+                            
+                            <address rend="align(center)">
+                                <addrLine rend="inline"><persName key="E0300017">Dr. F. Busoni</persName>,</addrLine>
+                                <addrLine rend="inline"><placeName>West Wing</placeName>, <lb/><placeName key="E0500509">Regent’s Park</placeName>
+                                    <lb/> NW.</addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B I</stamp>
+                                        Mus.ep. F. Busoni 810</del> <add place="below">Mus.Nachl. F. Busoni B I, 1016-Beil.</add> 
+                                </subst>                    
+                            </note>
+                            
+                            
+                            <note type="stamp" place="bottom" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500047">London</origPlace>
+                            <origDate when-iso="1919-11-29"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100341">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1919-11-29"/>
+                    <placeName ref="http://www.geonames.org/2643743" key="E0500047">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100340"/>                   
+                    <ref type="previous" target="#D0100340"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-03-27" who="#E0300378">in Bearbeitung
+                status="unfinished"</change>
+            <change when-iso="2018-04-01" who="#E0300378">status="proposed"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873356241/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA100000008"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>  
+                    <note type="shelfmark" place="top-left" resp="#archive">
+                        <del rend="strikethrough">Mus.ep. F.Busoni 810 (Busoni-Nachl.  <handShift
+                            new="#archive_red"/>B I)</del>  </note>
+                    <note type="shelfmark" place="below"> Mus.Nachl.F. Busoni B I, 1016</note>
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    <address rend="left">
+                        <addrLine><placeName key="E0500047">London</placeName>,</addrLine></address>
+                    <dateline rend="inline">
+                        <date when-iso="1919-11-29">28. November 1918</date>
+                    </dateline>
+                </opener>
+                
+                <p>
+                    <seg type="opener" subtype="salute">Mein lieber <persName key="E0300126">Rubiner</persName>,</seg> heute — da
+                    <lb/>ich Ihren Brief vom 20. empfange <ref type="E010005" target="# D0100340"></ref>,-sind
+                    <lb/>die 8 Frage<reg>n</reg>, die Sie sich vorbehielten,
+                    <lb/>erloschen. Nach diesem Ma<choice><orig>ass</orig><reg>ß</reg></choice> der Post
+                    <lb break="no" rend="after:="/>bewegung gemessen, wird es ange<lb break="no"/>zeigt sein, dass Sie Ihren nächsten Brief <note type="commentary" resp="#E0300378"> <persName key="E0300126">Rubiner</persName> wird auf diesen Brief nicht antworten, da er drei Monate später an einer Lungenentzündung verstirbt. 
+                        <lb/>Das Drama <title key="E0400316">Die Gewaltlosen</title> wird zu seinen Lebzeiten nicht aufgeführt werden (Vgl. <bibl><ref target="#E0800199"/>, S. 31—45</bibl>). </note>
+                    <lb/>nach <placeName key="E0500132" rend="underline">Zürich</placeName> richten, alswo ich Mitte
+                    <lb/>Dezember wieder zu sein hoffe. — Die
+                    <lb/><soCalled rend="dq-uu">große Welt</soCalled> in der zu leben Sie
+                    <lb/>mir an-er-dichten, ist nicht mehr. 
+                    <note type="commentary" resp="#E0300378">Zu Beginn des 20. Jahrhunderts, vor allem während der Zwischenkriegszeit der 1920er und 1930er Jahre, wuchs das geographische Ausmaß des Londoner Stadtgebiets. 
+                        <lb/>Die Stadt wird großer, industrieller: Gerade im Jahr <date when-iso="1900">1900</date>fuhr der erste mechanische Bus in <placeName key="E0500047">London</placeName>. Es kann sein, dass für <persName key="E0300017">Busoni</persName> diese große Stadt zu 
+                        <lb/>agressiv war. (Vgl. über <placeName key="E0500047">London</placeName>: <bibl><ref target="#E0800195"/>, S. 115</bibl>0.)</note>
+                    
+                    
+                    <note type="stamp" place="inline" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb/>Mit dem Fallen aristokratischer
+                    <lb/>Prinzipien <del rend="strikethrough">wird</del> löst sich die impo<lb break="no" rend="after:="/> sante <choice><abbr>u.</abbr><expan>und</expan></choice>mysteriöse Masse in
+                    <lb/>einzelne Kleine <choice><abbr>u.</abbr><expan>und</expan></choice> gewöhnliche Existenzen
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Interessen auf; wenigstens <del rend="erasure"><choice><unclear cert="high"> wird</unclear></choice></del> 
+                    <add rend="below">kann</add>
+                    <lb/>ich hier in <placeName key="E0500047">London</placeName> keinen <del rend="strikethrough">Ei</del> anderen
+                    <lb/>Eindruck gewinnen, suche vergebens
+                    <lb/>mir den ersten, schöneren, aus der Erriner<lb break="no"/>ung zu rekonstruieren, und ihn auf
+                    <lb/>das gegenwärtige Bild zu heften. Es
+                    <lb/>gelingt mir nicht:— die Menschen sind
+                    <lb/>in der T<orig>h</orig>at hässlicher, uneleganter,
+                    <lb/>ihr Ausdruch ist frech und gewöhnlich,
+                    <lb/>der gute Ton vernachlässigt und 
+                    
+                    
+                    <note type="object" resp="#E0300378">[Rückseite von Textteil 1]</note>
+                    <note type="stamp" place="bottom" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="2"/>
+                    
+                    <note type="shelfmark" place="margin-left"> Mus.Nachl.F. Busoni B I, 1016</note>
+                    
+                    <note type="stamp" place="inline" resp="#dsb_st_red" rend="rotate(-90)">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <pb n="3"/>
+                    
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                    
+                    <lb/>oft <del rend="erasure">meist</del> gänzlich außer Acht gela<choice><orig>ß</orig><reg>ss</reg></choice>en; —
+                    <lb/>da<choice><reg>ß</reg><orig>ss</orig></choice> es 32 mal mehr Menschen sind <note type="commentary" resp="#E0300378">Zu der Zeit leben in <placeName key="E0500047">London</placeName> 7 Millionen Menschen.
+                        <lb/><placeName key="E0500132">Zürich</placeName> hat <date when-iso="1893">1893</date> zusammen mit den umliegenden Vororten als größte Stadt der <placeName key="E0500092">Schweiz</placeName> über 100.000 Einwohner. 
+                        <lb/>(Vgl. <bibl><ref target="#E0800194"/>, Bd. 3</bibl>.)</note>,
+                    <lb/>als in <placeName key="E0500132">Zürich</placeName>, macht sie nicht bedeutender,
+                    <lb/>noch intere<choice><reg>ss</reg><orig>ß</orig></choice>anter. 
+                    <note type="commentary" resp="#E0300378">In den Briefen an seine Frau <persName key="E0300059">Gerda Busoni</persName> scheint <persName key="E0300017">Busoni</persName> nicht zufrieden mit seiner Tournee und dem Publikum zu sein. 
+                        <lb/>So schreibt er über seine Konzerte: <q rend="dq-du">[…] unwürdig, peinlich und sogar schädlich. — […] darum glaube ich, dass es die letzte <q rend="dq-uu">Tournée</q> in diesem Style war.</q> 
+                        <lb/>(Vgl.<bibl><ref target="#E0800190"/>, S. 370—371</bibl>).</note> 
+                    — Zur Unabhängigkeit
+                    <lb/>sind <del rend="overwritten">S</del>ie <del rend="erasure">Menschen</del> noch <hi rend="underline">nicht reif</hi>,es gibt
+                    <lb/>ein Übergewicht von brutalen Instinkten,
+                    <lb/>die streng überwacht werden mü<choice><reg>ss</reg><orig>ß</orig></choice>en. Den
+                    <lb/>Fehler, den ich als Musik<choice><reg>p</reg><orig> P</orig></choice>rediger mache, in
+                    <lb/>dem ich, beim Durchschnitt, die Vorbereitung,
+                    <lb/>voraussetze, die in mir selber vorhanden ist, —
+                    <lb/>diesen Fehler <del rend="erasure">machen</del> begehen die sozialen Ver<lb break="no"/> be<choice><orig>ß</orig><reg>ss</reg></choice>erer. Ich liebe daran das Vertrauen
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> den Idealismus: — aber während die
+                    <lb/>Aufklärung in Kunst<choice><reg> - D</reg><orig> D</orig></choice>ingen niemandem 
+                    <lb/>an’s Leben geht, kann sie in Sachen der
+                    <lb/>Gesellschaftsordnung Alles entstellen. <choice><unclear reason="erasur" cert="high">und</unclear></choice>
+                </p>
+                
+                
+                
+                <p rend="indent-fisrt">Von dem Erlebnis Ihrer Frau hatte
+                    <lb/>ich gehört: eine Mrs. Haring, die Sie besucht
+                    <lb/>haben soll, brachte die Zeitung. Ich bedauere 
+                    <lb/>es herzlich und erwarte ebenso bessere Nach
+                    <lb break="no"/>richten. — <note type="commentary" resp="#E0300378">Wahrscheinlich bezieht sich <persName key="E0300017">Busoni</persName> hier auf die Verhaftung von <persName key="E0300516">Frida Rubiner</persName> 
+                        <lb/>(Mehr dazu: <bibl><ref target="#E0800193"/>, S. 240—245ff.</bibl>)</note> 
+                </p>
+                
+                
+                
+                <p rend="indent-fisrt">Gestern erhielt ich einen Brief von
+                    <lb/><persName key="E0300443">Bernard Shaw</persName>, der mich erfreute und
+                    <lb/>anregte: <quote rend="dq-du">Sie sollten</quote> — schreibt B.S. — <quote rend="dq-du">unter 
+                        <lb/><hi rend="margin-left">einem</hi> angenommenen<del rend="strikethrough">m</del> Namen als <choice><reg>K</reg><orig>C</orig></choice>omponist auftreten.
+                        <lb/>Die Menschen können nicht glauben, dass ein
+                        <lb/>Einzelner zwei Sachen gleich vollkommen meistere</quote>. 
+                    <note type="commentary" resp="#E0300378">Nach der englischen Premiere von <title key="E0400358"> Sarabande and Cortége</title> am <date when-iso="1919-11-22">22. November 1919</date> bekommt <persName key="E0300017">Busoni</persName>
+                        <lb/>diesen begeisterten Brief. (Vgl. dazu <bibl><ref target="#E0800058"/>, S. 112</bibl> und <ref type="ext" target="http://kalliope-verbund.info/DE-611-HS-745351">Digitalisat der Staatsbibliothek Berlin</ref>).</note>
+                    
+                </p>
+                <pb n="4"/>
+                
+                <note type="object" resp="#E0300378">[Rückseite von Textteil 2, vacat]</note>
+                
+                <pb n="5"/>
+                
+                
+                <note type="shelfmark" place="margin-left"> Mus.Nachl.F. Busoni B I, 1016</note>
+                
+                <note type="stamp" place="bottom-left" resp="#dsb_st_red" rend="rotate(-90)">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[3]</note>
+                
+                <p rend="indent-first">Ihr Aufschub und Zögern in
+                    <lb/>unserer Verlags Angelegenheit macht
+                    <lb/>mich betroffen: ich hatte die Auf
+                    <lb break="no" rend="after:-"/>fa<choice><reg>ss</reg><orig>ß</orig></choice>ung, 
+                    <del rend="strikethrough">als ob ich</del> da<choice><orig>ß</orig><reg>ss</reg></choice> ich der
+                    <lb/>Bestürmte gewesen wäre; nun er
+                    <lb break="no" rend="after:-"/>scheint die Lage so, als ob ich
+                    <lb/>den Verlag um Etwas bäte. Diese
+                    <lb/>Interpretation muss ich ablehnen. <note type="commentary" resp="#E0300378">Hier kann die Rede von dem Verlag <orgName key="E0600115">Harmonie</orgName> oder <orgName key="E0600079">Kiepenheuer</orgName> sein, für den <persName key="E0300126">Rubiner</persName> zu der Zeit arbeitet.</note>
+                </p>
+                
+                <p rend="indent-first"> — In meinem Sinne landen
+                    <lb/>Ihre Briefe und <choice><orig>A</orig><reg>Ä</reg></choice>u<choice><orig>ss</orig><reg>ß</reg></choice>erungen, wie
+                    <lb/>sie <persName key="E0300351">Rita </persName>mir übermittelte. Von
+                    <lb/>ihr bin ich — warum? — seit einiger
+                    <lb/>Zeit wie abgeschnitten. Erst als
+                    <lb/>ich Ihnen schrieb<reg>,</reg> hatte ich erfahren<reg>,</reg>
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> man mit B.<note type="commentary" resp="#E0300378">Vermutlich <placeName key="E0500029">Berlin</placeName></note> direkt korrespondieren
+                    <lb/>könne —. Um so willkommener
+                    <lb/>war es mir zu lesen, da<choice><reg>ss</reg><orig>ß</orig></choice> <persName key="E0300351"><choice><abbr> R.</abbr><expan>Rita</expan></choice></persName> Ihnen
+                    <lb/>eine hilfreiche Gefährtin ist, — grüßen
+                    <lb/>Sie sie in aller Freunschaft und Liebe.
+                </p>
+                
+                <closer>
+                    <salute rend="indent">Das nämlich gilt Ihnen
+                        <lb/> von Ihrem herzlich ergebenen</salute>
+                    <signed rend="indent"><persName key="E0300017">F. Busoni</persName></signed> </closer> 
+                
+                
+                
+                
+                <pb n="6"/>
+                
+                <note type="object" resp="#E0300378">[Rückseite von Textteil 3, vacat]</note>
+                
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300287">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Otto Brahm</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118514245</idno>
+               <idno type="VIAF">22161138</idno>
+               <idno type="ISNI">0000000108778456</idno>
+               <persName type="reg">
+                  <surname>Brahm</surname>,
+                  <forename>Otto</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Otto</forename>
+                  <surname>Abrahamsohn</surname>
+               </persName>
+               <persName type="pseud">
+                  <forename>Otto</forename>
+                  <surname>Brahm</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1856-02-05"/>
+                  <placeName key="E0500005">Hamburg</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1912-11-28"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Kritiker</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterdirektor</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300573">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Molière</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-03-06" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">11858331X</idno>
+                    <idno type="VIAF">2474502</idno>
+                    <persName type="reg">
+                        Molière
+                    </persName>
+                    <persName type="birth">
+                        <forename>Jean-Baptiste</forename>
+                        <surname>Poquelin</surname>
+                    </persName>
+                    <persName type="pseud">Molière</persName>
+                    <birth>
+                        <date when-iso="1622-01-15" type="baptism"/>
+                        <placeName key="E0500012">Paris</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1673-02-17"/>
+                        <placeName key="E0500012">Paris</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Komödiendichter</occupation>
+                    <occupation>Schauspieler</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

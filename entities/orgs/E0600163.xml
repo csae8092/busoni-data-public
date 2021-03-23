@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600163">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dufaut &amp; Dubois</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-15" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="publisher">
+                    <idno type="GND">3049418-7</idno>
+                    <orgName><persName key="E0300585">Dufaut</persName> &amp; <persName key="E0300586">Dubois</persName></orgName>
+                    <desc>
+                        <date when-iso="1819">1819</date> durch <persName key="E0300585">Jean-Victor Dufaut</persName> und <persName key="E0300586">Brutus Dubois</persName> in <placeName key="E0500012">Paris</placeName> gegründeter Musikverlag (vgl. <ref type="ext" subtype="gallica" target="#12148/cb148164376">Datensatz der Bibliothèque nationale de France / BnF</ref>).
+                    </desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

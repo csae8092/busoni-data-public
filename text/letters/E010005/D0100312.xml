@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100312">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Locarno, 28. Januar 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Locarno, 28 January 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300378">
+                        <forename>Elizaveta</forename>
+                        <surname>Willert</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4270</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 11 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723713</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Rubiner</persName> hat von <persName key="E0300017">Busoni</persName> unverhofft einen Klavierauszug des <title key="E0400133">Arlecchino</title> erhalten; charakterisiert die Oper euphorisch als anti-<persName key="E0300006">wagner</persName>isch, <q>fast witzig vor <choice><orig>C</orig><reg>K</reg></choice>onvention</q> und als Fanal einer <q>freien Freiheit</q>; erkennt in <persName key="E0300017">Busoni</persName> <q>Heilung, Tröstung, Vorbild</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-01-28"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1918-01-29"
+                            /></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1918-01-29"
+                            /></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1918-01-28"
+                            /></docDate>
+                            <incipit>Das war eine wunderbare Freundesüberraschung!</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">8 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten; Umschlagaufriss rechts (mit behebbarem Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand Gerda Busonis, die mit Bleistift eine Paginierung vorgenommen und das Datum auf der Umschlagrückseite notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die auf der Umschlagrückseite mit Bleistift das Kürzel <q>K. 5w</q> notiert hat.</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="9"/>
+                            <note type="stamp" place="top-center" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500183">Locarno</placeName>
+                                    <lb/><date when-iso="1918-01-29">29. I. 18</date> VI-
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine rend="indent"><persName key="E0300017">Prof. Ferruccio Buson<supplied reason="paper-missing">i</supplied></persName></addrLine>
+                                <addrLine rend="align(right) underline"><placeName key="E0500132" rend="underline">Zürich</placeName> VI</addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                            </address>
+                            <pb n="10"/>
+                            <address rend="align(center)">
+                                <addrLine> <foreign xml:lang="fr">Exp.:</foreign>
+                                    
+                                    <note type="commentary" resp="#E0300314">Frz.: Absender (<mentioned>expéditeur</mentioned>).</note>
+                                    
+                                    <persName key="E0300017">L. Rubiner</persName></addrLine>
+                                <addrLine><placeName key="E0500447">Villa Rossa</placeName></addrLine>
+                                <addrLine><placeName key="E0500291">Muralto</placeName> – <placeName key="E0500183">Locarno</placeName></addrLine>
+                            </address>
+                            <note type="annotation" place="margin-left" resp="#unknown_hand" rend="rotate(-90)">K. 5w</note>
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1918-01-29">29. I. 1918</date>.-5
+                                    <lb/> VIII
+                                    <lb/> Eildienst &amp; Fächer </stamp>
+                            </note>
+                            <note type="stamp" place="center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="dating" place="center" resp="#gerda.busoni"> 28 Jan 1918 </note>
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough"><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                        <lb/>Mus.ep. L. Rubiner 11</del>
+                                    <add place="right-of">Mus.Nachl. <lb/>F. Busoni
+                                        <lb/>B II, 4270-Beil.<lb/>
+                                    </add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500183">Locarno</origPlace>
+                            <origDate when-iso="1918-01-28"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100312">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-01-28">28. Januar 1918</date>
+                    <placeName ref="http://www.geonames.org/6692335" key="E0500291">Muralto</placeName>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100311"/>
+                    <ref type="next" target="#D0100313"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-20" who="#E0300378">in Bearbeitung status="unfinished"</change>
+            <change when-iso="2018-02-11" who="#E0300378">status="proposed"</change>
+            <change when-iso="2018-02-25" who="#E0300314">erste Durchsicht</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873475771/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3100000010"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <del rend="strikethrough">Mus.ep. L. Rubiner 11 (Busoni-Nachl.  <handShift new="#archive_red"/>B II)</del>
+                    <add place="margin-left" rend="rotate(-90)">Mus.Nachl. F. Busoni B II, 4270</add>
+                </note>
+                <note type="foliation" place="top-right" resp=                "#archive">[1]</note>
+                
+                <opener>
+                    <address rend="left">
+                        <addrLine><placeName key="E0500291">Muralto</placeName> – <placeName key="E0500183">Locarno</placeName></addrLine>
+                        <addrLine><placeName key="E0500447">Villa Rossa</placeName>.</addrLine>
+                    </address>
+                    <dateline rend="right">
+                        <date when-iso="1918-01-28">28. Januar 1918</date>
+                    </dateline>
+                    
+                    <note type="stamp" place="right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <salute rend="indent-first">Lieber und verehrtester
+                        <lb/> <persName key="E0300017">Herr Busoni</persName>! </salute>
+                </opener>
+                <p>Das war eine wunderbare Freun
+                    <lb break="no"/>desüberraschung! Nun lese ich
+                    <lb/>den <title key="E0400133">Arlecchino</title> in Ruhe, und es
+                    <lb/>ist mir, in der Stille des Zimmers, <lb/>fast unbegreiflich, dass dieses
+                    <lb/>Werk nicht — den Dirigenten
+                    <lb/>vorausgesetzt — auf der Bühne
+                    <lb/>von selbst ablaufen sollte! Nur
+                    <lb/>wer in <placeName key="E0500132">Zürich</placeName> den Widerstand
+                    <lb/>der Materie
+                    <note type="commentary" resp="#E0300378">Am <date when-iso="1917-05-11 ">11. Mai 1917</date> findet die Erstauffürung von <title key="E0400133">Arlecchino</title> in <placeName key="E0500132">Zürich</placeName>statt.</note>
+                    miterlebt hat (und
+                    <lb/>ich möchte beinahe Materie physi
+                    <lb break="no" rend="sh"/>kalisch gleichsetzen mit <persName key="E0300006">Wagner</persName>oper, <lb/><persName key="E0300006">Wagner</persName>orchester und
+                    <persName key="E0300006">Wagner</persName>sänger, <lb/>also gerade so altmodischen Dingen
+                    <lb/>wie Materie)<reg>,</reg> nur der kann
+                    <pb n="2"/>
+                    <note type="foliation" place="top-left" resp="#gerda.busoni" rend="circle">2.</note>
+                    begreifen, dass das Publikum 
+                    <lb/>nicht heimlich Sekt kommen
+                    <lb/>lässt, um zum Schluss diese
+                    <lb/>heitere Trunkenheit zur Wirklich
+                    <lb break="no"/>keit zu machen. Diesen <title key="E0400133">Arlecchino</title>
+                    <lb/>stelle ich mir vor: im <hi rend="underline">wirklichen</hi> <lb/>Theater, im italienischen. Keine
+                    <lb/>kunstgewerblichen Dynamitdeko
+                    <lb break="no"/>rationen, sondern normale, <lb/>fast zu normale, <choice><orig>c</orig><reg>k</reg></choice>onventionelle, <lb/>fast witzig vor <choice><orig>C</orig><reg>K</reg></choice>onvention. <lb/>Der Zuschauerraum nicht feierlich
+                    <lb/>verdunkelt wie bei <title key="E0400011">Tristanno
+                        <lb/>ed Isotta</title>, sondern recht strahlend
+                    <lb/>hell, damit man schöne Schultern
+                    <lb/>und heitere Menschen sehen
+                    <lb/>soll. Das Publikum nicht mit
+                    <lb/>den Händen erhaben vor dem
+                    <lb/>Bauch, sondern lebhaft, sogar
+                    <lb/>nicht einmal still; die Musik
+                    <pb n="3"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="circle">3</note>
+                    muss sie zur Stille zwingen, <lb/>nicht eine gewaltsame Theater
+                    <lb break="no"/>ordnung; in der Pause vorher
+                    <lb/>Orangenverkäufer; Beifall
+                    <lb/>bei offener S<choice><orig>c</orig><reg>z</reg></choice>ene; Mitgerissen
+                    <lb break="no"/>sein vom Temperament der
+                    <lb/>Musik. Ein solches Stück wie 
+                    <lb/>das gro<choice><orig>ss</orig><reg>ß</reg></choice>e Quartett <note type="commentary" resp="#E0300378"> <title key="E0400133">Arlecchino</title>, IV.&#8239;Satz, Nr.&#8239;7 (Szene, Quartett und Melodram).</note> muss fünf
+                    <lb break="no"/>mal da<reg> </reg>capo verlangt und
+                    <lb/>gesungen werden. Die ganze
+                    <lb/>Oper ein ewiger <choice><orig>C</orig><reg>K</reg></choice>arneval. <lb/>Sie muss überall da gespielt
+                    <lb/>werden, wo die Menschen recht
+                    <lb/>traurig sind, wo es Hunger, <lb/>Pest, Tote, Kriegsverwüstung,
+                    <lb/>Krüppel, Sklavenaufstand, <lb/>dumpfe Luft gegeben hat. </p>
+                <p rend="indent-first">Lieber <persName key="E0300017">Herr Busoni</persName> und
+                    <lb/>Freund <persName key="E0300017">Busoni</persName>, wir mögen
+                    <lb/>uns theoretisch tausendmal
+                    <pb n="4"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="circle">4.</note>
+                    <lb/>aneinander vorbeiverstehen, prak
+                    <lb break="no"/>tisch kommt es doch genau so
+                    <lb/>heraus, wie ich Sie mir mit
+                    <lb/>Ihren Schöpfungen gleich zum
+                    <lb/>ersten Mal und <foreign xml:lang ="la">in nuce</foreign> vor
+                    <lb break="no"/>stellte: Heilung, Tröstung, <lb/>
+                    Vorbild. 
+                    
+                    <note type="commentary" resp="#E0300314">Bereits im <date when-iso="1916-05">Mai 1916</date> war ein Aufsatz <persName key="E0300126">Rubiners</persName> über <persName key="E0300017">Busoni</persName> mit dem Titel <title key="E0800134">Tröster</title> erschienen.</note>
+                    
+                    <note type="stamp" place="inline" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note></p>
+                <p>Stellen Sie sich einmal in
+                    <lb/>einem dumpfen Lande und
+                    <lb/>unter dumpfen Menschen (alle
+                    <lb/>Länder und Menschen sind
+                    <lb/>dumpf) diesen <title key="E0400133" rend="dq-du">Arlecchino</title> vor: <lb/>Wird das nicht einen belebenden, <lb/>bluterregenden, aufrührerischen
+                    <lb/>Zug unter die Menschen bringen? </p>
+                
+                <p rend="indent-first"> Der <title rend="dq-du" key="E0400325">Werther</title> trieb die jungen
+                    <lb/>Leute seiner Zeit zum Selbstmord; <lb/>dieser <title rend="dq-du" key="E0400133">Arlecchino</title> wird sie aber
+                    <lb/>zur Freiheit treiben; und
+                    <lb/>nicht zu einer plumpen, dis
+                    <lb break="no"/>kussionsartigen Spe<choice><orig>c</orig><reg>z</reg></choice>ialfreiheit, <pb n="5"/>
+                    <note type="shelfmark" place="top-left" resp="#archive"> B II, 4270</note>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="circle">5</note> sondern zu einer losgelösten, <lb/>möchte fast sagen: freien
+                    <lb/>Freiheit, einer untechnischen. <lb/>Einer, gegen die man nichts
+                    <lb/>unternehmen kann. <note type="stamp" place="inline" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <lb/>
+                    <soCalled rend="dq-du">Vorbild</soCalled> nenne ich ja nicht
+                    <lb/>nur das S<choice><orig>c</orig><reg>z</reg></choice>enenbild, sondern
+                    <lb/>gerade das, wogegen man sich
+                    <lb/>überhaupt nicht mehr wehren
+                    <lb/>kann, das man gar<reg> </reg>nicht
+                    <lb/>mehr diskutieren kann, <lb/>das man hinnehmen muss;
+                    <lb/>also hier auch die Wirkung der
+                    <lb/><hi rend="underline">Inje<choice><orig>c</orig><reg>k</reg></choice>tion</hi> durch die Musik.</p>
+                <p rend="indent-first">So ein Stück wie das Quartett, <!--<note type="commentary" resp="#E0300378"> (genaue Stelle nennen)                   </note>-->
+                    <lb/>wo <persName key="E0300012">Bach</persName><reg>’</reg>scher <choice><orig>C</orig><reg>K</reg></choice>antatenkontra
+                    <lb break="no"/>punkt zum buntesten Flimmer<pc>=</pc> <lb break="no"/>Kugelspiel der freiesten<reg>,</reg> <pb n="6"/>
+                    <note type="foliation" place="top-left" resp="#gerda.busoni" rend="circle">6.</note> leichtesten, schwebendsten
+                    <lb/>und springendsten Commedia
+                    <lb/>del<supplied reason="omitted">l</supplied>’Arte wird, so ein Stück
+                    <lb/>war bisher überhaupt noch
+                    <lb/>nicht da. In zwanzig
+                    <lb/>Jahren wird kein Mensch
+                    <lb/>mehr begreifen, dass bei
+                    <lb/>natürlich ausgebildeten Schau
+                    <lb break="no"/>spielern, Sängern und Musikern
+                    <lb/>der <title rend="dq-du" key="E0400133">Arlecchino</title> jemals
+                    <lb/>technische Schwierigkeiten
+                    <lb/>geboten haben soll. Man
+                    <lb/>wird das Stück am jährlich
+                    <lb/>wiederholten Gedenkfeiertag
+                    <lb/>des Friedensschlusses spielen,
+                    <lb/>überall, in kleinen Dörfen
+                    <lb/>unter einem Zeltdach, falls es
+                    <lb/>regnen sollte; auf Brettern, <lb/>die über Tonnen gelegt werden
+                    <lb/>(die Celesta stellt die <choice><orig>C</orig><reg>K</reg></choice>ommune
+                    <pb n="7"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="circle">7.</note> zur Verfügung).</p>
+                <p>Dies meine ich von der direkten
+                    <lb/>Wirkung des <title rend="dq-du" key="E0400133">Arlecchino</title>. <persName key="E0300206">Zweyg
+                        <lb break="no"/>berg</persName>, ein stiller, fast grämlicher
+                    <lb/>Mensch, war in meinem Zimmer, <lb/>ich zeigte ihm den Klavieraus
+                    <lb break="no" rend="sh"/>zug, wir lasen beide ganz
+                    <lb/>still, er musste manchmal
+                    <lb/>vor Freude laut auflachen.</p>
+                
+                <p rend="indent-first"><note type="stamp" place="inline" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                    
+                    Dieses Stück ist nun
+                    <lb/>aber von einer Vollkommen
+                    <lb break="no"/>heit <del rend="strikethrough">der</del> in der Realisierung
+                    <lb/>des schwebend leichtesten
+                    <lb/>Phantasiebildes, dass der
+                    <lb/>andere entweder völlig ent
+                    <lb break="no"/>mutigt wird oder sich zu
+                    <lb/>den höchsten Leistung<add place="below">en</add> angespornt
+                    <lb/>sieht. Nachdem das erste
+                    <pb n="8"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="circle">8</note> eingetreten war, doch voller
+                    <lb/>Freude und Genuss, stie<choice><orig>ss</orig><reg>ß</reg></choice> ich
+                    <lb/>zuletzt auf das andere.</p>
+                <p>Man nennt das Reinigung.</p>
+                <p>Übrigens finde ich, dass das
+                    <lb/>Merkz<subst><del rend="overwritten"><gap reason="overwritten" atLeast="1" unit="char"/></del><add place="across">ei</add></subst>chen von in sich
+                    <lb/>geschlossener Erfindung (in der
+                    <lb/>Musik wie in der Dichtung)
+                    <lb/>immer eine solche Reinigung
+                    <lb/>ist. Es ist charakteristisch: <lb/>Die sehr hohen und guten
+                    <lb/>Dinge kann man nicht nach
+                    <lb break="no"/>machen, man kann sich nur
+                    <lb/>von ihnen kräftigen lassen. <lb/>(Innerlichste, propagandlose
+                    <lb/>absolute Unmöglichkeit des
+                    <lb/>Dilettantismus. Dagegen: Ansporn
+                    <lb/>zur Arbeit oder Verurteilung zum
+                    <lb/>Schweigen. — Meine Vorstellung vom
+                    <lb/>Vorbild!) — Nun möchte ich <persName key="E0300059">Frau
+                        <lb/>
+                        Gerda</persName> so<reg> </reg>viel Handküsse geben, wie
+                    <lb/>sie mir erlaubt, und Ihnen eine
+                    <lb/>herzliche Umarmung <seg type="closer" subtype="salute">von Ihrem Freund</seg></p>
+                
+                <closer>
+                    <signed rend="align(center)"><persName key="E0300126">Ludwig Rubiner</persName>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600169">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concertgebouw-Orchester</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-10-25" who="#E0300314"></change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="ensemble">
+               <idno type="GND">5038978-6</idno>
+               <idno type="VIAF">189723246</idno>
+               <idno type="ISNI">000000012106794X</idno>
+               <orgName xml:lang="de">Königliches Concertgebouw-Orchester</orgName>
+               <orgName xml:lang="nl">Koninklijk Concertgebouworkest</orgName>
+               <orgName xml:lang="en">Royal Concertgebouw Orchestra</orgName>
+               <desc><date when-iso="1882">1888</date> gegründet, benannt nach dem <date when-iso="1888">im selben Jahr</date> eröffneten <placeName key="E0300115">Amsterdamer</placeName> Konzertsaal.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100059">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Heinrich Schenker an Ferruccio Busoni (Wien, spätestens 31. August 1897)</title>
+                <title xml:lang="en">Letter by Heinrich Schenker to Ferruccio Busoni (Vienna, not after 31 August 1897)</title>
+                <author key="E0300024">Heinrich Schenker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4415</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Schenker 3 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-731116</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300024">Schenker</persName> berichtet von einem Freund, der seine Druckkosten für einige Werke übernehmen würde; fragt zwecks Überarbeitung seiner <title key="E0400252">Fantasie</title> für ein Treffen in <placeName key="E0500002">Wien</placeName> an.</summary>
+                        <msItem>
+                            <docDate resp="#unknown_hand" sameAs="#post_rec"><date when-iso="1897-08-31"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1897-08-31"/></docDate>
+                            <incipit>Nur Sie haben die Lösung der Frage in der Hand</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung durch das Archiv, mit Bleistift unten rechts auf den Vorderseiten.</foliation>
+                                <condition>Der Brief ist gut erhalten; vom Briefumschlag wurde die Ecke mit der Briefmarke abgerissen.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300024">Hand des Absenders Heinrich Schenker, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_1" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die ursprüngliche Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_2" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die erneute Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die eine Datierung auf dem Umschlag vorgenommen hat.</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="top-right" rend="majuscule" resp="#post">
+                                <stamp>
+                                    <gap reason="paper-missing"/>
+                                </stamp>
+                            </note>
+                            
+                            <address rend="align(center)">
+                                <addrLine rend="top-left">Herrn</addrLine>
+                                <addrLine rend="indent"><persName key="E0300017"><choice><abbr>F.</abbr><expan>Ferruccio</expan></choice> <choice><abbr>B.</abbr><expan>Benvenuto</expan></choice> Busoni</persName></addrLine>
+                                <addrLine rend="indent">Komponist</addrLine>
+                                <addrLine rend="indent"><placeName key="E0500029">Berlin</placeName>.</addrLine>
+                                <addrLine>W. <placeName key="E0500359"><choice><sic>Tauenzienstr</sic><corr>Tauentzienstr</corr></choice>. <choice><orig>1̇0</orig><reg>10</reg></choice></placeName></addrLine>
+                            </address>
+                            
+                            <note type="numbering" place="bottom-left" resp="#archive">3</note>
+                            
+                            
+                            <pb n="6"/>
+                            
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300024">D<seg rend="sup">r</seg>. H. Schenker</persName></addrLine>
+                                <addrLine>
+                                    <placeName key="E0500002">Wien</placeName>,
+                                    <placeName key="E0500379">III.</placeName>
+                                    <placeName key="E0500380">Richardgasse <choice><orig>1̇1̇</orig><reg>11</reg></choice></placeName>
+                                </addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="top-right" rend="rotate(225)" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border align(center)">Bestellt
+                                    <lb/>vom
+                                    <lb/>Postam<supplied>te</supplied> <unclear cert="unknown" reason="low-ink">50</unclear>
+                                    <lb/><date when-iso="1897-08-31">31.8.97</date>
+                                    <lb/>11¼V-12<gap reason="low-ink"/>
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#arch_black_2">
+                                <subst>
+                                    <add>
+                                        <handShift new="#arch_black_2"/>Mus.Nachl. F. Busoni B II, 4415-Beil.
+                                    </add>
+                                    <lb/>
+                                    <del rend="strikethrough">
+                                        <handShift new="#arch_black_1"/>Mus.ep. H. Schenker 3
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#arch_red"/>B II</stamp>
+                                    </del>
+                                </subst>
+                            </note>
+                            
+                            <note type="annotation" resp="#arch_black_1" place="bottom-center" rend="small">o. Marke</note>
+                            
+                            <note type="dating" place="bottom-center" resp="#unknown_hand" rend="large">
+                                <choice><orig><date when-iso="1897-08-31">31/8/97</date></orig><reg><date when-iso="1897-08-31">31.8.1897</date></reg></choice>
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate notAfter-iso="1897-08-31"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800103"/>, S.&#8239;12 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100059">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                    <date notAfter="1897-08-31"/>
+                    <placeName ref="http://www.geonames.org/2761367" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                    <date when="1897-08-31"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100057"/>
+                    <ref type="repliedBy" target="#D0100058"/>
+                    <ref type="previous" target="#D0100057"/>
+                    <ref type="next" target="#D0100058"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-06-09" who="#E0300317">Datei erstellt, Transkription vorgenommen.</change>
+            <change when-iso="2017-06-23" who="#E0300317">Erstcodierung erfolgt</change>
+            <change when-iso="2017-06-30" who="#E0300317">mit den Auszeichnungen begonnen</change>
+            <change when-iso="2018-05-22" who="#E0300317">Kommentierung abgeschlossen.</change>
+            <change when-iso="2018-06-20" who="#E0300317">erste Kontrolle der Metadaten abgeschlossen.</change>
+            <change when-iso="2018-07-17" who="#E0300317">Rechtschreibung in der Lesefassung überprüft.</change>
+            <change when-iso="2018-07-23" who="#E0300317">Status von todo auf propsed gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/874361249/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8100000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8100000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8100000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8100000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8100000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8100000006"/>
+    </facsimile>
+    
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-right" resp="#arch_black_2">
+                    <subst>
+                        <add place="top-left" rend="align(left)"><handShift new="#arch_black_2"/>Mus.Nachl. F. Busoni
+                            <lb/>B II, 4415</add>
+                        <del rend="strikethrough"><handShift new="#arch_black_1"/>Mus.ep. H. Schenker 3
+                            <lb/>(Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#arch_black_1"/>)</del>
+                    </subst>
+                </note>
+                
+                <opener>
+                    <salute rend="indent space-below">Verehrtester Herr!</salute>
+                </opener>
+                
+                <p>Nur Sie haben die Lösung der Frage
+                    <lb/>in der Hand, drum muss ich, ob ich will
+                    <lb/>oder nicht, Ihre Ruhe stören. Ein
+                    <lb/>wenn auch nicht reicher, aber desto
+                    <lb/>o<subst><del rend="overwritten">f</del><add place="across">p</add></subst>ferwilligerer Freund
+                    
+                    <note type="commentary" resp="#E0300317">Konnte nicht ermittelt werden.</note>
+                    
+                    trug mir an,
+                    <lb/>einige meiner Sachen auf seine Kosten
+                    <lb/>drucken zu lassen. Ich wäre somit
+                    <lb/>der Sorgen wegen der Verleger enthoben,
+                    <lb/>die das Schlechteste drucken (Empfeh
+                    <lb break="no"/>lungen von <persName key="E0300300">Schütt</persName>, <persName key="E0300299">Leschetizky</persName> richten
+                    <lb/>hier Wunder aus!) <choice><abbr>u.</abbr><expan>und</expan></choice> meine Sachen
+                    <lb/>behandeln, als wären sie schlechter<orig>,</orig>
+                    <lb/>als jenes Schlechteste. Nun möchte
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    
+                    <pb n="2"/>
+                    ich, ein vor <choice><orig>5</orig><reg>fünf</reg></choice> oder <choice><orig>6</orig><reg>sechs</reg></choice> Jahren in <placeName key="E0500002">Wien</placeName>
+                    <lb/>gedrucktes <rs key="E0400423"><choice><orig>o</orig><reg>O</reg></choice>pus</rs> übergehend, mit
+                    <lb/>der <title key="E0400252" rend="dq-du">Fantasie</title> anfangen. Dann etwa
+                    <lb/>die <title key="E0400271">5 kleineren Stücke</title>, <choice><abbr>u.</abbr><expan>und</expan></choice> weiter
+                    <lb/>noch ein Streichquartett oder Trio.
+                
+                    <note type="commentary" resp="#E0300317">Streichquartett und Trio nicht eindeutig identifizierbar.</note><!-- kommen mehrere Werke in Frage (welche?)? oder gar keines? -->
+                
+                </p>
+                <p>Mit der Ka<choice><abbr>m̅</abbr><expan>mm</expan></choice>ermusik gö<choice><abbr>n̅</abbr><expan>nn</expan></choice>’ ich mir Zeit,
+                    <lb/>um den Erfolg bei <persName key="E0300074">Rosé</persName>, unserem
+                    <lb/>besten Ka<choice><abbr>m̅</abbr><expan>mm</expan></choice>ermusiker, d. h. in seinen
+                    <lb/><choice><orig>Concerten</orig><reg>Konzerten</reg></choice> abzuwarten.</p>
+                <p>Da Sie die Güte <choice><abbr>u.</abbr><expan>und</expan></choice> Freundlichkeit
+                    <lb/>hatten, mir in Bezug auf jene <title key="E0400252">Fantasie</title>
+                    <lb/>einige künstlerische <choice><orig>Rathschläge</orig><reg>Ratschläge</reg></choice>
+                    <lb/>zu versprechen, muss ich Sie fragen,
+                    <lb/>ob Sie denn in dieser Saison nach
+                    <lb/><placeName key="E0500002">Wien</placeName> ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en <choice><abbr>u.</abbr><expan>und</expan></choice> mir so Gelegenheit
+                    
+                    
+                    <pb n="3"/>
+                    geben werden, Ihre <choice><orig>Rathschläge</orig><reg>Ratschläge</reg></choice>
+                    <lb/>zu befolgen.
+                    
+                    <note type="commentary" resp="#E0300317"><persName key="E0300017">Busoni</persName> reiste <date when-iso="1897-12">Mitte Dezember</date> für ein Konzert nach <placeName key="E0500002">Wien</placeName>. Siehe hierfür das <ref type="E010003" target="#D0100058">Antwortschreiben <persName key="E0300017">Busonis</persName> vom <date when-iso="1897-08-31">31. August 1897</date></ref>.</note>
+                    
+                    Gerne will ich
+                    <lb/>diese paar Monate warten, so
+                    <lb/>sehr es wirklich höchste Zeit <supplied reason="omitted">ist</supplied>,
+                    <lb/>vor die Öffentlichkeit zu treten.</p>
+                <p>Im Vorhinein für Ihre Mühe
+                    <lb/>bestens dankend</p>
+                
+                <closer>
+                    <salute rend="align(right)">zeichne in aufrichtiger Verehrung
+                        <lb/><seg rend="align(center)">Ihr ergebenster</seg></salute>
+                    <signed rend="align(center)"><persName key="E0300024">H<reg>.</reg> Schenker</persName></signed>
+                    <dateline rend="align(center)">
+                        <address>
+                            <addrLine><hi rend="underline"><placeName key="E0500379"><choice><orig>İİİ</orig><reg>III</reg></choice>.</placeName> <placeName key="E0500380">Richardgasse <choice><orig>1̇1̇</orig><reg>11</reg></choice></placeName></hi></addrLine>
+                        </address>
+                    </dateline>
+                </closer>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 3, vacat]</note>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

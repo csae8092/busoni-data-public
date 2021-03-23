@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E03....."><!-- ID ausfüllen -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Standardname der Person in Normalschreibung, z.B.: Ferruccio Busoni --></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="…" who="#E03.....">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">…</idno>
+                    <idno type="VIAF">…</idno>
+                    <idno type="ISNI">…</idno>
+                    <persName type="reg">
+                        <surname>…</surname>,
+                        <forename>…</forename>
+                        <forename>…</forename>
+                    </persName>
+                    <persName type="…">
+                        <forename>…</forename>
+                        <forename>…</forename>
+                        <surname>…</surname>
+                    </persName>
+                    <persName type="…">
+                        …
+                    </persName>
+                    <birth>
+                        <date when-iso="…"/>
+                        <placeName key="E05.....">…</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="…"/>
+                        <placeName key="E05.....">…</placeName>
+                    </death>
+                    <sex value="…"/>
+                    <occupation>…</occupation>
+                    <occupation>…</occupation>
+                    <!-- das Folgende nur für zentrale Personen (Briefwechselpartner o.Ä.) oder bei besonderem Bedarf -->
+                    <education when-iso="…">
+                        <orgName key="E06.....">…</orgName>
+                    </education>
+                    <affiliation when-iso="…">[ggf. Zugehörigkeitsbeschreibung bei] <orgName key="E06.....">…</orgName> (<placeName key="E05....."></placeName>)</affiliation>
+                    <residence when-iso="…">
+                        <placeName key="E05.....">…</placeName>
+                    </residence>
+                    <event when-iso="…">
+                        <ab>…</ab>
+                    </event>
+                    <note>…</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

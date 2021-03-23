@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni / Weindel 2006</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <editor>
+                     <forename>Martina</forename>
+                     <surname>Weindel</surname>
+                  </editor>
+                  <title level="m">Von der Einheit der Musik</title>
+                  <title level="m" type="sub">Von Dritteltönen und Junger Klassizität, von Bühnen und Bauten und anschließenden Bezirken</title>
+                  <title level="m" type="sub">Verstreute Aufzeichnungen</title>
+                  <idno type="DNB">983816646</idno>
+                  <edition>Kritische und kommentierte Neuausgabe</edition>
+                  <imprint>
+                     <pubPlace>Wilhelmshaven</pubPlace>
+                     <publisher>Florian-Noetzel-Verlag</publisher>
+                     <publisher>Heinrichshofen-Bücher</publisher>
+                     <date when-iso="2006"/>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Quellenkataloge zur Musikgeschichte</title>
+                  <biblScope unit="volume">36</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

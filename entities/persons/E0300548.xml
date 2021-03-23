@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300548">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bruno Walter</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="reviewed">
+            <change when-iso="2019-10-24" who="#E0300314">angelegt</change>
+            <change when-iso="2020-01-08" who="#E0300550">Korrekturlesung und Statusänderung reviewed</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">118628879</idno>
+                    <idno type="VIAF">46948108</idno>
+                    <idno type="ISNI">0000000108964400</idno>
+                    <persName type="reg">
+                        <surname>Walter</surname>,
+                        <forename>Bruno</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Bruno</forename>
+                        <forename>Walter</forename>
+                        <surname>Schlesinger</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1876-09-15"/>
+                        <placeName key="E0500029">Berlin</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1962-02-17"/>
+                        <placeName key="E0500594">Beverly Hills</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Dirigent</occupation>
+                    <occupation>Komponist</occupation>
+                    <affiliation from-iso="1904">Vorstand der <orgName key="E0600008">Vereinigung schaffender Tonkünstler</orgName></affiliation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

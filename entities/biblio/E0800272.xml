@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800272">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fierz 1986</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-28" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>Gerold</forename>
+                            <surname>Fierz</surname>
+                        </author>
+                        <title level="a"><persName key="E0300129">Volkmar Andreae</persName> und das Musikleben <placeName key="E0500132">Zürichs</placeName></title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <forename>Margaret</forename>
+                            <surname>Engeler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Ernst</forename>
+                            <surname>Lichtenhahn</surname>
+                        </editor>
+                        <title level="m">Briefe an <persName key="E0300129">Volkmar Andreae</persName></title>
+                        <title level="m" type="sub">Ein halbes Jahrhundert <placeName key="E0500132">Zürcher</placeName> Musikleben <date when-iso="1902/1959">1902–1959</date></title>
+                        <idno type="DNB">900131616</idno>
+                        <imprint>
+                            <pubPlace>Zürich</pubPlace>
+                            <publisher>Atlantis Musikbuch-Verlag</publisher>
+                            <date when-iso="1986"/>
+                        </imprint>
+                        <biblScope unit="page">11–50</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

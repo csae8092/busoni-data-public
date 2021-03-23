@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600108">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moskauer Konservatorium</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="conservatory">
+               <idno type="GND">1025259-9</idno>
+               <orgName>
+                  <placeName key="E0500066">Moskauer</placeName> Konservatorium</orgName>
+               <desc>Zweitältestes Konservatorium in <placeName key="E0500547">Russland</placeName>, gegründet <date when-iso="1866">1866</date>; <date from-iso="1940">seit 1940</date> unter dem Namen <soCalled><persName key="E0300458">Tschaikowsky</persName>-Konservatorium</soCalled>.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

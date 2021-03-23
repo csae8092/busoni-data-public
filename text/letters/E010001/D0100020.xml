@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Wien, 3. Juli 1910)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Vienna, 3 July 1910)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300319">
+                        <forename>Claudio</forename>
+                        <surname>Fuchs</surname>
+                    </persName>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-01-28"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno type="D-B">Mus.Nachl. F. Busoni B II, 4552</idno>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno type="kalliope">DE-611-HS-736384</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> nimmt die Korrespondenz wegen der durch <persName key="E0300039">Emil Hertzka</persName> vorangetriebenen Veröffentlichung seines <title key="E0400113">Klavierstücks op. 11 Nr. 2</title> in <persName key="E0300017">Busonis</persName> <rs key="E0400032">Transkription</rs> wieder auf; sendet den Entwurf einer Erwiderung zu <persName key="E0300017">Busonis</persName> Vorwort dieser Ausgabe; legt eine Revision der <rs key="E0400032">Transkription</rs> nahe; verwahrt sich gegen <q>formelle Änderungen</q>, <q><hi rend="underline" n="2">unvariierte</hi>!! Wiederholungen</q> und <q>harmonische Zusätze</q>; erläutert seine Tempovorstellung; kündigt Rückmeldung zu <persName key="E0300017">Busonis</persName> <title key="E0400324">Versuch einer organischen Klavier-Notenschrift</title> an; arbeitet an seiner <title key="E0800232">Harmonielehre</title>; instrumentiert die <title key="E0400042">Gurrelieder</title>; hat den Text zur <title key="E0400021">Glücklichen Hand</title> beendet.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1910-07-03"/></docDate>
+                            <incipit>die Absicht <rs key="E0300039">meines Verlegers</rs>,</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">8 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#major_hand">Paginierung mit Tinte oben außen durch den Verfasser.</foliation>
+                                <condition>Der Brief ist gut erhalten; Umschlagrückseite: oben links Adressstempel unvollständig infolge Aufriss, unten mittig Poststempel Berlin unvollständig (Briefmarke abgelöst).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Zurdnung die Signaturen mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="schoenberg_addr_st2" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="9"/>
+                            
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine><persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent-2 latin"><placeName key="E0500029">Berlin</placeName> W30</addrLine>
+                                <addrLine rend="indent-2 latin"><placeName key="E0500072">Viktoria<choice><orig> Luisep</orig><reg>-Luise-P</reg></choice>latz 11</placeName></addrLine>
+                            </address>
+                            
+                            <note type="annotation" place="bottom-left" rend="rotate(-45) underline small" resp="#major_hand">nachsenden</note>
+                            
+                            <pb n="10"/>
+                            
+                            <stamp rend="small majuscule space-below" resp="#schoenberg_addr_st2">
+                                <address rend="align(center)">
+                                    <addrLine><persName key="E0300023"><supplied reason="incomplete">Arn</supplied>old Schönberg</persName></addrLine>
+                                    <addrLine><placeName key="E0500002">Wien</placeName>, XIII.</addrLine>
+                                    <addrLine><supplied reason="incomplete"><placeName key="E0500101">Hietzinger</placeName></supplied> <placeName key="E0500100">Hauptstraße 113</placeName></addrLine>
+                                </address>
+                            </stamp>
+                            
+                            <stamp resp="#post" rend="round border majuscule align(center)">
+                                <placeName key="E0500029">Be<supplied reason="incomplete">rlin</supplied></placeName>
+                                <lb/><gap reason="incomplete"/>
+                            </stamp>
+                            
+                            <note type="shelfmark" place="bottom-right" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        Mus.ep. A. Schönberg 13
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                    </del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4552-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate when-iso="1910-07-03"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;181–183</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;177–181 (Brief), S.&#8239;94–97 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 403–405</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100020">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1910-07-03"/>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100019"/>
+                    <ref type="next" target="#D0100021"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt, status unfinished</change>
+            <change when-iso="2018-02-05" who="#E0300314">Codierung von Claudio Fuchs durchgesehen, korrigiert, ergänzt; status proposed</change>
+            <change when-iso="2020-01-20" who="#E0300372">Auszeichnungen überprüft, korrekturgelesen; status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839139691/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3100000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA31000000010"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" resp="#archive" place="top-left">Mus.Nachl. F. Busoni B II, 4552</note>
+                
+                <note type="pagination" resp="#major_hand" place="top-right">1</note>
+                
+                <opener>
+                    <byline>
+                        <stamp rend="left small majuscule space-below" resp="#schoenberg_addr_st2">
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                <addrLine><placeName key="E0500002">Wien</placeName>, XIII.</addrLine>
+                                <addrLine><placeName key="E0500101">Hietzinger</placeName> <placeName key="E0500100">Hauptstraße 113</placeName></addrLine>
+                            </address>
+                        </stamp>
+                    </byline>
+                    
+                    <dateline rend="right align(left)">
+                        <date when-iso="1910-07-03">3<choice><orig>/</orig><reg>.</reg></choice>7.1910</date>
+                    </dateline>
+                    
+                    <note type="stamp" place="center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                                        
+                </opener>
+                    <p rend="indent-first"><seg type="opener" subtype="salute">Sehr geehrter <persName key="E0300017">Herr Busoni</persName>,</seg> die Absicht <rs key="E0300039">meines
+                    <lb/>Verlegers</rs>, <rs key="E0400019">meine Klavier<choice><orig><pc>=</pc>S</orig><reg>s</reg></choice>tücke</rs> und <rs key="E0400032">Ihre Transkription</rs>
+                    <lb/><rs key="E0400113">des einen</rs> mit einem Vorwort von Ihnen
+                    
+                    <note type="commentary" resp="#E0300313">Die schließlich bei der <orgName key="E0600004">Universal-Edition</orgName> veröffentlichte Fassung der <rs key="E0400032">Transkription</rs> enthält folgende knappe Vorbemerkung: <q>Diese Komposition fordert vom Spieler die verfeinerteste Anschlags- und Pedalkunst; einen intimen, improvisierten, <soCalled>schwebenden</soCalled>, empfundenen Vortrag; ein liebevolles Sichversenken in seinen Inhalt, dessen Interpret – rein als Klaviersetzer – hiermit sein zu dürfen, sich zu künstlerischer Ehre rechnet <persName key="E0300017">Ferruccio Busoni</persName></q>.</note>
+                    
+                    und einer
+                    <lb/>Entgegnung von mir zu veröffentlichen,
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300017">Busonis</persName> <rs key="E0400032">Transkription</rs>, die eine knappe Vorbemerkung enthält, erschien schließlich separat.</note>
+                    
+                    gi<orig>e</orig>bt die
+                    <lb/>Gelegenheit<reg>,</reg> unsere seit einiger Zeit unterbrochene
+                    <lb/>Korrespondenz wieder aufzunehmen. Ich sende
+                    <lb/>Ihnen nun beiliegend meine Entgegnung,
+                    
+                    <note type="commentary" resp="#E0300313">Die Entgegnung scheint nicht erhalten.</note>
+                    
+                    bitte
+                    <lb/>Sie aber<reg>,</reg> die als <hi rend="underline">Entwurf</hi> anzusehen. Ich
+                    <lb/>glaube ja selbst, dass sie etwas scharf aus
+                    <lb break="no"/>gefallen ist, ohne dass ich zunächst wüsste,
+                    <lb/>wie sie, wenn <subst><del rend="overwritten">S</del><add place="across">s</add></subst>ie gleich richtig bleiben
+                    <lb/>soll, weniger scharf sein könnte. Aber ich
+                    <lb/>werde selbstverständlich, wenn Sie damit
+                    <lb/>nicht einverstanden sind <supplied reason="omitted">Änderungen vornehmen</supplied>. 
+                        
+                        <note type="commentary" resp="#E0300372"><bibl><ref target="#E0800004"/> (182)</bibl>, <bibl><ref target="#E0800005"/> (178)</bibl> und <bibl><ref target="#E0800060"/> (403)</bibl> ergänzen entsprechend.</note> <!-- <q>Änderungen vornehmen</q> (bzw. <q>do so</q>) -->
+                        
+                        Auch könnten Sie
+                    <lb/>eventuell <hi rend="underline">Ihr <soCalled rend="dq-du">Vorwort</soCalled> danach einrichten</hi>; das müsste
+                    <lb/>ich dann allerdings auch noch sehen. Aber ich hoffe<reg>,</reg>
+                    
+                    <note type="shelfmark" place="top" resp="#archive">
+                        <del rend="strikethrough">Mus.ep. A. Schönberg 13 (Busoni-Nachl. <handShift new="#archive_red"/>B II</del>
+                    </note>
+                    
+                    <pb n="2"/>
+                    
+                    <note type="pagination" resp="#major_hand" place="top-left">2)</note>
+                    
+                    dass wir zu einer Einigung kommen werden. 
+                    <lb/>Ich hoffe<reg>,</reg> Sie werden begreifen, dass ich formelle
+                    <lb/><choice><orig>Ae</orig><reg>Ä</reg></choice>nderungen nicht gutheißen kann, oder <rs key="E0400113">mein
+                        <lb/>Werk</rs> in dieser Hinsicht schlechtheißen müsste.
+                    <lb/>Mir kommt das so vor, wie wenn man
+                    <lb/>bei einem Bild von <persName key="E0300360"><choice><orig>V</orig><reg>v</reg></choice>an Gogh</persName> die schiefen
+                    <lb/>Linien ausbessern und richtige, gerade hinsetzen
+                    <lb/>wollte. Nur mit einem Unterschied: bei <persName key="E0300360">van
+                        <lb/>Gogh</persName> stehen schiefe Linien, wo <subst><del rend="overwritten"><unclear cert="high">eb</unclear><unclear cert="low">er</unclear></del><add place="across">ih</add></subst>m gerade<orig>,</orig> wenn
+                    <lb/>nicht lieber, so doch vielleicht ebenso lieb ge
+                    <lb break="no"/>wesen wären (übrigens: wer weiß?!?); aber
+                    <lb/>bei mir gi<orig>e</orig>bt es keine Linie, die ich mir
+                    <lb/>anders denken könnte. Ich finde nun: <rs key="E0400032">Ihre Be
+                        <lb break="no"/>arbeitung</rs> bedeutet für mein Formgefühl
+                    <lb/>keine Verbesserung, weil sie das nicht be
+                    <lb break="no"/>deuten kann. Aber ich halte es für möglich,
+                    <lb/>dass jemand das in der Form besser versteht. 
+                    <lb/>Wie es ja oft vorkommt, dass man etwa
+                    <lb/>von einem Lied einmal die Gesangsstimme
+                    
+                    <pb n="3"/>
+                    
+                    <note type="pagination" resp="#major_hand" place="top-right">3)</note>
+                    
+                    allein ansieht und sich dadurch besser auskennt.
+                    <lb/>Ob man deswegen die Gesangsstimme auch allein
+                    <lb/>dazu veröffentlichen sollte, ist eine Frage, die
+                    <lb/>ich nicht möchte entscheiden müssen.</p>
+                
+                <p rend="indent-first">
+                    Ich möchte Ihnen noch nahelegen, <rs key="E0400032">Ihre
+                        <lb/>Transkription</rs> zu revidieren. Vielleicht können
+                    <lb/>Sie sich entschließen, wenigstens auf die
+                    <lb/>Verlängerungen (die als Wiederholungen,
+                    <lb/><hi rend="underline" n="2">unvariierte</hi>!! Wiederholungen<sic>)</sic> in <rs key="E0400113">diesem
+                        <lb/>Stücke</rs>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800004"/> (182)</bibl> und <bibl><ref target="#E0800005"/> (179)</bibl>: <q>Stück</q>.</note>
+                    
+                    sich kaum dem Stil des Ganzen ein
+                    <lb break="no"/>ordnen) zu verzichten.
+                    Ich weiß: wer meine
+                    <lb/>Hand kennt, wird wissen, dass das nicht
+                    <lb/>in meinem Sinn ist. Und es gi<orig>e</orig>bt Leute,
+                    <lb/>die mich so gut verstehen. Auch harmo
+                    <lb break="no"/>nische Zusätze! Die finde ich besonders
+                    <lb/>bedenklich. Für mein Formgefühl ist es
+                    <lb/>nicht <del rend="strikethrough">g</del> das <subst><del rend="overwritten">g</del><add place="across">G</add></subst>leiche<reg>,</reg> ob ein <choice><orig>3</orig><reg>drei</reg></choice><pc>=</pc> oder ein <choice><orig>4<pc>=</pc></orig><reg>vier</reg></choice>stimmiger
+                    <lb/>Akkord dort<reg> </reg>steht. Das bringt Verschiebungen
+                    <lb/>im Gleichgewicht hervor. Ebenso manche <del rend="strikethrough">R</del>
+                    <lb/>rhyt<supplied reason="omitted">h</supplied>mische
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800004"/> (182)</bibl> und <bibl><ref target="#E0800005"/> (179)</bibl>: <q>rhythmische</q>.</note>
+                    
+                    Veränderung. Das könnte ich nie
+                    
+                    <pb n="4"/>
+                    
+                    <note type="pagination" resp="#major_hand" place="top-left">4</note>
+                    
+                    gutheißen. Ebenso <choice><orig>f</orig><reg>F</reg></choice>olgendes nicht: den ersten
+                    <lb/>Takt nehmen Sie zweimal;
+                    
+                    <note type="commentary" resp="#E0300313">In <persName key="E0300017">Busonis</persName> Manuskript wird der erste Takt wiederholt. In der Druckfassung ist <persName key="E0300023">Schönbergs</persName> Originalfassung wiederhergestellt.</note>
+                    
+                    das ist zu lang.
+                    <lb/>Außerdem aber
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800004"/> (182)</bibl> und <bibl><ref target="#E0800005"/> (179)</bibl> fälschlich ohne <q>aber</q>.</note>
+                    
+                    antizipieren Sie die Wirkung
+                    <lb/>des nachher einsetzenden <hi rend="latin">Contra<pc>=</pc>F</hi><subst><add place="inline">. </add><del rend="strikethrough">die</del><add place="above">Das kommt</add></subst> bei mir
+                    <lb/>erst einige Takte später.
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönberg</persName> spielt hier auf die Takte 1 und 3 an: In der originalen Fassung erklingt das Contra-F in Takt 1 von Beginn an, während es in Takt 3 erst in der Taktmitte einsetzt. <persName key="E0300017">Busoni</persName> hatte in seiner <rs key="E0400032">Transkription</rs> den späteren Einsatz des Contra-F hingegen auch schon in Takt 1 vorgesehen.</note>
+                    
+                    In <rs key="E0400032">Ihrer Bearbeitung</rs>
+                    <lb/>geht diese Wirkung verloren. Mir macht
+                    <lb/>das, wenn ich es durch ein Bild erklären soll, 
+                    <lb/>folgenden Eindruck: So anfangen
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/D0100020-nb1.xml"/>
+                        <graphic width="111px" height="51px" url="D0100020_4_ex_1.png"/>
+                        <desc><persName key="E0300023">Arnold Schönberg</persName>, <rs key="E0400113">op. 11 Nr.&#8239;2</rs>, T. 1</desc>
+                    </notatedMusic>
+                    
+                    ist<reg>,</reg>
+                    <lb/>wie wenn man in irgend<orig> </orig>eine Stimmung
+                    <lb/>ganz versunken wäre. Nimmt man sie dann
+                    <lb/>wieder so
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/D0100020-nb2.xml"/>
+                        <graphic width="110px" height="60px" url="D0100020_4_ex_2.png"/>
+                        <desc><persName key="E0300023">Arnold Schönberg</persName>, <rs key="E0400113">op. 11 Nr.&#8239;2</rs>, T. 3</desc>
+                    </notatedMusic>
+                    
+                    auf, so ist da<subst><del rend="overwritten">ſ</del><add place="across">s</add></subst>, als ob
+                    <lb/>man nach einer Unterbrechung durch eine
+                    <lb/>Asso<choice><orig>c</orig><reg>z</reg></choice>iation<orig>,</orig> wieder auf das erste (nach und nach) zurück
+                    <lb break="no"/>käme. Das soll kein Programm sein. Sondern
+                    <lb/>nur ein <foreign xml:lang="la" rend="latin">ad hoc</foreign> unternommener Versuch der
+                    <lb/>Deutung. Um diese Wirkung kommen Sie
+                    <lb/>in <rs key="E0400032">Ihrer Bearbeitung</rs>.
+                </p>
+                
+                <p rend="indent-first">
+                    Noch eines<reg>:</reg> die Figur
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/D0100020-nb3.xml"/>
+                        <graphic width="66px" height="56px" url="D0100020_4_ex_3.png"/>
+                        <desc><persName key="E0300017">Ferruccio Busoni</persName>, <rs key="E0400032">Konzertmäßige Interpretataion</rs> von <persName>Arnold Schönbergs</persName> <title key="E0400113">Klavierstück op. 11 Nr. 2</title>, T. 7</desc>
+                    </notatedMusic>
+                    
+                    etc<reg>.</reg>
+                    
+                    <note type="commentary" resp="#E0300313">Diese Stelle von <persName key="E0300017">Busonis</persName> <rs key="E0400032">Transkription</rs> (Takt 7, Zählzeit 3) hat keine unmittelbare Entsprechung zu <persName key="E0300023">Schönbergs</persName> <rs key="E0400113">Original</rs>. In anderer Form kommen diese Noten bei <persName key="E0300023">Schönberg</persName> in Takt 6 vor (siehe das nächste Notenbeispiel); die von <persName key="E0300017">Busoni</persName> eingesetzte Figur kommt bei <persName key="E0300023">Schönberg</persName> später im Kontext einer Sequenzierung vor (Takt 43, Zählzeit 3).</note>
+                    
+                    entspricht
+                    <lb/>keineswegs dem Ausdruck, den ich mir bei der
+                    <lb/>Stelle
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/D0100020-nb4.xml"/>
+                        <graphic width="89px" height="54px" url="D0100020_4_ex_4.png"/>
+                        <desc><persName key="E0300023">Arnold Schönberg</persName>, <rs key="E0400113">op. 11 Nr. 2</rs>, T. 6 f.</desc>
+                    </notatedMusic>
+                    
+                    gedacht habe. Das soll nicht:
+                    
+                    <pb n="5"/>
+                    
+                    <note type="shelfmark" place="top" resp="#archive" rend="indent">B II, 4552</note>
+                    
+                    <note type="pagination" resp="#major_hand" place="top-right"><subst><del rend="overwritten">4</del><add place="across">5</add></subst>)</note>
+                    
+                    <q rend="dq-du latin">dolce tranquillo</q> sein, sondern <q rend="dq-du-oo">sehr ausdrucksvoll</q>,
+                    <lb/>schneidend, gedehnt; <hi rend="latin">Oboen mit Cello <choice><orig>P</orig><reg>p</reg></choice>ortamento</hi>. 
+                    <lb/>Dann aber außerdem: Stellt die Sechzehntel
+                    <lb break="no"/>figur die weiterentwickelte Form dieses
+                    <lb/>Gedankens vor, dann darf doch die Urform
+                    <lb/>nicht fehlen, von der sie ausgeht?!?
+                </p>
+                
+                <p rend="indent-first">
+                    Sonst enthält ja <rs key="E0400032">Ihre Bearbeitung</rs> eine
+                    <lb/>Unmenge geistreicher Details, die davon
+                    <lb/>zeugen<reg>,</reg> wie tief und mit welchem feinen
+                    <lb/>Gefühl Sie in <rs key="E0400113">dies Stück</rs> eingedrungen
+                    <lb/>sind. Manches ist wundervoll, höchst interessant,
+                    <lb/>und sehr scharf ausgedacht. Und ich muss gestehen: 
+                    <lb/><q rend="dq-du">Wäre ich nicht <persName key="E0300362">Diogenes</persName>, so …<orig>.</orig></q>
+                    
+                    <note type="commentary" resp="#E0300314">Verdrehende Anspielung auf einen Ausspruch <persName key="E0300363">Alexanders des Großen</persName>: <q>Wenn ich nicht <persName key="E0300363">Alexander</persName> wäre, möchte ich wohl <persName key="E0300362">Diogenes</persName> sein.</q></note>
+                    
+                    Das heißt:
+                    <lb/><q rend="dq-du-oo">hätte ich nicht <rs key="E0400113"><hi rend="underline">dieses</hi> Stück</rs> schreiben wollen (und<orig>,</orig>
+                        <lb/>schreiben <hi rend="underline">können</hi>!)<reg>,</reg> so hätte ich das Ihre, <rs key="E0400032">Ihre
+                            <lb/>Bearbeitung</rs> schreiben wollen.</q> Aber ich habe
+                    <lb/>meines geschrieben<reg>,</reg> und <rs key="E0400032">Ihre Bearbeitung</rs> hat
+                    <lb/>mich nicht davon überzeugt, dass meines
+                    <lb/>nicht gut ist. Dagegen hat es <rs key="E0300357">eine gute<reg>,</reg> aber
+                        <lb/>nicht hervorragende Pianistin</rs> klanglich sehr
+                    
+                    <pb n="6"/>
+                    
+                    <note type="pagination" resp="#major_hand" place="top-left">6)</note>
+                    
+                    schön gespielt. Vielleicht haben Sie doch das
+                    <lb/>Tempo anders genommen, als ich es meine. 
+                    <lb/>Ich schreibe vor: <hi rend="latin">Mäßige</hi> ♪; <choice><orig>J</orig><reg>j</reg></choice>a, mäßige Achtel.
+                    <lb/>Aber mäßige <hi rend="latin">Acht<subst><del rend="overwritten"><gap reason="illegible" extent="1" unit="char"/></del><add place="across">e</add></subst>l</hi> sind natürlich schneller
+                    <lb/>als mäßige Viertel; denn es sind eben <hi rend="underline latin">Achtel</hi><reg>,</reg>
+                    <lb/>und sonst gäbe es ja keinen Grund<reg>,</reg> <hi rend="latin">Achtel</hi> zu
+                    <lb/>schreiben. Vielleicht hat Sie das irregeführt.
+                    <lb/>Vielleicht müsste es heißen: gehende <hi rend="latin">Achtel</hi>
+                    <lb/>(etwa M.&#8239;M. ♪&#8239;= 80–90). Das ist für
+                    <lb/><hi rend="latin">Achtel mäßig</hi>, da die ♩.<pc>=</pc>Note dadurch
+                    <lb/>♩.&#8239;= 26–30 heißen müsste!
+                </p>
+                
+                <p rend="indent-first">
+                    Sie haben mir <date when-iso="1909-08-20">seinerzeit</date> <add place="above">ungefähr <choice><orig>f</orig><reg>F</reg></choice>olgendes</add> geschrieben:
+                    <lb/><q rend="dq-du">Ich hoffe, ein so <choice><orig><seg rend="spaced-out">.....</seg></orig><reg>…</reg></choice> <add place="above">(feiner?)</add> Kopf, wie Sie empfindet
+                        <lb/>Kritik, nicht als <choice><orig><seg rend="spaced-out">.....</seg></orig><reg>…</reg></choice><add place="above">(verletzend?)</add>.</q><orig>..</orig>
+                    
+                    <note type="commentary" resp="#E0300314">Im <ref type="E010001" target="#D0100013" n="2">Brief vom 20. August 1909</ref> schreibt <persName key="E0300017">Busoni</persName>: <q>Ein so prächtiger Kopf wie der <choice><orig>Ihre,</orig><reg>ihre</reg></choice> empfindet Kritik nur als Gewinn, selbst wenn diese nicht das Richtige treffen sollte.</q></note>
+                    
+                    Das habe ich
+                    <lb/>auch nicht getan und erwarte das Gleiche
+                    <lb/>von Ihnen. Ich erhoffe mir also, dass Sie
+                    <lb/>den <hi rend="latin">Inhalt</hi> meines Vorwortes nicht beanstanden
+                    <lb/>werden. Wie gesagt, aber, ich bin zu <choice><orig>Ae</orig><reg>Ä</reg></choice>nderungen
+                    <lb/>im Rahmen eines Protestes bereit. Denn,
+                    
+                    <pb n="7"/>
+                    
+                    <note type="pagination" resp="#major_hand" place="top-right">7.</note>
+                    
+                    Sie verstehen mich ja wohl, ich bin Ihnen für Ihr
+                    <lb/>warmes Interesse vor allem dankbar und
+                    <lb/>fühle mich durch Ihre <subst><del rend="overwritten"><gap reason="overwritten" atLeast="1" unit="char"/></del><add place="across">w</add></subst>ohlgemeinte Absicht einer
+                    <lb/>Bearbeitung unbedingt <hi rend="underline">geehrt</hi>. Ich drücke das
+                    <lb/>ja auch aus und versichere es Ihnen hiemit
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800004"/> (183)</bibl> und <bibl><ref target="#E0800005"/> (180)</bibl>: <q>hiermit</q>.</note>
+                    
+                    noch
+                    <lb break="no"/>mals. Aber ich kann mich nicht entschließen<reg>,</reg>
+                    <lb/><rs key="E0400113">mein Stück</rs> darum in der Hinsicht<reg>,</reg> die
+                    <lb/><rs key="E0400032">Ihre Bearbeitung</rs> ausdrückt<reg>,</reg> für unvollko<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>en
+                    <lb/>und verbesserungsbedürftig zu finden.
+                    <lb/>Sicher nicht für unvollkomme<supplied reason="omitted">ne</supplied>r<orig>,</orig> als alles
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>ndere<reg>,</reg> das ich geschrieben. Ich glaube fast<reg>,</reg>
+                    <lb/>es ist vollkommener. Und wenn es mir unvoll
+                    <lb break="no"/>kommen in mancher Hinsicht erscheint, so
+                    <lb/>sind das ganz andere Punkte, in<add> </add>denen ich heute
+                    <lb/>mehr kann<orig>,</orig> als <del rend="strikethrough">ich</del> damals vermochte.
+                </p>
+                
+                <p rend="indent-first">
+                    Ich muss Ihnen noch für die freundliche
+                    <lb/>Zusendung Ihrer <title key="E0400324" rend="dq-du">organischen Klavier<pc>=</pc>Noten<choice><orig><supplied><pc>=</pc></supplied>S</orig><reg>s</reg></choice>chrift</title>
+                    <lb/>danken. Ich werde Ihnen bald darüber ausführ
+                    <lb break="no"/>lich schreiben.
+                </p>
+                
+                <p rend="indent-first">
+                    Ich habe leider sehr viel zu arbeiten, des
+                    
+                    <pb n="8" break="no"/>
+                    
+                    halb geschieht es nicht sogleich. Ich schreibe <rs key="E0800232">eine Har
+                        <lb break="no"/>monielehre</rs>, instrumentiere den <choice><orig>3<hi rend="sup underline" n="2">ten</hi></orig><reg>Dritten</reg></choice> T<orig>h</orig>eil
+                    meiner
+                    <lb/><title key="E0400042"><hi rend="latin">Gurre</hi>lieder</title> (einer älteren Komposition von mir), habe
+                    <lb/>mir <rs key="E0400021">ein Textbuch</rs> gedichtet, male und dergleichen
+                    <lb/>mehr. Also, bitte ein anderes Mal.
+                </p>
+                
+                <p rend="indent-first">
+                    Ich darf hoffentlich auf eine baldige
+                    <lb/>Antwort rechnen, denn die Sachen sollen
+                    <lb/>zum Druck und müssen vor dem <date when-iso="1910-07-15">15<supplied reason="omitted">.</supplied></date> dort sein;
+                    <lb/>sonst wäre es für den Herbst zu spät.
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönbergs</persName> <title key="E0400019">Klavierstücke op.&#8239;11</title> erschienen im <date when-iso="1910-10">Oktober 1910</date>; <persName key="E0300017">Busonis</persName> <title key="E0400032">Konzertmäßige Interpretation</title> von <rs key="E0400113">op.&#8239;11 Nr.&#8239;2</rs> folgte spätestens Anfang <date when-iso="1910-11">November 1910</date>.</note>
+                </p>
+                <closer>
+                    <salute rend="indent-first">Indem ich Sie aufs Herzlichste grüße, bin
+                        <lb/>ich in vorzüglicher Hochachtung Ihr ergebener
+                    </salute>
+                    <signed rend="inline"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

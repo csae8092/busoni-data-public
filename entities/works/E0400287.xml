@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400287">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: Mazeppa für Klavier solo</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-15" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="m">Mazeppa für Klavier solo</title>
+                        <idno type="wcat">S&#160;138</idno>
+                        <idno type="wcat">R&#160;2c</idno>
+                        <idno type="GND">300213778</idno>
+                        <imprint>
+                            <date when-iso="1840" type="composed"/>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1847" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600122">Haslinger</orgName>
+                            </publisher>
+                            <pubPlace key="E0500002">Wien</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1847" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600162">M.&#160;Schlesinger</orgName>
+                            </publisher>
+                            <pubPlace key="E0500012">Paris</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <note>
+                        Basiert auf Nr. 4 der <title key="E0400336">Etüde in 12 Übungen</title> S 136 bzw. der <title key="E0400272">12 Grandes études</title> S 137; <date when-iso="1851">1851</date> nochmals überarbeitet als <rs key="E0400179">Nr.&#160;4</rs> der <title key="E0400158">Études d'exécution transcendante</title> S&#160;139 
+                    </note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

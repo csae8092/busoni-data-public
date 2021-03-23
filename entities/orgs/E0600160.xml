@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600160">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>E. Troupenas &amp; Co.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-08-27" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="publisher">
+                    <idno type="GND">1073074951</idno>
+                    <orgName xml:lang="de">E. Troupenas &amp; Co.</orgName>
+                    <orgName xml:lang="fr">E. Troupenas &amp; Cie.</orgName>
+                    <desc><date when-iso="1825">1825</date> durch <persName key="E0300581">Eugène-Théodore Troupenas</persName> in <placeName key="E0500012">Paris</placeName> gegründeter Musikverlag; nach dem Tod <persName key="E0300581">Troupenas</persName>’ <date when-iso="1850">1850</date> Übernahme des Katalogs durch das Verlagshaus Brandus &amp; Cie.</desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

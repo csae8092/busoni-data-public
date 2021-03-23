@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300422">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emil Telmányi</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-10" who="#E0300361">Geburts- und Sterbeort ergänzt; status="reviewed"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">117255025</idno>
+               <idno type="VIAF">46947834</idno>
+               <idno type="ISNI">0000000120251219</idno>
+               <persName type="reg">
+                  <surname>Telmányi</surname>,
+                  <forename>Emil</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1892-06-22"/>
+                  <placeName key="E0500130">Arad</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1988-06-12"/>
+                  <placeName key="E0500626">Holte</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Violinist</occupation>
+               <occupation>Dirigent</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <!-- Index-Einträge für places -->
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <range>
+            <create qname="tei:placeName" type="xs:string"/>
+            <create qname="tei:district" type="xs:string"/>
+            <create qname="tei:settlement" type="xs:string"/>
+            <create qname="tei:location" type="xs:string"/>
+            <create qname="tei:region" type="xs:string"/>
+            <create qname="tei:place" type="xs:string"/>
+            <create qname="tei:country" type="xs:string"/>
+            <create qname="tei:idno" type="xs:string"/>
+            <create qname="@type" type="xs:string"/>
+            <create qname="@key" type="xs:string"/>
+            <create qname="@xml:id" type="xs:string"/>
+            <create qname="@xml:lang" type="xs:string"/>
+        </range>
+        <fulltext default="none" attributes="false"/>
+        <lucene diacritics="no">
+            <analyzer class="org.apache.lucene.analysis.standard.NoDiacriticsStandardAnalyzer"/>
+            <text qname="tei:place"/>
+            <text qname="tei:title" boost="25"/>
+            <text qname="tei:placeName" boost="2.0"/>            
+        </lucene>                
+    </index>
+</collection>

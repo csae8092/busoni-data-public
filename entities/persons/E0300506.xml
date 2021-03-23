@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300506">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adolf Hitler</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118551655</idno>
+               <idno type="VIAF">38190770</idno>
+               <idno type="ISNI">000000012278465X</idno>
+               <persName type="reg">
+                  <surname>Hitler</surname>,
+                  <forename>Adolf</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1889-04-20"/>
+                  <placeName key="E0500574">Braunau am Inn</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1945-04-30"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Politiker</occupation>
+               <occupation>Nationalsozialist</occupation>
+               <occupation>Diktator</occupation>
+               <affiliation>Parteivorsitzender der <orgName key="E0600092">NSDAP</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

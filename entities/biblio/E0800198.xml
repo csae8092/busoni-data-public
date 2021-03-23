@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800198">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schilling / Thielk 2008</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Oskar</forename>
+                     <surname>Schilling</surname>
+                  </author>
+                  <author>
+                     <forename>Horst</forename>
+                     <surname>Thielk</surname>
+                  </author>
+                  <title level="m">Zivilpost-Zensur in Österreich-Ungarn 1914-1918</title>
+                  <title level="m" type="sub">Handbuch und Katalog</title>
+                  <edition>3., erweiterte Ausgabe</edition>
+                  <idno type="DNB">999461583</idno>
+                  <idno type="PPN">592382079</idno>
+                  <idno type="BVB">BV036126600</idno>
+                  <imprint>
+                     <date when-iso="2008"/>
+                     <pubPlace>Mödling</pubPlace>
+                     <publisher>Österreichische ARGE Feld- und Zensurpost 1914/18</publisher>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

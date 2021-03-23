@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300566">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beatrice Dovsky</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-02-28" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">12686022X</idno>
+                    <idno type="VIAF">44730892</idno>
+                    <persName type="reg">
+                        <surname>Dovsky</surname>,
+                        <forename>Beatrice</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Beatrice</forename>
+                        <surname>Drewikowsky</surname>
+                    </persName>
+                    <persName type="married">
+                        <forename>Beatrice</forename>
+                        <surname>Vay</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1866" cert="medium"/>
+                        <placeName key="E0500002">Wien</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1923-07-18"/>
+                        <placeName key="E0500002">Wien</placeName>
+                    </death>
+                    <sex value="f"/>
+                    <occupation>Schauspielerin</occupation>
+                    <occupation>Schriftstellerin</occupation>
+                    <note>
+                    	Es kursieren unterschiedliche Angaben zum Geburtsdatum. Das Historische Lexikon Wien datiert die Geburt auf den 
+                        <date when-iso="1866-04-14">14. April 1866</date> (vgl. <bibl><ref target="#E0800308"></ref></bibl>), während das
+                    	<ref type="ext" target="https://www.biographien.ac.at/oebl/oebl_D/Dovsky_Beatrice_1870_1923.xml">Österreichische Biographische 
+                    	Lexikon</ref> <date when-iso="1870">1870</date> als Geburtsjahr angibt (Stand: <date when-iso="2020-08-08">08.08.2020</date>).
+                    	Auf ihrem Grabstein hingegen ist der <date when-iso="1866-11-14">14. November 1866</date> als Geburtsdatum vermerkt.
+      				</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

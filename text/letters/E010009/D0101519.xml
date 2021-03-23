@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0101519">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hugo Leichtentritt an Ferruccio Busoni (Berlin, 23. Dezember 1913)</title>
+                <title xml:lang="en">Letter by Hugo Leichtentritt to Ferruccio Busoni (Berlin, 23 December 1913)</title>
+                <author key="E0300093">Hugo Leichtentritt</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300418">
+                        <forename>Marlene</forename>
+                        <surname>Everling</surname>
+                    </persName>
+                </respStmt>
+                <!-- <respStmt>
+                    <resp>Digitization by</resp>
+                    voraussichtlich <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                    </respStmt>-->
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <!-- <date when-iso="2021-11"/> -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010009">Briefwechsel Ferruccio Busoni – Hugo Leichtentritt</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2761</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Leichtentritt 4 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-639346</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300093">Leichtentritt</persName> übersendet seine ungedruckte <title key="E0400452">Bratschensonate</title>; nimmt Distanz zu futuristischen Strömungen und Fortschrittsdogmen; bittet für seine Werke um <persName key="E0300017">Busonis</persName> <q>prüfenden Blick</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1913-12-23"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1913-12-24"/></docDate>
+                            <incipit>Ich nehme mir die Freiheit, Ihnen eines meiner letzten <choice><orig>o</orig><reg>O</reg></choice>pera</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Seitenfolge: 1, 3, 2 (2 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300093">Hand des Absenders Hugo Leichtentritt, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500029">Berlin</placeName> W
+                                    <lb/><date when-iso="1913-12-24">24.12.13</date> 2-3N
+                                    <lb/>* 30 <seg rend="minuscule"><gap reason="illegible" unit="char" extent="1"/></seg>
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine rend="align(left)">Herrn</addrLine>
+                                <addrLine rend="align(center) latin"><persName key="E0300017">Ferruccio Busoni</persName>.</addrLine>
+                                <addrLine rend="align(right) latin">
+                                    <note type="stamp" place="center" resp="#dsb_st_red">
+                                        <stamp rend="round border align(center) small">Deutsche
+                                            <lb/>Staatsbibliothek
+                                            <lb/>
+                                            <placeName key="E0500029">
+                                                <hi rend="spaced-out">Berlin</hi>
+                                            </placeName>
+                                        </stamp>
+                                    </note>
+                                    <hi rend="underline">W.</hi> 30.
+                                </addrLine>
+                                <addrLine rend="align(right) latin"><placeName key="E0500072">Vi<choice><orig>c</orig><reg>k</reg></choice>toria<choice><orig> </orig><reg>-</reg></choice>Luise<choice><orig> </orig><reg>-</reg></choice><choice><abbr>Pl.</abbr><expan>Platz</expan></choice> 11</placeName>.</addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <address><addrLine rend="top-center"><persName key="E0300093">H. Leichtentritt</persName>. <placeName key="E0500029">Berlin</placeName> W. 57.</addrLine></address>
+                            <note type="shelfmark" place="center" rend="space-above space-below" resp="#archive">
+                                <add xml:id="add_sig">Mus.Nachl. F. Busoni B II, 2761-Beil.</add>
+                            </note>
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del xml:id="del_sig" rend="strikethrough">
+                                        Mus.ep. H. Leichtentritt 4
+                                        <lb/><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                    </del>
+                                </subst>
+                            </note>
+                            <substJoin target="#add_sig #del_sig"></substJoin>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029"/>
+                            <origDate when-iso="1913-12-23"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0101519">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116878363" key="E0300093">Leichtentritt, Hugo</persName>
+                    <date when="1913-12-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1913-12-24" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <!-- Zu überarbeiten, wenn Busoni-Briefe aus der LOC vorliegen -->
+                <correspContext>
+                    <!--<ref type="replyTo" target="#..."/>
+                    <ref type="repliedBy" target="#..."/>-->
+                    <ref type="previous" target="#D0101517"/>
+                    <ref type="next" target="#D0101520"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2020-08-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2020-08-02" who="#E0300418">Ersttranskription, Meta-Daten, status unfinished.</change>
+            <change when-iso="2020-10-06" who="#E0300418">Auszeichnungen, Kommentare, status unfinished.</change>
+            <change when-iso="2020-10-12" who="#E0300418">Korrekturen, status proposed</change>
+            <change when-iso="2020-11-14" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" resp="#archive" place="top-left">
+                    <subst>
+                        <del rend="strikethrough align(right)">Mus.ep. H. Leichtentritt 4 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <lb/><add>Mus.Nachl. F. Busoni B II, 2761</add>
+                    </subst>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive" rend="space-below">[1]</note>
+                <opener>
+                    <address rend="space-above">
+                        <addrLine rend="latin align(right)"><placeName key="E0500029">Berlin</placeName> W.<reg>,</reg> <placeName key="E0500634">Winterfeld<choice><orig> S</orig><reg>ts</reg></choice>tr. 25<hi rend="sup underline" n="2">a</hi></placeName></addrLine>
+                    </address>
+                    <dateline rend="latin align(right)">
+                        <choice><abbr>d.</abbr><expan>den</expan></choice><date when-iso="1913-12-23"> 23. <choice><abbr>Dez.</abbr><expan>Dezember</expan></choice> 1913</date>.
+                    </dateline>
+                    <salute rend="indent space-above">Sehr verehrter Meister <persName key="E0300017" rend="latin">Busoni</persName>!</salute>
+                </opener>
+                <p rend="indent-first">Ich nehme mir die Freiheit, Ihnen
+                    <lb/>eines meiner letzten <choice><orig>o</orig><reg>O</reg></choice>pera, eine <rs key="E0400452">Bratschen<pc>⸗</pc>
+                        <lb break="no"/>Sonate</rs><reg>,</reg>
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritt</persName> schrieb die <title key="E0400452">Sonate für Bratsche und Klavier</title> für das zehnte und letzte Konzert einer Kammermusik-Konzertreihe, die der <placeName key="E0500664">belgische</placeName> Cellist <persName key="E0300606">Marix Loevensohn</persName> organisierte und in der bei freiem Eintritt explizit moderne Werke zur Aufführung kamen <bibl>(vgl. <ref target="#E0800277"/>, S. 337)</bibl>. Bei dieser Aufführung im <date notBefore-iso="1914-04" notAfter-iso="1914-05">April oder Mai 1914</date> spielten <persName key="E0300607">Gottlieb Kutschka</persName> und <persName key="E0300576">Leonid Kreutzer</persName>. Eine Uraufführungs-Kritik nannte die <title key="E0400452">Sonate</title> <q>ein vortrefflich gearbeitetes, wenngleich musikalisch nicht bedeutendes Werk</q> <bibl>(<orgName>Die Musik</orgName> 13 [<date when-iso="1913/1914">1913/14</date>], Bd. 51, Nr. 15, <date when-iso="1914-05">Mai 1914</date>, S. 185, <ref type="ext" target="https://archive.org/details/DieMusik13jg3qBd.511913-1914/page/n221/mode/1up">Digitalisat</ref></bibl>). Sie wurde auch von <persName key="E0300093">Leichtentritts</persName> Schüler <persName key="E0300608">Wolfgang Schocken</persName> im <placeName key="E0500665">Jerusalemer</placeName> Radio anlässlich von <persName key="E0300093">Leichtentritts</persName> <date when-iso="1944-01-01">70. Geburtstag</date> im <date when-iso="1944-01">Januar 1944</date> aufgeführt.</note>
+                    
+                    zu übersenden. Einen Verleger hat
+                    <lb/>sie noch nicht,
+                    
+                    <note type="commentary" resp="#E0300418">Die <title key="E0400452">Sonate für Bratsche und Klavier</title> blieb unveröffentlicht, <persName key="E0300093">Leichtentritt</persName> ließ jedoch privat eine kleine Auflage für den Eigengebrauch und potentielle Interpreten drucken <bibl>(vgl. <ref target="#E0800277"/>, S. 338)</bibl>.</note>
+                    
+                    und deswegen lä<choice><orig>ß</orig><reg>ss</reg></choice>t Sie wegen
+                    <lb/>ihres etwas schäbigen Äußeren um
+                    <lb/>Entschuldigung bitten. Wenn Sie nur den
+                    <lb/>Inhalt nicht schäbig finden, würde sie schon
+                    <lb/>sich zufrieden geben. Ihr Verfasser schmei
+                    <lb break="no"/>chelt sich zwar nicht, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie ihr als Kunst
+                    <lb break="no"/>werk der Zukunft
+                    
+                    <note type="commentary" resp="#E0300314">Wohl distanzierend gemeinte Evokation von <persName key="E0300006">Richard Wagners</persName> gleichnamiger <rs key="E0400471">kunsttheoretischer Schrift</rs>.</note>
+                    
+                    irgendwelche besondere
+                    <lb/>Beachtung beimessen werden; ungeachtet
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                    
+                    dessen geht er ruhig und ziemlich sicher seine<subst><del rend="overwritten">n</del><add place="across">s</add></subst>
+                    <lb/>Wegs, dem Ziele entgegen, das ihm erstre
+                    <lb break="no"/>benswert ist. Das Gewitter der Futuristen
+                    
+                    <note type="commentary" resp="#E0300314"><persName key="E0300017">Busoni</persName> stand der ab <date when-iso="1909">1909</date> von <placeName key="E0500013">Italien</placeName> ausgehenden avantgardistischen Künstlerbewegung des <soCalled>Futurismus</soCalled> ambivalent gegenüber <bibl>(vgl. <ref target="#E0800338"/>)</bibl>. Dass seine bereits im <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title> <date when-iso="1907">1907</date> vorgestellte <q>verfeinerte Chromatik</q> unter Verwendung von Dritteltönen später von <persName key="E0300084">Hans Pfitzner</persName> dem Futurismus zugeordnet wurde (<bibl><ref target="#E0800236"/></bibl>), wies <persName key="E0300017">Busoni</persName> von sich (<bibl><ref target="#E0800115"/></bibl>; siehe auch <bibl><ref target="#E0800340"/>, S. 211</bibl>).</note>
+                    
+                    <lb/>lä<choice><orig>ß</orig><reg>ss</reg></choice>t er in der Ferne toben, nur ein
+                    <lb/>paar schwache Blitze verirren sich bis in
+                    <lb/>seine Nachbarschaft. Er ist des festen Glau
+                    <lb break="no"/>bens, da<choice><orig>ß</orig><reg>ss</reg></choice> viele Wege nach <placeName key="E0500020">Rom</placeName> führen,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> man seinem Gotte
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritt</persName> war Jude, hatte als Kind die Jüdische Schule in <placeName key="E0500150">Pleschen</placeName> besucht und sich dort auch in seiner Freizeit mit der hebräischen Sprache und dem Talmud beschäftigt <bibl>(vgl. <ref target="#E0800277"/>, S. 13)</bibl>.</note>
+                    
+                    aufrichtig dienen
+                    <lb/>kann ohne fesselnde Dogmen weder nach
+                    <lb/>rechts noch nach links, da<choice><orig>ß</orig><reg>ss</reg></choice> die Welt groß
+                    <lb/>ist und alle Akteure darin schließlich
+                    <lb/>nur klein, und da<choice><orig>ß</orig><reg>ss</reg></choice> jedem Teilnehmer an
+                    <lb/>der <rs key="E0400321">menschlichen Komödie</rs>
+                    
+                    <note type="commentary" resp="#E0300418">Anspielung auf <title key="E0400321">La comédie humaine</title> von <persName key="E0300345">Honoré de Balzac</persName>. <persName key="E0300093">Leichtentritt</persName> hatte an der <persName key="E0300345">Balzac</persName>-Lektüre schon 1893 als Student in <orgName key="E0600157">Harvard</orgName> Gefallen gefunden.</note><!-- Nachweis fehlt -->
+                    
+                    nur die einzige
+                    <lb/>Aufgabe erwächst, den ihm zugemessenen Scheffel
+                    <lb/>nach Möglichkeit bis zum Rande zu füllen.
+                    <lb/>Von diesen Gesichtspunkten aus (nicht
+                    
+                    <pb n="3"/>
+                    
+                    um von Ihnen gelobt zu werden) wünscht er Sie von Zeit
+                    <lb/>zu Zeit mit seinen jeweiligen Bestrebungen bekannt
+                    <lb/>zu machen, weil ihm das Bewu<choice><orig>ß</orig><reg>ss</reg></choice>tsein <add place="above">von</add> <subst><del rend="overwritten">w</del><add place="across">W</add></subst>ert ist, den
+                    <lb/>prüfenden Blick eines einsichtigen, von ihm so hochgeschätzten
+                    <lb/>Kenners ab und zu auf seine Bestrebungen gerichtet
+                    <lb/>zu sehen. Sollte über die Bestrebung hinaus auch die
+                    <lb/>Leistung Ihnen anerkennenswert erscheinen, dann desto
+                    <lb/>angenehmer für den verflossenen Historiker<reg>,</reg>
+                    <lb/>der Ihnen und <rs type="persons" key="E0300059 E0300060 E0300153">Ihrer werten Familie</rs> ein
+                    <lb/>fröhliches Weihnachtsfest wünscht und ein
+                    <lb/>glückliches Neues Jahr.
+                </p>
+                <closer rend="align(center)">
+                    <salute>Ihr sehr ergebener
+                    </salute>
+                    <signed rend="align(right)"><persName key="E0300093" rend="latin">H. Leichtentritt</persName>.</signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 4 des Bogens (Rückseite von Textseite 2)]</note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

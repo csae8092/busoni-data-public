@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800177">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dose / Folz / Mang / Schrupp / Tauchmann / Thyen / Trunk-Nußbaumer 1993</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Maria</forename>
+                     <surname>Dose</surname>
+                  </author>
+                  <author>
+                     <forename>Jürgen</forename>
+                     <surname>Folz</surname>
+                  </author>
+                  <author>
+                     <forename>Dieter</forename>
+                     <surname>Mang</surname>
+                  </author>
+                  <author>
+                     <forename>Charlotte</forename>
+                     <surname>Schrupp</surname>
+                  </author>
+                  <author>
+                     <forename>Christine</forename>
+                     <surname>Tauchmann</surname>
+                  </author>
+                  <author>
+                     <forename>Olaf</forename>
+                     <surname>Thyen</surname>
+                  </author>
+                  <author>
+                     <forename>Marion</forename>
+                     <surname>Trunk-Nußbaumer</surname>
+                  </author>
+                  <title level="m">Duden</title>
+                  <title level="m" type="sub">Das große Wörterbuch der deutschen Sprache</title>
+                  <edition>2., völlig neu bearbeitete und erweiterte Auflage</edition>
+                  <idno type="DNB">552102199</idno>
+                  <imprint>
+                     <pubPlace>Mannheim</pubPlace>
+                     <pubPlace>Leipzig</pubPlace>
+                     <pubPlace>Wien</pubPlace>
+                     <pubPlace>Zürich</pubPlace>
+                     <publisher>Dudenverlag</publisher>
+                     <date when-iso="1993"/>
+                  </imprint>
+                  <biblScope unit="volume">1</biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800275">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stradal 1926</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-03-02" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>August</forename>
+                            <surname>Stradal</surname>
+                        </author>
+                        <title level="a"><persName key="E0300013">Liszts</persName> Werke im Verlage <orgName key="E0600124">J. Schuberth &amp; Co.</orgName>, <placeName key="E0500007">Leipzig</placeName></title>
+                        <title level="a" type="sub">Eine kleine Studie</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Zur Geschichte des Musikverlags <orgName key="E0600124">J. Schuberth &amp; Co.</orgName> <placeName key="E0500007">Leipzig</placeName></title>
+                        <title level="m" type="sub"><date when-iso="1826/1926">1826–1926</date></title>
+                        <idno type="DNB">579454975</idno>
+                        <imprint>
+                            <pubPlace>Leipzig</pubPlace>
+                            <date when-iso="1926"/>
+                            <note>Druck: Oscar Brandstetter</note>
+                        </imprint>
+                        <biblScope unit="page">6–13</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100015">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Arnold Schönberg (Berlin, 26. August 1909)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Arnold Schönberg (Berlin, 26 August 1909)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300319">
+                        <forename>Claudio</forename>
+                        <surname>Fuchs</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="A-Was">Arnold-Schönberg-Center, Wien</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-01-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>Washington, D. C.</settlement>
+                        <institution key="US-Wc">The Library of Congress</institution>
+                        <repository>Music Division</repository>
+                        <collection>Arnold Schoenberg Collection</collection>
+                        <altIdentifier>
+                            <country key="AT">Österreich</country>
+                            <settlement>Wien</settlement>
+                            <institution key="A-Was">Arnold-Schönberg-Center</institution>
+                            <idno>19516</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> zitiert Passagen seines Briefes an <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> vom gleichen Tag, in dem er <persName key="E0300023">Schönbergs</persName> <title key="E0400019">Drei Klavierstücke</title> ohne dessen Wissen zur Inverlagnahme empfohlen hat; zitiert ferner das ebenfalls an den Verlag gegangene Vorwort zur Publikation <rs key="E0400032">seiner Transkription</rs> des <rs key="E0400113">zweiten Klavierstücks</rs>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1909-08-26"/></docDate>
+                            <incipit><ref type="E010001" target="#D0100014">Ihren Brief</ref>, so interessant er ist</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="lc_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1909-08-26"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;178 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;172 f. (Brief), S.&#8239;85 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 397 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen
+                        (Kodierung berücksichtigt mit dem Attribut <att>n</att>="2" auch die gelegentliche Wiederholung des
+                        Bindestrichs am folgenden Zeilenbeginn).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100015">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1909-08-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100014"/>
+                    <ref type="repliedBy" target="#D0100016"/>
+                    <ref type="previous" target="#D0100014"/>
+                    <ref type="next" target="#D0100016"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-02-08" who="#E0300314">Revisionselement hinzugefügt und
+                revisionDesc auf status="unfinished" gesetzt.</change>
+            <change when-iso="2018-01-05" who="#E0300314">Codierung und Durchsicht abgeschlossen, status proposed</change>
+            <change when-iso="2020-02-03" who="#E0300550">Korrekturlesung abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="http://www.schoenberg.at/scans/DVD043/19516_1.jpg"/>
+        <graphic n="2" url="http://www.schoenberg.at/scans/DVD043/19516_2.jpg"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                 <p><seg type="opener" subtype="salute">Sehr geehrter <persName key="E0300023">Herr Schönberg</persName>.</seg> <ref type="E010001" target="#D0100014">I<subst><del rend="overwritten">ch</del><add place="across">hren</add></subst> Brief</ref>, so interessant
+                    <lb/>er ist – wenn auch mit einigen Wi<orig>e</orig>dersprüchen –
+                    <lb/>und wiederum zur Zustimmung zwingend –<reg>,</reg> kann
+                    <lb/>ich heute leider nicht ausführlich beantworten.
+                    <lb/>Ich danke Ihnen <choice><abbr>u.</abbr><expan>und</expan></choice> glaube <choice><orig>A</orig><reg>a</reg></choice>lles zu verstehen,
+                    <lb/>künstlerisch <choice><abbr>u.</abbr><expan>und</expan></choice> moralisch. —</p>
+                
+                <p rend="indent-first">Heute erlaubte ich mir<reg>,</reg> hinter Ihrem Rücken (u. <choice><orig>A.</orig><reg>a.</reg></choice>)
+                    <lb/><choice><orig>f</orig><reg>F</reg></choice>olgendes an <hi rend="underline"><orgName key="E0600002">Breitkopf <choice><abbr>u.</abbr><expan><choice><orig>und</orig><reg>&amp;</reg></choice></expan></choice> Härtel</orgName></hi> zu schreiben<orig>:</orig> <add place="inline">(wörtlich)</add><reg>:</reg>
+                    <quote rend="indent dq-du">Ich stehe seit ein <choice><orig>P</orig><reg>p</reg></choice>aar Monaten in <choice><orig>C</orig><reg>K</reg></choice>orrespondenz
+                        <lb rend="after:„"/>mit einem mir sonst persönlich unbekannten
+                        <lb rend="after:„"/><persName key="E0300023">Arnold Schönberg</persName>. – Die Veranlassung war
+                        <lb rend="after:„"/>seine Einsendung von <rs key="E0400019">drei eigenen Klavier
+                            <lb rend="after:„" break="no"/>stücken</rs>. – Darin erweist sich <persName key="E0300023">Schönberg</persName> als ein
+                        <lb rend="after:„"/>höchst eigenartiger, ja seltsamer, jedoch –
+                        <lb rend="after:„"/>wie seine Briefe darlegen – zielbewu<choice><orig>ß</orig><reg>ss</reg></choice>ter Geist.
+                        <lb rend="after:„"/><rs key="E0400019">Die Stücke</rs> interessi<reg>e</reg>rten mich in dem Grade,
+                        <lb rend="after:„"/>dass ich <rs key="E0400113">eines davon</rs> für meine <choice><orig>Conc</orig><reg>Konz</reg></choice>ert
+                        <lb rend="after:„" break="no"/>zwecke <soCalled rend="dq-du">trans<choice><orig>cribi</orig><reg>kribie</reg></choice>rte</soCalled>. <rs key="E0400032">Dieser Trans-<choice><orig>sc</orig><reg>Sk</reg></choice>ription</rs>
+                        <lb rend="after:„"/>sollen (zur Verständigung) die wenigen Worte
+                        <lb rend="after:„"/>– die ich Ihnen hier als Erläuterung beilege –
+                        <lb rend="after:„"/>vorausgehen. – <hi rend="underline">Ohne</hi> <hi rend="underline">sein</hi> <hi rend="underline">Wissen</hi> frage
+                        <lb rend="after:„"/>ich an, ob Sie dem hochstrebenden
+                        <lb rend="after:„"/>Manne die allerdings ganz <soCalled rend="dq-du">unpopulären</soCalled><reg>,</reg>
+                        <lb rend="after:„"/>aber bedeutsamen <rs key="E0400019"><choice><orig>3</orig><reg>drei</reg></choice> Stücke</rs> (von etwa <choice><orig>4</orig><reg>vier</reg></choice>
+                        <lb rend="after:„"/>Druckseiten jedes) – unter Ihrer Flagge in
+                        <lb rend="after:„"/>die Öffentlichkeit helfen wollten.</quote>
+                    
+                    <note type="commentary" resp="#E0300314">Der von <persName key="E0300017">Busoni</persName> am <date when-iso="1909-08-26">26. August 1909</date> verfasste Brief an <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> ist vollständig abgedruckt in: <bibl><ref target="#E0800050"/>, Bd. 1, S.&#8239;340</bibl>.</note>
+                    
+                </p>
+                
+                <p> Ich <choice><orig>citi</orig><reg>zitie</reg></choice>re an <hi rend="underline"><orgName key="E0600002"><choice><abbr>Br.</abbr><expan>Breitkopf</expan></choice>
+                    <choice><abbr>u.</abbr><expan><choice><orig>und</orig><reg>&amp;</reg></choice></expan></choice>
+                    <choice><abbr>H.</abbr><expan>Härtel</expan></choice></orgName></hi> <rs key="E0400032">meine Trans<choice><orig>c</orig><reg>k</reg></choice>ription</rs>
+                    <lb/><q rend="dq-du">für meine <choice><orig>Conc</orig><reg>Konz</reg></choice>ertzwecke</q> <hi rend="underline">nur</hi>, um diesen Leuten
+                    <lb/>klar<choice><orig> zu </orig><reg>zu</reg></choice>machen, wie <del rend="strikethrough">sehr</del> stark mein Interesse
+                    <lb/>an <rs key="E0400019">den Stücken</rs> ist. – Ich selbst sehe von der
+                    <lb/><rs key="E0400032">Trans<choice><orig>c</orig><reg>k</reg></choice>ription</rs> ab, sende aber das kleine
+                    <lb/>Vorwort an <orgName key="E0600002"><choice><abbr>Br.</abbr><expan>Breitkopf</expan></choice>
+                        <choice><abbr>u.</abbr><expan><choice><orig>und</orig><reg>&amp;</reg></choice></expan></choice>
+                        <choice><abbr>H.</abbr><expan>Härtel</expan></choice></orgName>, welches noch <choice><orig>E</orig><reg>e</reg></choice>iniges
+                    <lb/>hinzufügt, um ihre Verleger-Neugier zu er
+                    <lb break="no"/>wecken. – Das Vorwort lautet:
+                </p>
+                
+                <note type="stamp" place="bottom-right"  resp="#lc_st_red">
+                    <stamp rend="round majuscule small">* The * Library * of * Congress *</stamp>
+                </note>
+                
+                <pb n="2"/>
+                
+                <quote rend="dq-du">In <rs key="E0400043 E0800315">einer kleinen Schrift</rs>, welche sich
+                    <lb rend="after:„"/>vornimmt, breiteren Anschauungen einen
+                    <lb rend="after:„"/>Weg zu bahnen, <ref type="E010004" target="#D0200001" n="28">findet sich der Satz:</ref>
+                    <lb/><q rend="indent sq-guil">Kaleidoskopisches Durcheinanderschütteln
+                        <lb rend="after:‹"/>der <choice><orig>12</orig><reg>zwölf</reg></choice> Halbtöne in der Dreispiegel
+                        <lb break="no" rend="after:‹"/>kammer der Empfindung, des Geschmackes
+                        <lb rend="after:‹"/>und der Intention: das Wesen der heutigen
+                        <lb rend="after:‹"/>Harmonie.</q>
+                    <lb rend="after:„"/>Die in dem Satz zum Ausdruck gebrachte Idee
+                    <lb rend="after:„"/>erscheint in dem <hi rend="underline"><persName key="E0300023">Schönberg</persName></hi>’schen <rs key="E0400113"><choice><orig>C</orig><reg>K</reg></choice>lavierstück</rs> <orig>–</orig>
+                    <lb rend="after:„"/>– vielleicht zum ersten Male – verwirklicht; der
+                    <lb rend="after:„"/>Begriff einer <choice><orig>Dur u. Moll </orig><reg>Dur- <choice><abbr>u.</abbr><expan>und</expan></choice> Moll-</reg></choice>Tonart und ihrer <choice><orig>12</orig><reg>zwölf</reg></choice>
+                    <lb rend="after:„"/>Transpositionen ausgestrichen.
+                    <lb rend="after:„"/>In dieser Komposition erblickt <rs key="E0300017">der Heraus
+                        <lb break="no" rend="after:„"/>geber</rs> den Ansatz zu einer späteren Tonkunst.
+                    <lb rend="after:„"/>Die Wiedergabe fordert vom Spieler die ver
+                    <lb break="no" rend="after:„"/>feinerteste Anschlags<reg>-</reg> u Pedalkunst; einen
+                    <lb rend="after:„"/>intimen, improvisi<reg>e</reg>rten, <soCalled rend="dq-du">schwebenden</soCalled>,
+                    <lb rend="after:„"/>empfundenen Vortrag; ein liebevolles
+                    <lb rend="after:„"/>Sich-Versenken in ihren Inhalt, dessen
+                    <lb rend="after:„"/>Interpret – lediglich als <choice><orig>C</orig><reg>K</reg></choice>lavier<hi rend="underline">setzer</hi> –
+                    <lb rend="after:„"/>hiermit sein zu dürfen, sich zu künstler
+                    <lb break="no" rend="after:„"/>ischer Ehre rechnet — <persName key="E0300017">F. B.</persName>
+                </quote>
+                
+                <note type="commentary" resp="#E0300313">Der späteren Ausgabe von <persName key="E0300017">Busonis</persName> "Konzertmäßiger Interpretation" von <persName key="E0300023">Schönbergs</persName> Klavierstück op.&#8239;11 Nr.&#8239;2 lag eine abweichende Vorbemerkung bei, die wie folgt lautete: "Diese Komposition fordert vom Spieler die verfeinerteste Anschlags- und Pedalkunst; einen intimen, improvisierten, "schwebenden", empfundenen Vortrag; ein liebevolles Sichversenken in seinen Inhalt, dessen Interpret – rein als Klaviersetzer – hiermit sein zu dürfen, sich zu künstlerischer Ehre rechnet <persName key="E0300017">Ferruccio Busoni</persName>".</note>
+                
+                <p rend="space-above">Ich hoffe<reg>,</reg> dass Sie mir diese freie Handlungs
+                    <lb break="no"/>weise in der Absicht auslegen, mit welcher
+                    <lb/>sie begonnen wurde. – Sie kompromitti<reg>e</reg>rt
+                    <lb/>Sie in keiner Weise. – Die Antwort werde
+                    <lb/>ich Ihnen zuschicken<reg>,</reg> und ich habe Ihnen
+                    <lb/>wörtlich meine Zuschrift mitget<orig>h</orig>eilt, damit
+                    <lb/>Sie aus der <orgName key="E0600002"><choice><abbr>Br.<choice><orig> u. </orig><reg>-u.-</reg></choice>H.</abbr><expan>Breitkopf-&amp;-Härtel</expan></choice></orgName>-Antwort (wie sie auch
+                    <lb/>ausfällt) nichts <choice><orig>A</orig><reg>a</reg></choice>nderes von meiner Seite
+                    <lb/>vermut<orig>h</orig>en. – </p>
+                
+                <closer>
+                    <salute rend="align(right)">Mit sehr <choice><abbr>freundl.</abbr><expan>freundlichem</expan></choice> Gruße
+                        <lb/>Ihr Sie hochschätzender</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F Busoni</persName></signed>
+                    <dateline><orig>(</orig><date when-iso="1909-08-26">26. <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1909</date>.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

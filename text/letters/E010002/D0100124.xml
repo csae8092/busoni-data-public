@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 8. April 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 8 April 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300334">
+                        <forename>Nicole</forename>
+                        <surname>Kufeld</surname>
+                    </persName>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bedauert, wegen seines 50. Geburtstages und der <placeName key="E0500132">Zürcher</placeName> Aufführung von <persName key="E0300129">Volkmar Andreaes</persName> Oper <title key="E0400257">Ratcliff</title> die <placeName key="E0500186">Berner</placeName> Uraufführung von <persName key="E0300125">Hubers</persName> Oper <title key="E0400156">Die schöne Bellinda</title> versäumt zu haben; vergleicht die Vorlagen beider Werke nach Eignung des Stoffes und der Dichtung.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-04-08"/></docDate>
+                            <incipit>nun war es mir doch nicht vergönnt</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen und das Datum auf die erste Seite übertragen hat. </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-04-08"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S. 14 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-04-08"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100123"/>
+                    <ref type="repliedBy" target="#D0100231"/>
+                    <ref type="previous" target="#D0100123"/>
+                    <ref type="next" target="#D0100231"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01" who="#E0300334">Bearbeitung übernommen, status unfinished.</change>
+            <change when-iso="2017-01-20" who="#E0300334">Bearbeitung abgeschlossen, status proposed.</change>
+            <change when-iso="2017-06-27" who="#E0300314">Durchsicht abgeschlossen, status candidate.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">17.</note>
+                
+                <note type="dating" place="right" resp="#archive">8. April 1916</note>
+                
+                <opener>
+                    <salute rend="indent">Hochverehrter Freund,</salute>
+                </opener>
+                
+                <p>
+                    nun war es mir doch nicht vergönnt,
+                    <lb/>rechtzeitig nach <placeName key="E0500186">Bern</placeName> zu kommen.
+                    
+                    <note type="commentary" resp="#E0300314">Zu Generalprobe und Uraufführung von <persName key="E0300125">Hubers</persName> Oper <title key="E0400156">Die schöne Bellinda</title> (<date when-iso="1916-04-01/1916-04-02">1. bzw. 2. April 1916</date>).</note>
+                    
+                    <lb/>Ich hatte eine komplizierte Zeit – auf
+                    <lb/>den Samstag fiel auch dieser fatale Tag,
+                    
+                    <note type="commentary" resp="#E0300314"><persName key="E0300017">Busonis</persName> 50. Geburtstag (<date when-iso="1916-04-01">1. April 1916</date>).</note>
+                    
+                    <lb/><del rend="strikethrough"><gap reason="strikethrough" extent="2" unit="char"/></del> dem Sie ein so glücklich abgefasstes
+                    <lb/>Telegramm
+                    
+                    <note type="commentary" resp="#E0300314">Nicht überliefert.</note>
+                    
+                    gütig widmeten. (Dafür vorerst
+                    <lb/>warmempfundenen Dank!)
+                </p>
+                
+                <p rend="indent-first">
+                    Dazwischen geriet überdies die 
+                    <lb/>Generalprobe von <persName key="E0300129">Andreae<orig>’</orig>s</persName> <title key="E0400257">Ratcliff</title> – (ein
+                    <lb/>Buch, das häufiger<orig>,</orig> als sonst in der Oper<orig>,</orig>
+                    <lb/>den <hi rend="underline">Dichter</hi> verrät<orig>h</orig>) – <choice><abbr>u.</abbr><expan>und</expan></choice> der ich nicht
+                    <lb/>umhin konnte beizuwohnen.
+                    
+                    <note type="commentary" resp="#E0300314">Die ersten <placeName key="E0500132">Zürcher</placeName> Aufführungen von <persName key="E0300129">Volkmar Andreaes</persName> Oper <title key="E0400257">Ratcliff</title> fanden am <date when-iso="1916-03-30">30. März</date> sowie am <date when-iso="1916-04-05">5.</date> und <date when-iso="1916-04-11">11. April 1916</date> statt <bibl>(<ref target="#E0800058"/>, S. 54)</bibl>.</note>
+                    
+                    Die
+                    <lb/>Emotionen, durch mannigfache Kundge
+                    <lb break="no"/>bungen zu meinem Jahrestage hervor
+                    <lb break="no"/>gerufen, gingen nicht ohne Rea<choice><orig>c</orig><reg>k</reg></choice>tion
+                    <lb/>vorbei. – Ich fühlte mich durch diese,
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> die vorausgegangene Über<choice><orig>A</orig><reg>a</reg></choice>rbeit,
+                    <lb/>ein wenig vermürbt.
+                </p>
+                
+                <p rend="indent-first">
+                    An dem <title key="E0400257">Ratcliff</title> konnte ich
+                    <lb/>wieder einmal bestätigen, dass
+                    <lb/><hi rend="indent">die Voraussetzungen des Dramas
+                        <lb/>nicht dieselben sind<orig>,</orig> als die der Oper</hi>
+                    
+                    <pb n="2"/>
+                    
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> <del rend="strikethrough">wo</del> dass <del rend="strikethrough">da</del> man die gleichen 
+                    <lb/>Voraussetzungen an Oper <choice><abbr>u.</abbr><expan>und</expan></choice> Drama
+                    <lb/>stellt, indem man durch den
+                    <lb/>beiden gemeinsam zufallenden
+                    <lb/>Begriff <mentioned rend="dq-du">Theater</mentioned> irregeführt wird.
+                    <lb/>Darum schien mir die Wahl <rs key="E0400156">Ihres
+                        <lb/>Stoffes</rs> die richtigere, wenngleich
+                    <lb/>die Dichtung nicht stark genug <del rend="strikethrough">erscheint</del>
+                    <lb/>sich erwies, als ich sie las. – Zürnen
+                    <lb/>Sie nicht meiner Offenheit, <choice><abbr>u.</abbr><expan>und</expan></choice> berichten
+                    <lb/>sie vielmehr, dass die Aufführung 
+                    <lb/>mir Unrecht gi<orig>e</orig>bt: <choice><orig>d</orig><reg>D</reg></choice>enn <del rend="strikethrough"><gap reason="strikethrough" extent="1" unit="char"/></del> in Sachen
+                    <lb/>der Bühne sind Theorien unma<choice><orig>as</orig><reg>ß</reg></choice>gebend.
+                </p>
+                
+                <p rend="indent-first">
+                    Hoffentlich brachte Ihnen das
+                    <lb/>Erlebnis (denn ein solches ist es stets,
+                    <lb/>wenn man die Konzeption aus
+                    <lb/>der <del rend="strikethrough">Stud</del> Arbeitsstube in <del rend="strikethrough">die</del> das
+                    <lb/>Leben stellt<orig>,</orig> <choice><abbr>u.</abbr><expan>und</expan></choice> es
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff"><bibl><ref target="#E0800047"/> (15)</bibl>: <q>sie</q>.</note>
+                    
+                    Gestalt annehmen 
+                    <lb/>sieht) Freude <choice><abbr>u.</abbr><expan>und</expan></choice> Genugt<orig>h</orig>uung.
+                </p>
+                
+                <p rend="indent-first">
+                    Ich habe noch <choice><orig>N</orig><reg>n</reg></choice>ichts über
+                    <lb/><title key="E0400156">Bel<reg>l</reg>inda</title> verlauten gehört und
+                    <lb/>bin also nun um<orig> </orig>so mehr gespannt.
+                </p>
+                
+                <closer>
+                    <salute rend="indent">
+                        Ich grü<choice><orig>ss</orig><reg>ß</reg></choice>e Sie allerherzlichst
+                        <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> verehrungsvoll.
+                        <lb/><seg rend="align(center)">Ihr treuer</seg>
+                    </salute>
+                    
+                    <dateline><placeName key="E0500132">Zürich</placeName><reg>,</reg> <date when-iso="1916-04-08">8. <choice><abbr>Apr.</abbr><reg>April</reg></choice> 1916</date>.</dateline><signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName>
+                    </signed>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

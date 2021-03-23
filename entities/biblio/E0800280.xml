@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800280">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stein 1958</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2019-10-25" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <editor key="E0300057">
+                     <forename>Erwin</forename>
+                     <surname>Stein</surname>
+                  </editor>
+                  <title level="m"><persName key="E0300023">Arnold Schoenberg</persName></title>
+                  <title level="m" type="sub">Briefe</title>
+                  <idno type="DNB">454445393</idno>
+                  <imprint>
+                     <pubPlace>Mainz</pubPlace>
+                     <publisher>B. Schott’s Söhne</publisher>
+                     <date when-iso="1958"/>
+                  </imprint>
+               </monogr>
+               <note>Enthält 247 Briefe <persName key="E0300017">Schönbergs</persName>, ediert überwiegend auf Grundlage von <persName key="E0300017">Schönbergs</persName> Durchschriften bzw. Durchschlägen und unter Wahrung der Besonderheiten von <persName key="E0300017">Schönbergs</persName> Schreibweise in Orthographie und Interpunktion regularisiert (darunter der Erstdruck des <ref type="E010001" target="#D0100032">Briefes vom 28. Juli 1912</ref> an <persName key="E0300017">Busoni</persName>).</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

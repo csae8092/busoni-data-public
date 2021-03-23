@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300596">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicolas Slonimsky</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">119006979</idno>
+                    <idno type="ISNI">0000000109071372</idno>
+                    <persName type="reg">
+                        <surname>Slonimsky</surname>,
+                        <forename>Nicolas</forename>
+                    </persName>
+                    <persName type="alt">
+                        <forename>Kolyenka</forename>
+                        <surname>Slonimsky</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1894"/>
+                    </birth>
+                    <death>
+                        <date when-iso="1995"/>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Musikwissenschaftler</occupation>
+                    <occupation>Komponist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Postkarte von Ferruccio Busoni an Arnold Schönberg (Berlin, 14. Oktober 1903)</title>
+                <title xml:lang="en">Postcard by Ferruccio Busoni to Arnold Schönberg (Berlin, 14 October 1903)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="A-Was">Arnold-Schönberg-Center, Wien</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>Washington, D. C.</settlement>
+                        <institution key="US-Wc">The Library of Congress</institution>
+                        <repository>Music Division</repository>
+                        <collection>Arnold Schoenberg Collection</collection>
+                        <altIdentifier>
+                            <country key="AT">Österreich</country>
+                            <settlement>Wien</settlement>
+                            <institution key="A-Was">Arnold-Schönberg-Center</institution>
+                            <idno>19512</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> hat <title key="E0400012">Pelleas und Melisande</title> durchgesehen; kann keine Aufführung zusagen, wohl aber die von <persName key="E0300024">Schenkers</persName> <title key="E0400016">Syrischen Tänzen</title> in <rs key="E0400017">Schönbergs Orchestrierung</rs>.</summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1903-10-14"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1903-10-15"/></docDate>
+                            <incipit>Ich habe <title key="E0400012">Pelleas <choice><abbr>u</abbr><expan>und</expan></choice> Melisande</title> erhalten</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Postkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Die Postkarte ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="lc_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="2"/>
+                            
+                            <fw place="top-left">Postkarte</fw>
+                            
+                            <note type="stamp" place="margin-right" resp="#post" xml:id="post_abs">
+                                <stamp rend="round border">
+                                    <placeName key="E0500029" rend="majuscule">Berlin</placeName>.W.
+                                    <lb/><date when-iso="1903-10-14">14.10.03</date> 6–7N.
+                                    <lb/>* 50 d
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="top-right" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border">
+                                    <placeName key="E0500029" rend="majuscule">Berlin</placeName>.W.
+                                    <lb/><date when-iso="1903-10-14">14.10.03</date> 6–7N.
+                                    <lb/>* 50 d
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="margin-right" resp="#lc_st_red">
+                                <stamp rend="round majuscule small">The Library of Congress</stamp>
+                            </note>
+                            
+                            <note type="stamp" place="left" resp="#post" xml:id="post_rec">
+                                <stamp rend="round border majuscule">
+                                    9/4 <placeName key="E0500002">Wien</placeName> <unclear reason="illegible">00</unclear>
+                                    <lb/>bestellt
+                                    <lb/><date when-iso="1903-10-15">15.10.03</date>
+                                    <lb/>11.V
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="left" resp="#post" sameAs="#post_rec">
+                                <stamp rend="round border majuscule rotate(90)">
+                                    9/4 <placeName key="E0500002">Wi<supplied reason="low-ink">en</supplied></placeName> <supplied reason="low-ink">00</supplied>
+                                    <lb/>bestellt
+                                    <lb/><date when-iso="1903-10-15">15.10.0<supplied reason="low-ink">3</supplied></date>
+                                    <lb/>11.V
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine><fw>An</fw></addrLine>
+                                <addrLine>Herrn <persName key="E0300023" rend="latin">Arnold Schönberg</persName></addrLine>
+                                <addrLine><fw place="inline">in</fw> <placeName key="E0500002" rend="latin">Wien</placeName></addrLine>
+                                <addrLine><fw place="margin-left" rend="tiny align(center)">Wohnung<lb/>(Straße und Hausnummer)</fw> <placeName key="E0500077">IX. Liechtensteinstraße 68/70</placeName></addrLine>
+                                <addrLine rend="align(center)">II/22</addrLine>
+                            </address>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1903-10-14"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 164</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 147 (Brief), S. 61–63 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 381</bibl>
+                            <bibl><ref target="#E0800284"/>, S. 216</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100004">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1903-10-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100003"/>
+                    <ref type="previous" target="#D0100003"/>
+                    <ref type="next" target="#D0100005"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2015-12-28" who="#E0300314">Revisionselement hinzugefügt, status unfinished</change>
+            <change when-iso="2017-12-09" who="#E0300314">Codierung abgeschlossen, status proposed</change>
+            <change when-iso="2020-02-10" who="#E0300550">Korrekturlesung abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="http://www.schoenberg.at/scans/DVD043/19511_1.jpg"/>
+        <graphic n="2" url="http://www.schoenberg.at/scans/DVD043/19511_2.jpg"/>
+    </facsimile>
+    <text type="postcard">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <p><seg type="opener" subtype="salute">Verehrter:</seg> Ich habe <title key="E0400012">Pelleas <choice><abbr>u</abbr><expan>und</expan></choice> Melisande</title>
+                    <lb/>erhalten – und bis zu Ende durchgesehen. 
+                    <lb/>Sie sind ein Meister des Orchesters, das
+                    <lb/>scheint mir auf den <choice><orig>E</orig><reg>e</reg></choice>rsten Eindruck zweifellos. 
+                    <lb/>Über den Inhalt konnte ich noch
+                    <lb/>nicht sicher werden<orig>; –</orig> (bedenken Sie<reg>,</reg>
+                    <lb/>dass ich als Pianist, <choice><orig>C</orig><reg>K</reg></choice>omponist <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>Dirigent zugleich beschäftigt bin <subst><del rend="overwritten">– </del><add place="across"><choice><abbr>u.</abbr><expan>und</expan></choice> zu </add></subst>
+                    <lb/><del rend="strikethrough">aber</del> keiner ruhigen Sa<choice><abbr>m̅</abbr><expan>mm</expan></choice>lung gelange)<reg>;</reg>
+                    <lb/>also liegt es – vorläufig – nur an mir.
+                    <lb/>Die <rs key="E0400017">Tänze</rs> von <persName key="E0300024">Schenker</persName> tr<subst><del rend="overwritten">ef</del><add place="across">a</add></subst>fen ebenfalls
+                    <lb/>ein<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> ich freue mich, dass ich wenig<lb break="no"/>stens in dieser Form Ihren Namen
+                    <lb/>auf meine Programme setzen kann.
+                    
+                    <note type="commentary" resp="#E0300313">Die Aufführung von <persName key="E0300024">Heinrich Schenkers</persName> <title key="E0400016">Syrischen Tänzen</title> in <persName key="E0300023">Schönbergs</persName> <rs key="E0400017">Bearbeitung</rs> fand im Rahmen der <orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabende</orgName> am <date when-iso="1903-11-05">5. November 1903</date> statt.</note>
+                </p>
+                
+                <closer rend="align(center)">
+                    <salute>Freundlichst ergeben</salute>
+                    <signed rend="inline">Ihr <persName key="E0300017">F<reg>.</reg> Busoni</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

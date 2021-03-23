@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600158">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jatho-Verlag</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-08-02" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="publisher">
+               <idno type="DNB">33010831X</idno>
+               <orgName>Jatho-Verlag</orgName>
+               <desc><placeName key="E0500029">Berliner</placeName> Musikverlag. Später aufgekauft von <orgName>Ries &amp; Erler</orgName>.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

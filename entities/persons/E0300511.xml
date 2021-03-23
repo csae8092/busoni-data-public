@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300511">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>CarlAlexander</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119418134</idno>
+               <idno type="VIAF">24576428</idno>
+               <idno type="ISNI">0000000106534132</idno>
+               <persName type="reg">
+                  <forename>Carl</forename>
+                  <forename>Alexander</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Carl</forename>
+                  <forename>Alexander</forename>
+                  <forename>August</forename>
+                  <forename>Johann</forename>
+               </persName>
+               <persName type="role" when-iso="1853/1900">
+                  <roleName type="nobility">Großherzog von <placeName key="E0500583">Sachsen-Weimar-Eisenach</placeName>
+                  </roleName>
+               </persName>
+               <birth>
+                  <date when-iso="1818-06-24"/>
+                  <placeName key="E0500144">Weimar</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1901-01-05"/>
+                  <placeName key="E0500144">Weimar</placeName>
+               </death>
+               <sex value="m"/>
+               <note>Förderer von Literatur, Musik (u. a. <persName key="E0300013">Franz Liszt</persName>, <persName key="E0300022">Richard Strauss</persName>, <persName key="E0300006">Richard Wagner</persName>, <persName key="E0300143">Eugen d’Albert</persName>, <persName key="E0300242">Bernhard Stavenhagen</persName>), Kunst und Wissenschaft im sogenannten <soCalled rend="qu-du">Silbernen Zeitalter</soCalled> <placeName key="E0500144">Weimars</placeName></note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E04....."><!-- ID ausfüllen -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Bezeichnung für Autor und Titel, nach folgendem Schema:
+                    Beethoven, Ludwig van: Symphonie Nr. 3 Es-Dur op. 55 «Eroica»
+                    Wellesz, Egon: Die Prinzessin Girnara. Mysterium in 2 Akten op. 27
+                    Bach, Johann Sebastian: Das wohltemperierte Klavier (Erster Teil)
+                    Bach, Johann Sebastian (arr. Busoni, Ferruccio): 10 Orgelchoralvorspiele
+                    Bartók, Béla: Két elégia op. 8b (dt.: Zwei Elegien)
+                    Busoni, Ferruccio: Indianisches Tagebuch. Erstes Buch. Vier Klavierstudien über Motive der Rothäute Amerikas (Erstes Buch)
+                    Nietzsche, Friedrich Wilhelm: Jenseits von Gut und Böse. Vorspiel einer Philosophie der Zukunft -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="…" who="#E03.....">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="…">
+                    <monogr>
+                        <author key="E03.....">…</author>
+                        <title>…</title>
+                        <title type="sub">…</title>
+                        <idno type="op">…</idno>
+                        <idno type="wcat">…</idno>
+                        <idno type="GND">…</idno>
+                        <imprint>
+                            <date when-iso="…" type="…"/>
+                            <pubPlace key="E05.....">…</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="…" type="…"/>
+                            <pubPlace key="E05.....">…</pubPlace>
+                            <note>…</note>
+                        </imprint>
+                    </monogr>
+                    <series sameAs="#E04.....">
+                        <biblScope unit="volume">…</biblScope>
+                    </series>
+                    <note>…</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

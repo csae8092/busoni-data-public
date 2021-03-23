@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100527">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Zürich, 23. April 1907)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Zurich, 23 April 1907)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300364">
+                        <forename>Wantana</forename>
+                        <surname>Tancharoenpol</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1711</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 22 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-589092</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300208">Freund</persName> äußert sich umfangreich zum von <persName key="E0300017">Busoni</persName> erhaltenen <rs key="E0800228">Sammeldruck</rs>; hält <persName key="E0300017">Busonis</persName> Kritik am Begriff der <mentioned>Form</mentioned> für eine Verwechslung mit <mentioned>Schema</mentioned>; empfiehlt hierzu <persName key="E0300445">Hebbel</persName>-Lektüre; erkundigt sich nach <persName key="E0300017">Busonis</persName> möglichem Engagement in <placeName key="E0500002">Wien</placeName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="--04-23"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1907"/></docDate>
+                            <incipit>Herzlichen Dank für <rs key="E0800228">Ihre Sendung</rs></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">4 Bogen</measure>
+                                    <measure type="pages">7 beschriebene Seiten </measure>
+                                </extent>
+                                <collation>Seitenfolge 1, 4, 2, 3, 7, 6, 8 (4, 6 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc><!-- Beschreibung der beteiligten Hände, reduzieren und/oder ergänzen -->
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>                         
+                        </handDesc> 
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1907-04-23"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="lh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Unterstrichen (_).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100527">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1907-04-23"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100528"/>
+                    <ref type="previous" target="#D0100526"/>
+                    <ref type="next" target="#D0100528"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-04-06" who="#E0300364">Vorlagen-Datei erstellt, Transkription ausstehend, status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013722469/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000004"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000002"/>
+        <graphic n="4" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000003"/>
+        <graphic n="5" corresp="7" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000007"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000006"/>
+        <graphic n="7" corresp="8" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000008"/>
+        <graphic n="8" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CFC00000005"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" resp="#archive" place="top-left">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. R. Freund 22 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                    <lb/><add xml:id="addSig">Mus. Nachl. F. Busoni B II, 1711</add>
+                </note>
+        
+                <note type="foliation" resp="#archive" place="top-right" rend="space-below">[1]</note>
+                
+                <p rend="space-above"><seg type="opener" subtype="salute">Lieber Freund!</seg> Herzlichen Dank
+                    <lb/>für <rs key="E0800228">Ihre Sendung</rs>. Diese enthält
+                    <lb/>des Anregenden, t<orig>h</orig>eilweise
+                    <lb/>auch des Bedeutenden so viel,
+                    <lb/>dass es nicht möglich
+                    <lb/>ist<reg>,</reg> in einem simplen
+                    <lb/>Brief sich einigerma<choice><orig>ss</orig><reg>ß</reg></choice>en
+                    <lb/>eingehend darüber zu unterhal
+                    <lb break="no"/>ten.</p>
+                
+                <p>Zuerst <subst><del rend="overwritten">d</del><add place="across">z</add></subst>u <rs type="works" key="E0400048 E0400138">den Operndichtungen</rs>.
+                    <lb/><rs key="E0400048"><choice><orig>N<seg rend="sup underline" n="2">o</seg></orig><reg>Nr.</reg></choice> 1</rs> scheint für Musik
+                    <lb/>wie geschaffen<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> ich hörte
+                    <lb/>sie manches <choice><sic>m</sic><corr>M</corr></choice>al <soCalled rend="dq-uu">klingen</soCalled>.
+                    <lb/><title key="E0400138">Die Brautwahl</title> gefiel mir
+                    <lb/>weniger (ich meine als
+                    <lb/>musikalischer Vorwurf). Äu<choice><orig>ss</orig><reg>ß</reg></choice>ert
+                    <lb/>gespa<choice><abbr>n̅</abbr><expan>nn</expan></choice>t bin ich auf den
+                    <lb/>St<choice><orig>y</orig><reg>i</reg></choice>l (leggiero e grazioso)<reg>,</reg>
+                    <lb/>in dem Sie den Text wohl
+                    
+                    <pb n="2"/>
+                    
+                    <soCalled rend="dq-uu">vertonen</soCalled> werden. Etwas störend ist mir a<subst><del rend="overwritten">uch</del><add place="across">ber</add></subst>
+                    <lb/>die Zerlegung der beiden mittleren <subst><del rend="overwritten">in</del><add place="across">A</add></subst><choice><orig>c</orig><reg>k</reg></choice>te in
+                    <lb/>je <choice><orig>2</orig><reg>zwei</reg></choice> Hälften: für mich ein Zeugnis<orig>s</orig> der
+                    <lb/>Ungeschicklic<subst><del rend="overwritten">k</del><add place="across">h</add></subst>keit des Dram<orig>m</orig>atikers. <subst><del rend="overwritten"><gap reason="illegible" unit="char" extent="1"/></del><add place="across">E</add></subst>s
+                    <lb/>ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>t dadurch etwas Kleinlich-Zerrissenes
+                    <lb/>in den Gang der Handlung. Sie nehmen
+                    <lb/>mir doch meine Aufrichtigkeit nicht übel?
+                    <lb/>Ich versprach Ihnen vor Jahren<reg>,</reg> i<choice><abbr>m̅</abbr><expan>mm</expan></choice>er
+                    <lb/>offen zu reden<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> Sie sehen, ich halte
+                    <lb/>Wort.<orig> –</orig></p>
+                <p><rs key="E0400043">Die Aphorismen</rs> sind für mich der bedeu
+                    <lb break="no"/>tendste T<orig>h</orig>eil <rs key="E0800228">des Buches</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> viele derselben
+                    <lb/>von gro<choice><orig>ss</orig><reg>ß</reg></choice>er sprachlicher Schönheit. <subst><del rend="strikethrough">Ist</del><add place="above">Sind</add></subst> es
+                    <lb/>die kurzen Sätze<reg>,</reg> oder hielten Sie <subst><del rend="overwritten">man</del><add place="across">hie</add></subst> <choice><abbr>u.</abbr><expan>und</expan></choice> da
+                    
+                    <pb n="3"/>
+                    mit Ihrer Meinung etwas
+                    <lb/>zurück, kurz<reg>,</reg> ich hatte
+                    <lb/>häufig den Eindruck <subst><del rend="overwritten">al</del><add place="across">de</add></subst>s
+                    <lb/>Dunklen, Unbesti<choice><abbr>m̅</abbr><expan>mm</expan></choice>ten.
+                    <lb/>We<choice><abbr>n̅</abbr><expan>nn</expan></choice> ich Sie nicht missver
+                    <lb break="no"/>standen habe, so halten
+                    <lb/>Sie <persName key="E0300012">Bach</persName> <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300001">Beethoven</persName> nur
+                    <lb/>als <hi rend="underline">relativ</hi><choice><orig>–</orig><reg> </reg></choice>Gro<choice><orig>ss</orig><reg>ß</reg></choice>e, de<choice><abbr>n̅</abbr><expan>nn</expan></choice>
+                    <lb/>das eigentlich<supplied reason="omitted">e</supplied> Reich der
+                    <lb/>Musik wird erst ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en.
+                    <lb/>Mir sind diese Beiden (<choice><abbr>u.</abbr><expan>und</expan></choice> auch
+                    <lb/>einige Kleinere) allerdings
+                    <lb/>absolute Grö<choice><orig>ss</orig><reg>ß</reg></choice>en<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> die schönsten
+                    <lb/>Prophezeiungen über die herrliche
+                    <lb/>ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>ende Kunst<orig>,</orig> kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>en mir
+                    <lb/>nicht die Ergriffenheit geben,
+                    <lb/>die mir unsere <soCalled rend="dq-uu">Gro<choice><orig>ss</orig><reg>ß</reg></choice>en</soCalled> bisher
+                    <lb/>gaben.</p> 
+                <p>Auch verstehe ich nicht recht
+                    <lb/>Ihren Eifer über <soCalled rend="dq-uu">Form</soCalled>. Ich
+                    <note type="stamp" place="align(right)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                            <supplied reason="incomplete"/>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="4"/>
+                    <note type="foliation" resp="#archive" place="top-right">[2]</note>
+                    habe den Eindruck<reg>,</reg> als ob Sie
+                    <lb/><soCalled rend="dq-uu">Form</soCalled> <choice><abbr>u.</abbr><expan>und</expan></choice> <soCalled rend="dq-uu">Schema</soCalled> verwechsel
+                    <lb break="no"/>ten. <persName key="E0300009">Brahms</persName> pflegte zu
+                    <lb/>sagen: <choice><orig>e</orig><reg>E</reg></choice>in Stück i<subst><del rend="overwritten">m</del><add place="across">n</add></subst> <soCalled rend="dq-uu">Sonaten
+                    <lb break="no"/>form</soCalled> ist noch lange keine
+                    <lb/><soCalled rend="dq-uu">Sonate</soCalled>. <soCalled rend="dq-uu">Form</soCalled> ist doch kein
+                    <lb/>Gesetz<reg>,</reg> das keine Ausnahme
+                    <lb/>duldet, ist sie doch nur das
+                    <lb/><choice><orig>in die </orig><reg>In-die-</reg></choice>Erscheinung-(Wa<subst><del rend="overwritten">r</del><add place="across">h</add></subst>rne<reg>h</reg>mung<choice>
+                        <orig>)<lb/></orig>
+                        <reg>-)<lb break="no"/></reg>
+                    </choice>Treten der Idee. Und
+                    <lb/>gerade <subst><del rend="overwritten">i</del><add place="across">e</add></subst>in so formvollendeter
+                    <lb/>Künstler wie Sie<orig>,</orig> ka<choice><abbr>n̅</abbr><expan>nn</expan></choice> doch
+                    <lb/>auf straffe, <choice><orig>c</orig><reg>k</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>ise  Archite<choice><orig>c</orig><reg>k</reg></choice>tur
+                    <lb/>nicht mit Verachtung herab
+                    <lb break="no"/>sehen. Von der praktischen
+                    <lb/>Seite (der Erziehung der Jungen
+                    <lb/>zum <soCalled rend="dq-uu">Kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>en</soCalled>) schweige ich,
+                    <lb/>de<choice><abbr>n̅</abbr><expan>nn</expan></choice> da ist zuerst das <soCalled rend="dq-uu">Schema</soCalled>
+                    <lb/>wohl not<orig>h</orig>wendig. Aber das
+                    <lb/>hat doch nichts mit dem 
+                    <note type="stamp" place="align(left)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                            <supplied reason="incomplete"/>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="5"/>
+                    <note type="foliation" resp="#archive" place="top-right">[4]</note>
+                    <note type="pagination" resp="#major_hand" place="top-right">2,</note>
+                    Schaffen des <soCalled rend="dq-uu">Künstlers</soCalled>
+                    <lb/>zu t<orig>h</orig>un. <soCalled rend="dq-uu">Ihr stellt die 
+                    <lb/>Regel <choice><abbr>u.</abbr><expan>und</expan></choice> folgt ihr
+                    <lb/>da<choice><abbr>n̅</abbr><expan>nn</expan></choice></soCalled><reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> kein Künstler
+                    <lb/>hat wohl anders produ<choice><orig>c</orig><reg>z</reg></choice>i<reg>e</reg>rt.
+                    <lb/>Haben Sie die Briefe von
+                    <lb/><persName key="E0300445">Friedrich Hebbel</persName> angesehen?
+                    <lb/><bibl>(Briefe <choice><abbr>u.</abbr><expan>und</expan></choice> Tagebücher<reg>.</reg>)</bibl>
+                    <lb/>Für mich das Beste <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>Tiefste<reg>,</reg> was je über
+                    <lb/><soCalled rend="dq-uu">Form</soCalled> gesagt wurde.<orig> _</orig></p>
+                <p>Das Interessanteste ist aber
+                    <lb/>doch der Schluss mit
+                    <lb/>seinem Ausblick auf neue
+                    <lb/>Tonarten <choice><abbr>u.</abbr><expan>und</expan></choice> Harmonien.
+                    
+                    <note type="commentary" resp="#E0300364"><bibl><ref type="E010004" target="#D0200002" n="42">Entwurf einer neuen Ästhetik der Tonkunst</ref>, S. 42.</bibl></note>
+                    
+                    <lb/>Ich werde wohl den Meister
+                    <lb/>nicht mehr erleben<reg>,</reg> der
+                    <lb/>mit diesem Material schaffen
+                    <lb/>wird, ja mir ist es ganz
+                    <note type="stamp" place="align(left)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                            <supplied reason="incomplete"/>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="6"/>
+                    <note type="stamp" place="top" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small rotate(-90)">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                            <supplied reason="incomplete"/>
+                        </stamp>
+                    </note>
+                    unmöglich<reg>,</reg> in Drittel-Tönen zu denken<reg>,</reg> <note type="commentary" resp="#E0300364"><bibl><ref type="E010004" target="#D0200002" n="43">Entwurf einer neuen Ästhetik der Tonkunst</ref>, S. 43.</bibl></note>
+                    <lb/>ja auch nur <soCalled rend="dq-uu">i<choice><abbr>n̅</abbr><expan>nn</expan></choice>erlich</soCalled> zu singen. Aber
+                    <lb/>was den Alten unmöglich, kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>te doch
+                    <lb/>einer künftigen Generation natürlich werden.
+                    <lb/>Doch zum Schluss; de<choice><abbr>n̅</abbr><expan>nn</expan></choice> Klarheit kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>ten
+                    <lb/>Sie mir doch nur in <del rend="strikethrough">einer</del> mündliche<subst><del rend="overwritten">n</del><add place="across">r</add></subst>
+                    <lb/>Unterhaltung über verschiedene Punkte geben.</p>
+                <p><orig>– </orig>Von <persName key="E0300129">Andreae</persName> erhalten Sie wohl
+                    <lb/>schon nächstens definitive Nachricht. <persName key="E0300132">Suter</persName>
+                    <lb/>ist <del rend="strikethrough">schon</del> seit einiger Zeit leidend. Als
+                    <lb/>ich ihn zum letzten<choice><orig>m</orig><reg> M</reg></choice>al sah, hatte
+                    <lb/>ich den Eindruck<reg>,</reg> als ob die <choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>ert<choice><orig>c</orig><reg>k</reg></choice>om<reg>m</reg>ission
+                    <lb/>nicht auf seinen Vorschlag eingehen wollte.
+                    <lb/><foreign xml:lang="fr">Tant pis pour eux.</foreign><orig> –</orig></p>
+                
+                
+                <pb n="7"/>
+                <p>Grü<choice><orig>ss</orig><reg>ß</reg></choice>en Sie bitte <rs key="E0300059">Ihre Frau</rs>
+                    <lb/>recht herzlich<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> seien
+                    <lb/>Sie stets gut</p>
+                <closer><salute rend="align(right)">Ihrem alt ergebenen</salute>
+                    <signed rend="align(right)"><persName key="E0300208">R. Freund</persName></signed>
+                </closer>
+                
+                <dateline>
+                    <date when-iso="1907-04-23"><seg rend="sup">23</seg><choice><orig>/</orig><reg>.</reg></choice><seg rend="sub">4</seg><reg>.</reg>
+                        <lb/><note type="dating" resp="#archive" xml:id="arch_date">[<date when-iso="1907">1907</date>]</note></date>
+                </dateline>
+                <postscript>
+                <p>Gehen Sie wirklich nach
+                    <lb/><placeName key="E0500002">Wien</placeName>? Mir eine sehr
+                    <lb/>angenehme Perspe<choice><orig>c</orig><reg>k</reg></choice>tive<reg>,</reg>
+                    <lb/>de<choice><abbr>n̅</abbr><expan>nn</expan></choice> ich hätte dann Hoffnung<reg>,</reg>
+                    <lb/>Sie häufiger zu sehen.</p></postscript>
+ 
+                <pb n="8"/>
+                <note type="shelfmark" place="top-left" resp="#archive">B II, 1711</note>
+                <note type="foliation" resp="#archive" place="top-right">[3]</note>
+                <note type="shelfmark" resp="#archive" place="top-left">
+                    <del rend="strikethrough" sameAs="#delSig">ep. 22 </del>
+                </note>
+                <note type="dating" rend="align(center)" resp="#archive">
+                    <date when-iso="1907">[1907]</date>
+                </note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Weindel 2003</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <forename>Martina</forename>
+                     <surname>Weindel</surname>
+                  </author>
+                  <title level="a"><persName key="E0300017">Busonis</persName> <soCalled><orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabende</orgName></soCalled></title>
+                  <title level="a" type="sub">Eine Nachlese unveröffentlichter Briefe von <persName key="E0300023">Schönberg</persName>, <persName key="E0300047">Mahler</persName>, <persName key="E0300094">Bartók</persName> und <persName key="E0300177">Sibelius</persName></title>
+               </analytic>
+               <monogr>
+                  <title level="j">Schweizer Jahrbuch für Musikwissenschaft</title>
+                  <idno type="DNB">01011193X</idno>
+                  <imprint>
+                     <date when-iso="2003"/>
+                  </imprint>
+                  <biblScope unit="volume">Neue Folge 23</biblScope>
+                  <biblScope unit="page">315–324</biblScope>
+               </monogr>
+               <note>Enthält drei zuvor unveröffentlichte frühe Briefe <persName key="E0300023">Schönbergs</persName> an <persName key="E0300017">Busoni</persName> (<ref type="E010001" target="#D0100001">10. September 1903</ref>, <ref type="E010001" target="#D0100003">20. September 1903</ref> und <ref type="E010001" target="#D0100005">16. Dezember 1903</ref>).</note>
+               <note>Die Edition reklamiert für sich: <q>Die Wiedergabe ist mit dem Wortlaut, der Orthographie und Interpunktion der handschriftlichen Autographe identisch […].</q>, <q>Der originale Zeilenfall wurde nicht übernommen, die Absatzbildungen entsprechen jedoch der originalen Vorlage.</q> (S. 315). Tatsächlich enthält die Transkription allerdings in Absatzgliederung, Orthographie und Interpunktion zahlreiche Ungenauigkeiten und auch im Wortlaut nicht wenige fehlerhafte Lesarten.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

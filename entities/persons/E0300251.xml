@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300251">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albert J. Gutmann</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">128746734</idno>
+               <idno type="VIAF">55266738</idno>
+               <persName type="reg">
+                  <surname>Gutmann</surname>,
+                  <forename>Albert</forename>
+                  <forename>J.</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1851-06-20"/>
+                  <placeName key="E0500341">Fürth</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1915-03-07"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikalienhändler</occupation>
+               <occupation>Konzertagent</occupation>
+               <note><date when-iso="1873">1873</date> Gründung eines Musikverlags in <placeName key="E0500002">Wien</placeName>, in welchem ab <date when-iso="1884">1884</date> auch Werke <persName key="E0300017">Busonis</persName> erschienen. Ebenfalls etwa ab <date when-iso="1884">1884</date> <persName key="E0300017">Busonis</persName> Konzertagent u. a. für <placeName key="E0500091">Österreich</placeName> (<bibl><ref target="#E0800023"/>, S. 814</bibl>).</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arnold Schönberg</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118610023</idno>
+               <idno type="VIAF">12492826</idno>
+               <idno type="ISNI">000000012095618X</idno>
+               <persName type="reg">
+                  <surname>Schönberg</surname>,
+                  <forename>Arnold</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Arnold</forename>
+                  <forename>Franz</forename>
+                  <forename>Walter</forename>
+                  <surname>Schönberg</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1874-09-13"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1951-07-13"/>
+                  <placeName key="E0500037">Los Angeles</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Kompositionslehrer</occupation>
+               <occupation>Musiktheoretiker</occupation>
+               <occupation>Dirigent</occupation>
+               <affiliation when-iso="1902/1903">Dozent für Harmonielehre am <orgName key="E0600012">Stern’schen Konservatorium der Musik</orgName></affiliation>
+               <affiliation when-iso="1904">Mitbegründer der <orgName key="E0600008">Vereinigung schaffender Tonkünstler</orgName></affiliation>
+               <affiliation when-iso="1918">Gründer des <orgName key="E0600027">Vereins für musikalische Privataufführungen</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

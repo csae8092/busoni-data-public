@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300501">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friedrich de la Motte Fouqué</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118534556</idno>
+               <idno type="VIAF">44298932</idno>
+               <idno type="ISNI">0000000110257596</idno>
+               <persName type="reg">
+                  <surname>Fouqué</surname>,
+                  <forename>Friedrich</forename>
+                  <nameLink type="dynasty">de la</nameLink>
+                  <addName type="dynasty">Motte</addName>
+               </persName>
+               <persName type="birth">
+                  <forename>Friedrich</forename>
+                  <forename>Heinrich</forename>
+                  <forename>Karl</forename>
+                  <roleName type="nobility">Baron</roleName>
+                  <nameLink type="dynasty">de la</nameLink>
+                  <addName type="dynasty">Motte</addName>
+                  <surname>Fouqué</surname>
+               </persName>
+               <persName type="role">
+                  <roleName type="nobility">Baron de Thonnayboutonne</roleName>
+               </persName>
+               <persName type="role">
+                  <roleName type="nobility">Baron de Saint-Surin</roleName>
+               </persName>
+               <persName type="role">
+                  <roleName type="nobility">Seigneur de la Greve</roleName>
+               </persName>
+               <persName type="pseud">Pellegrin</persName>
+               <persName type="pseud">
+                  <forename>
+                     <abbr>A.</abbr>
+                  </forename>
+                  <forename>
+                     <abbr>L.</abbr>
+                  </forename>
+                  <forename>
+                     <abbr>T.</abbr>
+                  </forename>
+                  <surname>Frank</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1777-02-12"/>
+                  <placeName key="E0500566">Brandenburg an der Havel</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1843-01-23"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

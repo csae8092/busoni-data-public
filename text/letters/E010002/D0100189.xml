@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100189">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (6. Juni 1907, vmtl. Berlin)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (6 June 1907, prob. Berlin)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> nennt als Kandidaten für einen Meisterkurs am <orgName key="E0600020"><placeName key="E0500097">Basler</placeName> Konservatorium</orgName>: <persName key="E0300269">Waldemar Lütschg</persName>, <persName key="E0300270">Michael von Zadora</persName>, <persName key="E0300271">Theodor Szántó</persName>, <persName key="E0300031">Egon Petri</persName>, <persName key="E0300272">Bruno Mugellini</persName>, <persName key="E0300273">Alberto Fano</persName>, <persName key="E0300274">Johan Wijsman</persName>, <persName key="E0300275">Alfredo Casella</persName>, <persName key="E0300276">Rudolf Ganz</persName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1907-06-06"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1907-06-06"/></docDate>
+                            <incipit>Die Aufgabe, die Sie mir stellen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Leichter Anriss beim Mittelfalz rechts (recto); Fleck oben links (recto); kleinere Tintenflecken unten links (verso); kein Textverlust. Ansonsten gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Nummerierung innerhalb des Briefwechsels eingetragen und das Datum auf die erste Seite übertragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029" cert="high">Berlin</origPlace>
+                            <origDate when-iso="1907-06-06"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;5</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100189">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1907-06-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029" cert="high">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100223"/>
+                    <ref type="previous" target="#D0100223"/>
+                    <ref type="next" target="#D0100224"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-08-28" who="#E0300314">Auszeichnung und Durchsicht abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">1.</note>
+                
+                <note type="dating" resp="#archive" place="right" xml:id="arch_date"><date when-iso="1907-06-06">6. Juni 1907</date></note>
+                
+                <opener>
+                    <salute rend="indent">Sehr verehrter Meister.</salute>
+                </opener>
+                
+                <p>Die Aufgabe, die Sie mir stellen – an sich
+                    <lb/>ehren<pc>=</pc> <choice><abbr>u.</abbr><expan>und</expan></choice> vertrauensvoll – ist schwierig.
+                    <lb/>Ich kenne mehrere junge prächtige
+                    <lb/>Männer, denen ich eine so sch<choice><orig>oe</orig><reg>ö</reg></choice>ne
+                    <lb/>und dankbare T<orig>h</orig>ätigkeit von Herzen
+                    <lb/>wünschte; aber es soll nicht nur <hi rend="underline">diesen</hi>
+                    <lb/>gedient werden, sondern auch den
+                    <lb/><placeName key="E0500097">Baslern</placeName>! – Ein <soCalled rend="dq-uu">Verkannter</soCalled> ist z.&#8239;B.
+                    <lb/>der ausgezeichnete <choice><abbr>u.</abbr><expan>und</expan></choice> hochgebildete Pianist
+                    <lb/><persName key="E0300269">Waldemar Lütschg</persName>, der – wenn er 
+                    <lb/>sich persönlich in angenehme Beziehungen
+                    <lb/>zu stellen wei<choice><orig>ss</orig><reg>ß</reg></choice> – künstlerisch allen An
+                    <lb break="no"/>forderungen entspräche. – Ein <soCalled rend="dq-uu">brill<orig>i</orig>anter</soCalled>
+                    <lb/><choice><orig>C</orig><reg>K</reg></choice>lavierspieler verwegener Art ist Herr
+                    <lb/><persName key="E0300270">Michael von Zadora</persName>, ein Gentleman
+                    <lb/>nebenbei, aber nervös und ohne
+                    <lb/>feste Autorität. Mein Schüler <persName key="E0300271">Theodor
+                        <lb/>Szántó</persName>, jetzt in <placeName key="E0500012">Paris</placeName><orig>,</orig> (ein Drei<choice><orig>ss</orig><reg>ß</reg></choice>iger)<reg>,</reg>
+                    <lb/>ist reif als Pianist <choice><abbr>u.</abbr><expan>und</expan></choice> Musiker und
+                    <lb/>hat ausgesprochenen pädagogischen Sinn.
+                    <lb/>Endlich ist noch <persName key="E0300031">Egon Petri</persName> zu nennen
+                    <lb/>(jetzt Professor in <placeName key="E0500367">Manchester</placeName>)<reg>,</reg> mein
+                    <lb/><soCalled rend="dq-uu">echtester</soCalled> Schüler.
+                    
+                    <note type="commentary" resp="#E0300314">Die Wahl scheint schließlich auf <persName key="E0300031">Egon Petri</persName> gefallen zu sein; ein Meisterkurs in <placeName key="E0500097">Basel</placeName> mit <persName key="E0300031">Petri</persName> kam allerdings erst im <date when-iso="1908-09">September 1908</date> zustande (vgl. <bibl><ref target="#E0800072"/>, S.&#8239;108</bibl>).</note>
+                
+                </p>
+                
+                <pb n="2"/>
+                
+                <p>Noch kämen zwei Italiener in
+                    <lb/>Betracht; <persName key="E0300272">Bruno Mugellini</persName>
+                    <lb/>(Professor am <placeName key="E0500368">Bologna</placeName>-<choice><orig>C</orig><reg>K</reg></choice>onservatorium)
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> ein vollgereifter Künstler, der sich
+                    <lb/>eine abwechselnde T<orig>h</orig>ätigkeit <hi rend="underline">lebhaft</hi>
+                    <lb/>wünschte. – <persName key="E0300273">Alberto Fano</persName>, gegen
+                    <lb break="no"/>wärtig Dire<choice><orig>c</orig><reg>k</reg></choice>tor des <choice><orig>C</orig><reg>K</reg></choice>onservatoriums
+                    <lb/>in <placeName key="E0500369">Parma</placeName>.</p>
+                
+                <p rend="indent-first">Endlich kann ich Ihnen noch
+                    <lb/>meinen <soCalled rend="dq-du">t<orig>h</orig>eilweisen</soCalled> soliden Schüler
+                    <lb/>Herrn <persName key="E0300274">Johan<orig>n</orig> Wijsman</persName> aus
+                    <lb/><placeName key="E0500115">Amsterdam</placeName> (Valeriusstraat 48)
+                    <lb/>nennen <choice><abbr>u.</abbr><expan>und</expan></choice> Ihnen mitt<orig>h</orig>eilen, dass
+                    <lb/>mir von verschiedenen urt<orig>h</orig>eils
+                    <lb break="no" rend="after:-"/>fähigsten Seiten ein junger <soCalled rend="dq-du"><persName key="E0300275">Casella</persName></soCalled>
+                    <lb/>aus <placeName key="E0500012">Paris</placeName><orig>,</orig> mit höchster Bewunderung
+                    <lb/>genannt wurde.</p>
+                
+                <p rend="indent-first">Und was mit <persName key="E0300276">Rudolf Ganz</persName>?</p>
+                
+                <closer>
+                    <salute>In höchster Verehrung grü<choice><orig>ss</orig><reg>ß</reg></choice>t Sie
+                    <lb/>allerfreundlichst Ihr sehr ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                    <dateline><date when-iso="1907-06-06">6. Juni 1907</date>.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

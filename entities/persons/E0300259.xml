@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300259">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Johann Nepomuk Fuchs</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">116843985</idno>
+               <idno type="VIAF">10113463</idno>
+               <idno type="ISNI">0000000121204887</idno>
+               <persName type="reg">
+                  <surname>Fuchs</surname>,
+                  <forename>Johann</forename>
+                  <forename>Nepomuk</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1842-05-05"/>
+                  <placeName key="E0500355">Frauental</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1899-10-15"/>
+                  <placeName key="E0500356">Bad Vöslau</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Pädagoge</occupation>
+               <affiliation when-iso="1888/1894">Professor für Komposition am <orgName key="E0600049">Konservatorium der <orgName key="E0600047">Gesellschaft der Musikfreunde</orgName></orgName></affiliation>
+               <affiliation from-iso="1893">Direktor des <orgName key="E0600049">Konservatoriums</orgName> der <orgName key="E0600047">Gesellschaft der Musikfreunde</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

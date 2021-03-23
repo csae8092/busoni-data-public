@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theurich 1979</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Jutta</forename>
+                     <surname>Theurich</surname>
+                  </author>
+                  <title level="m">Der Briefwechsel zwischen <persName key="E0300023">Arnold Schönberg</persName> und <persName key="E0300017">Ferruccio Busoni</persName> 1903–1919 (1927)</title>
+                  <title level="m" type="sub">Edition, Kommentierung und Untersuchung unter besonderer Berücksichtigung der im <persName key="E0300017">Busoni</persName>-Nachlaß der Deutschen Staatsbibliothek <placeName key="E0500029">Berlin</placeName> enthaltenen Quellen</title>
+                  <idno type="DNB">810125811</idno>
+                  <imprint>
+                     <pubPlace>Berlin (Ost)</pubPlace>
+                     <date when-iso="1979"/>
+                  </imprint>
+               </monogr>
+               <note>Zweitveröffentlichung des Briefwechsels <persName key="E0300017">Busoni</persName>–<persName key="E0300023">Schönberg</persName> mit 38 Briefen sowie ergänzenden Dokumenten und umfangreicher Kommentierung; im Vergleich mit der zwei Jahre zuvor erschienenen Vorab-Edition (<bibl><ref target="#E0800004"/></bibl>) weitestgehend identische Lesarten. Die Transkription erfolgt laut editorischer Notiz <q>ohne Vereinheitlichung oder Modernisierung von Orthographie und Interpunktion</q> (S.&#8239;143); tatsächlich aber sind einige Schreibungen versehentlich oder stillschweigend regularisiert worden. Wir berichten auch solche kleineren Abweichungen in unserer Edition; ausgenommen davon ist lediglich die Zeichenkombination <mentioned>ſs</mentioned>, die Theurich in <persName key="E0300023">Schönbergs</persName> Handschrift konsequent als <mentioned>ß</mentioned>-Ligatur wiedergibt.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

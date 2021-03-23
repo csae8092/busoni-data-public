@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800335">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goethe 1830
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author key="E0300124">
+                            <forename>Johann</forename>
+                            <forename>Wolfgang</forename>
+                            <forename>von</forename>
+                            <surname>Goethe</surname>
+                        </author>
+                        <title level="m">Chinesisch-deutsche Jahres- und Tageszeiten</title>
+                        <idno type="DNB">4427294-7</idno>
+                        <imprint>
+                            <pubPlace>Berlin</pubPlace>
+                            <date when-iso="1829"/>
+                            <note>Erstdruck im "Berliner Musenalmanach für das Jahr 1830"</note>
+                        </imprint>                        
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
+

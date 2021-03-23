@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100252">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Vitznau, 28. Mai 1919)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Vitznau, 28 May 1919)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2311</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 85 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-622280</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <!-- EXPLIZIT GENANNTES DATUM -->
+                            <docDate><!--<date when-iso="0000-00-00"/>--></docDate>
+                            <!-- POSTSTEMPEL AM ABSENDEORT -->
+                            <docDate resp="#post" sameAs="#post_abs"><!--<date when-iso="0000-00-00"/>--></docDate>
+                            <!-- POSTSTEMPEL VOM -->
+                            <docDate resp="#post" sameAs="#post_rec"><!--<date when-iso="0000-00-00"/>--></docDate>
+                            <incipit><!-- INCIPIT DES BRIEFS --></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio"><!-- X Bogen --></measure>
+                                    <measure type="pages"><!-- X beschriebene Seiten --></measure>
+                                </extent>
+                                <collation><!-- MGL. BESONDERHEITEN DER SEITENFOLGE. --></collation>
+                                <condition><!-- ZUSTAND --> Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc> <!-- BESCHREIBUNG DER "HÄNDE" -->
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500200">Vitznau</origPlace>
+                            <origDate when-iso="1919-05-28"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100252">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1919-05-28"/>
+                    <placeName ref="http://www.geonames.org/2658107" key="E0500200">Vitznau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <!-- (EMPFANGSORT- UND DATUM, NUR FALLS SERIÖS ERMITTELBAR, SONST WEGLASSEN)
+                        <placeName ref="http://www.geonames.org/ID_DES_ORTES" key="E05.....">ORT</placeName>
+                        <date when="0000-00-00"/> -->
+                </correspAction>
+                <!-- STELLUNG IM BRIEFWECHSEL -->
+                <correspContext>
+                    <!-- DIESER BRIEF IST DIE ANTWORT AUF -->
+                    <!--<ref type="replyTo" target="#D0100..."/>-->
+                    <!-- ZU DIESEM BRIEF IST DER FOLGENDE DIE ANTWORT -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>-->
+                    <ref type="previous" target="#D0100219"/>
+                    <ref type="next" target="#D0100220"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873471830/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB1F00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB1F00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB1F00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB1F00000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="…" resp="#archive">Mus.Nachl. F. Busoni B II, 2311</note> <note type="shelfmark" place="…" rend="…" resp="#archive">
+                    <del rend="strikethrough">Mus.ep. H. Huber 85 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <note type="foliation" place="…" resp="#archive">[1]</note>
+                
+                27
+                
+                <opener>
+                    <dateline rend="align(right)"><placeName key="E0500200">Vitznau</placeName> 28/5 1919</dateline>
+                    <salute rend="indent">Mein lieber Freund!</salute>
+                </opener>
+                
+                <p rend="indent-first">Wie bedaure ich doch, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>ich nicht mehr Chef des
+                    <lb/>Klavierspiels in <placeName key="E0500097">Basel</placeName> bin,
+                    <lb/>um meine ganze Begeisterung
+                    <lb/>für Ihre geradezu genialen
+                    <lb/>Studien der jungen Klavier
+                    <lb break="no"/>welt hergeben zu kö<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>en!
+                    <lb/>Da läuft Nichts, wie sonst
+                    <lb/>bei solchen Handwerksgeschichten
+                    <lb/>oder bei den <unclear reason="illegible">unlenksamen</unclear>
+                    <lb/>Pädagogen auf einer zweischienigen
+                    <lb/>Bahn, auf der man Niemandem
+                    <lb/>ausweichen ka<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>. Auf jeder
+                    <lb/>Seite strahlen mir neue
+                    <lb/>pianistische Ideen entgegen;
+                    <lb/>es sind gleichsam <hi rend="underline">zukünftige</hi>
+                    
+                    <pb n="2"/>
+                    
+                    Wahrheiten, die sich die begabten
+                    <lb/>Lehrer, wie ein neues Testament,
+                    <lb/>an eigenen mü<choice><orig>ß</orig><reg>ss</reg></choice>en! Zum richtigen
+                    <lb/>Studium dieser wundervollen
+                    <lb/>Ausgaben soll das letzte Ziel sein,
+                    <lb/>die Antipathien <choice><abbr>&amp;</abbr><expan>und</expan></choice> Sympathien
+                    <lb/>für die Werke herauszuhören,
+                    <lb/>singen <choice><abbr>&amp;</abbr><expan>und</expan></choice> weinen lernen <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <lb/>sogar eine physisch-schwache Hand
+                    <lb/>zum Nachahmen aller instrumentalen
+                    <lb/>Schönheiten zu bringen! Als ich
+                    <lb/>heute Morgen <subst><del rend="strikethrough">hinter</del><add place="above">vor</add></subst> diesen
+                    <lb/>Seiten zuerst buchstabi<reg>e</reg>rte, dann
+                    <lb/>zusa<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>ensetzte <choice><abbr>&amp;</abbr><expan>und</expan></choice> endlich siegreich
+                    <lb/>das Gewollte lesen ko<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>te, so
+                    <lb/>hatte ich für mich ein kleines
+                    <lb/>aber schönes Erlebni<choice><orig>ß</orig><reg>s</reg></choice>: ein
+                    <lb/>idealer Anklang meiner eigenen
+                    <lb/>pädagogischen Vergangenheit
+                    <lb/>(in kleineren Verhältni<choice><orig>ß</orig><reg>s</reg></choice>en!) <choice><abbr>&amp;</abbr><expan>und</expan></choice> eine
+                    <lb/>künstlerische Vision in ko<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>ende
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="…" resp="#archive">[2]</note>
+                    
+                    Zeiten! Für diesen Genu<choice><orig>ß</orig><reg>ss</reg></choice> ka<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>
+                    <lb/>ich Ihnen nicht genug danken <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <lb/>bin gar nicht überrascht, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie
+                    <lb/>selbst mit Hingebung <choice><abbr>&amp;</abbr><expan>und</expan></choice> mit Lust
+                    <lb/>an die Fortsetzung gehen. Mögen
+                    <lb/>uns Tausende von be<choice><orig>ß</orig><reg>ss</reg></choice>eren Kollegen
+                    <lb/>zur Seite stehen! –</p>
+                
+                <p rend="indent-first">Mein <placeName key="E0500200">Vitznau</placeName>eraufenthalt
+                    <lb/>ließ sich nicht gut an. Die
+                    <lb/>Die lästige Diabetis hat mich bis
+                    <lb/>zu 2 ½ Prozent gepackt <choice><abbr>&amp;</abbr><expan>und</expan></choice> in
+                    <lb/>diesem Zustand ermüdet mich
+                    <lb/>die kleinste Aufgabe. Aus diesem
+                    <lb/>Grunde erhielten Sie auch noch
+                    <lb/>keine Antwort auf den Locarneser
+                    <lb break="no"/>brief. Deshalb liegt aber mir
+                    <lb/>ein – im be<choice><orig>ß</orig><reg>ss</reg></choice>eren Si<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>e gedachter
+                    <lb/>Gesslerhut auf meinem Pulte
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> liegt neben dem letzten
+                    <lb/>Schreiben von unserem armen
+                    <lb/><persName key="E0300181">Wolfrum</persName>! Der eine athmet
+                    <lb/>frisches <choice><abbr>&amp;</abbr><expan>und</expan></choice> gesundes Leben, der
+                    <lb/>andere mahnt mich an das
+                    
+                    <pb n="4"/>
+                    
+                    Dies irae!</p>
+                
+                <p rend="indent-first">Sobald es aber be<choice><orig>ß</orig><reg>ss</reg></choice>er wird,
+                    <lb/>will ich fleißger <choice><abbr>&amp;</abbr><expan>und</expan></choice> ausführlicher
+                    <lb/>schreiben.</p>
+                
+                <p>Unterde<choice><orig>ß</orig><reg>ss</reg></choice>en meine Bewunderung
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> meine Freundschaft</p>
+                
+                <closer rend="align(right)">
+                    <salute>Ihr grüßender</salute>
+                    <signed><persName key="E0300125">Hans Huber</persName></signed>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100327">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Zürich,29. Juli 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Zurich,29 July 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300402">
+                        <forename>Filiz</forename>
+                        <surname>Oflazoğlu</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4284</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 25 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-724089</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary> <persName key="E0300126">Rubiner</persName> teilt seine lange Krankheit und Unzufriedenheit mit seiner Arbeit mit; er berichtet von Neuigkeiten, Artikeln und Büchern, die er kürzlich gelesen hat.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-07-29"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1918-07-29"/></docDate>
+                            <incipit>Ihre Anna wollte offenbar durchaus nicht begreifen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Bogen</measure>
+                                    <measure type="pages">6 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten; Umschlagaufriss ohne Textverlus; Briefmarke abgerissen</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf der Umschlagrückseite die Zuordnung <q>Rubiner</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                        </handDesc>
+                        <accMat>                            
+                            <pb n="7" facs="D0100327_7jpg"/>
+                            <note type="stamp" place="top-left" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine> 
+                                <addrLine><persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine><placeName key="E0500132">Zürich</placeName>VI</addrLine>
+                                <addrLine><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                            </address>
+                            <pb n="8"/>
+                            <note type="annotation" place="top-center" rend="large" resp="#recipient">
+                                <date when-iso="1918-07-29">29 Juli 1918</date>
+                            </note>
+                            <note type="shelfmark" place="below" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">
+                                            Nachlaß Busoni
+                                            <handShift new="#archive_red"/>
+                                            B II
+                                        </stamp>
+                                        <lb/>Mus.ep. L. Rubiner 25
+                                    </del>
+                                    <add place="below" rend="align(right)">Mus.Nachl. F. Busoni B II,
+                                        <lb/>4284-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1918-07-29"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100327">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-07-29"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1918-07-29" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100326"/>
+                    <ref type="next" target="#D0100328"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-02-24" who="#E0300402">Bearbeitung übernommen, status unfinished</change>
+            <change when-iso="2018-02-26" who="#E0300402">Bearbeitung übernommen, status unfinished</change>
+            <change when-iso="2018-03-16" who="#E0300402">Bearbeitung übernommen, status unfinished</change>
+            <change when-iso="2018-03-17" who="#E0300402">status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873590163/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E00000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5E000000010"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="shelfmark" resp="#archive" place="top-left">
+                    <del rend="strikethrough" xml:id="delSig">
+                        Mus.ep. L. Rubiner 24
+                        <lb/>(Busoni Nach.
+                        <handShift new="#archive_red"/>
+                        B II
+                        <handShift new="#archive"/>
+                        )
+                    </del>
+                </note>
+                <note type="shelfmark" resp="#archive" place="below-left">
+                    <add xml:id="addSig">Mus.Nachl. F. Busoni B II, 4284</add>
+                </note>
+                <note type="foliation" resp="#archive" place="top-right">[1]</note>
+                <opener>
+                    <dateline>
+                        <seg rend="align(right)">
+                            <date when-iso="1918-07-29">29. Juli 1918</date>
+                            .
+                        </seg>
+                    </dateline> 
+                    <salute rend="indent">
+                        Lieber Herr Busoni!
+                    </salute> 
+                </opener>
+                <p>
+                    Ihre <persName key="E0300140">Anna</persName> wollte offenbar durchaus nicht
+                    <lb/>begreifen, dass ich mit Fieber ins Bett gestiegen
+                    <lb/>war. (So erkläre ich mir auch einen Satz in 
+                    <lb/>Ihrem Brief. Sie hat offenbar nicht einmal 
+                    <lb/>diese Tatsache klar ausgerichtet. Sie läutete unten
+                    <lb/>an der [unverschlossenen] Strassentür des Hauses, 
+                    <lb/>statt heraufzukommen; und als meine Frau herunter
+                    <lb break="no"/>stieg <choice><abbr>u.</abbr><expan>und</expan></choice> die Türen auflie<choice><orig>ss</orig><reg>ß</reg></choice>, hörte ich, wie sie
+                    <lb/>ihr 3 mal auseinandersetzte, dass ich gerade 
+                    <lb/>krank ins Bett gegangen war – ohne auf 
+                    <lb/>offenbares Begreifen zu sto<choice><orig>ss</orig><reg>ß</reg></choice>en. Was wiederum
+                    <lb/>ich nicht begriff.)
+                </p>
+                <p>
+                    Es geht mir schon die längste Zeit sehr
+                    <lb/>erbärmlich, ohne dass ich wirklich durchgrei
+                    <lb break="no"/>fend krank bin. Mal habe ich Fieber, /½
+                    <lb/>Tage später fehlt mir wieder nichts. 
+                    <lb/>Dann wiederum befinde ich mich in einer 
+                    <lb/>so entsetzlichen Skepsis wie seit meinem 
+                    <lb/>18. Jahr nicht mehr. Bin äuer<choice><orig>ss</orig><reg>ß</reg></choice>t Men
+                    <lb break="no"/>schenfliehend, ziehe mich vor Wein zurück, 
+                    <lb/>der mir momentan gar kein Vergnügen macht 
+                    <lb/>und ich habe sogar nicht den geringsten
+                    
+                <pb n="2"/>
+                    <note type="foliation" resp="#archive" place="top-right" rend="underline">2</note>
+                    
+                    Spa <choice><orig>ss</orig><reg>ß</reg></choice> an einer <choice><orig>C</orig><reg>Z</reg></choice>igarre. 
+                </p>
+                <p>
+                    Ich bin mit meiner Arbeit äu<choice><orig>ss</orig><reg>ß</reg></choice>erst unzu
+                    <lb break="no"/>frieden, und zwar nicht aus Stimmungs
+                    <lb break="no"/>gründen sondern objektiv. Ich bitte Sie, 
+                    <lb/>Ihr gütiges Interesse nicht aufzugeben, wenn
+                    <lb/>ich doch in einiger Zeit mit ihr vor Sie trete.
+                </p>
+                <p>
+                    Meinem Zustande die Krone aufzusetzen, folgen
+                    <lb break="no"/>de Nachricht: Meine Freundin,<choice><abbr>Gr.</abbr><expan>Gräfin</expan></choice> <persName key="E0300424">Reventlow</persName>,
+                    <lb/>jene Frau, die ihren Sohn aus dem Schützen
+                    <lb break="no"/>graben holte und ihn im Boot über den 
+                    <lb/><placeName key="E0500406">Bodensee</placeName> brachte, unverwundet, während die
+                    <lb/>deutschen Kugeln hinter ihnen und rings um 
+                    <lb/>sie her hagelten, ist plötzlich in <placeName key="E0500183">Locarno</placeName> ge
+                    <lb break="no"/>storben. (Spa<choice><orig>ss</orig><reg>ß</reg></choice>. Grippe vermute ich.) Und dazu nun
+                    <lb/>das grosse Wagestück, das Abschneiden aller
+                    <lb/>Verbindungen <choice><abbr>m.</abbr><expan>mit</expan></choice>
+                    <placeName key="E0500015">Deutschland</placeName>, mit den Freunden, die 
+                    <lb/>entsetzliche Einsamkeit nach einem mutigen und
+                    <lb/>z.t. sehr heiteren Leben (jedenfalls einem, das immer
+                    <lb/>auf die letzte Karte setzte!), um an einem Krank
+                    <lb break="no"/>heitszufall in einem Jammernest zu sterben! –
+                </p>
+                <p>
+                    Manchmal gehe ich auch fort, jedoch vermeide 
+                    <lb/>ich es, Sie in einem traurigen und bedenklichen
+                    <lb/>Zustande aufzusuchen. Was aber alles 
+                    <lb/>hoffentlich bald vorübergeht. Vermutlich
+                    <lb/>habe ich diese spagnolische Influenza schon
+                    <lb/>lange, mir mein kräftiger Körper wirft 
+                    <lb/>sie immer wieder hinaus. 
+                    
+                <pb n="3"/>
+                    <note type="foliation" resp="#archive" place="top-right" rend="underline">3</note>
+                    <note type="shelfmark" resp="#archive" place="top-left">B II, 4284</note>
+                    
+                    Manchmal mache ich einen Fluchtversuch
+                    <lb/>ins Nichts (oder wie anders wollen Sie 
+                    <lb/>das abendliche <placeName key="E0500132">Zürich</placeName> benennen?) Gerade 
+                    <lb/>da kommen Sie. Zweimal schon hatte ich 
+                    <lb/>dieses Geschick, dass Sie kommen, ich nicht da war!
+                </p>
+                <p rend="indent-first">
+                    Ich bekomme in der letzten Zeit manche 
+                    <lb/>Bücher <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    Zeitschriften geschickt; einige aus 
+                    <lb/><placeName key="E0500015">Deutschland</placeName>. In gewissem steht es von mir 
+                    <lb/>selbst; ich sehe die Dinge nicht einmal mehr 
+                    <lb/>auf Druckfehler nach. 
+                </p>
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                <p rend="indent-first">                   
+                    Vor nichts habe ich momentan mehr 
+                    <lb/>Angst als vor der <soCalled rend="dq-du">Heiterkeit des munteren
+                    <lb/>Künstlervölkleins</soCalled>. Ich sah gelegentlich einige 
+                    <lb/>Macaques <note type="commentary" resp="#E0300402">Eine Affengattung, die überwiegend in Asien beheimatet ist.</note> auf dem Wege zu Ihnen, 
+                    <lb/>und beneidete diese Armen nicht um 
+                    <lb/>ihre Naivität. Ich sehe entsetzliche 
+                    <lb/>Jahre voraus. Wenn ich durch Zufall 
+                    <lb/>irgendwo eine Stirn sehe, die einem 
+                    <lb/>glatten Popo gleicht, packt mich die 
+                    <lb/>namenlose Wut: Du, Du dummer Kerl, 
+                    <lb/>Du Unbewusster, Du Dumpfer, Du Modetier, 
+                    <lb/>Du, in Deiner ekelerregenden Haltung 
+                    
+                <pb n="4"/>
+                    <note type="foliation" resp="#archive" place="top-right" rend="underline">4</note>
+                    
+                    
+                    von ahnungslosem Papagei à la 1914, Du
+                    <lb/>bist auch Schuld, wenn es weitergeht. 
+                    <lb/>Du kümmerst Dich um nichts, jämmer
+                    <lb break="no"/>licher Hundejunge! <choice><orig>d</orig><reg>D</reg></choice>arum geht es über uns alle!
+                </p>
+                <p>
+                    Tausendmal packt mich die Lust, in 
+                    <lb/>ein kriegführendes Land zu gehen, auch 
+                    <lb/>wenn es mir dort sehr übel gehen 
+                    <lb/>wird! <choice><orig>e</orig><reg>E</reg></choice>infach weil ich es nicht mehr
+                    <lb/>ertrage, Gesichter, die angeblich Menschen 
+                    <lb/>angehören, von so ekelerregender Verant
+                    <lb break="no"/>wortungslosigkeit, so niederträchtiger 
+                    <lb/>Naivität zu sehen. Und damit meine ich 
+                    <lb/>nicht etwa die Schweizer, sondern gerade die 
+                    <lb/>internationalen Ausländer, die hier überall 
+                    <lb/>Kurort spielen.
+                </p>
+                <p>
+                    Meinen Sie, dass ich übrigens gro <choice><orig>ss</orig><reg>ß</reg></choice>e Angst vor 
+                    <lb/>Gesprächen mit <soCalled rend="dq-du">Meinungen</soCalled> habe? Ich finde,
+                    <lb/>man soll die Leute suchen, mit denen man was 
+                    <lb/>hat, oder allein bleiben. Aber <soCalled rend="dq-du">Meinungen</soCalled>, das geht nicht gut aus. 
+                </p>
+                <p rend="indent-first">
+                    Wenn ich nur eine einzige freundliche 
+                    <lb/>Nachricht für Sie hätte... Aber ich habe keine. 
+                    <lb/>Ja, doch. Zwei. Im <orgName key="E0600104" rend="dq-du">Mercure de France</orgName> vom 
+                    <lb/>1. Juli las ich Hauptstücke des Pro<choice><orig>c</orig>
+                        <abbr>z</abbr></choice>esses
+                    <lb/><persName key="E0300425">Maud Allan</persName>
+                    – <persName key="E0300426">Pemberton Billing</persName>. 
+                    <note type="commentary" resp="#E0300402">
+                    In dem Artikel der oben genannten Zeitung geht es um die Verleumdung der Tänzerin <persName key="E0300425">Maud Allan</persName> von
+                    <persName key="E0300426">Pemberton Billing</persName>.
+                        Am <date when-iso="1918-02-16">16. Februar 1918</date>kommentierte <persName key="E0300426">Pemberton Billing</persName> in der vom ihm herausgegeben Zeitung den Auftritt von <persName key="E0300425">Allan</persName> als <title key="E0400348">Salomé</title>.
+                    Er beschuldigte <persName key="E0300420">Allan</persName> eine Lesbe zu sein und ein "Black Book" zu besitzen, welches, nach seiner Behauptung, die 47.000 Namen von britischen Homosexuellen verbarg.
+                    <ref subtype="gallica" target="#ark:/12148/bpt6k2018216"/>
+                    </note>
+                    
+                    Danach geht 
+                    <lb/>hervor, dass <persName key="E0300426">Herr Pemb. Billing</persName>, Zeitungsheraus
+                    
+                <pb n="5" break="no"/>
+                    <note type="foliation" resp="#archive" place="top-right" rend="underline">5</note>
+                    <note type="shelfmark" resp="#archive" place="top" rend="align(left)">
+                        <add>B II, 4284</add>
+                    </note>
+                    
+                    geber, chauvinistisch – kriegshetzerischer Mucker, 
+                    <lb/>die 
+                    <persName key="E0300425">Maud <choice><abbr>A.</abbr><expan>Allan</expan></choice> 
+                    </persName>in seiner Zeitung der Unsittlich
+                    <lb break="no"/>keit mit Defaitismus beschuldigt hat; weil 
+                    <lb/>sie den <title key="E0400348">Salom<choice><sic>e</sic>
+                        <corr>é</corr></choice></title>tanz vor einer Privatgesell
+                    <lb break="no"/>schaft vom Perversen aufgeführt habe, und alle 
+                    <lb/>Perversen im Dienste <placeName key="E0500015">Deutschland</placeName>s ständen. 
+                    <lb/>Erschwerend für                     
+                    <persName key="E0300425">Maud
+                        <choice><abbr>A.</abbr><expan>Allan</expan></choice> 
+                    </persName>, dass sie in <placeName key="E0500029">Berlin</placeName>
+                    <lb/>studiert habe. Offenbar ein Pro
+                    <choice><orig>c</orig><reg>z</reg></choice>ess mit 
+                    <lb/>vielen Ekelhaftigkeiten. <persName key="E0300425">Maud
+                        <choice><abbr>A.</abbr><expan>Allan</expan></choice> 
+                    </persName> scheint 
+                    <lb/>also der angegriffene, <choice><abbr>u.</abbr><expan>und</expan></choice> unschuldig
+                    <lb/>angegriffene Teil zu sein, <choice><abbr>u.</abbr><expan>und</expan></choice> der Skandal 
+                    <lb/>soll sich wohl in Wahrheit gegen <persName key="E0300436">Asquith</persName>
+                    <lb/>richten. – 
+                    <note type="commentary" resp="#E0300402"> <persName key="E0300436">Margot Asquith</persName>, 
+                        die Ehefrau des damaligen britischen Premierministers, zählt zu den Namen, die <persName key="E0300426">Billing</persName>mit dem Vorwurf Unmoralität und Homosexualität öffentlich angegriffen hat.</note>
+                </p>
+                <p>
+                    Ferner las ich neulich einige amtliche 
+                    <lb/>deutsche, überaus gemeine Angriffe gegen den 
+                    <lb/>Dr.<persName key="E0300427">Bucher <note type="commentary" resp="#E0300402">
+                        <persName key="E0300126">Rubiner</persName> 
+                        meint sehr wahrscheinlich Pierre Bucher, der vom 1901-1914 als Direktor der Zeitrschrift
+                    </note>
+                    </persName>. Aus diesen überaus niedrig
+                    <lb break="no"/>stehenden Artikeln der deutschen Generali
+                    <lb/>tät (die in der genannten deutschen Presse offi
+                    <lb break="no"/> <choice><orig>c</orig><reg>z</reg></choice>iell, <choice><abbr>u.</abbr><expan>und</expan></choice> in einem Teil der gekauften Schweizer 
+                    <lb/>Presse offi <choice><orig>c</orig><reg>z</reg></choice>iös standen) ging für mich hervor:
+                    <lb/>Dass der Dr. <persName key="E0300427">Bucher</persName> ein über alle Maassen
+                    <lb/>anständiger, mutiger und gerader Mensch ist. 
+                    <lb/>Dass er kein <soCalled rend="dq-du">Renegat</soCalled> ist, sondern dass 
+                    <lb/>er seine heutige Haltung <hi rend="underline">öffentlich</hi> seit seiner
+                    <lb/>frühesten Jugend gehabt hat; dass er <del rend="streikthrough">dies</del> <add place="below">seine</add>
+                    <lb/>Meinung, die immer so war wie heute, seit vielen 
+                    <lb/>Jahren in seiner <orgName key="E0600105" rend="dq-du">Revue alsacienne</orgName> klar 
+                    <lb/>geäu <choice><orig>ss</orig><reg>ß</reg></choice>ert hat; dass er –verfolgt! – nach 
+                    
+                <pb n="6"/>
+                    <note type="foliation" resp="#archive" place="top-right" rend="underline">6</note>
+
+                    <lb/><placeName key="E0500014">Frankreich</placeName>ging, 
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> zwar zum selben Kreis, 
+                    <lb/>zu dem er öffentlich seit Jahren gehörte, 
+                    <lb/>und sich der Sanität als Arzt zur 
+                    <lb/>Verfügung stellte! Und dass er das alles mit 
+                    <lb/>Aufgabe seiner Stellung, seines Ansehens, 
+                    <lb/>seines Vermögens tat. Und wie scheint dieser 
+                    <lb/>offenbar hochanständige Mensch verfolgt 
+                    <lb/>worden zu sein!
+                </p>
+                <p>
+                    Ich bin gewiss, dass er in politischen <soCalled rend="dq-du">Meinun
+                    <lb break="no"/>gen</soCalled> mein Totfeind wäre; aber davon
+                    <lb/>abgesehen halte ich diesen Mann für einen
+                    <lb/>sehr seltenen Charakter. Zuletzt kommt 
+                    <lb/>es vielleicht darauf an. – 
+                </p>
+                <p rend="indent-first">
+                    Ihnen, lieber <persName key="E0300017">Herr Busoni</persName>, geht 
+                    <lb/>es offenbar gut, und das freut mich 
+                    <lb/>recht sehr! Ihr Brief ist der Aus
+                    <lb break="no"/>druck wunderbarer Geistesfrische, während 
+                    <lb/>ich mich momentan in einer rechten 
+                    <lb/>schaurigen, gro <choice><orig>ss</orig><reg>ß</reg></choice>en Welthöhle finde. 
+                </p>
+                <p rend="indent-first">
+                    Ich bekam vor einigen Tagen ein 
+                    <lb/>sehr merkwürdiges, kleines Buch, das vor 
+                    <lb/>Jahren in <placeName key="E0500029">Berlin</placeName> erschien, eine Dichtung 
+                    <lb/>von <persName key="E0300428">Alfred Mombert </persName>: <title key="E0400347">Der Sonne Geist</title>.
+                    <lb/>(Sonne ist nicht Genitiv sondern maskulinisch 
+                    <lb/>wie im Romanischen gemeint. Sonne-Geist also ein Begriff). 
+                    <lb/>Seltsamer Weise ist dieses <choice><sic>vers Buch</sic>
+                        <corr>Versbuch</corr></choice>, wie ich in den 
+                    <lb/>Zeitungen las, auch komponiert <persName key="E0300429">Klose</persName>. Nun ja.
+                    <milestone unit="section" style="—" rend="inline"/>
+                </p>
+            <closer>
+                <salute>
+                Also, mit Ihrer Erlaubnis, bis ich aus meiner 
+                    <lb/>Höhle emporsteige Herzlichst</salute>
+                <signed rend="inline">Ihr <persName key="E0300126">Ludwig Rubiner</persName>
+                </signed>. 
+            </closer>
+            </div>
+        </body>        
+    </text>
+</TEI>

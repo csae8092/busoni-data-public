@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500131">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Villa Rumpler (Payerbach)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Villa Rumpler</placeName>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Bahnhofstr. 1</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500038">Payerbach</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="AT"/>
+                  <geo>47.695310 15.864371</geo>
+               </location>
+               <desc>Wohnort <persName key="E0300023">Arnold Schönbergs</persName> während seiner Sommeraufenthalte in <placeName key="E0500038">Payerbach</placeName>. <persName key="E0300023">Schönberg</persName> komponierte dort im Sommer <date when-iso="1899">1899</date> <title key="E0400029">Verklärte Nacht</title>.</desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

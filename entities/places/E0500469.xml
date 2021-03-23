@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500469">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mérleg Gasse 4 (Budapest)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName xml:lang="de">Mérleg Gasse 4</placeName>
+               <placeName xml:lang="hu">Mérleg utca 4</placeName>
+               <location>
+                  <settlement key="E0500188">Budapest</settlement>
+                  <country key="HU"/>
+                  <country key="AAAT" to-iso="1918"/>
+                  <geo>47.499553 19.048592</geo>
+               </location>
+               <desc>Wohnort <persName key="E0300208">Robert Freunds</persName>.</desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

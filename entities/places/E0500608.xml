@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500608">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zürich Hauptbahnhof</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-11" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place type="building">
+                    <placeName><placeName key="E0500132">Zürich</placeName> Hauptbahnhof</placeName>
+                    <location>
+                        <address>
+                            <addrLine><placeName type="street">Bahnhofplatz</placeName></addrLine>
+                            <addrLine><settlement key="E0500132">Zürich</settlement></addrLine>
+                        </address>
+                        <country key="CH"/>
+                        <geo>47.377778 8.540278</geo>
+                    </location>
+                    <idno type="GND">4549527-0</idno>
+                    <idno type="geonames">6324510</idno>
+                </place>
+            </listPlace>
+            <note>bis zur Eingemeindung diverser <placeName key="E0500132">Zürcher</placeName> Vororte im Jahr <date when-iso="1893">1893</date> nur Bahnhof <placeName key="E0500132">Zürich</placeName></note>
+        </body>
+    </text>
+</TEI>

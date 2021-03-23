@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100179">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (vmtl. Zürich, 3. März 1918)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (prob. Zurich, 3 March 1918)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> musste ein Konzert in <placeName key="E0500097">Basel</placeName> krankheitsbedingt verschieben; erkundigt sich nach <persName key="E0300125">Hubers</persName> Gesundheitszustand und dem Fortschritt bei der Komposition von <title key="E0400210">Mors et vita</title>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-03-03"/></docDate>
+                            <incipit>nur spärliche Nachrichten sind es</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive_1" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der eine Nummerierung innerhalb der Korrespondenz mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="blue_ink" scribe="recipient" scribeRef="#E0300125">Hand des Empfängers Hans Huber, in deutscher Kurrentschrift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1918-03-03"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;36 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100179">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date notBefore="1918-03-03"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100180"/>
+                    <ref type="previous" target="#D0100244"/>
+                    <ref type="next" target="#D0100180"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-04-06" who="#E0300318">Erstkodierung duchgeführt, Kommentierung sowie Ausarbeitung ausstehend.</change>
+            <change when-iso="2017-04-30" who="#E0300318">Kodierung abgeschlossen, Status auf proposed gesetzt.</change>
+            <change when-iso="2017-06-17" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive_1">65.</note>
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <date when-iso="1918-03-03">3. März 1918</date>.
+                    </dateline>
+               </opener>
+
+               <p><seg type="opener" subtype="salute">Lieber Verehrter,</seg> nur spärliche
+                    <lb/><seg rend="align(right)">Nachrichten sind</seg>
+                    <lb/>es,
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800047"/> (36)</bibl>: <quote rend="dq-du">sind es</quote> elidiert.</note>
+                    
+                    die Sie betreffen <choice><abbr>u.</abbr><expan>und</expan></choice> mich erreichen.
+                    <lb/><persName key="E0300126">Rubiner</persName> berichtete von kurzen
+                    <lb/>Begegnungen mit Ihnen.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300126">Ludwig Rubiner</persName>, welcher sich ebenso wie <persName key="E0300125">Huber</persName> in <placeName key="E0500183">Locarno</placeName> aufhielt, hatte in seinen Briefen vom <ref type="E010005" target="#D0100314"><date when-iso="1918-02-19">19.</date></ref> und <ref type="E010005" target="#D0100315"><date when-iso="1918-02-21">21. Februar</date></ref> sowie <ref type="E010005" target="#D0100316"><date when-iso="1918-03-02">2. März 1918</date></ref> von kurzen Gesprächen mit <persName key="E0300125">Huber</persName> berichtet und war von diesem bald angetan: <quote rend="dq-du">Sie hatten Recht: ein feiner und sympathischer Mensch, ungewohnt beweglich für einen Schweizer. Wir werden uns noch sehen. Doch weiss ich noch nicht, ob nicht zuviel typische Kunstatmosphäre in ihm ist</quote> (<bibl><persName key="E0300126">Rubiner</persName> an <persName key="E0300017">Busoni</persName>, <ref type="E010005" target="#D0100315" n="3">Brief vom <date when-iso="1918-02-21">21. Februar 1918</date>, S.&#8239;3 f.</ref></bibl>).</note>
+                    
+                    In <placeName key="E0500097">Basel</placeName>, 
+                    <lb/>die beiden Getreuen, die Doktoren
+                    <lb/><persName key="E0300214">Hagenbach</persName> und <persName key="E0300213">Stumm</persName>,
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300214">Dr. Hagenbach</persName> und <persName key="E0300213">Dr. Stumm</persName> waren Mitglieder der Kommission des <orgName key="E0600020">Konservatoriums <placeName key="E0500097">Basel</placeName></orgName> (<bibl><ref target="#E0800072"/>, S. 130 f.</bibl>).</note>
+                    
+                    sprachen
+                    <lb/>über Sie, mit Wärme und – –
+                    <lb/>einigem Selbstbewusstsein.
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800047"/> (37)</bibl>: <quote rend="dq-du">In <placeName key="E0500097">Basel</placeName> […] einigem Selbstbewusstsein.</quote> elidiert.</note>
+                    
+                    Das
+                    <lb/><choice><orig>2.</orig><reg>zweite</reg></choice> Konzert
+                    
+                    <note type="commentary" resp="#E0300318">Es handelt sich um den Klavierabend vom <date when-iso="1918-02-25">25. Februar</date>, welchen <persName key="E0300017">Busoni</persName> im <placeName key="E0500287">Basler Musiksaal</placeName> hätte geben sollen (mit Werken von <persName key="E0300001">Beethoven</persName>, <persName key="E0300137">Chopin</persName> und <persName key="E0300013">Liszt</persName>). Die übrigen Konzerte des dreiteiligen Zyklus waren für den <date when-iso="1918-02-13">13. Februar</date> und <date when-iso="1918-03-18">18. März</date> angesetzt (<bibl><ref target="#E0800047"/>, S. 48</bibl>).</note>
+                    
+                    musste ich vertagen.
+                    <lb/>Seit <choice><orig>8</orig><reg>acht</reg></choice> Tagen liege ich brach. Ich
+                    <lb/>darf mich nicht beklagen; mein
+                    <lb/>kleines Leiden gegen das <choice><orig>S</orig><reg>s</reg></choice>chwere
+                    <lb/>gemessen, das Sie durchmachten.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300125">Huber</persName> hatte sich aufgrund einer schweren Erkrankung seit Sommer <date when-iso="1917">1917</date> wiederholt auf Kuraufenthalte begeben müssen, u. a. nach <placeName key="E0500183">Locarno</placeName> (<bibl><ref target="#E0800053"/>, S. 133 f.</bibl>). Die Erkrankung zwang ihn im Sommer <date when-iso="1918">1918</date> zur Abgabe der Leitung des <orgName key="E0600020"><placeName key="E0500097">Basler</placeName> Konservatoriums</orgName> (<bibl><ref target="#E0800059"/>, S. 65</bibl>). Vgl. die Kommentierung des <ref type="E010002" target="#D0100178">Briefes vom <date when-iso="1918-01-17">17. Januar 1918</date></ref>.</note>
+                    
+                    <lb/>Wie aber geht es gegenwärtig? –
+                    <lb/>Denken Sie dazwischen an <anchor type="delimiter" subtype="quoteStart" rend="dq-uu"/><title key="E0400210">Mors
+                        <lb/>et vita</title><choice><orig>?<anchor type="delimiter" subtype="quoteEnd" rend="dq-uu"/></orig><reg><anchor type="delimiter" subtype="quoteEnd"/>?</reg></choice> Ich t<choice><orig>hu’ es häufig,</orig><reg>u es häufig</reg></choice> und
+                    <lb/>rechne auf das Werk.
+                    
+                    <note type="commentary" resp="#E0300318">Bereits in einem <ref type="E010002" target="#D0100171">Brief von Ende Dezember 1917</ref> hatte sich <persName key="E0300017">Busoni</persName> nach dem <rs key="E0400210">Fragment gebliebenen Oratorium</rs> erkundigt.</note>
+                    
+                </p>
+                
+                <p>Ich hoffe auch, Sie bald wieder
+                    <lb break="no"/>zusehen – wenigstens Ihre Schrift
+                    <lb break="no"/>züge. <seg type="closer" subtype="salute">Ihr verehrungsvoll ergebener</seg></p>
+
+                <closer>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>      
+                </closer>
+                
+                <pb n="2"/>
+                
+                <note type="objdesc" resp="#E0300318">[Rückseite]</note>
+                
+                <note type="annotation" place="left" resp="#recipient">
+                    <ab>Text der <hi rend="latin">Vulgata</hi>
+                    <lb rend="indent"/>&amp; liturgische Bücher
+                        
+                        <note type="commentary" resp="#E0300318">Offenbar ein Vermerk <persName key="E0300125">Hubers</persName> zur Beantwortung der Frage <persName key="E0300017">Busonis</persName> nach <title key="E0400210">Mors et vita</title>; <persName key="E0300125">Huber</persName> verwendet in seiner <ref type="E010002" target="#D0100180">Antwort vom <date when-iso="1918-03-05">5. März</date></ref> eine fast identische Formulierung.</note>
+                    </ab>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

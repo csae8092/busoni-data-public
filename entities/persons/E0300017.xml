@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ferruccio Busoni</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118518011</idno>
+               <idno type="VIAF">44484509</idno>
+               <idno type="ISNI">0000000123206042</idno>
+               <persName type="reg">
+                  <surname>Busoni</surname>,
+                  <forename>Ferruccio</forename>
+               </persName>
+               <persName type="own">
+                  <forename>Ferruccio</forename>
+                  <forename>Benvenuto</forename>
+                  <surname>Busoni</surname>
+               </persName>
+               <persName type="birth">
+                  <forename>Ferruccio</forename>
+                  <forename>Dante</forename>
+                  <forename>Michelangelo</forename>
+                  <forename>Benvenuto</forename>
+                  <surname>Busoni</surname>
+               </persName>
+               <persName type="pseud">
+                  <forename>Bruno</forename>
+                  <surname>Fioresucci</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1866-04-01"/>
+                  <placeName key="E0500028">Empoli</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1924-07-27"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Pianist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Klavier- und Kompositionslehrer</occupation>
+               <education when-iso="1875/1876"><orgName key="E0600049"><placeName key="E0500002">Wiener</placeName> Konservatorium</orgName></education>
+               <education when-iso="1880/1881"><orgName key="E0600010">Steiermärkischer Musikverein</orgName> (<persName key="E0300512">Wilhelm Mayer</persName>)</education>
+               <affiliation when-iso="1888/1890">Klavierdozent an der <orgName key="E0600031"><persName key="E0300177">Sibelius</persName>-Akademie</orgName> (<placeName key="E0500270">Helsinki</placeName>)</affiliation>
+               <affiliation><orgName key="E0600032">Leskowiter</orgName></affiliation>
+               <affiliation when-iso="1890/1891">Klavierdozent am <orgName key="E0600108"><placeName key="E0500066">Moskauer</placeName> Konservatorium</orgName></affiliation>
+               <affiliation when-iso="1891/1892">Klavierdozent am <orgName key="E0600133">New England Conservatory of Music</orgName> (<placeName key="E0500018">Boston</placeName>)</affiliation>
+               <affiliation when-iso="1913/1914">Leiter des <orgName key="E0600138">Liceo musicale (<placeName key="E0500368">Bologna</placeName>)</orgName></affiliation>
+               <affiliation when-iso="1920/1924">Leiter der Meisterklasse Komposition an der <orgName key="E0600083">Preußischen Akademie der Künste</orgName> (<placeName key="E0500029">Berlin</placeName>)</affiliation>
+               <residence when-iso="1870/1875">
+                  <placeName key="E0500145">Triest</placeName>
+               </residence>
+               <residence when-iso="1875/1878">
+                  <placeName key="E0500002">Wien</placeName>
+               </residence>
+               <residence when-iso="1878/1881">
+                  <placeName key="E0500295">Graz</placeName>
+               </residence>
+               <residence when-iso="1881/1883">
+                  <placeName key="E0500145">Triest</placeName>
+               </residence>
+               <residence when-iso="1883/1885">
+                  <placeName key="E0500002">Wien</placeName>
+               </residence>
+               <residence when-iso="1886/1888">
+                  <placeName key="E0500007">Leipzig</placeName>
+               </residence>
+               <residence when-iso="1888/1890">
+                  <placeName key="E0500270">Helsinki</placeName>
+               </residence>
+               <residence when-iso="1890/1891">
+                  <placeName key="E0500066">Moskau</placeName>
+               </residence>
+               <residence when-iso="1891/1892">
+                  <placeName key="E0500018">Boston</placeName>
+               </residence>
+               <residence when-iso="1892/1894">
+                  <placeName key="E0500031">New York</placeName>
+               </residence>
+               <residence when-iso="1894/1915">
+                  <placeName key="E0500029">Berlin</placeName>
+               </residence>
+               <residence when-iso="1915">
+                  <placeName key="E0500031">New York</placeName>
+               </residence>
+               <residence when-iso="1915/1920">
+                  <placeName key="E0500132">Zürich</placeName>
+               </residence>
+               <residence when-iso="1920/1924">
+                  <placeName key="E0500029">Berlin</placeName>
+               </residence>
+               <event type="award" when-iso="1919-07">
+                  <ab>Ehrendoktor der Universität <placeName key="E0500132">Zürich</placeName></ab>
+               </event>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

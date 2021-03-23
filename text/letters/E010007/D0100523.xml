@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100523">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Zürich, 18. November 1904)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Zurich, 18 November 1904)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1708</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 19 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-589034</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300208">Freund</persName> ermuntert <persName key="E0300017">Busoni</persName>, sich ob der schlechten Kritiken nicht entmutigen zu lassen; 
+                            verteidigt ihn gegen die musikalische <q>Handwerker-Zunft</q>; bittet ihn, die Partitur des <rs key="E0400014">Concertos</rs> unbedingt in die 
+                            <placeName key="E0500092">Schweiz</placeName> mitzubringen; kündigt an, demnächst mit Vertretern der <orgName key="E0600024">Tonhalle-Gesellschaft</orgName> 
+                            über einen möglichen Klavier-Abend <persName key="E0300017">Busonis</persName> in <placeName key="E0500132">Zürich</placeName>zu sprechen.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="--11-18"/>18. Nov.</docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1906" cert="low"/>1906?</docDate>
+                            <incipit>Ich beko<choice><abbr>m̅</abbr><expan>mm</expan></choice>e äu<choice><orig>ss</orig><reg>ß</reg></choice>erst selten eine <placeName key="E0500029">Berliner</placeName> Zeitung zu Gesicht</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Seiten 1 und 4 sind beschrieben, davon Seite 4 im Querformat; Innenteil des Bogens (Seite 2 und 3) vacat.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">
+                                Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen, eine Foliierung vorgenommen und das Briefdatum ergänzt hat
+                            </handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat
+                            </handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1904-11-18" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="lh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Unterstrichen (_).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100523">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1904-11-18" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100517"/>
+                    <ref type="repliedBy" target="#D0100518"/>
+                    <ref type="previous" target="#D0100517"/>
+                    <ref type="next" target="#D0100518"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-08-04" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-02-27" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013719522/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CF200000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CF200000004"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CF200000002"/>
+        <graphic n="4" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CF200000003"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100523_1.jpg"/>
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <subst>
+                        <add>Mus.Nachl. F. Busoni B II, 1708</add>
+                        <lb/><del rend="strikethrough space-below">Mus.ep. R. Freund 19 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                    </subst>
+                </note>
+                <note type="foliation" place="top-right" rend="space-below" resp="#archive">[1]</note>
+                
+                <p rend="space-above"><seg type="opener" subtype="salute">Lieber Freund!</seg> Ich beko<choice><abbr>m̅</abbr><expan>mm</expan></choice>e
+                    <lb/>äu<choice><orig>ss</orig><reg>ß</reg></choice>erst selten eine <placeName key="E0500029">Berliner</placeName>
+                        <lb/>Zeitung zu Gesicht, wei<choice><orig>ss</orig><reg>ß</reg></choice> also
+                    <lb/>nicht<reg>,</reg> was <persName key="E0300032">Schmidt</persName> geschrieben.                   
+                    <lb/>Meine Ke<choice><abbr>n̅</abbr><expan>nn</expan></choice>tni<choice><orig>ss</orig><reg>s</reg></choice> der <placeName key="E0500029">Berliner</placeName>
+                    <lb/>Vorkom<reg>m</reg>nisse
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Betrifft die Uraufführung von <persName key="E0300017">Busonis</persName> <title key="E0400014">Klavierkonzert op. 39</title> in <placeName key="E0500029">Berlin</placeName> 
+                        eine Woche zuvor und die unbefriedigenden Reaktionen der Kritiker darauf. Vor allem die <bibl><ref target="#E0800252">Rezension</ref></bibl> von 
+                        <persName key="E0300032">Leopold Schmidt</persName> im <orgName key="E0600050"><placeName key="E0500029">Berliner</placeName> Tageblatt</orgName> hatte  
+                        <persName key="E0300017">Busoni</persName> in eine Art Krise gestürzt. (vgl. sein <ref type="E010007" target="#D0100517">vorheriger Brief</ref> und die Anm. dazu) 
+                        <persName key="E0300208">Freund</persName> hatte den Bericht zwar nicht gelesen, aber <date when-iso="1904-11-23">knapp zwei Wochen später</date> wurde eine 
+                        ähnlich gelagerte Kritik zu <persName key="E0300017">Busonis</persName> <title key="E0400014">Klavierkonzert</title>-Premiere vom selben <rs key="E0300032">Autor</rs> 
+                        auch in den <orgName key="E0600067">Signalen</orgName> veröffentlicht. (<bibl><ref target="#E0800271">Schmidt 1904a</ref>, Rezension vom 
+                            <date when-iso="1904-11-23">23.11.1904</date>, S. 1162 ff.</bibl>)
+                    </note>
+                    
+                    <subst><del rend="overwritten"><gap reason="overwritten" atLeast="1" unit="char"/></del><add place="across">sc</add></subst>höpfe ich
+                    <lb/>aus <rs key="E0600014">Le<choice><orig>ss</orig><reg>ß</reg></choice>ma<choice><abbr>n̅</abbr><expan>nn</expan></choice></rs>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300497">Otto Leßmann</persName> war seit <date from-iso="1881">1881</date> Schriftleiter der <orgName key="E0600014">Allgemeinen Musikzeitung</orgName>. 
+                        Die Verwendung seines Namens ist hier also als Pars pro Toto zu verstehen. <orgName key="E0600014">AMZ</orgName> und <orgName key="E0600067">Signale</orgName> waren 
+                        die beiden Zeitschriften, die <persName key="E0300208">Freund</persName> regelmäßig las.
+                    </note>
+                    
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> den <orgName key="E0600067">Signalen</orgName>;
+                    <lb/><choice><orig>U</orig><reg>u</reg></choice>nd <subst><del rend="overwritten">s</del><add place="across">S</add></subst>ie werden doch einem
+                    <lb/>alten Pra<choice><orig>c</orig><reg>k</reg></choice>tiker
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300208">Freund</persName> war selbst ein hervorragender Pianist, der in <placeName key="E0500007">Leipzig</placeName> bei 
+                        <persName key="E0300529">Ignaz Moscheles</persName>, bei <persName key="E0300284">Carl Tausig</persName> in <placeName key="E0500029">Berlin</placeName> und 
+                        in <placeName key="E0500188">Budapest</placeName> bei <persName key="E0300013">Franz Liszt</persName> studiert hatte. (<bibl><ref target="#E0800262"/>, 
+                            S. 5 ff.</bibl>) Neben seiner Tätigkeit als 1. Klavierlehrer am <orgName key="E0600136"><placeName key="E0500132">Zürcher</placeName> Konservatorium</orgName> 
+                        ist er im <placeName key="E0500092">Schweizer</placeName> Raum regelmäßig als Konzertpianist in Erscheinung getreten. (vgl. <bibl><ref target="#E0800266"/>, 
+                            S. 1 ff.</bibl>)
+                    </note>
+                    
+                    nicht zutrauen,
+                    <lb/>dass er sich durch irgend<choice><orig>
+                        <lb/></orig><reg>
+                            <lb break="no"/></reg></choice>ein kritisches Urt<orig>h</orig>eil beeinflussen
+                    <lb/>lasse! Halt, ich habe
+                    <lb/>eben eine Unwahrheit gesagt:
+                    <lb/>ich lasse mich beeinflussen.
+                    <lb/>We<choice><abbr>n̅</abbr><expan>nn</expan></choice> <rs key="E0300504">M. St.</rs> in den <orgName key="E0600067">Signalen</orgName>
+                    <lb/>ein neues Werk rühmt, so
+                    <lb/>wei<choice><orig>ss</orig><reg>ß</reg></choice> ich schon, dass es
+                    <lb/>mir nicht gefallen ka<choice><abbr>n̅</abbr><expan>nn</expan></choice> <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>bin also ungünstig beeinflusst.
+                    <lb/>Wie langweilig sind mir
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp xml:id="dsb_p1" rend="round border align(center) tiny">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="2" facs="D0100523_4.jpg"/>
+                    <note type="stamp" place="bottom-right" rend="rotate(-90)" resp="#dsb_st_red">
+                        <stamp sameAs="#dsb_p1" rend="round border align(center) tiny">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    die Werke von <q rend="dq-uu">meisterhafter Factur</q> <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/><q rend="dq-uu">nobler</q> Erfindung!
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Es konnte nicht ermittelt werden, woher die Zitate stammen. Der Briefkontext legt nahe, dass es sich um Wiedergaben aus einem oder mehreren Aufsätzen von 
+                        <persName key="E0300504">Max Steuer</persName> in den <orgName key="E0600067">Signalen für die musikalische Welt</orgName> handelt. Dbzgl. durchsucht wurden alle 
+                        Artikel in den Ausgaben Nr. 53 bis Nr. 62 der <orgName key="E0600067">Signale</orgName> aus dem Jahr <date when-iso="1904">1904</date>. Es wäre auch denkbar, dass 
+                        <persName key="E0300208">Freund</persName> nicht direkt zitiert, sondern lediglich sinngemäß den Tenor der Veröffentlichungen <persName key="E0300504">Steuers</persName> 
+                        wiedergibt. Eine Verwechslung des Autors kann ebenfalls nicht ausgeschlossen werden.
+                    </note>
+                    
+                    Lassen Sie sich durch Misserfolge
+                    <lb/>nicht entmut<orig>h</orig>igen! Künstlerisch empfundene <choice><abbr>u.</abbr><expan>und</expan></choice> gestal
+                    <lb break="no"/>tete Werke bleiben leben <choice><abbr>u.</abbr><expan>und</expan></choice> mag auch zu
+                    <lb/>Anfang die ganze Musiker<reg>-,</reg> d.h<choice><orig>:</orig><reg>.</reg></choice> Handwerker-Zunft
+                    <lb/>dagegen Stellung nehmen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300208">Freund</persName> nimmt hier Bezug auf die zentrale Debatte der Musikwelt in der <date when-iso="1850/1900">zweiten Hälfte des 19. Jh.</date>: 
+                        den Parteienstreit zwischen den Anhängern der Neudeutschen Schule (den sog. <soCalled rend="dq-du">Zukunftsmusikern</soCalled>)  und den Konservativen (d.h. den 
+                        <soCalled rend="dq-du">Handwerkern</soCalled>). <persName key="E0300208">Freund</persName> selbst zählte sich zu den <q>Zukünftlern</q>. (vgl. sein 
+                        <ref type="E010007" target="#D0100529" n="2">Brief vom <date when-iso="1908-06-23">23.06.1908</date></ref>, Archiv-Datierung fälschlich auf 
+                        <date when-iso="1907">1907</date>) Vermutlich befördert wurde <persName key="E0300208">Freunds</persName> Einstellung dbzgl. durch seine Lehrer. Sowohl 
+                        <persName key="E0300013">Franz Liszt</persName>, als vorrangiger und sehr prominenter Vertreter, als auch <persName key="E0300284">Carl Tausig</persName> (ebenfalls 
+                        ein Schüler <persName key="E0300013">Liszts</persName>) gehörten zur Neudeutschen Schule. (vgl. <bibl><ref target="#E0800261"/>, Sp. 66 ff., 
+                            insbes. Sp. 72</bibl>)
+                    </note>
+                    
+                    Bringen Sie doch
+                    <lb/>ja die Partitur mit.
+                
+                    <note type="commentary" resp="#E0300361">
+                        Von <persName key="E0300017">Busonis</persName> <title key="E0400014">Klavierkonzert op. 39</title>.
+                    </note>
+                
+                </p>
+                <p>Wegen Ihres <choice><orig>r</orig><reg>R</reg></choice>ecital<orig>’</orig>s hier<orig>,</orig> spreche ich nächstens
+                    <lb/>mit den <choice><orig>h</orig><reg>H</reg></choice>ochmögenden
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint sind Vorstand und Musikkommission der <orgName key="E0600024">Neuen Tonhalle-Gesellschaft <placeName key="E0500132">Zürich</placeName></orgName>.
+                        Aus der Idee für <persName key="E0300017">Busoni</persName> einen extra Klavier-Abend in <placeName key="E0500132">Zürich</placeName> zu arrangieren, ist sehr 
+                        wahrscheinlich nichts geworden. (vgl. dazu Anm. im <ref type="E010007" target="#D0100518">folgenden Brief</ref>)
+                    </note>
+                    
+                    der <orgName key="E0600024">Tonhalle<choice><orig> </orig><reg>-</reg></choice>Gesellschaft</orgName>
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> lasse Ihnen da<choice><abbr>n̅</abbr><expan>nn</expan></choice> deren event<choice><abbr>.</abbr><expan>uelle</expan></choice> Anträge zuko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en.</p>
+                <closer>
+                    <salute>
+                        Mit vielen Grü<choice><orig>ss</orig><reg>ß</reg></choice>en an <rs key="E0300059">Ihre Frau</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> Sie selbst
+                        <lb/><seg rend="indent-2">bin ich</seg>
+                    </salute>
+                    <signed rend="inline">Ihr herzlich ergebener
+                        <lb/><seg rend="align(right)"><persName key="E0300208">R. Freund</persName></seg>
+                    </signed>
+                    <dateline>
+                        <placeName key="E0500495">Untere Zäune 7</placeName>, <date when-iso="1904-11-18" cert="high"><choice><abbr>18 Nov.</abbr><expan>18. November</expan></choice></date>
+                        <note type="dating" place="inline" resp="#archive">  [<date xml:id="arch_date" when-iso="1906" cert="low">1906?</date>]</note>
+                        
+                        <note type="commentary" resp="#E0300361">
+                            Der vorliegende Brief ist die direkte Antwort auf <persName key="E0300017">Busonis</persName> autographh datiertes <ref type="E010007" target="#D0100517">
+                                Schreiben vom <date when-iso="1904-11-16">16.11.1904</date></ref>, stammt also aus <date when-iso="1904">demselben Jahr</date> und nicht erst von 
+                            <date when-iso="1906">1906</date>.
+                        </note>
+                        
+                    </dateline>
+                </closer>
+                <note type="foliation" place="bottom-right" resp="#archive">[2<hi rend="sup small">v</hi>]</note>
+                
+                <pb n="3" facs="D0100523_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4" facs="D0100523_3.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 2]</note>
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

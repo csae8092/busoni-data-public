@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600146">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Historische Konzerte</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2018-12-05" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="concert_series">
+               <orgName>Historische Konzerte</orgName>
+               <desc>Unter dem Titel <title>Die Haupterscheinungen auf dem Gebiete des Clavierconcertes von <persName key="E0300012">J. S. Bach</persName> bis <persName key="E0300013">Liszt</persName></title> von <persName key="E0300017">Ferruccio Busoni</persName> veranstaltete Reihe von vier Konzerten in <placeName key="E0500029">Berlin</placeName> (<date when-iso="1898-10/1898-11">Oktober/November 1898</date>; vgl. <bibl><ref target="#E0800094"/></bibl>).</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

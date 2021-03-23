@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800276">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Busoni 1921 (Weindel 2006)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-03-06" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300017">
+                            <forename>Ferruccio</forename>
+                            <surname>Busoni</surname>
+                        </author>
+                        <title level="a">Erinnerungen an <persName key="E0300161">Saint-Saëns</persName></title>
+                        <date when-iso="1921"/>
+                    </analytic>
+                    <monogr>
+                        <author key="E0300017">
+                            <forename>Ferruccio</forename>
+                            <surname>Busoni</surname>
+                        </author>
+                        <editor>
+                            <forename>Martina</forename>
+                            <surname>Weindel</surname>
+                        </editor>
+                        <title level="m">Von der Einheit der Musik</title>
+                        <title level="m" type="sub">Von Dritteltönen und Junger Klassizität, von Bühnen und Bauten und anschließenden Bezirken</title>
+                        <title level="m" type="sub">Verstreute Aufzeichnungen</title>
+                        <idno type="DNB">983816646</idno>
+                        <edition>Kritische und kommentierte Neuausgabe</edition>
+                        <imprint>
+                            <pubPlace>Wilhelmshaven</pubPlace>
+                            <publisher>Florian-Noetzel-Verlag</publisher>
+                            <publisher>Heinrichshofen-Bücher</publisher>
+                            <date when-iso="2006"/>
+                        </imprint>
+                        <biblScope unit="page">112-113 (Text), 242–243 (Kommentar)</biblScope>
+                    </monogr>
+                    <series>
+                        <title level="s">Quellenkataloge zur Musikgeschichte</title>
+                        <biblScope unit="volume">36</biblScope>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

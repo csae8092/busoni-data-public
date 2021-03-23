@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800265">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Draber 1921</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-24" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>Hermann</forename>
+                            <forename>Wilhelm</forename>
+                            <surname>Draber</surname>
+                        </author>
+                        <title level="a"><persName key="E0300017">Busoni</persName> in <placeName key="E0500144">Weimar</placeName></title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600149">Musikblätter des Anbruch</orgName></title>
+                        <title level="j" type="sub">Halbmonatsschrift für moderne Musik</title>
+                        <idno type="DNB">013019724</idno>
+                        <imprint><date when-iso="1921-01-01/1921-01-02"/></imprint>
+                        <biblScope unit="volume">3. Jahrgang</biblScope>
+                        <biblScope unit="no">1 und 2</biblScope>
+                        <biblScope unit="page">39–40</biblScope>
+                    </monogr>
+                    <note>Sonderheft <persName key="E0300017">Ferruccio Busoni</persName></note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

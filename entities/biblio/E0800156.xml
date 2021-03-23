@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800156">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lang / Kunselman 1994</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Robert</forename>
+                     <surname>Lang</surname>
+                  </author>
+                  <author>
+                     <forename>Joan</forename>
+                     <surname>Kunselman</surname>
+                  </author>
+                  <title level="m"><persName key="E0300024">Heinrich Schenker</persName>, Oswald Jonas, Moriz Violin</title>
+                  <title level="m" type="sub">A Checklist of Manuscripts and Other Papers in the Oswald Jonas Memorial Collection</title>
+                  <idno type="PPN">274919818</idno>
+                  <imprint>
+                     <pubPlace>Berkley</pubPlace>
+                     <pubPlace>Los Angeles</pubPlace>
+                     <pubPlace>London</pubPlace>
+                     <publisher>University of California Press</publisher>
+                     <date when-iso="1994"/>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">University of California Publications</title>
+                  <title level="s" type="sub">Catalogs and Bibliographies</title>
+                  <biblScope unit="volume">10</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

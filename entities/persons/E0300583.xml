@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300583">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hanna Bekker vom Rath</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-08-28" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">118655035</idno>
+                    <idno type="VIAF">27865040</idno>
+                    <idno type="ISNI">0000000024580792</idno>
+                    <persName type="reg">
+                        <surname>Bekker</surname>
+                        <nameLink>vom</nameLink>
+                        <surname>Rath</surname>,
+                        <addName type="nick">Hanna</addName>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Johanna</forename>
+                        <forename>Emmy</forename>
+                        <forename>Adele</forename>
+                        <nameLink>vom</nameLink>
+                        <surname>Rath</surname>
+                    </persName>
+                    <persName type="married" from-iso="1920">
+                        <forename>Hanna</forename>
+                        <surname>Bekker</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1893-09-07"/>
+                        <placeName key="E0500153">Frankfurt am Main</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1983-08-08"/>
+                        <placeName key="E0500623">Bad Nauheim</placeName>
+                    </death>
+                    <sex value="f"/>
+                    <occupation>Malerin</occupation>
+                    <occupation>Galeristin</occupation>
+                    <occupation>Mäzenin</occupation>
+                    <note>In einigen Quellen wird irrtümlich <date when-iso="1984">1984</date> als Sterbejahr angegeben.</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

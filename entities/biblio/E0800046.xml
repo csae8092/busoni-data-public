@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wagner / Liszt 1900</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300006">
+                     <forename>Richard</forename>
+                     <surname>Wagner</surname>
+                  </author>
+                  <author key="E0300013">
+                     <forename>Franz</forename>
+                     <surname>Liszt</surname>
+                  </author>
+                  <title level="m">Briefwechsel zwischen <persName key="E0300006">Wagner</persName> und <persName key="E0300013">Liszt</persName></title>
+                  <title level="m" type="sub">Vom Jahre 1841 bis 1861</title>
+                  <edition>2. vermehrte Auflage</edition>
+                  <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <publisher>
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                     </publisher>
+                     <date when-iso="1900"/>
+                  </imprint>
+                  <extent>2 Bde.</extent>
+                  <biblScope unit="volume" n="1">
+                     <title level="m">Vom Jahre 1841 bis 1853</title>
+                     <idno type="PPN">030386470</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="2">
+                     <title level="m">Vom Jahre 1854 bis 1861</title>
+                     <idno type="PPN">030386489</idno>
+                  </biblScope>
+               </monogr>
+               <note>Von <persName key="E0300017">Busoni</persName> vermutlich verwendete Ausgabe.</note>
+               <ref type="ext"
+                    target="http://www.archive.org/stream/LisztBriefwechselMitWagnerBd1-2#page/n0/mode/2up">Digitalisat im Internet Archive</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

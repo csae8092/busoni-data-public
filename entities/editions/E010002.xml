@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E010002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de"></title>
+            </titleStmt>
+            <editionStmt>
+                <edition xml:lang="de">erste Edition mit allen 153 bekannten Briefen</edition>
+            </editionStmt>
+            <extent>
+                <measure unit="pieces">153</measure>
+                <measure unit="years">
+                    <date when-iso="1903/1920"/>
+                </measure>
+            </extent>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Edition</title>
+                <title type="subgenre" key="letters">Briefedition</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unfinished">
+            <change who="#E0300315" when-iso="2018-04-14">Angelegt.</change>            
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="en">
+                <p>Sorry, there is currently no english version available.</p>
+            </div>
+            <div xml:lang="en">
+                <p>Es ist noch kein Beschreibungstext verfügbar.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

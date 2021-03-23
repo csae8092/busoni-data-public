@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300401">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Walther Rathenau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118598430</idno>
+               <idno type="VIAF">36932567</idno>
+               <idno type="ISNI">000000012095933X</idno>
+               <persName type="reg">
+                  <surname>Rathenau</surname>,
+                  <forename>Walther</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1867-09-29"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1922-06-24"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Unternehmer</occupation>
+               <occupation>Politiker</occupation>
+               <occupation from-iso="1922-01-31">Reichsaußenminister</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

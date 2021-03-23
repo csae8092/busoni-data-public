@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300314">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian Schaper</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-07" who="#E0300314">status reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person role="staff">
+               <idno type="GND">1034650467</idno>
+               <idno type="VIAF">299503619</idno>
+               <idno type="ISNI">0000000403218750</idno>
+               <idno type="ORCID">0000000310738554</idno>
+               <persName type="reg">
+                  <surname>Schaper</surname>,
+                  <forename>Christian</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1976"/>
+                  <placeName key="E0500184">Essen</placeName>
+               </birth>
+               <sex value="m"/>
+               <occupation>Musikwissenschaftler</occupation>
+               <affiliation><orgName key="E0600132">Humboldt-Universität zu Berlin</orgName></affiliation>
+               <note>
+                  <ref type="ext" target="https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/Historische/mitarbeiter/schaper">Mitarbeiter-Seite an der HU Berlin</ref>
+               </note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

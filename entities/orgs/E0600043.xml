@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gebrüder Hug &amp; Co.</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="music_dealer">
+               <idno type="GND">1072929864</idno>
+               <orgName>Gebrüder Hug &amp; Co.</orgName>
+               <desc><date when-iso="1828">1807</date> in <placeName key="E0500132">Zürich</placeName> gegründete Musikalienhandlung, mit Filialen u. a. in <placeName key="E0500097">Basel</placeName> und <placeName key="E0500195">St. Gallen</placeName> (<date from-iso="1865">seit 1865</date>), <placeName key="E0500180">Luzern</placeName> (<date from-iso="1874">1874</date>) und <placeName key="E0500007">Leipzig</placeName> (<date when-iso="1885/1943">1885–1943</date>); heute unter dem Namen <orgName>Musik Hug AG</orgName>.</desc>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Sonnenquai 28 (heute: Limmatquai)</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500123">Zürich</settlement>
+                     </addrLine>
+                  </address>
+                  <geo>47.369906 8.543561</geo>
+               </location>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

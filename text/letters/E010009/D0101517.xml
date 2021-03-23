@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0101517">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hugo Leichtentritt an Ferruccio Busoni (Berlin, 5. September 1912)</title>
+                <title xml:lang="en">Letter by Hugo Leichtentritt to Ferruccio Busoni (Berlin, 5 September 1912)</title>
+                <author key="E0300093">Hugo Leichtentritt</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300418">
+                        <forename>Marlene</forename>
+                        <surname>Everling</surname>
+                    </persName>
+                </respStmt>
+                <!-- <respStmt>
+                    <resp>Digitization by</resp>
+                    voraussichtlich <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                    </respStmt>-->
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <!-- <date when-iso="2021-11"/> -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010009">Briefwechsel Ferruccio Busoni – Hugo Leichtentritt</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2760</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Leichtentritt 3 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-639342</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300093">Leichtentritt</persName> bedankt sich für die Zusendung eines Katalogs; verteidigt musikhistorsiche Betätigung als Mittel ästhetischer Selbstvergewisserung; will sich nun wieder dem Komponieren zuwenden; sendet einen Privatdruck seines Liederzyklus <title key="E0400453">Chinesisch-deutsche Jahres- und Tageszeiten</title>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1912-09-05"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs" cert="high"><date when-iso="1912-09-05"/></docDate>
+                            <incipit>Ich danke Ihnen bestens für die freundliche Zusendung</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung durch das Archiv, mit Bleistift oben rechts auf dem ersten und zweiten Blatt.</foliation>
+                                <collation>Seitenfolge: 1, 3, 2 (2 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300093">Hand des Absenders Hugo Leichtentritt, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die den Namen des Absenders auf der Umschlagsrückseite notiert hat.</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500029">Berlin</placeName> W
+                                    <lb/><date><gap reason="illegible" atLeast="3" unit="char"/></date>
+                                    <lb/>* 35 <seg rend="minuscule"><unclear reason="illegible" cert="high">l</unclear></seg></stamp>
+                            </note>
+                            <address>
+                                <addrLine rend="align(left)">Herrn</addrLine>
+                                <addrLine rend="align(center) latin"><persName key="E0300017">F. Busoni</persName>.</addrLine>
+                                <addrLine rend="align(right) latin">
+                                    <note type="stamp" place="center" resp="#dsb_st_red">
+                                        <stamp rend="round border align(center) small">Deutsche
+                                            <lb/>Staatsbibliothek
+                                            <lb/>
+                                            <placeName key="E0500029">
+                                                <hi rend="spaced-out">Berlin</hi>
+                                            </placeName>
+                                        </stamp>
+                                    </note>
+                                    <hi rend="underline">W.30.</hi>
+                                </addrLine>
+                                <addrLine rend="align(right) latin"><placeName key="E0500072">Vi<choice><orig>c</orig><reg>k</reg></choice>toria<choice><orig> </orig><reg>-</reg></choice>Luise<choice><orig> </orig><reg>-</reg></choice><choice><abbr>Pl.</abbr><expan>Platz</expan></choice> 11</placeName>.</addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <note type="annotation" resp="#unknown_hand" place="top-center">Leichtentritt</note>
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <add place="above">Mus.Nachl. F. Busoni B II, 2760-Beil.</add>
+                                    <lb/><del rend="strikethrough">Mus.ep. H. Leichtentritt 3
+                                        <lb/><stamp resp="#sbb_st_blue">Nachlaß Busoni<handShift new="#archive_red"/>B II</stamp>
+                                    </del>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1912-09-05"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0101517">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116878363" key="E0300093">Leichtentritt, Hugo</persName>
+                    <date when="1912-09-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1912-09-06" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <!-- Zu überarbeiten, wenn Busoni-Briefe aus der LOC vorliegen -->
+                <correspContext>
+                    <!--<ref type="replyTo" target="#..."/>
+                    <ref type="repliedBy" target="#..."/>
+                    <ref type="previous" target="#..."/>-->
+                    <ref type="next" target="#D0101519"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2020-08-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2020-10-06" who="#E0300418">status unfinished</change>
+            <change when-iso="2020-10-12" who="#E0300418">status proposed</change>
+            <change when-iso="2020-11-14" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" resp="#archive" place="top-left">
+                    <subst>
+                        <del rend="strikethrough align(right)" xml:id="delSig">Mus.ep. H. Leichtentritt 3 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)
+                        </del>
+                        <add place="top-left" rend="rotate(-90)">Mus.Nachl. F. Busoni B II, 2760</add>
+                    </subst>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                <opener>
+                    <address>
+                        <addrLine rend="latin align(right)"><placeName key="E0500029">Berlin</placeName> W.<reg>,</reg> <placeName key="E0500634">Winterfeld<choice><orig> S</orig><reg>ts</reg></choice>tr. 25<hi rend="sup underline" n="2">a</hi></placeName>.</addrLine>
+                    </address>
+                    <dateline rend="latin align(right)">
+                        <choice><abbr>d.</abbr><expan>den</expan></choice><date when-iso="1912-09-05"> 5. <choice><abbr>Septemb.</abbr><expan>September</expan></choice> 1912</date>.
+                    </dateline>
+                    <salute rend="indent-first space-above">Sehr verehrter <persName key="E0300017">Herr <hi rend="latin">Busoni</hi></persName>!</salute>
+                </opener>
+                <p rend="indent-first">Ich danke Ihnen bestens für die freundliche
+                    <lb/>Zusendung des Katalogs,
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300017">Busoni</persName> legte seinem <ref type="E010009" target="#D0101516">Brief</ref> vom <date when-iso="1912-09-04">4.9.1912</date> einen Katalog bei, von dem er annahm, dass er <persName key="E0300093">Leichtentritt</persName> interessieren werde. Vermutlich thematisierte der Katalog Kompositionen und Schriften aus der Renaissance, da in <persName key="E0300017">Busonis</persName> <ref type="E010009" target="#D0101516">Brief</ref> die Namen der franko-flämischen Komponisten <persName key="E0300590">Arcadelt</persName>, <persName key="E0300591">Lasso</persName>, <persName key="E0300592">Rore</persName>, <persName key="E0300593">Willaert</persName> und des Musiktheoretikers <persName key="E0300594">Salinas</persName> genannt werden <bibl>(Vgl. <ref target="#E0800060"/>, S. 152)</bibl>. Um welchen Katalog es sich genau handelte, konnte nicht ermittelt werden.</note>
+                    der mich interessiert.
+                    <lb/>Ich finde die Preise für meine eigene
+                    <lb/>Bücherei
+                    
+                    <note type="commentary" resp="#E0300418">Va.: private Büchersammlung.</note>
+                    
+                    allerdings viel zu hoch, werde jedoch
+                    <lb/>kaufkräftigere Interessenten auf die gute Ge
+                    <lb break="no"/>legenheit aufmerksam machen. Über die
+                    <lb/>bewu<choice><orig>ß</orig><reg>ss</reg></choice>te Frage
+                    
+                    <note type="commentary" resp="#E0300418">Im <ref type="E010009" target="#D0101516">Brief vom <date when-iso="1912-09-04">4.9.1912</date></ref> bekennt <persName key="E0300017">Busoni</persName>, die Musik der Renaissance sei für ihn nicht minder eine Terra incognita als die Geschichte <placeName key="E0500253">Chinas</placeName>. Den Bemühungen des Historikers setzt er den Blick <q>vorwärts</q> entgegen: man müsse von den eigenen Kindern lernen <bibl>(vgl. <ref target="#E0800060"/>, S. 152)</bibl>. <persName key="E0300093">Leichtentritt</persName>, der sich zu diesem Zeitpunkt schon seit über einem Jahrzehnt mit musikgeschichtlichen Themen auseinandergesetzt hatte und bis heute als anerkannter Historiker gilt, dürfte <persName key="E0300017">Busonis</persName> Meinung nicht geteilt haben <bibl>(vgl. <ref target="#E0800277"/>, S. 156)</bibl>.</note>
+                    
+                    hätte ich so<reg> </reg>viel zu sagen, da<choice><orig>ß</orig><reg>ss</reg></choice> ich
+                    <lb/>in ein paar Briefzeilen lieber ganz davon
+                    <lb/>schweige. Ich selbst bin mit meiner musikge
+                    <lb break="no"/>schichtlichen Betätigung jetzt im <choice><orig>w</orig><reg>W</reg></choice>esentlichen
+                    <lb/>zu Ende gekommen,
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritt</persName> hatte in den Jahren zuvor zwei inhaltlich dem von <persName key="E0300017">Busoni</persName> mitgesendeten Katalog nahestehende Bücher veröffentlicht: die <title key="E0800302">Geschichte der Motette</title> (<date when-iso="1908">1908</date>) und die erweiterte Neuauflage des <rs key="E0800332">vierten Bandes</rs> der <title key="E0800331">Geschichte der Musik</title> von <persName key="E0300595">Ambros</persName> (<date when-iso="1909">1909</date>). Zuletzt war <persName key="E0300093">Leichtentritts</persName> <title key="E0800301">Musikalische Formenlehre </title> erschienen (<date when-iso="1911">1911</date>).</note>
+                    
+                    nachdem dieses mühsame und
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                    <note type="stamp" place="align(center)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/>
+                            <placeName key="E0500029">
+                                <hi rend="spaced-out">Berlin</hi>
+                            </placeName>
+                        </stamp>
+                    </note>
+                    langwierige
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritt</persName> erwähnt in seiner <rs key="E0800277">Autobiographie</rs>, er habe an der <title key="E0800302">Geschichte der Motette</title> vier Jahre lang gearbeitet. Über den <rs key="E0800332">vierten Band</rs> von <persName key="E0300595">Ambros</persName>’ <title key="E0800331">Geschichte der Musik</title> schreibt er, dass er die 481 Seiten des fragmentarischen Originals von <date when-iso="1878">1878</date> auf 913 Seiten erweitern konnte. Eigenen Angaben zufolge beendete er diese Arbeit nach beinahe fünf Jahren – im Jahr <date when-iso="1911">1911</date>. Zwar wurde der <rs key="E0800332">vierte Band</rs> mit <persName key="E0300093">Leichtentritts</persName> Erweiterungen schon <date when-iso="1909">1909</date> veröffentlicht, jedoch ließ sich eine Auflage des <rs key="E0800336">fünften Bandes</rs> von <date when-iso="1911">1911</date> ermitteln; womöglich wurde der <rs key="E0800332">vierte Band</rs> von <persName key="E0300093">Leichtentritt</persName> für diese Auflage noch weiter bearbeitet. <persName key="E0300093">Leichtentritts</persName> Beschäftigung mit der Musik der Renaissance war mit dem <date when-iso="1912">Jahr 1912</date> indes keineswegs abgeschlossen: <date when-iso="1915">1915</date> erschien ein <rs key="E0800293">Aufsatz</rs> in der Zeitschrift <orgName key="E0600154">The Musical Quarterly</orgName>, und <date when-iso="1937/1940">von 1937 bis 1940</date> arbeitete <persName key="E0300093">Leichtentritt</persName> in <orgName key="E0600157">Harvard</orgName> an einer erweiterten Übersetzung seiner <title key="E0800302">Geschichte der Motette</title> <bibl>(vgl. <ref target="#E0800277"/>, S. 501)</bibl>.</note>
+                    
+                    Studium mir gebracht hat<reg>,</reg> was ich
+                    <lb/>davon erwartete: eine vertiefte Einsicht in die
+                    <lb/>künstlerischen Probleme überhaupt<orig>,</orig>
+                    
+                    <note type="commentary" resp="#E0300418">Das Streben nach <q>Einsicht in die künstlerischen Probleme überhaupt</q> scheint <persName key="E0300093">Leichtentritt</persName> zeitlebens beschäftigt zu haben. <persName key="E0300596">Nicolas Slonimsky</persName> berichtet im Vorwort zu <persName key="E0300093">Leichtentritts</persName> postum veröffentlichtem Buch <title key="E0800333">Music of the Western Nations</title>: <q>He spent his whole life searching for the artistic truth – the absolute truth according to his lights, for he countenanced no compromise.</q> <bibl>(<ref target="#E0800277"/>, S. V)</bibl>.</note>
+                    
+                    und die
+                    <lb/>Bekanntschaft mit einem Schatz wertvoller
+                    <lb/>Kunst, der allgemeinhin noch mit sieben
+                    <lb/>Siegeln verschlossen ist.
+                    
+                    <note type="commentary" resp="#E0300418">In der Einleitung zur <title key="E0800302">Geschichte der Motette</title> schreibt <persName key="E0300093">Leichtentritt</persName>: <q>Freilich sind wir noch nicht so weit, um eine umfassende <title key="E0800302">Geschichte der Motette</title> versuchen zu dürfen. Von der ungeheuren Motettenproduktion des <date when-iso="1401/1700">15.–17.</date> Jahrhunderts ist erst ein geringer Teil zugänglich. Von dem Lebenswerk großer Künstler wie <persName key="E0300597">Heinrich Isaak</persName>, <persName key="E0300598">Josquin de Prés</persName>, <persName key="E0300599">Gombert</persName>, <persName key="E0300593">Willaert</persName>, […] und vieler anderer kann sich wohl kaum jemand gegenwärtig eine zulängliche Vorstellung machen, weil nur geringe Teile der Werke dieser Meister in Partitur vorliegen</q> <bibl>(<ref target="E0800302"/>, S. 2)</bibl>.</note>
+                    
+                    Mein <subst><del rend="strikethrough">Drang</del><add place="across">Durst</add></subst> nach Wissen
+                    <lb/>um meine Kunst, nach Klarheit in ästhetischen
+                    <lb/>Dingen ist jetzt in dem Maße gestillt, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>ich wieder zu der alten und eigentlich immer
+                    <lb/>einzigen Liebe, zur künstlerischen Produktion
+                    <lb/>zurückkehren kann.
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritts</persName> erste Kompositionen entstanden während seiner Zeit als Student in <orgName key="E0600157">Harvard</orgName> <date when-iso="1891/1894">1891–1894</date>, angeregt durch seinen dortigen Lehrer <persName key="E0300600">John Knowles Paine</persName>. Zeitlebens seinem eigenen Verständnis nach in erster Linie Komponist, wurde <persName key="E0300093">Leichtentritt</persName> von der Öffentlichkeit stets als Historiker und Musikkritiker wahrgenommen (<bibl>vgl. <ref target="#E0800277"/>, S. 335</bibl>: <q>As my reputation as a teacher, critic and author grew, I was classified in these fields – such was the German mentality at that time – and was consequently excluded from following the routine career of a composer</q>).</note>
+                    
+                    Ich hoffe zuversichtlich, Ihnen
+                    <lb/>noch durch die T<orig>h</orig>at beweisen zu können, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>man sehr wohl für die Zukunft
+                    <choice><orig>e</orig><reg>E</reg></choice>rsprießliches
+                    <lb/>leisten kann, auch wenn man in der
+                    <lb/>Vergangenheit stark fundiert ist. Ich erlaube
+                    <lb/>mir, Ihnen ein eben erschienenes <rs key="E0400453"><choice><orig>o</orig><reg>O</reg></choice>pus</rs>
+                    
+                    <note type="commentary" resp="#E0300418">Die von Leichtentritt privat finanzierte Ausgabe seiner <title key="E0400453">Chinesisch-deutschen Jahres- und Tageszeiten</title>, eines Liederzyklus über die gleichnamige Gedichtsammlung <persName key="E0300124">Goethes</persName>, stieß beim als bibliophil bekannten <persName key="E0300017">Busoni</persName> auf Gefallen <bibl>(vgl. <ref target="#E0800060"/>, S. 152)</bibl>. Die Titelseite hatte der Maler und Grafiker <persName key="E0300601">Emil Pottner</persName> gestaltet <bibl>(vgl. <ref target="#E0800277"/>, S. 336 f.)</bibl>.</note>
+                    
+                    zu
+                    <lb/>überreichen, auf die Gefahr hin, da<choice><orig>ß</orig><reg>ss</reg></choice> <subst><del rend="overwritten">s</del><add place="across">S</add></subst>ie dafür
+                    
+                    <pb n="3"/>
+                    
+                    nicht viel übrig haben. Es hatte sich übrigens eines ungewöhnlichen
+                    <lb/>Erfolges zu erfreuen,
+                    
+                    <note type="commentary" resp="#E0300418">Laut <persName key="E0300093">Leichtentritts</persName> <rs key="E0800277">Autobiographie</rs> hatte jedes einzelne seiner aufgeführten Werke bemerkenswerten Erfolg, auch die <title key="E0400453">Chinesisch-deutschen Jahres- und Tageszeiten</title> (<q>There was a great interest for the work in musical cycles and the press reviews were highly laudatory</q>, <bibl><ref target="#E0800277"/>, S. 336)</bibl>. Der Kritiker <persName key="E0300602">Paul Schwers</persName> äußerte sich in der <orgName key="E0600168">Allgemeinen Musik-Zeitung</orgName> (<date when-iso="1911-12-22">22. Dezember 1911</date>) positiv zu einer Aufführung: <q><persName key="E0300093">Leichtentritt</persName> befleißigt sich hier einer ausdrucksstarken, harmonisch reich behandelten Tonsprache, die sich fern von kleinlicher exotischer Koloristik hält. Das Hauptaugenmerk legt er auf die in breiten, eindrucksvollen Linien geführte Gesangsstimme</q> <bibl>(<ref target="#E0800334"/>)</bibl>.</note>
+                    
+                    was ja allerdings für die künstlerische
+                    <lb/>Qualität noch kein genügender Beweis ist; diesen kann erst der
+                    <lb/>dauernde Erfolg erbringen.
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritt</persName> berichtet in seiner <rs key="E0800277">Autobiographie</rs> von mehreren Aufführungen der <title key="E0400453">Chinesisch-deutschen Jahres- und Tageszeiten</title> (sowohl Klavier- als auch Kammerorchesterfassung), mit <persName key="E0300603">Wilhelm Guttmann</persName> und <persName key="E0300604">Maria Ranzow</persName>, welche das Werk in <placeName key="E0500029">Berlin</placeName>, <placeName key="E0500061">Wiesbaden</placeName> und <placeName key="E0500031">New York</placeName> aufführte, sowie von einer Aufführung als Radiokonzert unter der Leitung von <persName key="E0300605">Philip James</persName> im Jahr <date when-iso="1937">1937</date> <bibl>(vgl. <ref target="#E0800277"/>, S. 337)</bibl>.</note>
+                    
+                    Das <rs key="E0400453"><choice><orig>o</orig><reg>O</reg></choice>pus</rs> ist gegen sieben Jahre alt,
+                    <lb/>so lange dauert es meistens, bis sich jemand einer Arbeit von mir
+                    <lb/>annimmt.
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300093">Leichtentritt</persName> verstand sich zwar als Komponist, hatte aber, wie er selbst im Rückblick konstatierte, publizistischen Erfolg allein als Musikhistoriker und Musiktheoretiker: <q>Having accumulated a whole repertory of chamber music and symphonic music, I still had the greatest difficulty in publishing compositions, though my books were always quickly published</q> <bibl>(<ref target="#E0800277"/>, S. 335)</bibl>.</note>
+                    
+                    <seg type="closer" subtype="salute">Ich grüße Sie bestens
+                        <lb/><seg rend="align(center)">und verbleibe</seg></seg></p>
+                <closer>
+                    <salute rend="align(right)">Ihr ganz ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300093" rend="latin">H. Leichtentritt</persName>.</signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 4 des Bogens (Rückseite von Textseite 2)]</note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

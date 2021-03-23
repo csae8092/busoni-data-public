@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800329">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Busoni 1920d</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-25" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300017">
+                            <forename>Ferruccio</forename>
+                            <surname>Busoni</surname>
+                        </author>
+                        <title level="a"><q><placeName key="E0500027">Bayreuth</placeName></q></title>
+                        <title level="a" type="sub">Offene Erwiderung an <persName key="E0300111">Paul Bekker</persName></title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <forename>Felix</forename>
+                            <surname>Meyer</surname>
+                        </editor>
+                        <title level="m">Klassizistische Moderne</title>
+                        <title level="m" type="sub">Eine Begleitpublikation zur Konzertreihe im Rahmen der Veranstaltungen <q>10&#160;Jahre Paul Sacher Stiftung</q></title>
+                        <title level="m" type="sub">Werkeinführungen, Essays, Quellentexte</title>
+                        <idno type="DNB">94804862X</idno>
+                        <idno type="PPN">215789814</idno>
+                        <idno type="BVB">BV010967817</idno>
+                        <imprint>
+                            <pubPlace>Winterthur</pubPlace>
+                            <publisher>Amadeus Verlag</publisher>
+                            <date when-iso="1996"/>
+                        </imprint>
+                        <biblScope unit="page">428–430</biblScope>
+                    </monogr>
+                    <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB000237CB00000001">Digitalisat der Originaltexts (Fassung&#160;A) im Busoni-Nachlass der Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName></ref>
+                    <note>
+                        <persName key="E0300361">Busonis</persName> <q>offene Erwiederung</q> war ursprünglich Anlage eines <ref type="E010006" target="#D0100405">Briefes</ref> an <persName key="E0300111">Paul Bekker</persName> vom <date when-iso="1920-05-14">14.&#160;Mai 1920</date>.
+                    </note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

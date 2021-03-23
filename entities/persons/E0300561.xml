@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300561">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ursula Creighton</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2020-02-19" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName type="reg">
+                  <surname>Creighton</surname>,
+                  <forename>Ursula</forename>
+               </persName>
+               <sex value="f"/>
+               <occupation>Pianistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+               <note>Teilnehmerin an <persName key="E0300017">Busonis</persName> <placeName key="E0500092">Basler</placeName> Meisterkurs <date when-iso="1910">1910</date> <bibl>(<ref target="#E0800290"/>)</bibl></note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

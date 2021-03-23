@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verein für Kunst und Kultur</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="art_society">
+               <orgName>Verein für Kunst und Kultur</orgName>
+               <desc><date when-iso="1907/1911">Von 1907 bis 1911</date> unter diesem Namen bestehender <placeName key="E0500002">Wiener</placeName> Verein zur Förderung moderner Kunst; als <soCalled>Ansorge-Verein. Verein für moderne Kultur</soCalled> im Jahr <date from-iso="1903">1903</date> gegründet; im <date when-iso="1911-11">November 1911</date> mit dem <soCalled>Akademischen Verband für Kunst und Literatur</soCalled> zusammengeschlossen.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

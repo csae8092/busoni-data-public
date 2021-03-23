@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500634">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Winterfeldtstraße 25a (Schöneberg, Berlin)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-02-22" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Winterfeldtstraße 25a</placeName>
+               <location>
+                  <district key="E0500073">Schöneberg</district>
+                  <settlement key="E0500029">Berlin</settlement>
+                  <country key="DE"/>
+                  <geo>52.496567 13.357011</geo>
+               </location>
+               <desc>Wohnort <persName key="E0300093">Hugo Leichtentritts</persName></desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

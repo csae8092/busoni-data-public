@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400359">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bach, Johann Sebastian (arr. Busoni, Ferruccio): 3 Toccaten e-Moll, g-Moll und G-Dur</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-03-03" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct corresp="#E0400280 #E0400281 #E0400282" type="mus" subtype="arrgt">
+                    <monogr>
+                        <author key="E0300012" role="cmp">Johann Sebastian Bach</author>
+                        <author key="E0300017" role="arrgr">Ferruccio Busoni</author>
+                        <title level="m">3 Toccaten e-Moll, g-Moll und G-Dur</title>
+                        <idno type="wcat">K B 39</idno>
+                        <edition>Bearbeitung für Klavier solo</edition>
+                        <imprint>
+                            <date when-iso="1920" type="firstprint"/>
+                            <pubPlace key="E0500007">Leipzig</pubPlace>
+                            <publisher>
+                                <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                            </publisher>
+                            <note type="dedicatee"><persName key="E0300184">Ernst Lochbrunner</persName></note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

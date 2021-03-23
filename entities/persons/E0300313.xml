@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300313">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ullrich Scheideler</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person role="staff">
+               <idno type="GND">11354944X</idno>
+               <idno type="VIAF">692935</idno>
+               <idno type="ISNI">0000000117363068</idno>
+               <persName type="reg">
+                  <surname>Scheideler</surname>,
+                  <forename>Ullrich</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1964"/>
+                  <placeName key="E0500409">Kassel</placeName>
+               </birth>
+               <sex value="m"/>
+               <occupation>Musikwissenschaftler</occupation>
+               <affiliation><orgName key="E0600132">Humboldt-Universität zu Berlin</orgName></affiliation>
+               <note>
+                  <ref type="ext" target="https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/musiktheorie/mitarbeiter/dr-ullrich-scheideler">Mitarbeiter-Seite an der HU Berlin</ref>
+               </note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

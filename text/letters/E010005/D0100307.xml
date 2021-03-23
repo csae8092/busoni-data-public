@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100307">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (28. April 1917)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (28 April 1917)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300366">
+                        <forename>Nicole</forename>
+                        <surname>Malige</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4265</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 6 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723689</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Rubiner</persName> zeigt sich über die Reaktion auf seinen zuvor <persName key="E0300017">Busoni</persName> zugesandten Aufsatz <title key="E0800169">Aktualismus</title> erfreut; verweist auf den <q>ungeheuren Einfluss</q> von <persName key="E0300017">Busonis</persName> <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title> und insbesondere die <q>Erweckung</q> dazu, <q>sich wie am ersten Tage der Weltgeburt mit unbefangenem Auge vor das Leben zu stellen</q>; verzeichnet Übereinstimmung mit <persName key="E0300017">Busoni</persName> in der Auffassung von <soCalled>Natur</soCalled> und <soCalled>Seele</soCalled> und vermutet sie auch mit <q>alte[n] Kirchenväter[n]</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-04-28"/></docDate>
+                            <incipit>Ihr Brief hat mich mehr erfreut, als Sie vielleicht ahnen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">8 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand Gerda Busonis, die mit Bleistift eine Paginierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when-iso="1917-04-28">28. April 1917</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100307">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1917-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100306"/>
+                    <ref type="next" target="#D0100308"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-06" who="#E0300366">Transkription erstellt, Codierung noch unvollständig, status unfinished</change>
+            <change when-iso="2018-02-11" who="#E0300366">Codierung abgeschlossen, status proposed</change>
+            <change when-iso="2018-02-25" who="#E0300314">erste Durchsicht</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873474570/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2B00000008"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener><dateline><date when-iso="1917-04-28">28. April 1917.</date></dateline>
+                    
+                    <note type="shelfmark" resp="#archive" rend="align(right)">
+                        <subst> 
+                            <del rend="strikethrough">Mus.ep. L. Rubiner 6<lb/>(Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                            <add place="below">Mus. Nachl. F. Busoni B II, 4265</add>                                     
+                        </subst>
+                    </note>
+                    
+                    <salute rend="align(center)">Lieber und verehrtester <persName key="E0300017">Herr
+                        <lb/>Busoni</persName>!</salute>
+                </opener>
+                <p>Ihr Brief hat mich mehr er
+                    <lb break="no"/>freut, als Sie vielleicht ahnen.</p>
+                <p rend="indent-first">Es liegt so, dass ich Ihnen
+                    <lb/><rs key="E0800169">den Aufsatz</rs> schickte, und in
+                    <lb/>aller Bescheidenheit. Ja, fast
+                    <lb/>zitternd, weil ich über manche
+                    <lb/>Dinge nichts anderes heute mehr
+                    <lb/>fühlen, denken und sagen kann<orig>,</orig>
+                    <lb/>als diese <choice><orig>....</orig><reg>…</reg></choice> (ich wei<choice><orig>ss</orig><reg>ß</reg></choice> es wohl:)
+                    <lb/>Härten. Niemand empfindet das
+                    <lb/>schmerzlicher als ich selbst.</p>
+                <p>Warum ich aber gerade mein
+                    <lb/>Urteil (so oft, und ohne dass Sie
+                    <lb/>es wissen!) in Ihre Hände
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">2</note>
+                    
+                    lege, das rührt daher: Ihnen
+                    <lb/>verdanke ich mehr als anderen
+                    <lb/>Menschen. Und, wie alles wirk
+                    <lb break="no"/>liche Leben, kam es nicht mit
+                    <lb/>einem Schlag, sondern hat viele
+                    <lb/>Kristalle und Zellen und Häute
+                    <lb/>an mir gebildet.</p>
+                <p>Ich wei<choice><orig>ss</orig><reg>ß</reg></choice> sogar erst seit dem
+                    <lb/>letzten Vierteljahr ganz klar
+                    <lb/>und in Worten ausdrückbar,
+                    <lb/>welchen ungeheuren Einfluss
+                    <lb/>Sie auf mich ausgeübt haben.
+                    <lb/>Als vor <choice><orig>10</orig><reg>zehn</reg></choice> Jahren <rs key="E0400043">Ihre
+                        <lb/><choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik</rs> erschien, klammerte
+                    <lb/>ich in Bewunderung und Zu
+                    <lb break="no"/>stimmung mich an Neben
+                    <lb break="no"/>dinge.</p>
+                <p>Aber die Hauptsache, die
+                    <lb/><choice><orig>C</orig><reg>Z</reg></choice>entralidee <rs key="E0400043">Ihres Buches</rs>,
+                    <lb/>die ganze divine Realisation
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">3</note>
+                    
+                    Ihres Lebensplanes<orig>,</orig> – diese
+                    <lb/>nahm ich ganz stillschweigend
+                    <lb/>an, obwohl gerade sie es ist,
+                    <lb/>die in mir während dieser
+                    <lb/>Zeit unablässig geformt
+                    <lb/>hat. Es ist Ihre Idee, in
+                    <lb/>allen wichtigen Lebensdingen
+                    <lb/>sich wie am ersten Tage der
+                    <lb/>Weltgeburt mit unbefangenem
+                    <lb/>Auge vor das Leben zu stellen.
+                    <lb/>So selbstverständlich uns
+                    <lb/>das erscheint: Unerhörterweise
+                    <lb/>war es nicht selbstverständlich,
+                    <lb/>sondern Sie waren der erste,
+                    <lb/>der es mit fassbaren, <hi rend="underline">fühlbaren</hi><orig>,</orig>
+                    <lb/>und <hi rend="underline" n="2">anwendbaren</hi> Worten
+                    <lb/>öffentlich ausgesprochen hat.</p>
+                <p rend="indent-first">Wie alle wirklichen Lebenswahr
+                    <lb break="no" rend="sh"/>heiten, ist auch diese ungeheuer
+                    <lb/>einfach. Sie hat in mir Wur
+                    
+                    <pb n="4" break="no"/>
+                    
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">4</note>
+                    
+                    <supplied reason="omitted">zeln</supplied> geschlagen. Und in den paar Jahren,
+                    <lb/>seit denen ich ein wirklich
+                    <lb/>wollender Mensch bin, brach
+                    <lb/>diese von Ihnen als Vorbild
+                    <lb/>aufgestellte Wahrheit in allen
+                    <lb/>möglichen Variationen aus
+                    <lb/>mir. Natürlich wurde sie
+                    <lb/>dadurch fruchtbar, dass sie
+                    <lb/>sich kreuzte und verband
+                    <lb/>mit den persönlichsten Erlebnissen.</p>
+                <p rend="indent-first">(Ich werde noch Gelegen
+                    <lb break="no"/>heit haben, öffentlich von der
+                    <lb/>wahrhaften Lebensgesetzlichkeit
+                    <lb/>dieser Idee und dem, was ihr
+                    <lb/>zu verdanken ist, Rechenschaft
+                    <lb/>abzulegen.)</p><!-- worauf spielt Rubiner an? ein Werk? -->
+                <p>Es ist jedenfalls so: wäre mir
+                    <lb/>nicht Ihr <choice><orig>C</orig><reg>Z</reg></choice>entralfeuer der
+                    <lb/><rs key="E0400043">Ästhetik</rs> seinerzeit als Geschenk                  
+                    <lb/>(geradezu!) zugefallen, so wäre
+                    <lb/>ich gewiss heute noch auf
+                    <lb/>vielen Nebenwegen.</p>
+                
+                <pb n="5"/>
+                
+                <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">5</note>
+                
+                <note type="shelfmark" resp="#archive" rend="indent">
+                    <subst> 
+                        <add><idno>B II, 4265</idno></add>                                     
+                    </subst>
+                </note>         
+                <p><rs key="E0800169">Den Aufsatz</rs>, der Ihnen vorliegt,
+                    <lb/>gab ich vor einem halben
+                    <lb/>Jahr (<date when-iso="1916-10">Oktober 1916</date>) in Druck. Ich
+                    <lb/>bedaure nichts mehr, als dass
+                    <lb/>ich Ihre Verse nicht eher kannte,
+                    <lb/>diese: <quote rend="align(right) dq-du">Wir wissen, dass wir kommen<reg>,</reg>
+                        <lb/>um zu gehn,
+                        <lb rend="after:„"/>Was <hi rend="underline">zwischenliegt</hi><reg>,</reg> ist <hi rend="underline" n="3">das, was</hi>
+                        <lb/><hi rend="underline" n="3">uns betrifft!</hi></quote>
+                    
+                    <note type="commentary" resp="#E0300314">Freies Zitat aus <persName key="E0300017">Busonis</persName> <title key="E0400218">Doktor Faust</title>; originaler Wortlaut des <rs key="E0800136">Librettodrucks</rs> (Zweites Bild, Faust): <quote source="#E0400218">Gewiß ist, daß wir kommen um zu gehen: – was zwischen liegt, ist das, was uns betrifft.</quote></note>
+                </p>
+                <p>Ich könnte mir, mit Ihrer
+                    <lb/>Erlaubnis, gar kein schöneres
+                    <lb/>und <choice><orig>conc</orig><reg>konz</reg></choice>entrierter <hi rend="underline">das</hi> <hi rend="underline">Letzte</hi>
+                    <lb/>ausdrückendes Motto denken!</p>
+                <p rend="indent-first">Heute, wo ich mir
+                    <lb/>über wenigstens einen gewissen
+                    <lb/>Rhyt<supplied reason="omitted">h</supplied>mus in meinem Leben
+                    <lb/>sehr klar geworden bin,
+                    
+                    <pb n="6"/>
+                    
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">6.</note>
+                    
+                    ist mir auch gleichzeitig
+                    <lb/>klar geworden, wie, in
+                    <lb/>welcher Art, die gro<choice><orig>ss</orig><reg>ß</reg></choice>e Wirkung
+                    <lb/>Ihrer Menschenpersönlichkeit
+                    <lb/>auf mein Leben sich vollzogen
+                    <lb/>hat.</p>
+                <p>Ich kann es wohl am besten
+                    <lb/>mit Worten von <persName key="E0300240">V. de l’I. A.</persName>
+                    <lb/>aus <title key="E0400313" rend="dq-du">Ax<choice><orig>e</orig><reg>&#235;</reg></choice>l</title> ausdrücken. Sie
+                    <lb/>wirkten so, wie es in <title key="E0400313">Ax<choice><orig>e</orig><reg>&#235;</reg></choice>l</title>
+                    <lb/>hei<choice><orig>ss</orig><reg>ß</reg></choice>t: <quote rend="dq-du-oo">Ich belehre nicht: <hi rend="underline">ich erwecke!</hi></quote>
+                    <note type="commentary" resp="#E0300366">
+                        Orig.: <quote xml:lang="fr">Je n’instruis pas, j’éveille.</quote> (Troisième partie <soCalled>Le monde occulte</soCalled>, §&#8239;1 <soCalled>Au seuil</soCalled>, 1.&#8239;Szene: Maître Janus versucht Ax&#235;l zu überzeugen, über sein sterbliches Sein hinauszublicken und das <quote>Licht, das allerkennend und alldurchdringend den wirklichen Charakter der Dinge erhellt</quote>, zu sehen; <bibl>vgl. <ref target="#E0800138"/>, S.&#8239;112)</bibl>.
+                    </note>
+                    <lb/>Und ich möchte hinzufügen,
+                    <lb/>dass je ungestörter der Schlaf
+                    <lb/>war, um<orig> </orig>so frischer dann
+                    <lb/>d<subst><del rend="overwritten">as</del><add place="across">ie</add></subst> Erweckung.</p>
+                <p rend="indent-first">Ich glaube aber auch
+                    <lb/>andrerseits nicht, dass ich
+                    <lb/>es so gemacht habe, wie
+                    
+                    <pb n="7"/>
+                    
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">7</note>
+                    
+                    oft der Schüler, der einfach
+                    <lb/>ordnungslos über die Stränge
+                    <lb/>schlägt<orig>,</orig> und glaubt, so den
+                    <lb/>Meister überbieten zu können.
+                    <lb/>Nein. – Sondern ich habe
+                    <lb/>nur jene gro<choice><orig>ss</orig><reg>ß</reg></choice>en (von Ihnen zu
+                    <lb break="no"/>erst ausgedrückten) Ma<choice><orig>s<supplied reason="omitted">s</supplied></orig><reg>ß</reg></choice>stäbe
+                    <lb/>angelegt an Gebiete des Denkens
+                    <lb/>und Erlebens, die mir besonders
+                    <lb/>vertraut waren. Und mit einer <add place="above">mir</add>
+                    <lb/>– wenigstens zur Zeit – grö<choice><orig>ss</orig><reg>ß</reg></choice>t
+                    <lb break="no"/>möglich erreichbaren Gewissen
+                    <lb break="no"/>haftigkeit.</p>
+                <p rend="indent-first">Dass ich in einem<orig>,</orig> bereits
+                    <lb/>au<choice><orig>ss</orig><reg>ß</reg></choice>erhalb der gewöhnlichen
+                    <lb/>Konsequenzen liegenden
+                    <lb/>Punkte mit Ihnen übereinstim
+                    <lb break="no"/>me, nämlich der <soCalled rend="dq-du">Natur</soCalled><reg>,</reg> wei<choice><orig>ss</orig><reg>ß</reg></choice>
+                    <lb/>ich neuerdings aus Gesprächen
+                    <lb/>mit Ihnen. – Aber ich
+                    
+                    <pb n="8"/>
+                    
+                    glaube, dass ich in einem
+                    <lb/>andern Punkte – den übrigens
+                    <lb/>die heutige Menschheit nie zu
+                    <lb/>berühren wagt – mich mit
+                    <lb/>manchen Ihrer <hi rend="underline">heimlichen</hi> Ge
+                    <lb break="no"/>danken treffe: das ist im
+                    <lb/>Kapitel über die <soCalled rend="dq-du">Seele</soCalled>.<!--
+                    <note type="commentary" resp="#E0300366">
+                        <persName key="E0300126">Rubiner</persName> bezieht sich auf <persName key="E0300017">Busonis </persName><title key="E0400043">"Entwurf einer neuen Ästhetik der Tonkunst"</title>
+                        und meint vermutlich <persName key="E0300017">Busonis</persName> Ausführung darüber, dass die Musik auf der Bühne die Seelenzustände der Figuren als das Unsichtbare darstellen solle.
+                    </note> Bezug scheint mir zu unklar; könnte es nicht auch etwas aus "Doktor Faust" sein? und wieso "heimlich"? -->
+                    Neben
+                    <lb break="no"/>bei habe ich die dunkle Ahnung,
+                    <lb/>dass wir, wenn wir auf einige
+                    <lb/>sehr erfahrene, alte Kirchenväter
+                    <lb/>zurückgehen würden, wir vielleicht
+                    <lb/>dort irgendwie verwandte Erkennt
+                    <lb break="no"/>nis finden dürften. Es ist aber nur
+                    <lb/>eine Lieblingsahnung von mir. Einen
+                    <lb/>Beweis dafür habe ich noch nicht.
+                    <lb/>(Es kommt auch im Grunde nicht
+                    <lb/>darauf an.) — Wenn ich mit einem
+                    <lb/>kurzen Wort bezeichnen soll, was ich
+                    <lb/>in <rs key="E0800169">dem Aufsatz</rs> tat, so möchte ich sagen:</p>
+                <p rend="indent-first">Ich suchte – an eigener Inspiration,
+                    <lb/>Einweihung und Lebenserfahrung – den
+                    <lb/>Weg zu beschreiben zu jenem
+                    <lb/>unablässig neuen <hi rend="underline">ersten</hi> <hi rend="underline">Tag der Welt</hi>,
+                    <lb/>dessen Keim Sie vor zehn Jahren
+                    <lb/>in mich pflanzten! <seg type="closer" subtype="salute">Mit dankbarem
+                        <lb/>Händedruck</seg> <seg type="closer" subtype="signed">Ihr <persName key="E0300126">Ludwig Rubiner.</persName></seg></p>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

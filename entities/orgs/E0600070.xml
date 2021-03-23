@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600070">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Frankfurter Zeitung und Handelsblatt</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-03-01" who="#E0300361">Titel ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="newspaper">
+               <idno type="GND">4129625-4</idno>
+               <idno type="ZDB">125829-1</idno>
+               <orgName><placeName key="E0500153">Frankfurter</placeName> Zeitung und Handelsblatt</orgName>
+               <desc><date when-iso="1866/1943">Von 1866 bis 1943</date> erschienene Tageszeitung.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

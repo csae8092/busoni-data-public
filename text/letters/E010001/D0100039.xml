@@ -1,0 +1,584 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100039">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Wien, 30. Januar 1917)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Vienna, 30 January 1917)</title>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300550">
+                        <forename>Friederike</forename>
+                        <surname>Walch</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4565+4565a</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 27+Beilage</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736479</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docDate><date when-iso="1917-01-30"/></docDate>
+                            <incipit>hin- und hergeworfen von Friedenshoffnungen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio"><!-- X Bogen --></measure>
+                                    <measure type="pages"><!-- X beschriebene Seiten --></measure>
+                                </extent>
+                                <collation><!-- MGL. BESONDERHEITEN DER SEITENFOLGE. --></collation>
+                                <condition><!-- ZUSTAND --> Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="author_schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate when-iso="1917-01-30"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 196 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 203–205 (Brief), S. 133–137 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 421 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100039">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1917-01-30"/>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100038"/>
+                    <ref type="previous" target="#D0100038"/>
+                    <ref type="next" target="#D0100040"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-03-15" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2016-08" who="#E0300313">Bearbeitung übernommen, Status unfinished</change>
+            <change when-iso="2020-02-03" who="#E0300550">Korrekturlesung abgeschlossen, Status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839150202/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000002"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000003"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000004"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000005"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000006"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000007"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5500000008"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <byline>
+                        <note type="stamp" place="left" resp="#schoenberg_addr_st1">
+                            <stamp>
+                                <address>
+                                    <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                    <addrLine><placeName key="E0500002">Wien</placeName>, XIII. Gloriette
+                                        <lb break="no" rend="sh"/>gasse 43. Tel. 84373</addrLine>
+                                </address>
+                            </stamp>
+                        </note>
+                    </byline>
+                    
+                    <dateline rend="align(right)"><date when-iso="1917-01-30">30. Jänner 1917</date></dateline>
+                    
+                </opener>
+                
+                <p><seg type="opener" subtype="salute">Lieber <persName key="E0300017">Herr Busoni</persName>,</seg> hin- und hergeworfen von Friedenshoff
+                    <lb break="no"/>nungen und Enttäuschungen fand ich keine Ruhe<reg>,</reg> Ihnen für
+                    <lb/><ref type="E010001" target="#D0100038">Ihren lieben Brief</ref> zu danken.
+                </p>
+                
+                <note xml:id="del_sig" type="shelfmark" place="margin-left" rend="rotate(-90)" resp="#archive">
+                    <del rend="strikethrough">Mus.ep. A. Schönberg 27 + Beilage (Busoni-Nachl. B II)</del>
+                </note>
+                
+                <p rend="indent-first">
+                    Ein <choice><orig>Anlaß</orig><reg>Anlass</reg></choice> bringt mich dazu, Ihnen wieder zu schreiben. 
+                    <lb/>Ich habe endlich eine Idee<reg>,</reg> die ich schon lange <choice><orig>gefaßt</orig><reg>gefasst</reg></choice> hatte, zu
+                    <lb/>Papier gebracht. Angeregt durch <persName key="E0300096">Präsident Wilson</persName>, der
+                    <lb/>einem neuerdings Friedenshoffnungen erweckt,
+                    
+                    <note type="commentary" resp="#E0300550"><persName key="E0300096">Woodrow Wilson </persName>war im <date when-iso="1916-11">November 1916</date> als Präsident der <placeName key="E0500093">Vereinigten Staaten</placeName> wiedergewählt worden und verfolgte zunächst die sog. Neutralitätspolitik, nach der sich die <placeName key="E0500093">USA</placeName> nicht am Krieg beteiligen sollten. Am <date when-iso="1916-12-18">18. Dezember 1916</date> hatte <persName key="E0300096">Wilson</persName> den kriegsführenden Staaten einen Friedensschluss vorgeschlagen und sie gebeten, ihre Bedingungen dafür bekannt zu geben. Der deutsche Kaiser <persName key="E0300116">Wilhelm II.</persName> hatte bereits am <date when-iso="1916-12-12">12. Dezember 1916</date> gemeinsam mit den anderen Mittelmächten ein Friedensangebot unterbreitet, das von der Entente am <date when-iso="1916-12-30">30. Dezember 1916</date> abgelehnt worden war. Am <date when-iso="1917-01-22">22. Januar 1917</date> hielt <persName key="E0300096">Wilson</persName> die sog. Friedensrede vor dem <orgName>Senat</orgName>, in der er eine <rs>internationale Organisation zur Schaffung und Erhaltung des Friedens</rs> forderte. Dies dürfte <persName key="E0300023">Schönberg</persName> zur Formulierung einer eigenen Friedensschrift motiviert haben.</note>
+                    
+                    möchte
+                    <lb/>ich ihn jetzt gerne veröffentlichen. Aber womöglich in einem
+                    <lb/>neutralen Blatt, damit es eventuell, falls es auffällt
+                    <lb/>überall gelesen wird. Ich sende Ihnen den kleinen Auf
+                    <lb break="no"/>satz,
+                    
+                    <note type="commentary" resp="#E0300313">Vergleiche den Anhang zu diesem Brief.</note>
+                    
+                    möchte ihn aber, da er nicht sehr gut ist (ich kann
+                    <lb/>offenbar über Dinge, die nicht mein Fach betreffen, nicht
+                    <lb/>so gut schreiben)<reg>,</reg> will ich ihn nicht unter meinem Namen
+                    <lb/>veröffentlichen, sondern unter dem Pseudonym: 
+                    <lb/><rs key="E0300023">A. Börnscheg</rs>.
+                    
+                    <note type="commentary" resp="#E0300313"><q>A. Börnscheg</q> ist ein Anagramm von <q><persName key="E0300023">A. Schönberg</persName></q>.</note>
+                    
+                    Ich habe nun die Bitte an Sie: Können
+                    <lb/>Sie den Aufsatz irgendwo, natürlich am besten bei einer
+                    <lb/>großen deutschen <del rend="strikethrough">Tage</del><hi rend="underline">Schweizer</hi> Tageszeitung<reg>,</reg> unter
+                    <lb break="no"/>bringen<choice><orig>.</orig><reg>?</reg></choice>
+                    
+                    <note type="commentary" resp="#E0300550">In der <placeName key="E0500092">Schweiz</placeName> kam es zu keiner Veröffentlichung von <persName key="E0300023">Schönbergs</persName> Schrift. Es weist nichts darauf hin, dass <persName key="E0300017">Busoni</persName> die Absicht verfolgte, <persName key="E0300023">Schönberg</persName> tatsächlich zur Publikation zu verhelfen, zumal <persName key="E0300017">Busoni</persName> klar gewesen sein dürfte, dass ein solcher <q>politisch provokativ-naiv</q> <bibl>(<ref target="#E0800005"/>, S. 134)</bibl> wirkender Beitrag selbst in der neutralen <placeName key="E0500092">Schweiz</placeName> bei keinem Presseorgan eine Chance auf Veröffentlichung gehabt hätte.</note>
+                    Ich sähe es gerne, wenn <hi rend="underline">er ohne jede <choice><orig>Aendrung</orig><reg>Änderung</reg></choice></hi>
+                    <lb/>gebracht würde. Jedenfalls aber soll niemand erfahren, 
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> ich der Autor bin. Ich verspreche mir viel von dieser
+                    <lb/>Idee. Wenn man sie zu <choice><orig>ende</orig><reg>Ende</reg></choice> ausdenkt, kommt man
+                    <lb/>dazu, da<choice><orig>ß</orig><reg>ss</reg></choice> wirklich ein <hi rend="underline">langer Friede</hi> gesichert wird.
+                    
+                    <note xml:id="add_sig" type="shelfmark" place="bottom-center" resp="#archive">
+                        <add place="bottom-center">Mus.Nachl. F. Busoni B II, 4565</add>
+                    </note>
+                    
+                    <substJoin target="#del_sig #add_sig"/>
+                    
+                    <pb n="2"/>
+                    
+                    Schreiben Sie mir Ihre Meinung darüber; bitte!</p>
+                
+                <p rend="indent-first">Mein gegenwärtiges Schaffen; Sie fragen darnach;
+                    
+                    <note type="commentary" resp="#E0300313">Vgl. <persName key="E0300017">Busonis</persName> <ref type="E010001" target="#D0100038">Brief vom <date when-iso="1916-11-24">24. November 1916</date></ref>.</note>
+                    
+                    es ist kaum
+                    <lb/>nennenswert. Während des Krieges, bevor ich zum Militär
+                    <lb/>kam,
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönberg</persName> war <date when-iso="1915-12/1916-06">zwischen Dezember 1915 und Juni 1916</date> zum Militär eingezogen worden.</note>
+                    
+                    habe ich eine große Arbeit angefangen. Eine Symphonie.
+                    <lb/>In 4 Sätzen.
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönberg</persName> hatte zunächst ein Oratorium geplant, das aber zu Beginn des Jahres <date when-iso="1915">1915</date> in die Konzeption einer großen Programmsymphonie überführt wurde. Letztlich wurde nur die Musik zum 4. Satz unter der Überschrift <title key="E0400104">Die Jakobsleiter</title> begonnen; das Werk blieb Fragment.</note>
+                    
+                    Die beiden ersten nach Gedichten von <persName key="E0300113">Dehmel</persName>,
+                    <lb/>die beiden letzten nach Texten von mir. Der <choice><orig>I</orig><reg>I.</reg></choice> Satz:
+                    <lb/><soCalled rend="dq-du">Freudenruf</soCalled>,
+                    
+                    <note type="commentary" resp="#E0300313">Das Gedicht lautet: <q>O freu dich, Mensch: Deine Welt erschallt! / Überall ist Frühling, wo dein Herz nachtigallt! / Menschenlieder, ihr schwanken / Meer- und Himmels-Gedanken, / Berg-, Fluß-, Fluren-Träume, / Wolken- und Wellen-Schäume, / Wäldversunkenheiten, / Sternentrunkenheiten, / Wein- und Blumen-Gelüste, / schwellende Lippen und Brüste / bis hinauf zur Sonne – / ja: ihr wiegt uns in Wonne!</q></note>
+                    
+                    der II. <soCalled rend="dq-du">Der bürgerliche Gott</soCalled>, der III.
+                    <lb/><title key="E0400103" rend="dq-du">Totentanz der Prinzipien</title> der IV. <title key="E0400104" rend="dq-du">die Himmels
+                        <lb break="no"/>leiter</title>. Den Text zum 3. habe ich fertig,
+                    
+                    <note type="commentary" resp="#E0300313"><title key="E0400103">Totentanz der Prinzipien</title> war bereits am <date when-iso="1915-01-15">15. Januar 1915</date> fertiggestellt worden.</note>
+                    
+                    den zum 4. zu
+                    <lb/>2 <choice><orig>Dritteilen</orig><reg>Drittteilen</reg></choice>.
+                    
+                    <note type="commentary" resp="#E0300313">Der Text zur <title key="E0400104">Jakobsleiter</title> wurde erst am <date when-iso="1917-05-26">26. Mai 1917</date> abgeschlossen.</note>
+                    
+                    Solange Friedensaussichten waren<reg>,</reg> konnte ich
+                    <lb/>arbeiten. Dann sank mein Mut wieder. Beim Militär
+                    <lb/><choice><orig>wars</orig><reg>war’s</reg></choice> mir natürlich nicht möglich<reg>,</reg> was zu arbeiten. Und
+                    <lb/>jetzt: viel <choice><orig>ists</orig><reg>ist’s</reg></choice> nicht. Zunächst möchte ich eine von
+                    <lb/>fast 10 Jahren angefangene <title key="E0400102">II. Kammersymphonie</title> vollenden,
+                    <note>type="commentary" resp="#E0300550"><persName key="E0300023">Schönberg</persName> hatte mit der Komposition bereits im Jahr <date when-iso="1906">1906</date>, unmittelbar nach Fertigstellung der <title key="E0400023">I. Kammersymphonie</title> begonnen. <date when-iso="1911">1911</date> und <date when-iso="1916">1916</date> versuchte er sich an der Fertigstellung des Werks, instrumentierte jedoch nur einige Takte. Erst <date when-iso="1939">1939</date> nahm er die Komposition wieder auf und das Werk wurde <date when-iso="1940">1940</date> in stark veränderter Form uraufgeführt.</note>
+                    <lb/>dann an meiner Symphonie weiterarbeiten. Dazwischen teilweise
+                    <lb/>Neubearbeitung der <title key="E0800232">Harmonielehre</title> für
+                    <lb/>die II. Auflage
+                    
+                    <note type="commentary" resp="#E0300313">Die 2. Auflage der <title key="E0800232">Harmonielehre</title> erschien im Jahr <date when-iso="1917">1917</date>.</note>
+                    
+                    und Korrekturlesen (<title key="E0400021" rend="dq-du">Glückliche Hand</title>
+                    <lb/>und das <rs key="E0400022" rend="dq-du">Monodram</rs> sind gestochen und sollen dem
+                    <lb break="no"/>nächst erscheinen;
+                    
+                    <note type="commentary" resp="#E0300313">Die Partituren zum Monodram <title key="E0400022">Erwartung</title> und zum Drama mit Musik <title key="E0400021">Die glückliche Hand</title> erschienen am <date when-iso="1917-04-05">5. April 1917</date> und am <date when-iso="1917-05-23">23. Mai 1917</date>. Die Korrekturlesung hatten neben <persName key="E0300023">Schönberg</persName> <persName key="E0300053">Alban Berg</persName> und <persName key="E0300057">Erwin Stein</persName> besorgt.</note>
+                    
+                    ebenso <title key="E0400106">4 Orchesterlieder</title>.)
+                    
+                    <note type="commentary" resp="#E0300313">Die <title key="E0400106">Orchesterlieder op. 22</title> erschienen am <date when-iso="1917-11-07">7. November 1917</date>.</note>
+                    
+                    Das ist alles.</p>
+                
+                <p rend="indent-first">Könnte ich Ihr Feuilleton über den Tod <rs key="E0300083">eines hervor
+                    <lb break="no"/>ragenden Malers</rs> nicht bekommen? Bitte vielmals darum.
+                    
+                    <lb/>Kann ich Ihnen etwas von mir senden?</p>
+                
+                <p rend="indent-first"><persName key="E0300112">Frau Mahler</persName> hat geheiratet.
+                    
+                    <note type="commentary" resp="#E0300313">Die Hochzeit hatte bereits am <date when-iso="1915-08-18">18. August 1915</date> stattgefunden.</note>
+                    
+                    Ihr Mann, Architekt
+                    <lb/><persName key="E0300114">Gropius</persName><reg>,</reg> steht als Leutnant seit Kriegsbeginn im Feld.
+                    
+                    <pb n="3"/>
+                    
+                    Er ist ein sehr sympathischer Mensch. Zwischen <persName key="E0300112">Frau Mahler (Gropius)</persName>
+                    <lb/>und mir <choice><orig>gabs</orig><reg>gab’s</reg></choice> (fast ein Jahr lang) eine arge Verstimmung, die
+                    <lb/>jetzt aufgehoben ist, deshalb weiß ich nicht allzuviel von ihr.
+                    <lb/>Morgen aber komme ich zu ihr und werde sie von Ihnen grüßen.</p>
+                
+                <p rend="indent-first">Sie schreiben:
+                    
+                    <note type="commentary" resp="#E0300313">Vergleiche den Schluss von <persName key="E0300017">Busonis</persName> <ref type="E010001" target="#D0100038">Brief vom <date when-iso="1916-11-24">24. November 1916</date></ref>.</note>
+                    
+                    <q rend="dq-du">Jeder tue, was er bestens zu tun ver
+                        <lb break="no"/>mag; sich selbst gründlichst zu schöpfen<reg>,</reg> bleibe die wahrste
+                        <lb/>Lebenserfüllung.</q> Das ist sehr schön und wahr. – Aber ich kann
+                    <lb/>das augenblicklich leider nicht <subst><del rend="overwritten">von</del><add place="across">auf</add></subst> <subst><del rend="overwritten">mir</del><add place="across">mich</add></subst> <del rend="strikethrough">sagen</del>anwenden. Ich
+                    <lb/>habe nur die Ruhe, die man mir lä<choice><orig>ß</orig><reg>ss</reg></choice>t. Und da an meinen
+                    <lb/>Nerven fortwährend gezerrt wird, lä<choice><orig>ß</orig><reg>ss</reg></choice>t es mir also keine
+                    <lb/>Ruhe. Und ohne Ruhe kann ich nichts gut tun.</p>
+                
+                <p rend="indent-first">Haben Sie davon gehört, da<choice><orig>ß</orig><reg>ss</reg></choice> ich in <placeName key="E0500031">New<choice><orig>-</orig><reg> </reg></choice>York</placeName> die
+                    <lb/><title key="E0400042" rend="dq-du">Gurrelieder</title> dirigieren soll.
+                    
+                    <note type="commentary" resp="#E0300313">Pläne für eine Aufführung der <title key="E0400042" rend="dq-du">Gurre-Lieder</title> in <placeName key="E0500031">New York</placeName> gab es <date from-iso="1916-08">seit August 1916</date> und zogen sich über ein Jahr hin; sie ließen sich schließlich nicht realisieren.</note>
+                    
+                    Aber ich kann wohl nicht hinüber,
+                    <lb/>weil die Engländer niemanden durchlassen.</p>
+                
+                <p rend="indent-first">Ist das nicht schrecklich: <mentioned rend="dq-du">die Engländer</mentioned>. Vor 30 Monaten
+                    <lb/>habe ich mit Stolz von meinen englischen, französischen und
+                    <lb/>russischen Freunden gesprochen und jetzt sind das meine Feinde?
+                    <lb/>Glauben Sie das? Ich mu<choice><orig>ß</orig><reg>ss</reg></choice> sagen, für mich hat kein inter
+                    <lb break="no"/>nationaler Wert aufgehört, kaum in den ersten Wochen. Aber
+                    <lb/>es ist schrecklich, da<choice><orig>ß</orig><reg>ss</reg></choice> es für die meisten damit für lange vor
+                    <lb break="no"/>bei ist!</p>
+                
+                <p rend="indent-first">Hoffentlich höre ich <hi rend="underline">recht bald</hi> von Ihnen.</p>
+                
+                <p rend="indent-first">Bitte schreiben Sie mir auch<reg>,</reg> wie es <rs key="E0300059">Ihrer Frau Gemahlin</rs>
+                    <lb/>geht und sagen Sie ihr meine herzlichsten Grüße. Viele viele
+                    <lb/>herzliche Grüße auch an Sie, auch von <rs key="E0300050">meiner Frau</rs>. Ihr <persName key="E0300023">Arnold Schönberg</persName></p>
+                
+                <pb n="4"/>
+                
+                <note type="shelfmark" place="bottom" resp="#archive">Nachlaß Busoni</note>
+                
+                <pb n="5"/>
+                
+                <note type="shelfmark" place="top" resp="#archive">
+                    Mus Nachl. F. Busoni B.II, 4565a</note>
+                
+                <note type="shelfmark" place="top-right" resp="#archive">Beilage zu: Mus.ep. A. Schönberg 27 (Busoni-Nachl. B II)</note>
+                
+                <p><hi rend="underline">Friedenssicherung</hi></p>
+                
+                <p>Ich bin nicht umstande zu beurteilen, noch in der Lage<reg>,</reg> mich
+                    <lb/>darüber zu äußern, ob, was des Präsidenten <persName key="E0300096">Wilson</persName> letzte Bot
+                    <lb break="no"/>schaft über die Bedingungen für einen dauernden Frieden sagt,
+                    <lb/>mehr ist, als das, was die Politiker verächtlich „Ideale“ und „Zukunftsträu
+                    <lb break="no"/>me“ nennen. Aber da er mit besonderem Nachdruck darauf hinweist, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>er als Oberhaupt eines mächtigen Staates spreche, die Ideen eines solchen
+                    <lb/>Oberhauptes, die eines praktischen Politikers, sich nicht allzuweit vom Er
+                    <lb break="no"/>füllbaren entfernen dürfen, da weiters gerade die Berufung auf seine
+                    <lb/>prominente Stellung dem Ernst seiner Mahnung fast das Gewicht
+                    <lb/>einer Drohung verleiht, es also unwahrscheinlich ist, da<choice><orig>ß</orig><reg>ss</reg></choice> er bloß Phrasen
+                    <lb/>auftischt, deren Erfüllbarkeit ihm gleichgültig ist, so scheint mir
+                    <lb/>all das zu verbürgen, da<choice><orig>ß</orig><reg>ss</reg></choice> die Lösung, die er vorschlägt, heute
+                    <lb/>bereits verwirklicht werden könnte. Zudem hat auch der <persName key="E0300116">Deutsche
+                        <lb/>Kaiser</persName> in seinem Friedensangebot
+                    
+                    <note type="commentary" resp="#E0300313">Gemeint ist vermutlich das Friedensangebot der Mittelmächte vom <date when-iso="1916-12-12">12. Dezember 1916</date>.</note>
+                    
+                    versprochen, sich an die die Spitze einer
+                    <lb/>Aktion zur Verhinderung von Kriegen zu stellen. Die Frage eines
+                    <lb/>dauernden Friedens scheint also nicht mehr für eine Utopie zu
+                    <lb/>gelten<reg>,</reg> und das ermutigt mich, einen Vorschlag zur Diskussion zu
+                    <lb/>stellen, der mich schon lange beschäftigt.</p>
+                
+                <p>Meine einzige Voraussetzung ist: der energische Wille der
+                    <lb/>Mehrheit der Menschen, Kriege in Hinkunft zu vermeiden.</p>
+                
+                <p>Dann steht die Sache so:</p>
+                
+                <p>Zu jenem Zustand eines eigentlichen, vollen, stets ungeteilten
+                    <lb/>Friedens unter den Menschen – abgesehen von dem der Staaten und
+                    <lb/>Rassen – kann es erst kommen, bis gewisse, ihr fernliegene
+                    <lb/>Bedingungen erfüllt sind. Zieht man in Betracht, da<choice><orig>ß</orig><reg>ss</reg></choice> dieser Krieg
+                    <lb/>ein Betätigungsfeld <del rend="strikethrough">war für eine</del>militärischer Talente und
+                    <lb/>Genies war, so wird jeder, der an die Gottgesandtheit des Genies glaubt,
+                    <lb/>zweifeln müssen, ob sich sogar der Krieg der Staaten und Rassen ganz
+                    <lb/>vermeiden lasse. Denn das Genie, da es da ist, mu<choice><orig>ß</orig><reg>ss</reg></choice> und wird sich
+                    <lb/>betätigen. Bedenkt man aber, da<choice><orig>ß</orig><reg>ss</reg></choice>, wie es zuletzt der Fall war, ein
+                    <lb/>50-jähriger Friede
+                    
+                    <note type="commentary" resp="#E0300313">Vermutlich hat <persName key="E0300023">Schönberg</persName> als letzte kriegerische Auseinandersetzung entweder den Krieg zwischen Preußen und <placeName key="E0500091">Österreich</placeName> <date when-iso="1866">1866</date> oder den Deutsch-Französischen Krieg <date when-iso="1870/1871">1870/71</date> gezählt.</note>
+                    
+                    Generationen militärischer Genies an der Ent
+                    <lb break="no"/>faltung verhinderte, so hält man es für möglich, da<choice><orig>ß</orig><reg>ss</reg></choice> diese Zahl
+                    <lb/>fünfzig beliebig vergrößert und schließlich gleich ewig werden
+                    <lb/>könnte. Das ist jedoch ein schwacher Trost, da die eigentlichen Kriegs
+                    <lb break="no"/>ursachen in der menschlichen Natur liegen und erst verschwinden könnten
+                    <lb/>bis diese Hindernisse dank fortschreitender Erziehung nicht mehr wirksam
+                    <lb/>sind. Solange jedoch die Menschen in ihren kleinsten und größten
+                    <lb/>Verhältnissen von Neid, Habgier und Ungerechtigkeit beherrscht sind;
+                    <lb/>solange der Einzelne besitzen will<reg>,</reg> worauf jeder andere ebenso
+                    <lb break="no"/>viel und ebensowenig Anspruch <choice><orig>hat,</orig><reg>hat</reg></choice> wie er; solange jeder Einzelne
+                    
+                    <pb n="6"/>
+                    
+                    nach dem Grundsatz: "warum habe ich nicht soviel, wie der andere?"
+                    <lb/>bestrebt ist, dem andern soviel wie möglich <hi rend="underline">zu nehmen</hi>; und solange
+                    <lb/>nicht <del rend="strikethrough">ein</del>wirkliches Gerechtigkeitsgefühl die Menschen dazu bringt, im
+                    <lb/>Gegenteil nach dem Grundsatz: "warum hat der andere nicht soviel, wie
+                    <lb/>ich?" dem andern mehr als nötig zu <hi rend="underline">geben</hi>, solange werden die Rei
+                    <lb break="no"/>bungen nicht aufhören, die schließlich zum Krieg führen. Die <lb/>radikalste Formulierung der Bedingungen für einen ewigen Frie
+                    <lb break="no"/>den lautet daher: <hi rend="underline">Wenn kein Mensch weder in der Lage ist, noch
+                        <lb/>es nötig hat, vom andern etwas zu wollen.</hi>
+                    Zeit<reg>,</reg>  <del rend="strikethrough">letzte</del>Bedingung erfüllt werden könnte, sind wir noch allzu fern,
+                    <lb/>darum ist eine Formulierung für einen näherliegenden Zeit
+                    <lb break="no"/>punkt geboten: <hi rend="underline">Wenn es unmöglich ist, sich durch Gewalt Macht,
+                        <lb/>durch Macht Vorteil und <choice><orig>(Recht</orig><reg>Recht</reg></choice> (oder was man dafür hält) zu
+                        <lb/>verschaffen.</hi> Diese Erkenntnis lenkt die Aufmerksamkeit auf
+                    <lb/>die Mittel, durch die Staaten an der Anwendung von Gewalt
+                    <lb/>verhindert werden können.</p>
+                
+                <p>Als das tauglichste Mittel zu diesem Zweck wird, nach dem
+                    <lb/>Beispiel des bürgerlichen Lebens, das internationale Schiedsgericht
+                    
+                    <note type="commentary" resp="#E0300313">Internationale Schiedsgerichte waren bereits <date when-iso="1907">1907</date> im <placeName key="E0500498">Haager</placeName> Abkommen vereinbart worden, erwiesen sich jedoch zur Beilegung von Konflikten als untauglich.</note>
+                    
+                    <lb/>angesehen, dessen Voraussetzung nebst den Verträgen die allge
+                    <lb break="no"/>meine Abrüstung bildet. Beides dürfte jedoch keine genügende <del rend="strikethrough">Bürg<lb break="no"/>schaft</del>Bürgschaft sein. Denn sind bei allgemeiner Abrüstung auch
+                    <lb/>sämtliche Staaten in nahezu dem gleichen Zustand relativer
+                    <lb/>Wehrlosigkeit und Angriffsunfähigkeit, so hat doch dieser Krieg
+                    <lb/>gelehrt, wie rasch ein Heer aufzustellen und au<subst><del rend="overwritten">f</del><add place="across">s</add></subst>gerüstet ist. Und
+                    <lb/>damit sind industrie­ und volkreiche Staaten insbesondere
+                    <lb/>dann im Vorteil, wenn sie, die ihre Nichtachtung des Schiedsspruchs
+                    <lb/>schon im Voraus wissen, sich insgeheim einen Vorbereitungs
+                    <lb break="no"/>vorsprung sichern und Bündnisse schließen. Entscheidend <choice><orig>müßte</orig><reg>müsste</reg></choice>
+                    <lb/>ein solcher Vorsprung nicht werden; auch sind solche Bündnisse
+                    <lb/>nicht leicht zu schließen, solche Geheimnisse nicht leicht zu bewahren.
+                    <lb/>Aber ein <del rend="strikethrough">Angr</del>angriffslustiger Staat ist in der Lage, Jahre
+                    <lb/>vorher schon <del rend="strikethrough">solche</del>Industrien, Erfindungen und Versuche zu
+                    <lb/>fördern, die sich für Kriegszwecke eignen, wahrscheinlich besäße
+                    <lb/>dieser Staat - gerade er, weil er darauf abzielt - dann auch über
+                    <lb break="no"/>raschende <del rend="strikethrough">technische</del>Erfindungen und technische Neuerungen und damit
+                    <lb/>eine <choice><orig>Ueberlegenheit</orig><reg>Überlegenheit</reg></choice>, vermöge welcher ihm die <choice><orig>Ueberrumpelung</orig><reg>Überrumpelung</reg></choice>
+                    <lb/>der arglosen und unvorbereiteten andern Staaten gelingen
+                    <lb/>könnte.</p>
+                
+                <p>Ich kann nicht leugnen, da<choice><orig>ß</orig><reg>ss</reg></choice> auch bei meinem Vorschlag diese
+                    <lb/>Gefahr nicht ganz ausgeschaltet ist. <hi rend="underline">Sie kann nicht ganz ausgeschaltet,</hi>
+                    <lb/>aber doch <hi rend="underline">wesentlich verringert</hi> werden<reg>,</reg> und weil er nicht alle
+                    <lb/>Fragen löst, endgültig löst, so unvollkommen er sonst sein
+                    <lb/>mag, sollte man ihn doch in Erwägung ziehen. Denn in diesen
+                    <lb/>Dingen mu<choice><orig>ß</orig><reg>ss</reg></choice> man von der Hand in den Mund leben, d. h.
+                    <lb/>sich mit der Lösung begnügen, die soweit hilft, als man <del rend="strikethrough">sehen</del>
+                    <lb/><del rend="strikethrough">kann</del> sehen kann. Deshalb bitte ich: nicht ablehnen, wenn
+                    <lb/>einige Einwände vorliegen, sondern ergänzen und ver
+                    <lb break="no"/>bessern. So gelangt man vielleicht zu Durchführbarem.</p>
+                
+                <p>Ich habe also die Frage so gestellt:</p>
+                
+                <pb n="7"/>
+                
+                <p><hi rend="underline">Wie kann man einen Staat, <add place="above">der sich dem Versuch des Schiedsgerichtes widersetzt,</add> an der Anwendung von
+                    <lb/>Gewalt <del rend="strikethrough">ver</del>hindern?</hi></p>
+                
+                <p>Als zweckmäßigstes Mittel scheint es mir, <hi rend="underline">ihm die Mo
+                    <lb break="no"/>bilisierung unmöglich zu machen oder doch aufs äußerste
+                    <lb/>zu erschweren.</hi></p>
+                
+                <p>Das könnte durch folgende Einrichtungen gewährleistet
+                    <lb/>werden:</p>
+                
+                <p>1) Zum Schutz des internationalen Schiedsgerichtshofes
+                    <lb/>wird nach den Grundsätzen militärischer Bereitschaft
+                    <lb/>ein internationaler Bewachungsdienst geschaffen.</p>
+                
+                <p>2) Eine internationale <hi rend="underline">Armee von Wächtern </hi>wird
+                    <lb/>zu diesem Zweck aufgestellt, zu der jeder Staat nach Maßgabe 
+                    <lb/>seiner <del rend="strikethrough">Bevölkerung</del>Volkszahl <del rend="strikethrough">und</del> Menschen und Geld 
+                    <lb/>beisteuert.</p>
+                
+                <p>3. Der Beitrag an Menschen<reg>,</reg> <del rend="strikethrough">und</del>Material <add place="above">und Geld</add> sei ungefähr gleich
+                    <lb/>dem, den sonst neutrale Länder für die Sicherung ihres Friedens auf
+                    <lb break="no"/>gebracht haben.</p>
+                
+                <p>4. Ein nennenswerter Teil dieser internationalen Armee (z. <choice><orig>Bsp</orig><reg>Bsp.</reg></choice>
+                    <lb/>ein Drittel) <hi rend="underline">verbleibt als ständige Bereitschaft in dem Ort<reg>,</reg> an dem
+                        <lb/>das Schiedsgericht sich befindet</hi>, um dessen Sprüchen nötigenfalls
+                    <lb/>Geltung·verschaffen zu können (eine wahrscheinlich nur symbolische
+                    <lb/>Drohung).</p>
+                
+                <p>5. Der Rest wird nach Maßgabe der Volkszahl auf die Staaten
+                    <lb/>in der Weise aufgeteilt, da<choice><orig>ß</orig><reg>ss</reg></choice> sich in keinem Staat mehr als <hi rend="underline">höchstens</hi>
+                    <lb/>(beispielsweise!!!) <hi rend="underline">ein Zehntel der eigenen Soldaten</hi> befin
+                    <lb break="no"/>den, während die restlichen neun
+                    <lb/>Zehntel - mindestens neun anderen Staaten angehören.</p>
+                
+                <p>6. Dieser Wächter-Armee fallen dieselben Aufgaben zu,
+                    <lb/>wie der Armee eines neutralen Staates, und außerdem noch
+                    <lb/>diejenigen, die sie, als dem Schiedsgericht unterstellt, zu er
+                    <lb break="no"/>füllen hat: <hi rend="underline">dessen Beschlüsse zu sichern.</hi> </p>
+                
+                <p>7. Alle, <hi rend="underline">die Befehlsgebung - und sonstigen Rechte</hi> und
+                    <lb/><choice><orig>Pflichten</orig><reg>Pflichten -</reg></choice> betreffenden Gesetze sind <hi rend="underline">international</hi> und wenn
+                    <lb/>nötig einheitlich festzusetzen.</p>
+                
+                <p>8. Sowohl das Zehntel eigener Soldaten, als auch die neun
+                    <lb/>Zehntel fremder verbleiben in keinem Land dauernd, sondern
+                    <lb/>nur verhältnismäßig kurze Zeit (z. <choice><orig>Bsp</orig><reg>Bsp.</reg></choice>: ein halbes Jahr) <del rend="strikethrough">od</del></p>
+                
+                <p>9. Welche fremden Soldaten <del rend="strikethrough">sich</del>jeweils in einem Lande
+                    <lb/>liegen sollen, wird vielleicht durchs Los, wahrscheinlich aber besser
+                    <lb/>nach einer Tabelle zu bestimmen sein, die wohl am besten von
+                    <lb/>Fall zu Fall aufgestellt werden <choice><orig>müßte</orig><reg>müsste</reg></choice>. Setzte z. <choice><orig>Bsp</orig><reg>Bsp.</reg></choice> eine solche
+                    <lb/>Tabelle fest, da<choice><orig>ß</orig><reg>ss</reg></choice> in einem volksreichen Staat die Besatzung
+                    <lb/>bloß <del rend="strikethrough">von kleinen</del>aus Soldaten kleiner Staaten besteht, so
+                    <lb/>beugte das Bündnissen größerer Staaten zum Schaden
+                    
+                    <pb n="8"/>
+                    
+                    kleinerer vor. Sind aber die Streitfragen dem Schiedsgericht recht
+                    <lb break="no"/>zeitig bekannt, so ist es in der Lage die Zusammensetzung der
+                    <lb/>Armeen in den beteiligten Ländern (also auch der mutmaßlichen Ver
+                    <lb break="no"/>bündeten) <del rend="strikethrough">so</del>zugunsten des Friedens zu regeln.</p>
+                
+                <p>10. Die neun Zehntel fremder Wächter sind vor allem
+                    <lb/>dazu da<reg>,</reg> um die <hi rend="underline">Sammlung und Herstellung von Kriegsmaterial
+                        <lb/>und die Ausrüstung von Kriegern</hi> eventuell durch Anwendung
+                    <lb/>der Waffen <hi rend="underline">zu verhindern.</hi></p>
+                
+                <p>11. Nebst dem Bewachungsdienst wird ein <hi rend="underline">internati
+                    <lb break="no"/>onaler <choice><orig>Ueberwachungsdienst</orig><reg>Überwachungsdienst</reg></choice> </hi>organisiert und jedem Staat das
+                    <lb/>Recht zu <hi rend="underline">selbständiger <choice><orig>Ueberwachung</orig><reg>Überwachung</reg></choice></hi> eingeräumt.</p>
+                
+                <p>12<del rend="strikethrough">)</del>. Der internationale <choice><orig>Ueberwachungsdienst</orig><reg>Überwachungsdienst</reg></choice> untersteht dem
+                    <lb/>internationalen Schiedsgericht.</p>
+                
+                <p>13. Er wird besorgt a) durch offizielle Vertreter, b) durch Geheim
+                    <lb break="no"/>agenten.</p>
+                
+                <p>14. Beiden obliegt es, alle Versuche kriegerischer Rüstungen recht
+                    <lb break="no"/>zeitig aufzudecken.</p>
+                
+                <p>15. Den <choice><orig>Ueberwachungsdienst</orig><reg>Überwachungsdienst</reg></choice>, den jeder Staat auf eigene Rech
+                    <lb break="no"/>nung betreibt, organisiert er nach eigenem Ermessen.</p>
+                
+                <p>Dies mein Vorschlag. Ich habe noch keinen ähnlichen gehört, ris
+                    <lb break="no"/>kiere darum<reg>,</reg> ihn zu veröffentlichen.</p>
+                
+                <p>Der Kern der Idee ist: <hi rend="underline">1. Besetzung jedes Landes durch Truppen,
+                    <lb/>die dem Befehl der Machthaber <subst><del rend="strikethrough">jedes</del><add place="aboves">dieses</add></subst> Landes nicht gehorchen dürfen, wenn
+                    <lb/>er mit den Gesetzen des Schiedsgerichtes in Widerspruch steht.</hi> Das
+                    <lb/>internationale Schiedsgericht würde durch diese Einrichtungen zu
+                    <lb/>einer Art Zentralparlament der beteiligten Staaten. Streitig
+                    <lb break="no"/>keiten wären nicht ausgeschlossen, sie könnten im Gegenteil so
+                    <lb/>lebhaft werden, wie die der politischen Parteien in den bisheri
+                    <lb break="no"/>gen Parlamenten. Aber so selten diese zu Gewaltanwendung
+                    <lb/>führten, <del rend="strikethrough">so se</del>weil eine Armee den inneren Frieden schützt, was
+                    <lb/>die Streitenden zu friedlicher Einigung, zum Nachgeben, Hinaus
+                    <lb break="no"/>schieben und zu Kompromissen nötigt, so selten käme es auch hier
+                    <lb/>zum Krieg - solange dieses Mittel reicht. Dann wird man
+                    <lb/>ein besseres finden <del rend="strikethrough">müssen</del>oder dieses entsprechend ausbauen und
+                    <lb/>ändern müssen.</p>
+                
+                <p>Ich bitte nun nochmals: nicht ohne Weiteres ablehnen,
+                    <lb/>sondern Verbesserungen vorschlagen! Sicher hat schon mancher
+                    <lb/>Ähnliches oder dasselbe gedacht. Sicher ist manches schwer oder gar
+                    <lb/>nicht durchführbar. Wenn aber auch nur der Kern der Idee
+                    <lb/>durchführbar ist, wenn auch in anderer Form, so bitte
+                    <lb/>ich: weiterdenken! Wenn guter Wille vorhanden
+                    <lb/>ist - wie sollte <del rend="strikethrough">,</del>nachdem soviel Blut geflossen ist, nicht
+                    <lb/>guter Wille vorhanden sein? - so muß man zu einem
+                    <lb/>Ergebnis gelangen.</p>
+                
+                <p>A. Börnscheg, <placeName key="E0500002">Wien</placeName></p>
+                
+                <!--FAKS-->
+                
+            </div>
+        </body>
+    </text>
+</TEI>

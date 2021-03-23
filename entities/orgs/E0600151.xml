@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600151">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Musikhistorisches Museum von Wilhelm Heyer</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-03-03" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="museum">
+                    <idno type="GND">5039935-4</idno>
+                    <orgName>Musikhistorisches Museum von <persName key="E0300544">Wilhelm Heyer</persName></orgName>
+                    <desc>
+                        <date when-iso="1905">1905</date> von <persName key="E0300544">Wilhelm Heyer</persName> in <placeName key="E0500033">Köln</placeName> eröffnetes Museum für 
+                        Musikinstrumente und Autographen; <date when-iso="1926">1926</date> aufgelöst.
+                    </desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

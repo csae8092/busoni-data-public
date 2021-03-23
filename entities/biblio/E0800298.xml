@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800298">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Henderson 1915</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-02-27" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300564">
+                            <forename>William</forename> 
+                            <forename>James</forename>
+                            <surname>Henderson</surname>
+                        </author>
+                        <title level="a">The Musical Season Begins With Recitals</title>
+                        <title level="a" type="sub">Soon the Advance Guard and Then the Army Corps of Singers, Soloists and Orchestras</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600155">The Sun</orgName></title>
+                        <idno type="ZDB">1449230-1</idno>
+                        <imprint>
+                            <date when-iso="1915-10-17"/>
+                            <pubPlace key="E0500031">New York</pubPlace>
+                        </imprint>
+                        <biblScope unit="page">6</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100055">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Heinrich Schenker (Berlin, 2. Juni 1897)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Heinrich Schenker (Berlin, 2 June 1897)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-RIVu">University of California, Riverside, Special Collections and Archives</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">Vereinigte Staaten von Amerika</country>
+                        <settlement>Riverside</settlement>
+                        <institution key="US-RIVu">University of California, Special Collections and Archives</institution>
+                        <collection>Oswald Jonas memorial collection</collection>
+                        <idno>Box 9, Folder 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> vermutet in <q>der großen
+                            <lb/><hi rend="underline">Subje<choice><orig>ctivitae</orig><reg>ktivitä</reg></choice>t</hi></q> von <persName key="E0300024">Schenkers</persName> Werken ein Popularitätshindernis; deutet an, <persName key="E0300024">Schenkers</persName> <rs type="works" key="E0400304 E0400305 E0400306">Stücke</rs> einmal öffentlich spielen zu wollen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1897-06-02"/></docDate>
+                            <incipit>Ich kann Ihnen heute nur eilig und kurz antworten;</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1897-06-02"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800079"/>, S. 78</bibl>
+                            <bibl><ref target="#E0800103"/>, S.&#8239;12</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen (Kodierung berücksichtigt mit dem Attribut <att>n</att>="2" auch die gelegentliche Wiederholung des Bindestrichs am folgenden Zeilenbeginn).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100055">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1897-06-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100056"/>
+                    <ref type="previous" target="#D0100054"/>
+                    <ref type="next" target="#D0100056"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de-DE">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-06-06" who="#E0300317">Datei erstellt, Transkription durchgeführt.</change>
+            <change when-iso="2017-06-23" who="#E0300317">Erstkodierung durchgeführt</change>
+            <change when-iso="2017-06-30" who="#E0300317">mit den Auszeichnungen begonnen</change>
+            <change when-iso="2018-06-20" who="#E0300317">erste Kontrolle der Metadaten abgeschlossen.</change>
+            <change when-iso="2018-07-17" who="#E0300317">Rechtschreibung in der Lesefassung überprüft.</change>
+            <change when-iso="2018-07-23" who="#E0300317">Status von todo auf propsed gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <salute rend="indent space-below">Verehrtester Herr <choice><orig>Doctor</orig><reg>Doktor</reg></choice>.</salute>
+                </opener>
+                
+                <p>Ich kann Ihnen heute
+                    <lb/>nur eilig und kurz
+                    <lb/>antworten;
+                    
+                    <note type="commentary" resp="#E0300317">Der zugehörige Brief <persName key="E0300024">Schenkers</persName> ist nicht überliefert.</note>
+                    
+                    <choice><orig>zunaechst</orig><reg>zunächst,</reg></choice> um
+                    <lb/>Ihnen meinen Dank für
+                    <lb/>Ihre <choice><abbr>freundl.</abbr><expan>freundliche</expan></choice> Epistel aus
+                    <lb break="no"/>zusprechen, sodann<reg>,</reg> um
+                    <lb/>Sie <del rend="strikethrough">von</del> der Aufrichtigkeit
+                    <lb/>meines Lobes zu versichern.
+                    <lb/>Wenn jedoch Ihre Sachen
+                    <lb/><hi rend="underline">mir</hi>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300317"><bibl><ref target="#E0800079"/> (78)</bibl>: <q>mir</q> ohne Hervorhebung.</note>
+                    
+                    auch besonders
+                    <lb/>gefallen, so <choice><orig>müßen</orig><reg>müssen</reg></choice>
+                    <lb/>Sie sich doch darauf
+                    <lb/>gefasst machen, dass
+                    
+                    <pb n="2"/>
+                    Ihre <choice><orig>Compositionen</orig><reg>Kompositionen</reg></choice>,
+                    <lb/>dank der großen
+                    <lb/><hi rend="underline"><choice><orig>Subjectivitaet</orig><reg>Subjektivität,</reg></choice></hi>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300317"><bibl><ref target="#E0800079"/> (78)</bibl>: <q>Subjektivität</q>.</note>
+                    
+                    die in
+                    <lb/>ihnen herrscht, nicht
+                    <lb/>eben mit einem Schlage
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300317"><bibl><ref target="#E0800079"/> (78)</bibl> fälschlich: <q>Schlag</q>.</note>
+                    
+                    <lb/><choice><orig>populaer</orig><reg>populär</reg></choice> werden.</p>
+                <p rend="indent-first">Das ist jedoch das
+                    <lb/>Schicksal eines jeden
+                    <lb/><choice><orig>werthvollen</orig><reg>wertvollen</reg></choice> Kunstpro
+                    <lb break="no"/>duktes – anderseits
+                    <lb/>bin ich kein Prophet
+                    <lb/>und kann mich in
+                    <lb/>meiner <choice><orig>Vermuthung</orig><reg>Vermutung</reg></choice>
+                    
+                    <pb n="3"/>
+                    sehr gut irren.</p>
+                <p rend="indent-first"><title key="E0400305">Legende</title>, <title key="E0400304">Scherzo</title>
+                    <lb/>(ohne Trio) und die
+                    <lb/><title key="E0400306">Variationen</title> (mit
+                    <lb/>wenigen <choice><orig>Modificationen</orig><reg>Modifikationen</reg></choice>
+                    <lb/>vielleicht) werde ich
+                    <lb/>gerne einmal öffentlich
+                    <lb/>versuchen.
+                    
+                    <note type="commentary" resp="#E0300317">Es gibt keinen Nachweis darüber, dass <persName key="E0300017">Busoni</persName> die <rs key="E0400304 E0400305 E0400306">Stücke</rs> einmal öffentlich gespielt hätte.</note>
+                    
+                    Meine
+                    <lb/><choice><orig>Autoritaet</orig><reg>Autorität</reg></choice> steht aber
+                    <lb/>keineswegs so fest,
+                    <lb/>dass die <choice><orig>Thatsache</orig><reg>Tatsache</reg></choice>, dass
+                    <lb/>ich Ihre Werke spiele,
+                    <lb/>eine vollgültige, unwi<orig>e</orig>der<choice>
+                        <orig><supplied reason="omitted">-</supplied><lb/></orig>
+                        <reg><lb break="no"/></reg>
+                    </choice>setzliche Empfehlung
+                    <lb/>für sie bedeutet. Bin ich
+                    
+                    <pb n="4"/>
+                    doch dieser Wahrheit
+                    <lb/>erst vor kurzem recht
+                    <lb/>bewusst geworden, als
+                    <lb/>ich <persName key="E0300223">Nov<choice><orig>a</orig><reg>á</reg></choice>ček</persName><orig>’</orig>s <rs key="E0400300"><choice><orig>Concert</orig><reg>Konzert</reg></choice></rs>
+                    <lb/>einzuführen versuchte.
+                    
+                    <note type="commentary" resp="#E0300317"><persName key="E0300223">Ottokar Nováčeks</persName> <title key="E0400300">Concerto Eroico</title> hatte <persName key="E0300017">Busoni</persName> als Solist unter <persName key="E0300025">Nikisch</persName> mit den <orgName key="E0600007"><placeName key="E0500029">Berliner</placeName> Philharmonikern</orgName> <date when-iso="1896">1896</date> uraufgeführt. Das Werk wurde aufgrund seines Misserfolges bald wieder abgesetzt: <quote>Und hervor trat <persName key="E0300017">Herr Ferruccio Busoni</persName> und spielte (zum 1. Mal) ein <title rend="dq-du">Concerto eroico (op. 8)</title>  von <persName key="E0300223">O. Nováček</persName>. Wenn Du, verehrter Leser, einen großen Kettenhund mit den Vorderpfoten auf die Klaviatur stellst und ihn dann von hinten durchpeitschest, hat der Zuhörer genau denselben Effekt, als wenn dies slavische Radaukonzert gespielt wird, das sämtliche Klavier-Treffübungen planlos aneinanderreiht. Wie konnte man diese Novität hervorzerren? Ist es gut bezahlt worden? Andernfalls wär’s unbegreiflich!</quote> (<bibl><ref target="#E0600127"/></bibl>).</note>
+                    
+                    <lb/>Die Widmung betrachte
+                    <lb/>ich als eine Ehre, die
+                    <lb/>man nicht zurückweisen
+                    <lb/>darf.</p>
+                
+                <closer>
+                    <salute rend="indent">Mit freundschaftlichsten
+                        <lb/>Grüßen<orig>,</orig> zeichnet</salute>
+                    <salute rend="align(right)">Ihr sehr ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio B<reg>.</reg> Busoni</persName></signed>
+                </closer>
+                
+                <postscript rend="margin-left">
+                    <p>Über die
+                        <lb/>kleinen
+                        <lb/><choice><orig>Aenderungen</orig><reg>Änderungen</reg></choice>
+                        <lb/>der <title key="E0400252" rend="dq-du">Fantasie</title>
+                        <lb/><choice><orig>moechte</orig><reg>möchte</reg></choice> ich mich
+                        <lb/>noch mit Ihnen
+                        <lb/>gelegentlich besprechen<reg>.</reg></p>
+                </postscript>
+                
+                <closer rend="bottom-right">
+                    <dateline>
+                        <placeName key="E0500029"><choice><orig>Berlin</orig><reg>Berlin,</reg></choice></placeName>
+                        <lb/><hi rend="underline"><date when-iso="1897-06-02"><choice><orig>2 Jun 97</orig><reg>2. Juni 1897</reg></choice></date>.</hi>
+                    </dateline>
+                </closer>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

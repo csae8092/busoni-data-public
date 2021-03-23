@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100085">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Heinrich Schenker (vmtl. Wien)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Heinrich Schenker (prob. Vienna)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-RIVu">University of California, Riverside, Special Collections and Archives</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-07"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">Vereinigte Staaten von Amerika</country>
+                        <settlement>Riverside</settlement>
+                        <institution key="US-RIVu">University of California, Special Collections and Archives</institution>
+                        <collection>Oswald Jonas memorial collection</collection>
+                        <idno>Box 9, Folder 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> informiert <persName key="E0300024">Schenker</persName> über seine baldige Abreise.</summary>
+                        <msItem>
+                            <incipit>Zwischen 5 und 7 bin ich leider verhindert.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext mit Bleistift, in lateinischer Schreibschrift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde vtml. in <origPlace key="E0500002" cert="high">Wien</origPlace> verfasst. Aufgrund fehlenden Kontexts ist eine Datierung nicht möglich.</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100085">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002" cert="high">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2018-02-11" who="#E0300318">Datei erstellt, Transkription und Ausarbeitung begonnen.</change>
+            <change when-iso="2018-07-16" who="#E0300318">Bearbeitung abgeschlossen; Status auf "proposed" gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <dateline rend="align(right)">
+                    <address>
+                        <addrLine><hi rend="underline">bei Gomperz</hi>
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> war seit <date when-iso="1875">1875</date> der Familie um <persName key="E0300379">Theodor Gomperz</persName> freundschaftlich eng verbunden und erfuhr durch sie vielfältig Unterstützung (<bibl><ref target="#E0800023"/>, S. 822</bibl>). Die Weitläufigkeit der Familie wie die Vielschichtigkeit ihrer Beziehung zu <persName key="E0300017">Busoni</persName> macht eine genauere Zuordnung allein anhand der Notiz des Familiennamens unmöglich, eine Entstehung des Briefes in <placeName key="E0500002">Wien</placeName> jedoch wahrscheinlich.</note>
+                
+                        </addrLine>
+                    </address>
+                </dateline>
+                
+                <opener>
+                    <salute rend="align(center)">Lieber Do<choice><orig>c</orig><reg>k</reg></choice>tor.</salute></opener>
+                <p rend="space-above">Zwischen 5 und 7
+                    <lb/>bin ich leider
+                    <lb/>verhindert. Bis 4
+                    <lb/>Uhr bin ich hier.
+                    <lb/>Abends <choice><orig>½ 10</orig><reg>halb zehn</reg></choice>
+                    <lb/>reise ich ab.</p>
+                <closer>
+                    <salute rend="indent-first">In Eile Ihr
+                        <lb/>Sie sicher begrüßender<reg>,</reg>
+                        <lb/><choice><abbr>herzl.</abbr><expan>herzlich</expan></choice> ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F<reg>.</reg> Busoni</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

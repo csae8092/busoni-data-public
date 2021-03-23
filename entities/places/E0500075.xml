@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philharmonie (Berlin)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Philharmonie</placeName>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Bernburger Straße 22a/23</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500029">Berlin</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="DE"/>
+                  <geo>52.505459 13.377327</geo>
+               </location>
+               <desc>Ehemalige Rollschuhbahn, am <date when-iso="1888-10-05">5. Oktober 1888 umgebaut als Konzertsaal des <orgName key="E0600007">Philharmonischen Orchesters</orgName> eröffnet.</date>; am <date when-iso="1944-01-30">30. Januar 1944</date> durch Luftangriff zerstört.</desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

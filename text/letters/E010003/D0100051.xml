@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Heinrich Schenker (Wien, vmtl. 5. April 1897)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Heinrich Schenker (Vienna, prob. 5 April 1897)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-RIVu">University of California, Riverside, Special Collections and Archives</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">Vereinigte Staaten von Amerika</country>
+                        <settlement>Riverside</settlement>
+                        <institution key="CH-Bu">University of California, Special Collections and Archives</institution>
+                        <collection>Oswald Jonas memorial collection</collection>
+                        <idno>Box 9, Folder 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bittet <persName key="E0300024">Schenker</persName>, zu einem Kennenlernen zu sich zu kommen.</summary>
+                        <msItem>
+                            <docDate><date/>übermorgen (Mittwoch)</docDate>
+                            <incipit>Es wird mir &#8211; nach allem, was Meister <persName key="E0300293">Goldmark</persName> von Ihnen erzählt &#8211; eine große Freude sein</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, aus dem Briefumschlag ergebener Vermerk auf dem Briefbogen, vermutlich mit Bleistift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace key="E0500002">Wien</origPlace> wahrscheinlich am <origDate when-iso="1897-04-05" cert="high">5&#8239;April 1897</origDate> verfasst. Die Datierung erfolgt über den Kontextes.</origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800079"/>, S.&#8239;77</bibl>
+                            <bibl><ref target="#E0800103"/>: 9&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen (Kodierung berücksichtigt mit dem Attribut <att>n</att>="2" auch die gelegentliche Wiederholung des Bindestrichs am folgenden Zeilenbeginn).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100051">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1897-04-05"/>
+                    <placeName ref="http://www.geonames.org/2761367" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100052"/>
+                    <ref type="next" target="#D0100052"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de-DE">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-06-06" who="#E0300317">Datei erstellt, Transkription vorgenommen.</change>
+            <change when-iso="2017-06-09" who="#E0300317">Erstkodierung durchgeführt</change>
+            <change when-iso="2017-06-30" who="#E0300317">mit den Auszeichnungen begonnen</change>
+            <change when-iso="2018-04-13" who="#E0300317">Kommentierung vorgenommen</change>
+            <change when-iso="2018-05-23" who="#E0300317">Kommentierung abgeschlossen.</change>
+            <change when-iso="2018-06-20" who="#E0300317">erste Kontrolle der Metadaten abgeschlossen.</change>
+            <change when-iso="2018-07-17" who="#E0300317">Rechtschreibung in der Lesefassung überprüft.</change>
+            <change when-iso="2018-07-23" who="#E0300317">Status von todo auf propsed gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="annotation" resp="#archive" place="top-right" rend="space-below">(from envelope: <unclear cert="medium" reason="faded">31-12 18</unclear>)</note>
+                
+                <opener>
+                    <salute>Sehr verehrter Herr <rs key="E0300024"><choice><orig>Doctor</orig><reg>Doktor</reg></choice></rs>.
+                        <note type="commentary" subtype="ed_diff_minor" resp="#E0300317"><bibl><ref target="#E0800079"/> (77)</bibl> mit Ausrufezeichen.</note>
+                    </salute>
+                </opener>
+                <p>Es wird mir &#8211; nach <choice><orig>Allem</orig><reg>allem</reg></choice>, was
+                    <lb/>Meister <persName key="E0300293">Goldmark</persName>
+                    
+                    <note type="commentary" resp="#E0300317"><persName key="E0300017">Busoni</persName> war mit <persName key="E0300293">Goldmark</persName> offenbar bereits seit seiner Kindheit und den ersten Auftritten als Pianist bekannt (vgl. <bibl><ref target="#E0800218"/>, S.&#8239;23</bibl> und <persName key="E0300017">Busoni</persName> zit. nach <bibl><ref target="#E0800120"/>, S.&#8239;44</bibl>). <date when-iso="1888">1888</date> fertigte er den Klavierauszug zu <persName key="E0300293">Goldmarks</persName> Oper <title key="E0400416">Merlin</title> an, aus der er zuvor bereits Teile für Klavier bearbeitet hatte (<title key="E0400417">Konzert-Fantasie nach Motiven aus der Oper <q rend="sq-du">Merlin</q> für Klavier</title>; vgl. <bibl><ref target="#E0800121"/>, S.&#8239;436&#8239;f.</bibl>). Ein ursprünglich an <persName key="E0300009">Brahms</persName> gerichtetes Empfehlungsschreiben, welches <persName key="E0300017">Busoni</persName> für <persName key="E0300177">Jean Sibelius</persName> verfasst hatte, führte diesen zum Studium bei <persName key="E0300293">Goldmark</persName> (vgl. <bibl><ref target="#E0800123"/>, S.&#8239;217</bibl>).</note>
+                    
+                    von Ihnen
+                    <lb/>erzählt &#8211; eine große Freude
+                    <lb/>sein, Sie persönlich kennen
+                    <lb/>zu lernen. &#8211; Darf ich Sie bitten<reg>,</reg>
+                    <lb/><date when-iso="1897-04-07">übermorgen (Mittwoch)</date> <hi rend="underline">Vormittag</hi>
+                    
+                    <note type="commentary" resp="#E0300317">Der Brief ist undatiert. Aufgrund weiterer Quellen kann als Datum der <date when-iso="1897-04-05">5.&#8239;April 1897</date> erschlossen werden. Ein erstes Treffen zwischen <persName key="E0300024">Schenker</persName> und <persName key="E0300017">Busoni</persName> fand zwei Tage später, am <date when-iso="1897-04-07">7.&#8239;April</date>, in <placeName key="E0500002">Wien</placeName> statt: <quote>[S]eit gestern bin ich im Besitze einer dringenden Empfehlung <persName key="E0300293">{K.} Goldmarks</persName> an <persName key="E0300017">Busoni</persName>, mit dem übrigens seit Wochen <hi rend="underline">mündlich</hi> alles zu meinen Gunsten ausgemacht worden ist. […] – ich muß das <title key="E0400304">Scherzo in C</title>, das Dir gefallen, bis <date when-iso="1897-04-05">5<hi rend="sup"></hi>ten</date> fertig machen.</quote> (<bibl>Brief vom <date when-iso="1897-04-02">2.&#8239;April 1897</date> von <persName key="E0300024">Schenker</persName> an <persName key="E0300222">Moriz Violin</persName>, zit. nach <ref target="#E0800079"/>, S.&#8239;77</bibl>). Siehe dazu auch die Ankündigung für ein Konzert <persName key="E0300017">Busonis</persName> in der <orgName key="E0600035">Neuen Freien Presse</orgName> vom <date when-iso="1897-04-06">6.&#8239;April 1897</date> (<bibl><ref target="#E0800133"/></bibl>).</note>
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300317"><bibl><ref target="#E0800103"/> (9&#8239;f.)</bibl> gibt als Datierung fälschlich den <date when-iso="1897-05-17">17.5.1897</date> an.</note>
+                    
+                    <lb/>mich freundlichst aufsuchen
+                    <lb/>zu wollen?</p>
+                <p rend="indent-first">Durch <del rend="strikethrough">m<gap reason="strikethrough" extent="1" unit="char"/></del> ein <choice><orig>Missverstae</orig><reg>Missverstä</reg></choice>nd
+                    <lb break="no"/>nis<orig>s</orig>
+                    des Portiers ist ein erster
+                    <lb/>Brief
+                    
+                    <note type="commentary" resp="#E0300317">Der Brief ist nicht überliefert.</note>
+                    
+                    von mir, welcher
+                    <lb/>für Sie bereit lag, nicht
+                    <lb/>an Sie abgegeben worden:
+                    <lb/><choice><orig>verzeihen</orig><reg>Verzeihen</reg></choice> Sie die doppelte
+                    <lb/>Bemühung</p>
+                <closer rend="align(center)"><salute rend="indent-2">Ihres hochachtungsvoll
+                    <lb/>ergebenen</salute>
+                    <lb/><signed rend="align(right)"><persName key="E0300017">Ferruccio B<reg>.</reg> <hi rend="underline"/>Busoni</persName></signed></closer>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

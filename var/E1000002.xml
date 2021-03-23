@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E1000002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Impressum</title>
+                <title xml:lang="en">Site Notice</title>
+                <respStmt>
+                    <resp>Encoding by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                    <persName key="E0300315">
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Impressum</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="approved">
+            <change who="#E0300315" when="2017-09-11">angelegt.</change>
+            <change who="#E0300314" when="2020-02-21">Förderzeiträume präzisiert, status approved</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="en">
+                <div>
+                    <div>
+                        <head>Publishers</head>
+                        <list rend="simple">
+                            <item>
+                                <persName key="E0300314">Christian Schaper</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300313">Ullrich Scheideler</persName>
+                            </item>
+                        </list>
+                    </div>
+
+                    <div>
+                        <head>Technical Implementation</head>
+                        <list rend="simple">
+                            <item>
+                                <persName key="E0300314">Christian Schaper</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300315">Jakob Schmidt</persName>
+                            </item>
+                            <item>
+                                <ref type="ext" target="https://weber-gesamtausgabe.de/A009001.html">Peter Stadler</ref>
+                            </item>
+                        </list>
+                    </div>
+                </div>
+                
+                <div>
+                    <head>Contact</head>
+                    <div>
+                        <span>
+                            <address>
+                                <addrLine n="email">
+                                    edition[at]busoni-nachlass.org
+                                </addrLine>
+                            </address>
+                        </span>
+                    </div>
+                </div>
+                
+                <div>
+                    <head>Address</head>
+                    <div>
+                        <p>
+                            <address>
+                                <addrLine>Humboldt-Universität zu Berlin</addrLine>
+                                <addrLine>Institut für Musikwissenschaft und Medienwissenschaft</addrLine>
+                                <addrLine>Fachbereich Musikwissenschaft</addrLine>
+                                <addrLine>Unter den Linden 6</addrLine>
+                                <addrLine>10099 Berlin</addrLine>
+                                <addrLine>
+                                    <ref type="ext" target="https://www.hu-berlin.de/de/hu/impressum">Impressum der Humboldt-Universität zu Berlin</ref>
+                                </addrLine>
+                            </address>
+                        </p>
+                    </div>
+                </div>
+            </div>            
+
+            <div xml:lang="de">
+                <div>
+                    <div>
+                        <head>Projektleitung und Herausgeber</head>
+                        <list rend="simple">
+                            <item>
+                                <persName key="E0300314">Christian Schaper</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300313">Ullrich Scheideler</persName>
+                            </item>
+                        </list>
+                    </div>
+
+                    <div>
+                        <head>Technische Umsetzung</head>
+                        <list rend="simple">
+                            <item>
+                                <persName key="E0300314">Christian Schaper</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300315">Jakob Schmidt</persName>
+                            </item>
+                            <item>
+                                <ref type="ext" target="https://weber-gesamtausgabe.de/A009001.html">Peter Stadler</ref>
+                            </item>
+                        </list>
+                    </div>
+                </div>
+                
+                <div>
+                    <head>Förderer</head>
+                    <div>
+                        <p>Ermöglicht wurde das Projekt durch das Förderprogramm Digitale Medien in Forschung, Lehre und Studium der Medienkommission des Akademischen Senats der Humboldt-Universität zu Berlin (2015–2017, erneuert 2017–2018).</p>
+                    </div>
+                </div>
+                
+                <div>
+                    <head>Kontakt</head>
+                    <div>
+                    <span>
+                        <address>
+                            <addrLine n="email">
+                                edition[at]busoni-nachlass.org
+                            </addrLine>
+                        </address>
+                    </span>
+                    </div>
+                </div>
+                
+                <div>
+                    <head>Anschrift</head>
+                    <div>
+                        <span>
+                            <address>
+                                <addrLine>Humboldt-Universität zu Berlin</addrLine>
+                                <addrLine>Institut für Musikwissenschaft und Medienwissenschaft</addrLine>
+                                <addrLine>Fachbereich Musikwissenschaft</addrLine>
+                                <addrLine>Unter den Linden 6</addrLine>
+                                <addrLine>10099 Berlin</addrLine>
+                                <addrLine>
+                                    <ref type="ext" target="https://www.hu-berlin.de/de/hu/impressum">Impressum der Humboldt-Universität zu Berlin</ref>
+                                </addrLine>
+                            </address>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

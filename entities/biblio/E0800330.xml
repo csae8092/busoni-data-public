@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800330">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekker 1919</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-27" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author key="E0300111">
+                            <forename>Paul</forename>
+                            <surname>Bekker</surname>
+                        </author>
+                        <editor>
+                            <forename>Kasimir</forename>
+                            <surname>Edschmid</surname>
+                        </editor>
+                        <title level="m">Neue Musik</title>
+                        <idno type="DNB">57884415X</idno>
+                        <idno type="PPN">41555005X</idno>
+                        <idno type="BVB">BV015587319</idno>
+                        <imprint>
+                            <pubPlace>Berlin</pubPlace>
+                            <publisher>Erich Reiß Verlag</publisher>
+                            <date when-iso="1919"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Tribüne der Kunst und Zeit</title>
+                        <title level="s" type="sub">Eine Schriftensammlung</title>
+                        <biblScope unit="volume">6</biblScope>
+                    </series>
+                    <ref type="ext" target="https://archive.org/details/TribueneDerKunstUndZeit6-11/page/n3/mode/2up">Digitalisat im Internet Archive (Nachdruck der Bde.&#160;6–11, 5.&#160;Auflage [1973])</ref>
+                    <ref type="ext" target="https://de.wikisource.org/wiki/Neue_Musik">Volltext bei Wikisource</ref>
+                    <note>ursprünglich konzipiert als Vortrag; wiederveröffentlicht in: <bibl><ref target="#E0800240"/>, S.&#160;85–118</bibl></note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

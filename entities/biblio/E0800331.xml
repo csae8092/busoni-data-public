@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800331">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ambros 1862
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="lit">                 
+                    <monogr>
+                        <author key="E0300595">
+                            <forename>August</forename>
+                            <forename>Wilhelm</forename>
+                            <surname>Ambros</surname>
+                        </author>
+                        <title level="m">Geschichte der Musik</title>
+                        <idno type="DNB">1024786811</idno>
+                        <imprint>
+                            <pubPlace>Breslau</pubPlace>
+                            <pubPlace>Leipzig</pubPlace>
+                            <publisher>Leuckart</publisher>
+                            <date when-iso="1862/1911"/>
+                        </imprint>                   
+                        <biblScope unit="volume" n="1">
+                            <title level="m">Erster Band</title>
+                                <date when-iso="1862"/>                                                       
+                        </biblScope>
+                        <biblScope unit="volume" n="1">
+                            <title level="m">Erster Band</title>
+                                <date when-iso="1880"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="1">
+                            <title level="m">Erster Band</title>
+                            <date when-iso="1887"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="2">
+                            <title level="m">Zweiter Band</title>
+                            <date when-iso="1864"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="2">
+                            <title level="m">Zweiter Band</title>
+                            <date when-iso="1880"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="2">
+                            <title level="m">Zweiter Band</title>
+                            <date when-iso="1891"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="3">
+                            <title level="m">Dritter Band</title>
+                            <date when-iso="1868"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="3">
+                            <title level="m">Dritter Band</title>
+                            <date when-iso="1881"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="3">
+                            <title level="m">Dritter Band</title>
+                            <date when-iso="1893"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="4">
+                            <title level="m">Vierter Band</title>
+                            <date when-iso="1878"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="4">
+                            <title level="m">Vierter Band</title>
+                            <date when-iso="1881"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="4">
+                            <title level="m">Vierter Band</title>
+                            <date when-iso="1909"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="5">
+                            <title level="m">Fünfter Band</title>
+                            <date when-iso="1882"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="5">
+                            <title level="m">Fünfter Band</title>
+                            <date when-iso="1887"/>
+                        </biblScope>
+                        <biblScope unit="volume" n="5">
+                            <title level="m">Fünfter Band</title>
+                            <date when-iso="1911"/>
+                        </biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

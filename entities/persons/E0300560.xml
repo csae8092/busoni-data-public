@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300560">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ettore Cosomati</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2020-02-18" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">1089372868</idno>
+               <idno type="VIAF">48818966</idno>
+               <idno type="ISNI">0000000067067091</idno>
+               <persName type="reg">
+                  <surname>Cosomati</surname>,
+                  <forename>Ettore</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1873-12-24"/>
+                  <placeName key="E5000510">Neapel</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1960-02-14"/>
+                  <placeName key="E0500085">Mailand</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Maler</occupation>
+               <occupation>Kupferstecher</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

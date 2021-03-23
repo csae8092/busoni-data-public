@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300430">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oscar Wilde</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-27" who="#E0300550">Korrektur und Statusänderung reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118632779</idno>
+               <idno type="VIAF">34464414</idno>
+               <idno type="ISNI">0000000121272652</idno>
+               <persName type="reg">
+                  <surname>Wilde</surname>,
+                  <forename>Oscar</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Oscar</forename>
+                  <forename>Fingall</forename>
+                  <forename>O’Flahertie</forename>
+                  <forename>Wills</forename>
+                  <surname>Wilde</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1854-10-16"/>
+                  <placeName key="E0500487">Dublin</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1900-11-30"/>
+                  <placeName key="E0500012">Paris</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Lyriker</occupation>
+               <occupation>Romanautor</occupation>
+               <occupation>Dramatiker</occupation>
+               <occupation>Kritiker</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100316">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Muralto, 2. März 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Muralto, 2 March 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300388">
+                        <forename>Morten</forename>
+                        <surname>Grage</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4274</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 15 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723772</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300126">Rubiner</persName> dankt <persName key="E0300017">Busoni</persName> für den Erhalt einer Geldsumme über dessen Agenten <persName key="E0300173">Biolley</persName>; ermutigt ihn, die Arbeit an <title key="E0400218">Doktor Faust</title> nicht aufzugeben; kritisiert deutsche Pläne einer Annexion des Baltikums; diskutiert Werke <persName key="E0300341">Kokoschkas</persName> und <persName key="E0300023">Schönbergs</persName>; entwirft eine Typologie des <q>schöpferischen Menschen</q>.
+                        </summary>
+                           <msItem>
+                            <docDate><date when-iso="1918-03-02"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1918-03-02"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1918-03-02"/></docDate>
+                            <incipit>Lassen Sie mich gleich mit beiden Fü<choice><orig>ss</orig><reg>ß</reg></choice>en hineinspringen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Bogen</measure>
+                                    <measure type="pages">10 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <!-- Beschreibung der beteiligten Hände, reduzieren und/oder ergänzen -->
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die  Signaturen eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="11"/>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)"> ambulan<supplied reason="incomplete">t</supplied>
+                                    <lb/>-<date when-iso="1918-03-02">2 III.18</date>.25<supplied reason="incomplete">1</supplied>7</stamp>
+                            </note>
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border majuscule align(center)">
+                                    <supplied reason="illegible">amb</supplied>ulant
+                                    <lb/>-<date when-iso="1918-03-02">2 III.18</date>.2517</stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine rend="align(right)"><persName key="E0300017"> Prof. Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="align(right) underline"><placeName key="E0500132">Zürich VI</placeName></addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500189">Scheuchzerstr. 36</placeName>.</addrLine>
+                            </address>
+                            
+                            <pb n="12"/>
+                            
+                            <address rend="align(center)">
+                                <addrLine>Abs.: <persName key="E0300126">Rubiner</persName>.</addrLine>
+                                <addrLine><placeName key="E0500291">Muralto</placeName> – <placeName key="E0500183">Locarno</placeName>.</addrLine>
+                                <addrLine><placeName key="E0500447">Villa Rossa</placeName>.</addrLine>
+                            </address>
+                            <note type="stamp" place="right" resp="#post" rend="rotate(-90)">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/><date when-iso="1918-03-02">-2 III.18</date>–11<lb/>Brf.Exp.
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="shelfmark" place="below" resp="#archive" rend="align(center)">
+                                <subst>
+                                    <del rend="strikethrough"><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp> Mus.ep. L. Rubiner 15</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4274-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500291">Muralto</origPlace>
+                            <origDate when-iso="1918-03-02"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100316">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-03-02"/>
+                    <placeName ref="http://www.geonames.org/6692335" key="E0500291">Muralto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1918-03-02"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100315"/>
+                    <ref type="next" target="#D0100317"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-02-13" who="#E0300388">Transkription und Codierung des Briefes, Codierung von Entitäten, Kommentierung begonnen, status proposed</change>
+            <change when-iso="2018-02-18" who="#E0300314">erste Durchsicht</change>
+            <!-- weitere Einträge hinzufügen, mindestens bei jedem Statuswechsel (unfinished, proposed, candidate, approved) -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873476395/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000010"/>
+        <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000011"/>
+        <graphic n="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3600000012"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="pagination" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    <dateline rend="right">
+                        <date when-iso="1918-03-02">2. März 1918</date>.
+                    </dateline>
+                    <address>
+                        <addrLine><placeName key="E0500291">Muralto</placeName> – <placeName key="E0500183">Locarno</placeName></addrLine>
+                        <addrLine rend="indent"><placeName key="E0500447">Villa Rossa</placeName>.</addrLine>
+                    </address>
+                    <note type="shelfmark" resp="#archive" place="margin-right" rend="align(right)">
+                        <subst>
+                            <del rend="strikethrough">Mus.ep. L. Rubiner 15
+                                <lb/>(Busoni-Nachl.
+                                <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                            <add place="below">Mus.Nachl. F. Busoni B II, 4274</add>
+                        </subst>
+                    </note>
+                    <note type="stamp" place="left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <salute rend="indent">Sehr lieber und verehrter
+                        <lb/>Freund!</salute>
+                </opener>
+                <div>
+                    <p>Lassen sie mich gleich mit beiden
+                        <lb/>Fü<choice><orig>ss</orig><reg>ß</reg></choice>en hineinspringen: Ich erhielt
+                        <lb/>von <rs key="E0300340">meiner Frau</rs> 500 <choice><abbr>Frcs</abbr><expan>Francs</expan></choice>;
+                        <lb/><persName key="E0300059">Frau Gerda</persName>, schrieb sie mir, habe
+                        <lb/>sie ihr im <choice><orig>Conc</orig><reg>Konz</reg></choice>ert übergeben,
+                        <lb/>sie kämen von <persName key="E0300173">Herrn Bio<choice><sic>la</sic><corr>lle</corr></choice>y</persName>.
+                        <lb/>Dies verdank ich Ihrer gütigen
+                        <lb/>Fürsorge! Ich kann also ruhig arbeiten!!
+                        <lb/>Aber, lassen Sie mich einmal, mit
+                        <lb/>einem Blick auf Ihr Gesicht,
+                        <lb/>meine Gedanken offen aussprechen:
+                        <lb/>Sie kommen gar<reg> </reg>nicht von <persName key="E0300173">Herrn
+                            <lb/>Bio<choice><sic>la</sic><corr>lle</corr></choice>y</persName>; sie kommen von <hi rend="underline">Ihnen
+                                <lb/>selbst</hi>. Und es war nur Ihr
+                        <lb/>äu<choice><orig>ss</orig><reg>ß</reg></choice>erster Takt und Ihre äu<choice><orig>ss</orig><reg>ß</reg></choice>erste
+                        <lb/>Zartheit, das nicht zu sagen.
+                        
+                        <pb n="2"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">2</note>
+                        <!-- Paginierung ab hier wirklich vom Archiv? -->
+                        
+                        Ihre Zartheit hat mich nun
+                        <lb/>aber völlig <hi rend="underline">geschmolzen</hi>. Und
+                        <lb/>wenn ich nun richtig geraten
+                        <lb/>habe, so nehme ich jetzt mit
+                        <lb/>Freuden und zärtlichem Gedenken
+                        <lb/>an, was ich vorher doch
+                        <lb/>mit größtem Bedenken betrachtete,
+                        <lb/>weil es von einem Freunde kom
+                        <lb break="no"/>men sollte, dem ich mich durch
+                        <lb/>Bande des Herzens und des Geistes
+                        <lb/>nahe fühlte!
+                        <milestone unit="section" style="—" rend="inline"/></p>
+                </div>
+                <div>
+                    <p rend="indent-first">Ihr Brief aus <placeName key="E0500186">Bern</placeName>
+                        
+                        <note type="commentary" resp="#E0300388">Dieser Brief ist nicht erhalten.</note>
+                        
+                        hatte mich
+                        <lb/>sehr verschreckt und innerlich be
+                        <lb break="no"/>trübt. <persName key="E0300125">Huber</persName> teilte mir zudem
+                        <lb/>mit, dass Sie das Konzert in
+                        <lb/><placeName key="E0500097">Basel</placeName> abgesagt hätten.
+                        
+                        <note type="commentary" resp="#E0300388"><persName key="E0300017">Busoni</persName> musste krankheitsbedingt einen Klavierabend am <date when-iso="1918-02-25">25. Februar 1918</date> absagen, bei dem Werke von <persName key="E0300001">Beethoven</persName>, <persName key="E0300137">Chopin</persName> und
+                            <persName key="E0300013">Liszt</persName> erklingen sollten, vgl. die Kommentierung des <ref type="E010002" target="#D0100179">Briefes
+                                <persName key="E0300017">Busonis</persName> an <persName key="E0300125">Huber</persName> vom <date when-iso="1918-03-02">2. März 1918</date></ref>.</note>
+                        
+                        Meine
+                        <lb/>Bestürzung erreichte den Höhepunkt,
+                        <lb/>als er mir gestern sagte, eine
+                        <lb/>Schülerin <add rend="sup">von Ihnen</add> habe ihm geschrieben,
+                        <lb/>Sie seien ernstlich krank. Da
+                        <lb/>kam glücklicherweise Ihr Brief.
+                        <lb/>Als ich ihn gestern <choice><orig>a</orig><reg>A</reg></choice>bend
+                        <lb/>unter der Lampe las, schauten
+                        
+                        <pb n="3"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">3</note>
+                        
+                        mich aus den Buchstaben der
+                        <lb/>ersten Seite leibhaftig Ihre
+                        <lb/>Augen an, mit einem Ausdruck
+                        <lb/>von Feueraugen, so etwa wie die
+                        <lb/>Wirkung der gro<choice><orig>ss</orig><reg>ß</reg></choice>en Beschwörungs
+                        <lb break="no"/>s<choice><orig>c</orig><reg>z</reg></choice>ene in Ihrem <title key="E0400218" rend="dq-du">Faust</title> ist.
+                        
+                        <note type="commentary" resp="#E0300388">Gemeint ist wohl das 2. Vorspiel der Oper.</note>
+                        
+                        <lb/>Da wusste ich, dass die Krankheit
+                        <lb/>vorüber<orig>,</orig> und das Schwerste an
+                        <lb/>Niedergeschlagenheit bei Ihnen
+                        <lb/>vorbei ist.</p>
+                    <p>Nun aber ist <persName key="E0300059">Frau Gerda</persName> krank!
+                        <lb/>Könnte man ihr doch mit
+                        <lb/>etwas Heitere<choice><sic>n</sic><corr>m</corr></choice>, Lichtem und
+                        <lb/>Schöne<choice><sic>n</sic><corr>m</corr></choice> die Zeit vertreiben, bis
+                        <lb/>die Schmerzen vorbei sind!</p>
+                    <p rend="indent-first">Dass Sie selbst, in <placeName key="E0500186">Bern</placeName>, in
+                        <lb/>einer Stimmung der Unlust
+                        <lb/>waren, ja sogar der Resignation<orig>,</orig>
+                        <lb/>(dies auch jenseits der Erkrankung),
+                        <lb/>traf mich tief. Es knallte
+                        <lb/>geradezu auf meinen Tisch nieder,
+                        <lb/>und der Gedanke daran verlie<choice><orig>ss</orig><reg>ß</reg></choice>
+                        <lb/>mich während dieser Tage nicht
+                        <lb/>mehr. Der Fall, dass Sie keine
+                        
+                        <pb n="4"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">4</note>
+                        
+                        Lust mehr haben, <rs key="E0400218">Ihr Werk</rs> <sic>zu</sic>
+                        <lb/><subst><del rend="overwritten"><gap reason="overwritten" atLeast="5" unit="char"/></del><add place="across">fortzu</add></subst>setzen, erscheint mir unvor
+                        <lb break="no"/>stellbar. Unvorstellbar, da
+                        <lb/>zum ersten Mal, und wohl zum
+                        <lb/>einzigen Mal, in unserer Zeit
+                        <lb/>eine gro<choice><orig>ss</orig><reg>ß</reg></choice>e, abstrakte Lebens
+                        <lb break="no"/>leistung mit immer sich steigern
+                        <lb break="no"/>dem und immer höher sich offen
+                        <lb break="no"
+                        />barende<choice><sic>n</sic><corr>m</corr></choice> Bewusstsein von
+                        <lb/>Ihnen vollzogen wurde. Unvor
+                        <lb break="no"
+                        />stellbar, wenn ich einmal egois
+                        <lb break="no"/>tisch reden darf, für mich per
+                        <lb break="no"/>sönlich, der ich das Glück habe,
+                        <lb/>durch Ihr Schaffen den höchsten
+                        <lb/>Antrieb zur Selbstständigkeit
+                        <lb/>zu erhalten, der ich mich seit
+                        <lb/>jener Neujahrsnacht beständig <!-- wann war das (→ <date …)? weitere Hinweise auf die Begebenheit? --><lb/>im Gespräch mit Ihnen befinde
+                        <lb/>und in allen wichtigen Punkten
+                        <lb/>meiner Arbeit von Ihnen beraten
+                        <lb/>finde – und gerade da am stärksten,
+                        <lb/>wo die natürlichen Verschiedenheiten
+                        <lb/>einsetzen. Umso stärker traf es mich,
+                        <lb/>als ich gerade in dieser Woche
+                        <lb/>in einem erbitterten Ringen lag,
+                        
+                        <pb n="5"/>
+                        
+                        <note type="shelfmark" resp="#archive" place="top-left">B II, 4274</note>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">5</note>
+                        
+                        <rs key="E0400316">die fortschreitende Arbeit</rs> ganz aus
+                        <lb/>der Zeitlichkeit zu lösen und zu
+                        <lb/>einer erlebten Abstraktion zu führen,
+                        <lb/>so gut es mir eben heute möglich
+                        <lb/>ist.</p>
+                    <p>Also, nach allem, und nach meinem
+                        <lb/>ersten Schreck, glaube ich fest – nicht
+                        <lb/>nur<reg>,</reg> dass ich es wünschte, sondern ich
+                        <lb/>glaube es –<reg>,</reg> dass Sie, verehrter Mensch,
+                        <lb/>Ihre ganze und umfassende Arbeit
+                        <lb/>weiter<orig> </orig>führen werden. Und wenn
+                        <lb/>die Welt um uns in Trümmer
+                        <lb/>geht. Diesen letzten Satz von der
+                        <lb/>Welt in Trümmern sprach ich, wie
+                        <lb/>Sie mich kennen, gewiss nicht mit
+                        <lb/>leichter Zunge aus.
+                        <note type="stamp" place="inline" resp="#dsb_st_red">
+                            <stamp rend="round border align(center) small">Deutsche
+                                <lb/>Staatsbibliothek
+                                <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                            </stamp>
+                        </note></p>
+                    <p>Sie ist übrigens wohl schon zu
+                        <lb/>einem sehr gro<choice><orig>ss</orig><reg>ß</reg></choice>en Teil in Trümmern.
+                        <lb/><placeName key="E0500015">Deutschland</placeName> sperrt ein grinsendes
+                        <lb/>Annexionsmaul auf;
+                        
+                        <note type="commentary" resp="#E0300388">Gemeint sind die deutsch-sowjetischen Friedensverhandlungen in <placeName key="E0500424">Brest-Litowsk</placeName>. Im Friedensvertrag, der am <date when-iso="1918-03-03">3. März 1918</date> unterschrieben wurde, verzichtet <placeName key="E0500324">Sowjet-Russland</placeName> auf <placeName key="E0500425">Polen</placeName>, <placeName key="E0500415">Litauen</placeName> und <placeName key="E0500413">Kurland</placeName>.</note>
+                        
+                        es wird
+                        <lb/>leider niemandem dabei wohl
+                        <lb/>werden. <placeName key="E0500413">Kurland</placeName> und <placeName key="E0500414">Est<orig>h</orig>land</placeName>
+                        <lb/>sind <soCalled rend="dq-du">unerlöst</soCalled>, aber<orig>,</orig> wie ich aus
+                        <lb/>den deutschen Zeitungen vernehme,
+                        
+                        <pb n="6"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">6</note>
+                        
+                        <soCalled rend="dq-du">sehnt</soCalled> sich <placeName key="E0500415">Lit<orig>t</orig>auen</placeName> danach<reg>,</reg> <!--Uneinheitliche Rede noch nicht ganz geklärt, Möglicherweise ein Zitat, ebenso oben -->
+                        <lb/>ein Königreich <placeName key="E0500415">Lit<orig>t</orig>auen</placeName> unter einem
+                        <lb/>sächsischen König zu werden, und
+                        <lb/>zwar sehnt es sich schon seit
+                        <lb/>der Zeit <persName key="E0300350">August des Starken</persName> so
+                        <lb/>sehr. Gott, was wir doch alles nicht
+                        <lb/>gewusst haben! – Warum hat
+                        <lb/>man dann aber in <placeName key="E0500015">Deutschland</placeName>
+                        <lb/>und <placeName key="E0500091"><choice><orig>Oe</orig><reg>Ö</reg></choice>sterreich</placeName> die Irredenta
+                        
+                        <note type="commentary" resp="#E0300388">Die Irredenta (ital. die Unerlösten) sind diejenigen Gebiete, in denen vor dem Ersten Weltkrieg ein Großteil der Bevölkerung italienischsprachig war, die aber nicht Teil des Königreichs <placeName key="E0500013">Italien</placeName> waren (so z.&#8239;B. das <placeName key="E0500439">Trentino</placeName> und <placeName key="E0500440">Istrien</placeName>, die zum Kaiserreich <placeName key="E0500091">Österreich</placeName> gehörten). Zu den italienischen Kriegszielen gehörte die Annexion dieser Gebiete.</note>
+                        
+                        <lb/>für Unsinn erklärt?! Gegenüber
+                        <lb/>diesem Vorbild ist doch der Irre
+                        <lb break="no"/>dentismus nur natürlich und
+                        <lb/>vernünftig. <milestone unit="section" style="—" rend="inline"/></p>
+                </div>
+                <div>
+                    <p rend="indent-first">In ihrem letzten Brief
+                        <lb/>legen Sie den Finger auf meine
+                        <lb/>offene Wunde. <persName key="E0300341">Kokoschka</persName>
+                        <lb/>und <persName key="E0300023">Schönberg</persName> wachsen auf
+                        <lb/>demselben Zweig. <persName key="E0300341">Kokoschkas</persName>
+                        <lb/>Dramen kenne ich schon
+                        
+                        <pb n="7"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">7</note>
+                        
+                        seit mehreren Jahren, und schon
+                        <lb/>damals, wo ich immerhin noch
+                        <lb/>unsicher war, erfüllten sie mich
+                        <lb/>mit Ingrimm. Man muss aber
+                        <lb/>endlich doch klar sagen: Der
+                        <lb/>Mensch, der über seine eigene
+                        <lb/>Sexualität noch so unklar
+                        <lb/>ist, dass er sie zum pseudogeistigen
+                        <lb/>Mittelpunkte seines Schaffens
+                        <lb/>macht<orig>,</orig> – der also mit seiner
+                        <lb/>eigenen Erotik noch nicht fertig
+                        <lb/>ist (ich spreche nur vom Werk) –<reg>,</reg>
+                        <lb/>hat nicht das Recht, die Welt
+                        <lb/>zu lehren. Die Bilder <persName key="E0300341"><choice><abbr>K.’<supplied reason="omitted">s</supplied></abbr><expan>Kokoschkas</expan></choice></persName> sind
+                        <lb/>natürlich tausendmal begabter
+                        <lb/>als seine Dichtungen; es sind
+                        <lb/>aber doch auch in Wirklichkeit
+                        <lb/>keine Schöpfungen, sondern
+                        <lb/>nur sehr treffende psychologische
+                        <lb/>Erklärungen, genau wie <persName key="E0300023">Schönbergs</persName>
+                        <lb/>Musik im besten Fall, in
+                        <lb/><title key="E0400041" rend="dq-du">Pierrot lunaire</title>. – Sie haben
+                        
+                        <pb n="8"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">8</note>
+                        
+                        aber ein erlösendes Wort aus
+                        <lb break="no"/>gesprochen von den Künstlern,
+                        <lb/>die sich dümmer stellen oder dümmer
+                        <lb/>sind als ihr Werk. Unter den
+                        <lb/>Dichtern geradezu eine Mode.
+                        <lb/>In der Musik hat mich das
+                        <lb/>jahrelang von der Musik entfernt.
+                        <lb/>Das Gefühl, dass <subst><del rend="overwritten"><unclear reason="overwritten">die</unclear></del><add place="across">mit</add></subst> dieser – <persName key="E0300001">Beethoven</persName><reg>’</reg>
+                        <lb break="no"/>schen Dummheit bei gewaltigem
+                        <lb/>Werk irgend<orig> </orig>ein unmenschliches
+                        <lb/>Vergehen in der Welt geschieht, hat
+                        <lb/>mich jahrelang kunstfeindlich
+                        <lb/>gemacht. Wer<orig>,</orig> als Nicht-Musiker
+                        <lb/>das gesagt hätte, was Sie heute
+                        <lb/>ruhig aus Ihrer Musikfülle
+                        <lb/>heraus sagen dürfen, wäre
+                        <lb/>nur als originalitätssüchtiger
+                        <lb/>Literat erschienen.</p>
+                    <p>Aber vielleicht, dass Sie mir
+                        <lb/>dies schrieben, vielleicht ist
+                        <lb/>dies ein Zeichen, dass jener
+                        <lb/>Künstlertypus eines ganzen
+                        <lb/>Jahrhunderts, der sehn
+                        <lb break="no"/>süchtige Dümmling hoher Begabung,
+                        
+                        <pb n="9"/>
+                        
+                        <note type="shelfmark" resp="#archive" place="top-left">B II, 4274</note>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">9</note>
+                        
+                        schon jenseits unserer Zeit ist;
+                        <lb/>nicht mehr in ernstem Ma<choice><orig>ass</orig><reg>ß</reg></choice>e
+                        <lb/>in Betracht kommt. Und dass
+                        <lb/>wir wieder mit den schöpferischen
+                        <lb/>Menschen werden leben können,
+                        <lb/>die über allem auch noch das
+                        <lb/>wirkliche Wissen von der Welt
+                        <lb/>haben.
+                        <note type="stamp" place="inline" resp="#dsb_st_red">
+                            <stamp rend="round border align(center) small">Deutsche
+                                <lb/>Staatsbibliothek
+                                <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                            </stamp>
+                        </note></p>
+                    <p rend="indent-first">Übrigens kann man die Dinge
+                        <lb/>auch ein klein wenig formulieren.
+                        <lb/>Da ist der einfache begabte
+                        <lb/>Unintelligente, der Naturalist,
+                        <lb/>der die Natur einfach wiederholen
+                        <lb/>will.</p>
+                    <p>Dann der nicht harmlose, der
+                        <lb/>den Typus für lange Zeit ange
+                        <lb break="no"/>geben hat: der die Natur
+                        <lb/>verklären will, idealisieren;
+                        <lb/>der Schönheitskitscher (bei
+                        <lb/>eventuell höchster Begabung).</p>
+                    <p rend="align(center)">Schluss.</p>
+                    <p>Und nun kommt erst der
+                        <lb/>wirkliche Schöpfer. Der
+                        
+                        <pb n="10"/>
+                        
+                        <note type="pagination" place="top-right" resp="#archive">10.</note>
+                        
+                        Mensch, der aus vollkommenem
+                        <lb/>Wissen und unter höchstem,
+                        <lb/>absolutem Gesichtspunkt,
+                        <lb/>vielleicht gar in <del rend="strikethrough"><gap reason="strikethrough" atLeast="2" unit="char"/></del> aller
+                        <lb/>Bescheidenheit: alles Existieren
+                        <lb break="no"/>de in sich erledigt<orig>,</orig> und
+                        <lb/>auf diesen Trümmern (die er
+                        <lb/>als seine eigenen <hi rend="underline">lebendigen</hi>
+                        <lb/>Bestandteile erhält) völlig
+                        <lb/><hi rend="underline">neu</hi> beginnt, wie am ersten
+                        <lb/>Tag; aus sich heraus schafft.</p>
+                </div>
+                <milestone unit="section" style="—" rend="align(center)"/>
+                <div>
+                    <p>Mit <persName key="E0300349">de Quincey</persName> kamen Sie
+                        <lb/>als Prophet zur Wüste. Ich
+                        <lb/>kenne nur Teile von ihm.
+                        <lb/><title key="E0400315" rend="dq-du">Murder</title>, ohne Nachtrag, und
+                        <lb/>den <title key="E0400314">Opiumesser</title>. – Vielleicht eine
+                        <lb/>schöne und gro<choice><orig>ss</orig><reg>ß</reg></choice>e Entdeckung
+                        <lb/>für mich. <milestone unit="section" style="—" rend="inline"/></p>
+                    <p><rs key="E0800166"><persName key="E0300091">Tolstoi</persName></rs> kam endlich an<orig>,</orig>
+                        
+                        <note type="commentary" resp="#E0300388"> Vgl. den <ref type="E010005" target="#D0100314" n="8">Brief</ref> <persName key="E0300126">Rubiners</persName> an <persName key="E0300017">Busoni</persName> vom <date when-iso="1918-02-19">19. Februar 1918</date>.
+                        </note>
+                        
+                        und geht
+                        <lb/>an Sie ab. <seg type="closer" subtype="salute">Und nun herzlichen
+                            <lb/>Händedruck und eine Umarmung von
+                            <lb/>Ihrem dankbaren</seg>
+                    </p>
+                </div>
+                <closer>
+                    <signed rend="align(right)"><persName key="E0300126">Ludwig Rubiner</persName>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

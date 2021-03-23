@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100403">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Telegramm von Paul Bekker an Ferruccio Busoni (Berlin, 31. März 1916)</title>
+                <title xml:lang="en">Telegram by Paul Bekker to Ferruccio Busoni (Berlin, 31 March 1916)</title>
+                <author key="E0300111">Paul Bekker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 255</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. P. Bekker 7 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-572960</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Glückwünsche aus Anlass von <persName key="E0300017">Busonis</persName> <date when-iso="1916-01-04">50. Geburtstag</date>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-03-31"/></docDate>
+                            <!-- JT: noch mal checken, wg. der vielen verschiedenen Hände -->
+                            <incipit>allerbeste wuensche und innigste gruesse</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Das Telegramm ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_print" scribe="author" scribeRef="#E0300111">
+                                Nachricht des Absenders Paul Bekker, per Fernschreiber übermittelt</handNote>
+                            <handNote xml:id="post_teleprint" scope="minor" medium="black_print" scribe="postoffice">
+                                Daten zu Ort und Uhrzeit der Telegramm-Aufgabe, per Fernschreiber übermittelt</handNote>
+                            <!-- ##issue CS## CS plädierte für Verwendung von »major_hand«; trouble: Trägermedium ist das Gleiche für Post und Haupthand (drei weiße Streifen) => kommt derzeit optisch weder in DU noch Lf zum Tragen; zudem: auf Streifen nicht 100% eindeutig, was was ist (also 1. Streifen) -->
+                            <handNote xml:id="post_pencil" scope="minor" medium="pencil" scribe="postoffice">
+                                Hand eines Postangestellten, der mit Bleistift Datum und Uhrzeit der Telegramm-Übergabe an den Empfänger vermerkt hat</handNote>
+                            <handNote xml:id="post_st_black" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="post_st_red" scope="minor" medium="red_ink" scribe="postoffice">
+                                Poststempel (rote Tinte)</handNote>
+                            <handNote xml:id="censor_pencil" scope="minor" medium="pencil" scribe="censor">
+                                Hand eines Verantwortlichen der Zensurkommission, der mit Bleistift im Kontrollstempel unterschrieben hat</handNote>
+                            <handNote xml:id="censor_st_red" scope="minor" medium="red_ink" scribe="censor">
+                                Zensurstempel (rote Tinte)</handNote>
+                            <handNote xml:id="censor_st_blue" scope="minor" medium="blue_ink" scribe="censor">
+                                Zensurstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="sbb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">
+                                Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">
+                                unbekannte Hand, die auf der Telegramm-Rückseite mit Bleistift den Namen des Absenders und einen weiteren Namen vermerkt hat</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1916-03-31"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100403">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                    <date when="1916-03-31"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100402"/>
+                    <ref type="next" target="#D0100404"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2020-03-17" who="#E0300361">Vorlagen-Datei erstellt; Bearbeitung übernommen; status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7000000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7000000002"/>
+    </facsimile>
+    <text type="telegram">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <add xml:id="add_shelf">Mus.Nachl. F. Busoni B II, 255</add>
+                </note>
+                <note type="shelfmark" place="top-right" resp="#archive">
+                    <del xml:id="del_shelf" rend="strikethrough">Mus.ep. P. Bekker 7 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                <substJoin target="#add_shelf #del_shelf"/>
+                
+                <fw place="margin-right" rend="bold tiny space-above">No. 2.</fw>
+                
+                <fw place="margin-left" rend="tiny">
+                    <placeName key="E0500092">Schweiz.</placeName> Telegraphen- und Telephonverwaltung. — <foreign xml:lang="fr">Administration des télégraphes et des téléphones <placeName key="E0500092">suisses</placeName></foreign>. — <foreign xml:lang="it">Amministrazione dei telegrafi e dei telefoni <placeName key="E0500092">svizzeri</placeName></foreign>.
+                    <note type="stamp" place="margin-right" resp="#censor_st_red">
+                        <stamp rend="huge rotate(45)">ctr.</stamp>
+                    </note>
+                    <lb/><seg rend="bold"><placeName key="E0500132">Zürich</placeName></seg>
+                </fw>
+                
+                <note type="stamp" place="margin-left" rend="rotate(-45)" resp="#post_st_black">
+                    <stamp rend="round border majuscule tiny align(center)">
+                        <!-- ##issue CS## wäre genau genommen sowas wie "octagon border", nicht "round" => Wie streng gehandhabt? -->
+                        T<supplied reason="low-ink">el</supplied>egra<supplied reason="low-ink">m</supplied>m
+                        <lb/><date when-iso="1916-03-31"><supplied reason="low-ink">3</supplied>1.III.1916</date>
+                        <lb/><placeName key="E0500132">Zürich</placeName>
+                    </stamp>
+                </note>
+                
+                <fw place="center inline">
+                    <seg rend="small bold"><supplied reason="paste-over">Telegramm — <foreign xml:lang="fr">Télégramme</foreign> — </supplied><foreign xml:lang="it"><supplied reason="paste-over">Telegra</supplied>mma</foreign></seg>
+                    <!-- ##issue CS## in Kombi mit "small" macht es leider null Unterschied, ob außerdem "bold" oder nicht :( -->
+                    <fw place="right-of" rend="tiny align(center)">Wörter — <foreign xml:lang="fr">Mots</foreign> …
+                        <lb/><foreign xml:lang="it">Parole</foreign>
+                    </fw>
+                </fw><lb/>
+                
+                <note type="label" place="below center" resp="#post_teleprint">
+                    <placeName key="E0500029">berlin</placeName> 37750 10 31<seg rend="sup">o̲</seg> 11 m <pc>=</pc>
+                </note>
+                <fw place="center" rend="tiny">
+                    .......... von — de .......... № ..........
+                </fw>
+                
+                <table rend="tiny scale(1.25,0.8) align(center)">
+                    <row>
+                        <cell rows="1" cols="3" rend="scale(0.7,0.8)">
+                            <fw>Aufgegeben den – <foreign xml:lang="fr">Consigné le</foreign>
+                                <lb/><foreign xml:lang="it">Consegnato il</foreign></fw>
+                        </cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>191<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>um – <foreign xml:lang="fr">à</foreign>
+                            <lb/><foreign xml:lang="it">alle</foreign></fw>
+                        </cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>Uhr – <foreign xml:lang="fr">heures</foreign>
+                            <lb/><foreign xml:lang="it">ore</foreign></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>min.<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>Der Telegraphist: – <foreign xml:lang="fr">Le télégraphiste</foreign>:
+                            <lb/><foreign xml:lang="it">Il telegrafista</foreign>:</fw></cell>
+                    </row>
+                    <row>
+                        <cell rend="scale(0.7,0.8)">
+                            <fw>Erhalten von – <foreign xml:lang="fr">Reçu de</foreign>
+                                <lb/><foreign xml:lang="it">Ricevuto da</foreign></fw>
+                        </cell>
+                        <cell rend="scale(0.7,1.3) sub"><lb/>
+                            <note type="stamp" place="inline" resp="#post_st_red">
+                                <stamp>RLN</stamp>
+                            </note>
+                        </cell>
+                        <cell rend="scale(0.7,0.8)">
+                            <fw>den – <foreign xml:lang="fr">le</foreign>
+                                <lb/><foreign xml:lang="it">il</foreign></fw>
+                        </cell>
+                        <!-- ##issue CS## Wie vollziehe ich nachfolgend den Wechsel von einer Hand auf die andere und wieder zurück? handshift »post_pencil« wäre ja grundsätzlich ok, aber wie signalisiere ich, wann dieser beendet ist? außerdem: soll natürlich nicht in Lf angezeigt werden, wird es aber noch :( -->
+                        <!-- resp bei jeder Zelle verankern -->
+                        <cell rend="scale(1,2)" resp="#post_pencil"><lb/><date when-iso="1916-03-31">31/3</date></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>191<lb/></fw></cell>
+                        <cell rend="scale(1,2)"><lb/><handShift new="#post_pencil"/>6</cell>
+                        <!-- ##issue CS## Wie baue ich hier »date« mit ein? alle drei Zellen auf einmal umschließen, fkt. nicht -->
+                        <cell rend="scale(0.7,0.8)"><fw>um – <foreign xml:lang="fr">à</foreign>
+                            <lb/><foreign xml:lang="it">alle</foreign></fw>
+                        </cell>
+                        <cell rend="scale(1,2)"><lb/><handShift new="#post_pencil"/>12</cell>
+                        <!-- ##issue CS## handshift dito. -->
+                        <cell rend="scale(0.7,0.8)"><fw>Uhr – <foreign xml:lang="fr">heures</foreign>
+                            <lb/><foreign xml:lang="it">ore</foreign></fw></cell>
+                        <cell rend="scale(1,2)"><lb/><handShift new="#post_pencil"/>35</cell>
+                        <!-- ##issue CS## handshift dito. -->
+                        <cell rend="scale(0.7,0.8)"><fw>min.<lb/></fw></cell>
+                        <cell rend="scale(1,2)"><lb/><handShift new="#post_pencil"/>Do<gap atLeast="3" unit="char" reason="illegible"/></cell>
+                        <!-- ##issue CS## handshift dito. -->
+                    </row>
+                </table>
+                
+                <table rend="align(left)">
+                    <row>
+                        <cell rend="tiny scale(1,0.8)">
+                            <fw>Event. Angaben
+                                <lb/><hi rend="italic"><foreign xml:lang="fr">Indicati<supplied reason="illegible">ons éven</supplied>t.</foreign></hi>
+                                <lb/><foreign xml:lang="it">Indicazi<supplied reason="illegible">on</supplied>i event.</foreign>
+                            </fw>
+                        </cell>
+                        <cell rows="3" cols="1" rend="tiny scale(1.5,3)">
+                            <lb/><fw>﹜<lb/></fw><lb/>
+                        </cell>
+                        <cell rows="4" cols="1" rend="tiny rotate(-90)">
+                            <fw>Adresse · <foreign xml:lang="it">Indirizzo</foreign></fw>
+                        </cell>
+                        <cell rend="align(right)">
+                            <fw><seg rend="tiny">Contr. №</seg>
+                                <note type="stamp" place="inline" resp="#post_st_black">
+                                    <stamp>8299</stamp>
+                                </note>
+                            </fw>
+                            <!-- JT: Vorschlag: "teleprint" als neuer note-type für Telegramme (in Abgrenzung zu "label", was in Lesefassung nicht angezeigt wird) -->
+                            <note type="teleprint" resp="#major_hand"><persName key="E0300017"><choice><orig>b</orig><reg>B</reg></choice>usoni</persName><reg>,</reg> <rs key="E0500189"><choice><sic>sq</sic><corr>Sc</corr></choice>heuch<choice><sic>r</sic><corr>z</corr></choice>er<choice><sic>gasse</sic><corr>straße</corr></choice></rs><reg>,</reg> <placeName key="E0500132"><choice><orig>zue</orig><reg>Zü</reg></choice>rich</placeName></note><lb/>
+                            <!-- ##issue CS## Regularisierung Groß- und Kleinschreibung ok, oder klein lieber lassen als Eigenart des Telegramms? -->
+                        </cell>
+                    </row>
+                </table>
+                
+                <note type="teleprint" place="margin-left" resp="#major_hand">
+                    <lb/><lb/><orig><pc>=</pc> </orig><choice><orig>a</orig><reg>A</reg></choice>llerbeste <choice><orig>wue</orig><reg>Wü</reg></choice>nsche und innigste <choice><orig>gruesse</orig><reg>Grüße</reg></choice> von <orig><pc>=</pc> </orig><rs key="E0300111"><choice><orig>b</orig><reg>B</reg></choice>ekky</rs><choice><orig> <pc>=</pc></orig><reg>.</reg></choice>
+                </note>
+                
+                <note type="commentary" resp="#E0300361">
+                    Gratulation aus Anlass von <persName key="E0300017">Busonis</persName> 50. Geburtstag am <date when-iso="1916-04-01">1. April 1916</date>. Den Spitznamen hat <persName key="E0300111">Bekker</persName> unter Umständen gewählt, um seine Identität den Zensurbehörden gegenüber zu verschleiern.
+                </note>
+                
+                <note type="stamp" place="margin-right" resp="#f_st_blue">
+                    <stamp rend="align(center) tiny space-above space-below rotate(-45)">
+                        Unbeanstandet:
+                        <lb/><placeName key="E0500132">Züri<supplied reason="low-ink">ch</supplied></placeName> <handShift new="#censor_pencil"/><gap extent="2" unit="word" reason="illegible"/><handShift new="#censor_st_blue"/>
+                        <lb/>Telegr.-Kontr.-Kommission
+                    </stamp>
+                </note>
+                
+                <note type="stamp" place="right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <table rend="tiny scale(1.25,0.8) align(center)">
+                    <row>
+                        <cell rend="scale(0.7,0.8)"><fw>Obertelegraphiert an – <foreign xml:lang="fr">Réexpédié à</foreign>
+                            <lb/><foreign xml:lang="it">Ritrasmesso a</foreign></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>……<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>den – <foreign xml:lang="fr">le</foreign>
+                            <lb/><foreign xml:lang="it">il</foreign></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>um – <foreign xml:lang="fr">à</foreign>
+                            <lb/><foreign xml:lang="it">alle</foreign></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>Uhr – <foreign xml:lang="fr">heures</foreign>
+                            <lb/><foreign xml:lang="it">ore</foreign></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>…<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>min.<lb/></fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>Der Telegraphist: – <foreign xml:lang="fr">Le télégraphiste</foreign>:
+                            <lb/><foreign xml:lang="it">Il telegrafista</foreign>:</fw></cell>
+                        <cell rend="scale(0.7,0.8)"><fw>……<lb/></fw></cell>
+                    </row>
+                </table>
+                
+                <note type="stamp" place="margin-right" resp="#sbb_st_blue">
+                    <stamp rend="small">Nachlaß Busoni</stamp>
+                </note>
+                
+                <pb n="2"/>
+                
+                <note type="annotation" place="top-left" rend="underline rotate(-90)" resp="#unknown_hand">
+                    <persName key="E0300580">Irma Beck</persName>
+                    <note type="commentary" resp="#E0300361">
+                        Vmtl. Hinweis auf <persName key="E0300580">Irma Bekk</persName> (in einschlägiger Literatur oft fälschlich <q>Bekh</q>); die Rückseite des Telegramms wurde offenbar als Notizzettel benutzt. <persName key="E0300580">Bekk</persName> war Klavierschülerin von <persName key="E0300017">Busoni</persName> in <placeName key="E0500002">Wien</placeName> und <placeName key="E0500029">Berlin</placeName> (vgl. <bibl><ref target="#E0800060"/>, S. 424</bibl>) und befreundet mit <persName key="E0300017">Busonis</persName> Sohn <persName key="E0300060">Benvenuto</persName> (vgl. <bibl><ref target="#E0800038"/>, S. 387, Anm. 660</bibl>).
+                    </note>
+                </note>
+                
+                <note type="annotation" place="margin-right" rend="rotate(90)" resp="#unknown_hand">
+                    <persName key="E0300111">Bekker</persName>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

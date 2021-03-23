@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100563">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Salzburg, vmtl. 1922)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Salzburg, prob. 1922)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300390">
+                        <forename>Ulrike</forename>
+                        <surname>Japes</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1733</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 44 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-590266</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300208">Freund</persName> äußert seine Meinung zu dem <rs key="E0800229">Buch</rs> von <persName key="E0300457">Gisella Selden-Goth</persName> über <persName key="E0300017">Busoni</persName>; <persName key="E0300208">Freund</persName> bekennt seinen Faible für die <title key="E0400352">Seconda Sonatina</title></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Seitenfolge: 1, 4, 3, 2 (4, 2 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten. Umschlagaufriss oben; die Briefmarke wurde entfernt</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/> 
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp rend="round border majuscule align(center)" xml:id="post_abs">
+                                    <placeName><gap atLeast="1" unit="word" reason="paper-missing"/></placeName>
+                                    <lb/><date when-iso="1922"><supplied cert="high" reason="paper-missing">1922</supplied>.<gap extent="2" unit="char" reason="paper-missing"/>.<gap extent="2" unit="char" reason="paper-missing"/></date><gap extent="unknown" unit="char" reason="paper-missing"/>
+                                    <lb/>7a
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn <choice><abbr>Prof.</abbr><expan>Professor</expan></choice> <persName key="E0300017">Ferruccio <choice><abbr>B.</abbr><expan>Benvenuto</expan></choice> Busoni</persName>,</addrLine>
+                            </address>
+                            <note type="stamp" place="center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <address rend="bottom-right">
+                                <addrLine><placeName key="E0500029"><hi rend="underline">Berlin</hi></placeName>, W.</addrLine>
+                                <addrLine><placeName key="E0500072">Vi<choice><orig>c</orig><reg>k</reg></choice>tori<choice><orig>a L</orig><reg>a-L</reg></choice>uis<choice><orig>enp</orig><reg>e-P</reg></choice>latz 11</placeName></addrLine>
+                            </address>
+                            <pb n="6"/> 
+                            <address rend="top-center">
+                                <addrLine><persName key="E0300208">Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500522">Grand Hôtel
+                                    <lb rend="right"/>Bad Fusch,</placeName></addrLine><addrLine><placeName key="E0500023"><choice><abbr>Salzb.</abbr><expan>Salzburg</expan></choice></placeName></addrLine>
+                            </address>
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                        <lb/>Mus, ep. R. Freund 44</del>
+                                    <lb/><add rend="bottom-right">Mus. Nachl. F. Busoni B II, 1733-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500023">Salzburg</origPlace>
+                            <origDate when-iso="1922-08-04"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="lh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Unterstrichen (_).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100563">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1922-08-04"/>
+                    <placeName ref="http://www.geonames.org/2782059" key="E0500521">Fusch</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100562"/>
+                    <ref type="next" target="#D0100565"/><!-- D0100564 -->
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-02-28" who="#E0300390">Transkription erstellt, Codierung begonnen, status unfinished</change>
+            <change when-iso="2018-04-06" who="#E0300390">proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013726332/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1A00000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1A00000004"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1A00000003"/>
+        <graphic n="4" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1A00000002"/>
+        <graphic n="5" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1A00000006"/>
+        <graphic n="6" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1A00000005"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                <opener>
+                    <note type="shelfmark" place="margin-left" resp="#archive">
+                        <del rend="strikethrough">Mus.ep. R. Freund 44 (Busoni-Nachl. <handShift new="#archive_red"/>B II)</del>
+                    </note> 
+                    <note type="shelfmark" resp="#archive">
+                        <add place="margin-left">Mus.Nachl. F. Busoni B II, 1733</add>
+                    </note>    
+                    <address rend="right">
+                        <lb/><addrLine><placeName key="E0500521">Bad Fusch</placeName>, <placeName key="E0500023">Salzburg</placeName></addrLine>
+                        <addrLine><placeName key="E0500522">Grand Hôtel</placeName></addrLine>
+                    </address> <dateline rend="right"> 
+                        <date when-iso="1922-08-04">4. <choice><abbr>Aug.</abbr><expan>August</expan></choice> 
+                            <lb/><handShift new="#archive"/>[ca.1922]</date>
+                    </dateline>
+                    <lb rend="left"/><salute>Lieber Freund!</salute></opener><p>Ich habe eben
+                        <lb/><persName key="E0300457">Frau Goth’s</persName> <rs key="E0800229">Buch</rs>gelesen <choice><abbr>u.</abbr><expan>und</expan></choice> möchte  
+                        <lb/>Ihnen doch sagen, wie sehr mir 
+                        <lb/>das mit warmer Begeisterung
+                        <lb/>geschriebene Buch gefallen <supplied reason="omitted">hat</supplied>.
+                        <lb/>Es g<choice><orig>ie</orig><reg>i</reg></choice>bt selten <choice><orig>2</orig><reg>zwei</reg></choice> Musiker
+                        <lb/>die ganz gleicher Meinung
+                        <lb/>sind. Aber vollko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en sti<choice><abbr>m̅</abbr><expan>mm</expan></choice>e
+                        <lb/>ich mit ihr überein we<choice><abbr>n̅</abbr><expan>nn</expan></choice>
+                        <lb/>sie die <title key="E0400018"><choice><abbr>Fant. Contrap.</abbr><expan>Fantasia contrappuntistica</expan></choice></title> für eines
+                        <lb/>der vollendetsten Meisterwer
+                        <lb break="no"/>ke erklärt; für mich
+                        <note type="stamp" place="bottom-left" resp="#dsb_st_red">
+                            <stamp rend="round border align(center) small"><supplied reason="incomplete">De</supplied>utsche
+                                <lb/><supplied reason="incomplete">Staats</supplied>bibliothek
+                                <lb/><placeName key="E0500029"><hi rend="spaced-out"><supplied reason="incomplete">Be</supplied>rlin</hi></placeName>
+                            </stamp>
+                        </note>
+                        <pb n="2"/>
+                        <note type="stamp" place="margin-right" rend="rotate(-90)" resp="#dsb_st_red">
+                            <stamp rend="round border align(center) small">De<supplied reason="incomplete">utsche</supplied>
+                                <lb/>Staats<supplied reason="incomplete">bibliothek</supplied>
+                                <lb/><placeName key="E0500029"><hi rend="spaced-out">Be<supplied reason="incomplete">rlin</supplied></hi></placeName>
+                            </stamp>
+                        </note> 
+                        <lb rend="center"/>der Gipfelpunkt Ihres instrumentalen
+                        <lb/>Schaffens, soweit ich es ke<choice><abbr>n̅</abbr><expan>nn</expan></choice>e. Die Werke
+                        <lb/>der Zürcher Epoche<note type="commentary" resp="#E0300390">Diese Epoche dauerte von etwa 1915 bis 1920 an. Es ist verwunderlich, dass <persName key="E0300208">Freund</persName> angeblich diese Werke alle nicht zu kennen scheint.</note> ke<choice><abbr>n̅</abbr><expan>nn</expan></choice>e ich allerdings
+                        <lb/>nicht. Und ebenso nahm mich schon beim
+                        <lb/>ersten Lesen die <title key="E0400015">Berceuse</title> mit ihrem
+                        <lb/>Sti<choice><abbr>m̅</abbr><expan>mm</expan></choice>ungszauber gefangen. Von den Sona
+                        <lb break="no"/>tinen ke<choice><abbr>n̅</abbr><expan>nn</expan></choice>e ich nur die ersten <choice><orig>3</orig><reg>drei</reg></choice><note type="commentary" resp="#E0300390">zu diesen Sonatinen gehöre: die <title key="E0400220">erste Sonate</title>, die <title key="E0400352">Seconda Sonatina</title> als Zweite Sonatine und die Dritte die <title key="E0400263">Sonatina ad usum infantis</title></note>: ein 
+                        <lb/>spezielles <choice><orig>f</orig><reg>F</reg></choice>aible habe ich aber für die 
+                        <lb/><title key="E0400352"><choice><abbr>2<hi rend="sup">te</hi></abbr><expan>Zweite</expan></choice></title>. Für mich mehr als ein harmoni
+                        <lb break="no"/>sches Experiment. Von Anfang an
+                        
+                        <pb n="3"/>
+                        <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                        <lb/>stand ich unter dem Eindruck
+                        <lb/>ihrer tief – ernsten, elegischen 
+                        <lb/>Sti<choice><abbr>m̅</abbr><expan>mm</expan></choice>ung. Für eine <soCalled rend="dq-ud">Biographie</soCalled>
+                        <lb/>ist es noch zu früh: stehen
+                        <lb/>Sie doch noch in der Voll
+                        <lb break="no"/>kraft des Schaffens. Aber
+                        <lb/>als <soCalled rend="dq-uu">Versuch</soCalled> finde ich das
+                        <lb/>Buch vortrefflich. – </p>
+                <p> Ich bin seit einigen Tagen 
+                    <lb/>mit <supplied reason="omitted">den</supplied> Schwestern, <supplied reason="omitted">den</supplied> Schwägern
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> ihren Kindern hier <choice><abbr>u.</abbr><expan>und</expan></choice> 
+                    <lb/>gedenke, we<choice><abbr>n̅</abbr><expan>nn</expan></choice> das Wetter
+                    <lb/>es erlaubt noch 2-3 Wochen
+                    <lb/>zu bleiben. Vorläufig
+                    <note type="stamp" place="bottom-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note> 
+                    <pb n="4"/>
+                    <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                    <lb/>regnet es <soCalled rend="dq-uu">mehrschtendeels</soCalled>.</p>
+                <closer><salute><persName key="E0300432">Irma</persName> <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300420"><choice><abbr>Etel</abbr><expan>Etelka</expan></choice></persName> grü<choice><orig>ss</orig><reg>ß</reg></choice>en Sie <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300059">Frau
+                    <lb/>Busoni</persName> allerherzlichst <choice><abbr>u.</abbr><expan>und</expan></choice> ich bin 
+                    <lb/>in alter Treue</salute> <signed>Ihr
+                        <lb/> <persName key="E0300208">R. Freund</persName></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

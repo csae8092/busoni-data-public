@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100103">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Vitznau, vmtl. 16. September 1910)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Vitznau, prob. 16 September 1910)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300327">
+                        <forename>Juliane</forename>
+                        <surname>Imme</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2244</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 17 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621508</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> begründet seine Abwesenheit bei <persName key="E0300017">Busonis</persName> bevorstehendem <persName key="E0300137">Chopin</persName>-Abend mit der Arbeit am eigenen <rs key="E0400206">Klavierkonzert</rs> und einer fortzusetzenden Kur.</summary>
+                        <msItem>
+                            <incipit>Dem Künstler insbesonders kom̅t es zu</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Briefkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Die Briefkarte ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archiv_date" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der eine ungefähre Datierung mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_sig" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500200">Vitznau</origPlace>
+                            <origDate when-iso="1910-09-16" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="https://busoni-nachlass.org/docs/principles"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1910-09-16" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2658107" key="E0500200">Vitznau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100104"/>
+                    <ref type="previous" target="#D0100102"/>
+                    <ref type="next" target="#D0100104"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2017-03-15" who="#E0300327">Erstmalige Briefkodierung, status="unfinished".</change>
+            <change when-iso="2017-03-28" who="#E0300327">Kodierung abgeschlossen, status="proposed".</change>
+            <change when-iso="2017-04-27" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/828127921/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F300000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F300000002"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" rend="rotate(-90)" resp="#archive_sig" xml:id="delSignature">
+                    <del rend="strikethrough">Mus.ep. H. Huber 17 (Busoni-Nachl. <handShift new="#archive_red"/>B II)</del>
+                </note>                
+                
+                <dateline rend="align(center)"><placeName key="E0500200">Vitznau</placeName> <date when-iso="1910-09-16" cert="high">Freitag</date></dateline>
+                
+                <note type="commentary" resp="#E0300327"><persName key="E0300017">Busonis</persName> <ref type="E010002" target="#D0100104">Brief vom <date when-iso="1910-09-17">17. September 1910</date></ref> ist als Antwortbrief zu betrachten. Da <persName key="E0300125">Huber</persName> seine Abwesenheit am <persName key="E0300137">Chopin</persName>-Abend bekundet und gleichzeitig seine Segenswünsche für den folgenden Abend ausspricht, dürfte der Klavierabend am <date when-iso="1910-09-17">17. September</date> am <orgName key="E0600020"><placeName key="E0500097">Basler</placeName> Konservatorium</orgName> gemeint sein.</note>
+                
+                <note type="dating" place="right" resp="#archiv_date">
+                    <date when-iso="1910">[1910]</date>
+                </note>
+                
+                <fw place="center">
+                    <orgName key="E0600020">Musikschule und Konservatorium <placeName key="E0500097">Basel</placeName></orgName>.
+                    <milestone unit="section" style="–"/>
+                </fw>
+                
+                <opener>
+                    <salute>Mein verehrtester <choice><abbr>&amp;</abbr><expan>und</expan></choice> lieber <persName key="E0300017">Herr Busoni</persName>!</salute>
+                </opener>
+                <p>
+                    <quote rend="dq-du">Dem Künstler insbesonders ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>t es zu, sein Zelt nur
+                        <lb/>für Stunden aufzurichten <choice><abbr>&amp;</abbr><expan>und</expan></choice> sich nirgends für die Dauer
+                        <lb/>niederzulassen; er steht allein <choice><abbr>&amp;</abbr><expan>und</expan></choice> schafft sich inmitten des
+                        <lb/>unharmonischen Treibens eine undurchdringliche Einsamkeit</quote>!
+                    
+                    <lb/>So ungefähr schreibt <persName key="E0300013">Liszt</persName> in einem <choice><unclear cert="high">Brief</unclear><unclear cert="low">Briefe</unclear></choice> an <persName key="E0300162">George
+                    <lb/>Sand</persName><reg>,</reg>
+                    
+                    <note type="commentary" resp="#E0300327">Am <date when-iso="1837-04-30">30. April 1837</date> schreibt <persName key="E0300013">Franz Liszt</persName> aus <placeName key="E0500012">Paris</placeName> an <persName key="E0300162">George Sand</persName>: <cit> <quote>Dem Künstler insbesondere kommt es zu, sein Zelt nur für Stunden aufzurichten und sich nirgends für die Dauer niederzulassen. […] Der Künstler steht allein. Werfen ihn die Ereignisse in den Schoß der Gesellschaft, so schafft seine Seele sich inmitten des unharmonischen Treibens eine undurchdringliche Einsamkeit, zu der selbst die Menschenstimme keinen Eingang mehr findet.</quote> <bibl> (<ref target="#E0800049"/>, S.&#8239;439 f.)</bibl> </cit></note>
+                    
+                    <choice><abbr>&amp;</abbr><expan>und</expan></choice> er hat insofern recht, da<choice><orig>ß</orig><reg>ss</reg></choice> man sich die
+                    <lb/>Heimat nur dahin denkt, wo der Schreibtisch steht,
+                    <lb/>wo die Partitur wächst <choice><abbr>&amp;</abbr><expan>und</expan></choice> die Arbeit lockt.
+                    <lb/>In diesem Si<choice><abbr>n̅</abbr><expan>nn</expan></choice>e fühle ich mich jetzt so heimatlich
+                    <lb/>gesti<choice><abbr>m̅</abbr><expan>mm</expan></choice>t, da<choice><orig>ß</orig><reg>ss</reg></choice> ich Sie bitten mu<choice><orig>ß</orig><reg>ss</reg></choice>, meine Abwesenheit
+                    <lb/><choice><unclear cert="high">
+                            <subst>
+                                <del rend="strikethrough"><gap atLeast="2" unit="char" reason="strikethrough ink-blot"/></del>
+                                <add place="above">beim</add>
+                            </subst>
+                        </unclear>
+                        <unclear cert="low">
+                            <subst>
+                                <del rend="overwritten"><gap atLeast="2" unit="char" reason="overwritten ink-blot"/></del>
+                                <add place="across">am</add>
+                            </subst>
+                        </unclear>
+                        <unclear cert="low">
+                            <subst>
+                                <del rend="overwritten"><gap atLeast="2" unit="char" reason="overwritten ink-blot"/></del>
+                                <add place="across">zum</add>
+                            </subst>
+                        </unclear></choice>
+                    <persName key="E0300137">Chopin</persName>-Abend
+                    
+                    <note type="commentary" resp="#E0300327">Gemeint ist vermutlich der dritte Klavierabend am <date when-iso="1910-09-17">17. September 1910</date> anlässlich des Meisterkurses am <orgName key="E0600020"><placeName key="E0500097">Basler</placeName> Konservatorium</orgName> (vgl. den <ref type="E010002" target="#D0100101">Brief vom <date when-iso="1910-09-17">19. Juli 1910</date> </ref>).</note>
+                    
+                    zu entschuldigen. Ich möchte
+                    <lb/><rs key="E0400206">mein Klavierkonzert</rs> fertig machen<orig>,</orig> oder wenigstens
+                    
+                    <note type="shelfmark" place="bottom-left" resp="#archive_sig" xml:id="addSignature">
+                        <add>Mus.Nachl. F. Busoni B II, 2244</add>
+                    </note>
+                    
+                    <substJoin target="#delSignature #addSignature"/>
+                    
+                    <pb n="2"/>
+                    
+                    so weit fördern, da<choice><orig>ß</orig><reg>ss</reg></choice> ich es Ihnen noch vorlegen
+                    <lb/>ka<choice><abbr>n̅</abbr><expan>nn</expan></choice>. –
+                </p>
+                <p>
+                    Dazu fesselt mich eine diätische Kur ein wenig
+                    <lb/>an <placeName key="E0500200">Vitznau</placeName>. Lebergranulationen,
+                    <!-- erfordert medizinhistorische Erklärung -->
+                    die mich in
+                    <lb/>letzter Zeit stark geplagt haben, mü<choice><orig>ß</orig><reg>ss</reg></choice>en noch
+                    <lb/>ausgeschieden werden<reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice> da ich jetzt gerade mitten
+                    <lb/>drin bin mit dieser Kur, möchte ich dieselbe nicht
+                    <lb/>unterbrechen! –
+                </p>
+                <p rend="indent-first">
+                    Also <foreign xml:lang="fr" rend="latin">ma bénédiction</foreign> 
+                    
+                    <note type="commentary" resp="#E0300327">Frz.: meinen Segen.</note>
+                    
+                    für morgen
+                    <lb/><choice><orig>a</orig><reg>A</reg></choice>bend <choice><abbr>&amp;</abbr><expan>und</expan></choice> meine allerschönsten Grüße an
+                    <lb/>Sie, <rs key="E0300059">Ihre verehrte Frau</rs> <choice><abbr>&amp;</abbr><expan>und</expan></choice> Sohn<reg>.</reg>
+                    <!-- vermutlich ist der jüngere Sohn gemeint: Rafaello E0300153 (Alter 1910: 10), Benvenuto E0300060 (Alter 1910: 18 Jahre) – lässt sich das ermitteln? -->
+                </p>
+                <closer rend="align(right)">
+                    <salute>Ihr treu ergebener</salute> 
+                    <signed><persName key="E0300125">Huber</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">
+                        Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <postscript>
+                    <p>
+                        <choice><abbr>Beiliegd.</abbr><expan>Beiliegend</expan></choice> den versprochenen
+                        <lb/><persName key="E0300161">Saint<pc>=</pc>Saëns</persName>.
+                        
+                        <note type="commentary" resp="#E0300327">Gemeint ist vermutlich <title key="E0800233">Portraits et souvenirs</title>; vgl. auch den <ref type="E010002" target="#D0100104">folgenden Brief</ref>.</note>
+                    </p>
+                </postscript>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

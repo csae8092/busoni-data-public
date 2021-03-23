@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100024">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Berg am Starnberger See, 29. August 1911)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Berg am Starnberger See, 29 August 1911)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4555</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 16 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736389</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Nach knapp einjähriger Unterbrechung des Briefwechsels berichtet <persName key="E0300023">Schönberg</persName> <persName key="E0300017">Busoni</persName> von der erzwungenen Abreise mit seiner Familie aus <placeName key="E0500002">Wien</placeName> an den <placeName key="E0500067">Starnberger See</placeName> und den daraus resultierenden finanziellen Problemen, die <persName key="E0300023">Schönberg</persName> angesichts eines ohnehin erwogenen Umzugs nach <placeName key="E0500029">Berlin</placeName> mit <persName key="E0300017">Busonis</persName> Hilfe lösen möchte.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1911-08-29"/></docDate>
+                            <incipit>ich erfuhr, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie sich für die <choice><orig>Ue</orig><reg>Ü</reg></choice>bersiedlung nach <placeName key="E0500029">Berlin</placeName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                    <dim type="format" unit="quarto"/>
+                                </extent>
+                                <foliation resp="#archive">Foliierung mit Bleistift unten rechts auf den Vorderseiten durch das Archiv.</foliation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="blue_pen" scribe="postoffice">Hand eines Postbediensteten, der den Umschlag mit blauem Stift beschriftet hat</handNote>
+                            <handNote xml:id="post_stamp" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/>
+                            
+                            <note type="annotation" place="top" resp="#post">einschreiben per Eilboten, Bote bezahlt</note>
+                            
+                            <note type="stamp" place="margin-right" resp="#post" rend="majuscule">
+                                <stamp>
+                                    <gap reason="incomplete" extent="unknown" unit="char"/>e<supplied reason="incomplete">o</supplied>ni<gap reason="incomplete" extent="unknown" unit="char"/>
+                                    <lb/><supplied reason="incomplete"><unclear>3</unclear></supplied><supplied reason="incomplete">0</supplied>
+                                    <lb/><gap reason="incomplete" atLeast="1" unit="unknown"/><supplied reason="incomplete"><unclear>10</unclear></supplied>
+                                    <lb/><supplied reason="incomplete">5-6</supplied><gap reason="incomplete" extent="unknown" unit="unknown"/>
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp>
+                                    <gap reason="incomplete" extent="unknown" unit="unknown"/>
+                                </stamp>
+                            </note>
+                            
+                            <address resp="#major_hand">
+                                <addrLine>Herrn</addrLine>
+                                <addrLine>Professor <persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent-2 latin"><placeName key="E0500029">Berlin</placeName> W. / 30</addrLine>
+                                <addrLine rend="indent-2 latin"><placeName key="E0500072">Viktoria-L<orig>o</orig>uise-Platz 11</placeName></addrLine>
+                            </address>
+                            
+                            <note type="annotation" place="bottom-left" rend="rotate(-45) underline" resp="#major_hand">nachsenden</note>
+                            
+                            <pb n="6"/>
+                            
+                            <address resp="#major_hand">
+                                <addrLine rend="latin"><persName key="E0300023">Arnold Schönberg</persName> in <placeName key="E0500065">Berg</placeName></addrLine>
+                                <addrLine rend="indent-2 latin">am <placeName key="E0500067">Starnberger See</placeName>, <placeName key="E0500068">Bayern</placeName></addrLine>
+                                <addrLine rend="indent-2">bei <persName key="E0300369">Herrn <seg rend="latin">Widl</seg></persName></addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="center" resp="#archive">
+                                <subst>
+                                    <add>Mus.Nachl. F. Busoni B II, 4555-Beil.</add>
+                                    <del rend="strikethrough"><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#arch_red"/>B II</stamp>
+                                        Mus.ep. A. Schönberg 16</del>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500065">Berg</origPlace>
+                            <origDate when-iso="1911-08-29"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;186&#8239;f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;185–187 (Brief), S.&#8239;102–104 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 409 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100024">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1911-08-29"/>
+                    <placeName ref="http://www.geonames.org/2950767" key="E0500065">Berg am Starnberger See</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100025"/>
+                    <ref type="previous" target="#D0100023"/>
+                    <ref type="next" target="#D0100025"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-02-10" who="#E0300318">RevisionDesc auf status="unfinished" gesetzt.</change>
+            <change when-iso="2016-03-13" who="#E0300318">Dokument auf Status="proposed" gesetzt.</change>
+            <change when-iso="2018-02-10" who="#E0300314">Codierung durchgesehen; Kommentierung redigiert; status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839140169/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3500000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3500000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3500000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3500000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3500000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3500000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <add place="top-left" xml:id="addSig">Mus.Nachl. F. Busoni<lb/><seg rend="align(right)">B II, 4555</seg></add>
+                </note>
+                
+                <note type="shelfmark" place="top-right" resp="#archive">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. A. Schönberg 16<lb/>(Busoni-Nachl.<handShift new="#arch_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <substJoin target="#addSig #delSig"/>
+                
+                <opener>
+                    <dateline rend="top-left">
+                        <date when-iso="1911-08-29">29<choice><orig>/</orig><reg>.</reg></choice>8.1911</date>
+                    </dateline>
+                    <address rend="top-right">
+                        <addrLine><placeName key="E0500065">Berg</placeName> am <placeName key="E0500067">Starnberger<choice><orig>-</orig><reg> </reg></choice>See</placeName></addrLine>
+                        <addrLine>bei Zimmermeister <persName key="E0300369" rend="latin">Widl</persName>, <placeName key="E0500068">Bayern</placeName></addrLine>
+                    </address>
+               </opener>
+
+               <p><seg type="opener" subtype="salute">Verehrte<supplied reason="incomplete">r</supplied>
+                        <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (186)</bibl> und <bibl><ref target="#E0800005"/> (185)</bibl>: <quote>Verehrter</quote>.</note> <persName key="E0300017">Herr Busoni</persName>,</seg> ich erfuhr, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie sich für die <choice><orig>Ue</orig><reg>Ü</reg></choice>ber
+                    <lb break="no"/>siedlung nach <placeName key="E0500029">Berlin</placeName>, die man mit mir vor<orig> </orig>hat, interessieren.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300023">Schönbergs</persName> wirtschaftliche Situation in <placeName key="E0500002">in Wien</placeName> war trotz eines Zuwachses an Schülern und wachsender Bekanntheit alles andere als gesichert; die erhoffte Professur an der <orgName key="E0600011"><placeName key="E0500002">Wiener</placeName> Akademie</orgName> bliebt ihm (vermutlich aus antisemitischen Gründen) zunächst verwehrt (<bibl><ref target="#E0800001"/>, S.&#8239;128&#8239;ff.</bibl>). Von <placeName key="E0500029">Berlin</placeName> erhoffte er sich eine wesentliche pekuniäre Verbesserung und besonders die Möglichkeit, Anerkennung (vgl. <bibl><ref target="#E0800028"/>, S.&#8239;60</bibl>) sowie neue Wege zur künstlerischen Entwicklung zu finden (<bibl><ref target="#E0800021"/>, S.&#8239;60 ff.</bibl>). Die Bekanntschaft mit <persName key="E0300067">Kandinsky</persName> und <persName key="E0300043">Reinhardt</persName> sowie der Tod <persName key="E0300047">Mahlers</persName> mögen die Entscheidung ebenfalls beeinflusst haben (<bibl><ref target="#E0800001"/>, S.&#8239;133 f.</bibl>). Dabei scheint <persName key="E0300023">Schönberg</persName> lange fest mit einer Rückkehr nach <placeName key="E0500002">Wien</placeName> gerechnet zu haben (<bibl><ref type="ext" subtype="asc-l" target="#7933">Brief von <persName key="E0300023">Schönberg</persName> an <persName key="E0300068">Bopp</persName> vom <date when-iso="1911-08-22">22. August</date></ref></bibl>). Die endgültige Entscheidung für <placeName key="E0500029">Berlin</placeName> fiel erst aufgrund des erfolgreichen <ref type="ext" target="https://archive.org/stream/Pan1910-111.jgnr.1-22?ui=embed#page/n784/mode/1up">Aufrufs</ref> im <orgName key="E0600005">Pan</orgName> (vgl. Kommentierung des <ref target="#D0100025">Briefes vom <date when-iso="1911-09-16">16. September</date></ref> sowie <bibl><ref target="#E0800005"/>, S.&#8239;105</bibl>). Dass <persName key="E0300023">Schönberg</persName> hier eine passivische Formulierung wählt, mag auf die vorangegangenen Bemühungen seiner <placeName key="E0500029">Berliner</placeName> Unterstützer anspielen (<bibl>vgl. <ref type="ext" subtype="asc-l" target="#20358">Brief von <persName key="E0300028">Clark</persName> an <persName key="E0300023">Schönberg</persName> vom <date when-iso="1911-06-09">9. Juni 1911</date></ref></bibl>).</note>
+                    
+                    <lb/>Da jetzt durch ein unglückseliges Ereignis zu diese<supplied reason="incomplete">r</supplied> Angelegenheit
+                    <lb/>ein beschleunigendes Element hinzugetreten ist, das eine
+                    <lb/>Situation erzeugt hat, zu deren Entwirrung eine starke Hand
+                    <lb/>nötig ist, wende ich mich an Sie.</p>
+                
+                <p rend="indent-first">Ich kann Ihnen die ganze Geschichte nicht erzählen; sie
+                    <lb/>ist zu lang und zu unglaublich. Ich sage morgen alles
+                    <lb/><persName key="E0300041">Fried</persName>, der Ihnen <subst><del rend="overwritten">B</del><add place="across">b</add></subst>erichten wird.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300041">Fried</persName>, der mit <persName key="E0300023">Schönberg</persName> und <persName key="E0300017">Busoni</persName> bekannt war und sich stark für eine Förderung der Werke beider einsetzte (<bibl><ref target="#E0800025"/>, Sp. 130</bibl>), stand bereits im <date when-iso="1911-07/1911-08">Juli und August</date> mit <persName key="E0300023">Schönberg</persName> bezüglich einer möglichen Übersiedlung nach <placeName key="E0500029">Berlin</placeName> in Kontakt (vgl. <persName key="E0300041">Frieds</persName> Briefe an <persName key="E0300023">Schönberg</persName> vom <ref type="ext" subtype="asc-l" target="#20877"><date when-iso="1911-07-06">6.</date></ref>, <ref type="ext" subtype="asc-l" target="#20881"><date when-iso="1911-07-11">11.</date></ref> und <ref type="ext" subtype="asc-l" target="#20882"><date when-iso="1911-07-26">26. Juli</date></ref> sowie vom <ref type="ext" subtype="asc-l" target="#20885"><date when-iso="1911-08-23">23. August</date></ref>). Am <date when-iso="1911-08-31">31. August</date> traf <persName key="E0300041">Fried</persName> <persName key="E0300023">Schönberg</persName> in <placeName key="E0500034">München</placeName>, wo dieser <persName key="E0300043">Reinhardt</persName> kennenlernte (<bibl><ref target="#E0800001"/>, S.&#8239;130</bibl>). <persName key="E0300041">Fried</persName> scheint direkt im Anschluss nach <placeName key="E0500029">Berlin</placeName> zurückgekehrt zu sein; mit <persName key="E0300017">Busoni</persName> stand er gewiss aufgrund der bevorstehenden Aufführung der <rs key="E0400033">Turandot-Musik</rs> (<bibl><ref target="#E0800016"/>, S.&#8239;37</bibl>) in enger Verbindung (vgl. hierzu Kommentierung des Briefes vom <ref target="#D0100026"><date when-iso="1911-09-19">19. September 1911</date></ref>).</note>
+                    
+                    Die Hauptsache ist
+                    <lb/><choice><orig>f</orig><reg>F</reg></choice>olgendes: Ein mit mir <rs key="E0500100">im selben Hause</rs> in <placeName key="E0500002">Wien</placeName> wohnender
+                    <lb/><rs key="E0300056">Unmensch</rs>, der zweifellos wahnsinnig ist (was sich aber
+                    <lb/>vorderhand ärztlich nicht konstatieren lä<choice><orig>ßt)</orig><reg>sst),</reg></choice> bildet sich
+                    <lb/>ein, da<choice><orig>ß</orig><reg>ss</reg></choice> er mich <hi rend="underline">umbringen mu<choice><orig>ß</orig><reg>ss</reg></choice></hi>. Was er als Grund
+                    <lb/>für seine Wut angi<choice><orig>ebt</orig><reg>bt,</reg></choice> sind Lügen, aber sel<supplied>b</supplied>st
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (186)</bibl> und <bibl><ref target="#E0800005"/> (186)</bibl>: <quote>selbst</quote>.</note>
+                    
+                    als solche
+                    <lb/>so belanglos, da<choice><orig>ß</orig><reg>ss</reg></choice> sie diese Wut, die mir nach
+                    <lb/>dem Leben trachtet, nicht zu rechtfertigen geeignet
+                    <lb/><choice><sic>ist</sic><corr>sind</corr></choice>. Der Gefahr<reg>,</reg> entweder selbst umgebracht<subst><add><orig>, </orig></add><del rend="strikethrough">zu werden</del></subst>
+                    <lb/>oder wegen <choice><orig>Ue</orig><reg>Ü</reg></choice>berschreitung der Notwehr eingesperrt
+                    <lb/>zu werden<reg>,</reg> und den damit verbundenen Aufregungen<orig>,</orig>
+                    <lb/>mu<choice><orig>ß</orig><reg>ss</reg></choice>te ich, nach verschiedenen vergeblichen Versuchen<reg>,</reg> mir
+                    <lb/>durch die Behörden, oder sogar durch den Revolver,
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    <pb n="2"/>
+                    
+                    Ruhe und Sicherheit zu verschaffen, am <date when-iso="1911-08-04">4. August</date>
+                    <lb/>mich durch eine Flucht mit meiner Familie vor
+                    <lb break="no"/>läufig <del rend="strikethrough">z</del> entziehen. Deshalb kam ich hieher.
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (186)</bibl> und <bibl><ref target="#E0800005"/> (186)</bibl>: <quote>hierher</quote>.</note>
+                    
+                    <note type="commentary" resp="#E0300318">In den Wochen vor <persName key="E0300023">Schönbergs</persName> Abreise war es mehrfach zu hitzigen Auseinandersetzungen mit dem Ingenieur <persName key="E0300056">van Wouvermans</persName> gekommen; Gegenstand der Auseinandersetzung war dessen Behauptung, die damals neunjährige <persName key="E0300051">Gertrude Schönberg</persName> habe einen schlechten Einfluss auf dessen Kinder. Nach zahlreichen Beschwerden gegen <persName key="E0300056">Wouvermans</persName> wurde dessen Mietvertrag am <date when-iso="1911-08-04">4. August 1911</date> gekündigt, woraufhin der Streit eskalierte und <persName key="E0300023">Schönberg</persName> mithilfe einer von <persName key="E0300055">Polnauer</persName> besorgten Pistole den Ingenieur davon abhalten musste, in seine Wohnung einzudringen (<bibl><ref target="#E0800021"/>, S.&#8239;57</bibl>). Daraufhin reiste <persName key="E0300023">Schönberg</persName> zunächst alleine nach <placeName key="E0500065">Berg</placeName> ab – <persName key="E0300050">Mathilde</persName> sowie die Kinder <persName key="E0300051">Gertrude</persName> und <persName key="E0300052">Georg</persName> konnten erst einige Tage später nachkommen (<bibl><ref target="#E0800001"/>, S.&#8239;129&#8239;f.</bibl>).</note>
+                    
+                    <lb/>Nun aber hoffte ich, die Angelegenheit durch den
+                    <lb/>Advokaten inzwischen in Ordnung zu bringen, sehe
+                    <lb/>aber nach mehreren <choice><orig>hin und her<pc>=</pc>Schreibereien</orig><reg>Hin-und-Her-Schreibereien</reg></choice>, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>ich keine Aussicht habe<reg>,</reg> mir <rs key="E0300056">den zweifellos Tob
+                        <lb break="no"/>süchtigen</rs>, der <hi rend="underline">einstweilen noch weiter <hi rend="underline" n="2">tobt</hi>!!!</hi><reg>,</reg>
+                    <lb/>vom Hals
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (186)</bibl> und <bibl><ref target="#E0800005"/> (186)</bibl> fälschlich: <quote>Halse</quote>.</note>
+                    
+                    zu schaffen.</p>
+                
+                <p rend="indent-first">So kann ich also nicht nach <placeName key="E0500002">Wien</placeName>
+                    <lb/>zurück!! <subst><del rend="strikethrough">Und deshalb</del><add place="above">So</add></subst> ist die Frage meiner
+                    <lb/><choice><orig>Ue</orig><reg>Ü</reg></choice>bersiedlung durch diesen Unglücksfall, der
+                    <lb/>die <soCalled xml:lang="fr" rend="latin dq-du">force majeur<corr>e</corr></soCalled>
+                    
+                    <note type="commentary" resp="#E0300318">Frz.: <q>höhere Gewalt</q>.</note>
+                    
+                    spielt<reg>,</reg> nicht mehr von meinem
+                    <lb/>Willen abhängig, sondern ich stehe unter einem
+                    <lb/>Zwang.</p>
+                
+                <p rend="indent-first">Trotzdem könnte ich nicht ohne weiteres einen
+                    <lb/>so tollkühnen Streich, wie es diese <choice><orig>Ue</orig><reg>Ü</reg></choice>ber
+                    <lb break="no"/>siedlung mit meiner Familie wäre<reg>,</reg> unternehmen,
+                    <lb/>ohne da<choice><orig>ß</orig><reg>ss</reg></choice> ich eine Sicherheit habe, da<choice><orig>ß</orig><reg>ss</reg></choice> ich
+                    <lb/>wenigstens eine Saison, solange bis ich mich
+                    <lb/>eingearbeitet habe, in <placeName key="E0500029">Berlin</placeName> zuschauen kann.</p>
+                
+                <pb n="3"/>
+                
+                <p rend="indent-first">Lieber <persName key="E0300017">Herr Busoni</persName>, mi<choice><orig>ß</orig><reg>ss</reg></choice>verstehen Sie mich nicht:
+                    <lb/>das ist kein <soCalled rend="latin dq-du">genialer</soCalled> Streich; kein Versuch<reg>,</reg> auf
+                    <lb/>fremde Kosten schmarotzen zu wollen! keine Absicht<reg>,</reg>
+                    <lb/>nicht arbeiten zu wollen und <choice><abbr>dgl</abbr><expan>dergleichen</expan></choice> mehr. Im Gegen
+                    <lb break="no"/>teil: ich bin wohl einer der arbeitsamsten Men
+                    <lb break="no"/>schen, die es heute gi<orig>e</orig>bt! Wenn ich also so etwas
+                    <lb/>fordern mu<choice><orig>ß</orig><reg>ss</reg></choice>, was die <choice><orig>Oe</orig><reg>Ö</reg></choice>ffentlichkeit mir
+                    <lb/>wegen meiner Leistungen wohl bewilligen sollte<reg>,</reg>
+                    <lb/>ohne da<choice><orig>ß</orig><reg>ss</reg></choice> ich darum bitte, so tue ich es mit größtem
+                    <lb/>Widerstreben! Trotzdem ich ein Anrecht darauf
+                    <lb/>fühle!!
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (186)</bibl>, <bibl><ref target="#E0800005"/> (186)</bibl> und <bibl><ref target="#E0800060"/> (410)</bibl> fälschlich: <quote>hätte</quote> (bzw. <q>should have</q>).</note>
+                </p>
+                
+                <p rend="indent-first">Nun aber steht die Sache so: Mein Geld
+                    <lb/>geht zu Ende.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300023">Schönbergs</persName> finanzielle Situation hatte sich in den vergangenen Jahren zwar u.&#8239;a. durch einen Zuwachs von Schülern verbessert, die wirtschaftliche Sicherung der Familie reichte dennoch gerade für die nächsten Monate aus. Im Sommer <date when-iso="1911">1911</date> verschlimmerte sich die Lage durch die niedrigen Verkaufszahlen der Werke <persName key="E0300023">Schönbergs</persName> beim <orgName key="E0600006">Verlag Dreililien</orgName>; auch das für die musiktheoretischen Kurse an der <orgName key="E0600011"><placeName key="E0500002">Wiener</placeName> Akademie</orgName> gewährte Gehalt in Höhe von 400 Kronen reichte für eine finanzielle Stabilisierung nicht aus. Der ungeplante Aufenthalt der gesamten Familie in <placeName key="E0500065">Berg</placeName> erforderte das Eingreifen von Unterstützern (<bibl><ref target="#E0800001"/>, S.&#8239;119&#8239;ff.</bibl>).</note>
+                    
+                    Ich hatte diese
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (186)</bibl>, <bibl><ref target="#E0800005"/> (186)</bibl> und <bibl><ref target="#E0800060"/> (410)</bibl> fälschlich: <quote>die</quote> (bzw. <q>the high costs</q>).</note>
+                    
+                    hohen Kosten, die
+                    <lb/>mich sonst ruiniert hätten<reg>,</reg> durch Freunde auf
+                    <lb break="no"/>gebracht<reg>,</reg> und nur so war es mir möglich<reg>,</reg>
+                    <lb/>vom <date when-iso="1911-08-04">4. August</date> bis jetzt hier zu leben.
+                    
+                    <note type="commentary" resp="#E0300318">Kurzfristig hatte <persName key="E0300033">Webern</persName> eine Summe von 1000 Kronen organisiert, zu denen er selbst, <persName key="E0300053">Berg</persName>, <persName key="E0300040">Jalowetz</persName>, <persName key="E0300058">Horwitz</persName> und <persName key="E0300057">Stein</persName> jeweils 200 Kronen beigetragen hatten. <persName key="E0300023">Schönberg</persName> hatte die Summe am <date when-iso="1911-08-18">18. August</date> erhalten (<bibl><ref target="#E0800021"/>, S.&#8239;46</bibl>). Außerdem hatte sich <persName key="E0300023">Schönberg</persName> an <persName key="E0300039">Hertzka</persName> mit der dringenden Bitte gewandt, ihm kurzfristig 1500 Kronen zur Verfügung zu stellen (<bibl><ref type="ext" subtype="asc-l" target="#6698">Brief von <persName key="E0300023">Schönberg</persName> an <persName key="E0300039">Hertzka</persName> vom <date when-iso="1911-07-23">23. Juli 1911</date></ref></bibl>). Dieser versprach unter Auflagen, 1000 Kronen auszuhändigen (<bibl><ref type="ext" subtype="asc-l" target="#23512">Brief von <persName key="E0300039">Hertzka</persName> an <persName key="E0300023">Schönberg</persName> vom <date when-iso="1911-07-25">25. Juli 1911</date></ref></bibl>); <persName key="E0300061">Cassirer</persName> versprach dieselbe Summe, <persName key="E0300023">Schönberg</persName> hatte 2000 gefordert (<bibl><ref target="#E0800001"/>, S.&#8239;130</bibl>). Des weiteren ging ein Gesuch an <persName key="E0300069">Bahr</persName>, mithilfe von Mäzenen 6000 Kronen im Jahr bereitzustellen (<bibl><ref target="#E0800021"/>, S.&#8239;56</bibl>).</note>
+                </p>
+                
+                <p rend="indent-first">Anfangs September <hi rend="underline">mü<choice><orig>ß</orig><reg><hi rend="underline">ss</hi></reg></choice>te</hi>  ich in <placeName key="E0500002">Wien</placeName>
+                    <lb/>sein; <choice><orig>A</orig><reg>a</reg></choice>ber ich kann nicht. Und <del rend="erasure">d</del> in 14
+                    <lb/>Tagen werde ich nicht mehr das Geld zur
+                    <lb/>Rückfahrt haben.</p>
+                
+                <p rend="indent-first">Bitte<subst rend="overwritten"><del>:</del><add place="across">,</add></subst> mi<choice><orig>ß</orig><reg>ss</reg></choice>verstehen Sie mich nicht:
+                    <lb/>Ich pumpe Sie nicht an; im Gegenteil,
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                    
+                    <pb n="4"/>
+                    
+                    ich wünsche sogar, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie sich selbst an
+                    <lb/>der Geldbeschaffung <hi rend="underline">nur durch Ihren Einflu<choice><orig>ß</orig><reg>ss</reg></choice></hi>
+                    <lb/>beteiligen und sonst durch nichts!!!!
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> setzte sich in seinem weitläufigen Bekannten- und Freundeskreis stark für <persName key="E0300023">Schönberg</persName> ein (<bibl><ref target="#E0800001"/>, S.&#8239;143, 204</bibl>), neben <persName key="E0300042">Kerr</persName>, <persName key="E0300061">Cassirer</persName> (<bibl><ref target="#E0800001"/>, S.&#8239;136</bibl>) u.&#8239;a. auch bei <persName key="E0300077">van Dieren</persName> und <persName key="E0300031">Petri</persName>. <persName key="E0300071">Steuermann</persName> vermittelte er als Schüler an <persName key="E0300023">Schönberg</persName> (<bibl><ref target="#E0800001"/>, S.&#8239;143</bibl>). Der wichtigste Kontakt dürfte jedoch derjenige zur damaligen Leiterin der <orgName key="E0600001">Konzertagentur Wolff</orgName>, Frau <persName key="E0300038">Luise Wolff</persName>, gewesen sein, die sich sofort zur Unterstützung <persName key="E0300023">Schönbergs</persName> bereiterklärte. Durch ihre Vermittlung führten in den kommenden Jahren u.&#8239;a. <persName key="E0300025">Nikisch</persName>, <persName key="E0300073">Siloti</persName>, <persName key="E0300076">Mysz-Gmeiner</persName> oder das <orgName key="E0600015">Rosé-Quartett</orgName> Werke von <persName key="E0300023">Schönberg</persName> auf bzw. vermittelten weitere Aufführungsmöglichkeiten (<bibl><ref target="#E0800001"/>, S.&#8239;136&#8239;f.</bibl>).</note>
+                </p>
+                
+                <p rend="indent-first">Aber um da<choice><orig>ß</orig><reg>s</reg></choice>
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (187)</bibl> und <bibl><ref target="#E0800005"/> (187)</bibl>: <quote>das</quote>.</note>
+                    
+                    bitte ich Sie: Ich habe keine
+                    <lb/>Woche mehr Zeit<reg>,</reg>
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (187)</bibl> und <bibl><ref target="#E0800005"/> (187)</bibl> mit Komma.</note>
+                    
+                    <supplied reason="ink-blot">a</supplied>ber schreckliche Sorgen um
+                    <lb/>die Zukunft. Schließlich, wir sind vier Per
+                    <lb break="no"/>sonen; das ist nicht so einfach! Und warum
+                    <lb/>soll ich, der Werte schafft, im Dreck leben!
+                    <lb/>Ich bitte Sie also um <choice><orig>E</orig><reg>e</reg></choice>ines: <choice><orig>t</orig><reg>T</reg></choice>un Sie
+                    <lb/>das <hi rend="underline">Äußerste</hi> bei Ihren Freunden und Be
+                    <lb break="no"/>kannten für mich, aber vor <hi rend="underline"><choice><orig>A</orig><reg>a</reg></choice>llem</hi>:
+                    <hi rend="align(center) underline">tun Sie es rasch!!</hi></p>
+                
+                <p rend="indent-first">Es tut mir furchtbar leid, da<choice><orig>ß</orig><reg>ss</reg></choice> ich Ihnen
+                    <lb/>mit solchen Sachen kommen mu<choice><orig>ß</orig><reg>ss</reg></choice>. Aber
+                    <lb/>ich meine: einem Künstler, das ist einer<reg>,</reg> der
+                    <lb/>ein Vollmensch ist, kann man mit <choice><orig>A</orig><reg>a</reg></choice>llem
+                    <lb/>kommen. Und ich soll mich doch hoffentlich nicht
+                    <lb/>an die Feinde wenden.
+                    
+                    <note type="commentary" resp="#E0300318">Es ist unklar, ob <persName key="E0300023">Schönberg</persName> hiermit auf konkrete Personen anspielt oder lediglich eine mögliche Abkehr von seinen Umzugsplänen andeuten möchte.</note>
+                </p>
+                
+                <p rend="indent-first">Ich hoffe<reg>,</reg> bald Nachricht von Ihnen zu
+                    <lb/>haben<reg>,</reg> und bin <seg type="closer" subtype="salute">mit vielen herzlichen Grüßen</seg></p>
+
+                <closer>
+                    <signed>Ihr <persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-right" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            
+            </div>
+        </body>
+    </text>
+</TEI>

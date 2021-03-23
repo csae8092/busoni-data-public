@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300606">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Marix Loevensohn</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">117161942</idno>
+                    <idno type="VIAF">3241229</idno>
+                    <idno type="ISNI">0000000020141135</idno>
+                    <persName type="reg">
+                        <surname>Loevensohn</surname>,
+                        <forename>Marix</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1880"/>
+                    </birth>
+                    <death>
+                        <date when-iso="1943"/>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Violoncellist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

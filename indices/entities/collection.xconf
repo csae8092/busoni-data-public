@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <!-- Index-Einträge für subversionHistory.xml -->
+    <index>
+        <range>
+            <create qname="entry" type="xs:string"/>
+            <create qname="@author" type="xs:string"/>
+            <create qname="@rev" type="xs:int"/>
+            <create qname="@dateTime" type="xs:dateTime"/>
+            <create qname="@passive" type="xs:string"/>
+            <create qname="@active" type="xs:string"/>
+            <create qname="@mutual" type="xs:string"/>
+            <create qname="@name" type="xs:string"/>
+        </range>
+        <fulltext default="none" attributes="false"/>
+    </index>
+</collection>

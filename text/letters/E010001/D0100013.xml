@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100013">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Arnold Schönberg (Berlin, 20. August 1909)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Arnold Schönberg (Berlin, 20 August 1909)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="A-Was">Arnold-Schönberg-Center, Wien</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>Washington, D. C.</settlement>
+                        <institution key="US-Wc">The Library of Congress</institution>
+                        <repository>Music Division</repository>
+                        <collection>Arnold Schoenberg Collection</collection>
+                        <altIdentifier>
+                            <country key="AT">Österreich</country>
+                            <settlement>Wien</settlement>
+                            <institution key="A-Was">Arnold-Schönberg-Center</institution>
+                            <idno>19515</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> hat <persName key="E0300023">Schönberg</persName> ein Exemplar des <title key="E0400047">Entwurfs einer neuen Ästhetik der Tonkunst</title> zugesandt; qualifiziert das von <persName key="E0300023">Schönberg</persName> übersandte <rs key="E0400114">dritte Klavierstück</rs> als <q>ohne neue Seiten</q>; nennt das <q>Lakonische</q> und <q>Asketische</q> des Klaviersatzes eine <q>Manier</q> und <q>unnütze[n] Verzicht</q>; schlägt vor, das <rs key="E0400113">zweite Klavierstück</rs> mit einer eigenen <q><rs key="E0400032">Paraphrasierung</rs></q> im Rahmen seiner Reihe <title key="E0400429">An die Jugend</title> drucken zu lassen und <persName key="E0300023">Schönberg</persName> das Honorar zu überlassen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1909-08-20"/></docDate>
+                            <incipit><ref type="E010001" target="#D0100012">Ihr letzter Brief</ref> ist ein interessantes Dokument</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Zunächst nur die Recto-Seiten beschrieben, sodann als Seite 3 auch die Rückseite von Seite 1 (im Querformat), die zunächst allein das Datum trug; das anschließend dort im Querformat platzierte Postscriptum umfließt den Datumseintrag.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift</handNote>
+                            <handNote xml:id="lc_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1909-08-20"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 172 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 161 f. (Brief), S. 75–78 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 390 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100013">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1909-08-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100012"/>
+                    <ref type="repliedBy" target="#D0100014"/>
+                    <ref type="previous" target="#D0100012"/>
+                    <ref type="next" target="#D0100014"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2015-12-28" who="#E0300314">Revisionselement hinzugefügt; status="unfinished"</change>
+            <change when-iso="2016-03-31" who="#E0300317">status="proposed"</change>
+            <change when-iso="2018-01-02" who="#E0300314">Durchsicht abgeschlossen, Entwurf-Kommentar revidiert; status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="http://www.schoenberg.at/scans/DVD043/19515_1.jpg"/>
+        <graphic n="2" url="http://www.schoenberg.at/scans/DVD043/19515_2.jpg"/>
+        <graphic n="3" url="http://www.schoenberg.at/scans/DVD043/19515_3.jpg"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <note type="stamp" resp="#lc_st_red"  place="top-right"><stamp rend="round majuscule small">* The * Library * of * Congress *</stamp></note>
+                    
+                    <salute rend="align(left)">Sehr verehrter <persName key="E0300023">Herr Schönberg</persName><choice><unclear reason="low-ink" cert="high">.</unclear>
+                        <unclear reason="low-ink" cert="low">,</unclear>
+                        <unclear reason="low-ink" cert="low"/></choice>
+                        <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (172)</bibl> und <bibl><ref target="#E0800005"/> (161)</bibl> mit folgendem Komma.</note>
+                    </salute>
+                </opener>
+                <p><ref type="E010001" target="#D0100012">Ihr letzter Brief</ref> ist ein interessantes
+                    <lb/>Dokument, das <del rend="strikethrough">m</del>ich – (auch
+                    <lb/>dadurch<reg>,</reg> dass es <subst><del rend="overwritten">an</del><add place="across">sic</add></subst>h an <hi rend="underline">mich</hi>
+                    <lb/>wendet) – sehr wert<orig>h </orig>halte.
+                    <lb/>Ich erriet<orig>h</orig> Ihre Absichten<reg>,</reg>
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> aus manchen Stellen <rs key="E0400043">meiner
+                        <lb/>kleinen Schrift</rs> – die ich Ihnen
+                    <lb/><q rend="dq-du">zur Verst<choice><orig>ae</orig><reg>ä</reg></choice>ndigung</q> zuschickte –
+                    
+                    <note type="commentary" resp="#E0300314"><persName key="E0300023">Schönbergs</persName> Exemplar der <date when-iso="1907">1907</date> erschienen <rs key="E0800315">Erstausgabe</rs> von <persName key="E0300017">Busonis</persName> <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title> enthält die handschriftliche Widmung <q>Dem Componist <persName key="E0300023">Arnold Schönberg</persName> | zur Verständigung | <persName key="E0300017">F. Busoni</persName></q>, aber keinerlei weitere Eintragungen (vgl. das <ref type="ext" target="http://www.schoenberg.at/scans/JabrefData/biblio_estate.html#Busoni1907">Verzeichnis der Bücher in <persName key="E0300023">Schönbergs</persName> Bibliothek</ref> sowie das <ref type="ext" target="http://www.schoenberg.at/images/stories/bilder_statische_artikel/archiv/annotationen_bibliothek.pdf">Verzeichnis der annotierten Bücher im Nachlass <persName key="E0300023">Arnold Schönbergs</persName></ref> (<ref type="ext" target="http://www.schoenberg.at/index.php/de/archiv/bibliothek"><persName key="E0300023">Arnold-Schönberg</persName>-Center</ref>, <placeName key="E0500002">Wien</placeName>). <persName key="E0300023">Schönbergs</persName> Exemplar der <rs key="E0800326">zweiten Ausgabe</rs> des <title key="E0400043">Entwurfs</title> von <date when-iso="1916">1916</date> enthält zahlreiche Annotationen <bibl>(vgl. <ref target="#E0800043"/>)</bibl>.</note>
+                    
+                    <lb/>ersehen Sie, dass <del rend="strikethrough">ich</del> sie mir
+                    <lb/>nicht fremd sind.</p>
+                
+                <p rend="indent-first">Wir haben glücklich den Ton
+                    <lb/>der Offenheit zu<orig> </orig>einander an
+                    <lb break="no" rend="after:-"/>geschlagen<reg>,</reg> und ich stelle die Frage<subst><del rend="overwritten">:</del><add place="across">n:</add></subst>
+                    <lb/>
+                    <list rend="indent">
+                        <item><choice><orig>w</orig><reg>W</reg></choice>ie weit verwirklichen <supplied>Sie</supplied>
+                            
+                            <note resp="#E0300317" type="commentary" subtype="ed_diff_minor">Auch <bibl><ref target="#E0800004"/> (172)</bibl>, <bibl><ref target="#E0800005"/> (161)</bibl> und <bibl><ref target="#E0800060"/> (390)</bibl> ergänzen: <q>[Sie]</q> (bzw. <q>you</q>).</note>
+                            
+                            diese
+                            <lb/>Absichten?</item>
+                        <item>Und wie<reg> </reg>viel ist dabei <subst><del rend="overwritten">A</del><add place="across"><hi rend="underline">E</hi></add></subst><hi rend="underline">mpfindung</hi>,
+                            <lb/>wie<reg> </reg>viel <q rend="dq-uu"><hi rend="underline">Absichtliches</hi></q>?</item>
+                    </list>
+                </p>
+                
+                <p>Das <rs key="E0400114">dritte Stück</rs>, das Sie mir in
+                    <lb/>Ihrem gütigen Vertrauen schicken,
+                    <lb/>ergänzt <rs type="works" key="E0400112 E0400113">die beiden vorausgegangenen</rs>,
+                    <lb/>ohne neue Seiten aufzuweisen;
+                    <lb/>so will es mir scheinen.</p>
+                
+                
+                <pb n="2"/>
+                
+                <p>Zumal in <hi rend="underline">harmonischer</hi>
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor">Bei <bibl><ref target="#E0800004"/> (172)</bibl>, <bibl><ref target="#E0800005"/> (161)</bibl> und <bibl><ref target="#E0800060"/> (390)</bibl> ohne Hervorhebung.</note>
+                    
+                    Beziehung
+                    <lb/>verl<subst><del rend="overwritten">assen</del><add place="across">ässt</add></subst> es nicht den beschriebenen
+                    <lb/>Kreis. Die A<choice><orig>cc</orig><reg>kk</reg></choice>ordfiguren <add place="above">der</add> großen Septime,
+                    <lb/>der kleinen None – (letztere oft, in
+                    <lb/>Selbsttäuschung, als übermäßige O<choice><orig>c</orig><reg>k</reg></choice>tave
+                    <lb/>geschrieben) – kehren immer wieder.</p>
+                
+                <p rend="indent-first">Das Lakonische wirkt als Manier.
+                    <lb/>(Ein so prächtiger Kopf wie der Ihre<orig>,</orig>
+                    <lb/>empfindet Kritik nur als Gewinn,
+                    <lb/>selbst wenn diese nicht das Richtige
+                    <lb/>treffen sollte.)</p>
+                
+                <p rend="indent-first">Das <soCalled rend="dq-du">Asketische</soCalled> des <choice><orig>C</orig><reg>K</reg></choice>laviersatzes
+                    <lb/>(wir wollen es so benennen) scheint
+                    <lb/>mir ein unnützer Verzicht auf
+                    <lb/>schon Errungenes. Sie setzen
+                    <lb/>einen Wert<choice><orig>h an </orig><reg> an</reg></choice>stelle
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (172)</bibl> und <bibl><ref target="#E0800005"/> (161)</bibl>: <q>anstelle</q>.</note>
+                    
+                    eines früheren,
+                    <lb/>anstatt den neuen mit diesem zu
+                    <lb/>addi<reg>e</reg>ren.
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (172)</bibl> und <bibl><ref target="#E0800005"/> (161)</bibl>: <q>addieren</q>.</note>
+                    
+                    Sie werden <hi rend="underline">anders</hi> und
+                    <lb/>nicht <hi rend="underline">reicher</hi>.</p>
+                
+                <p rend="indent-first">Fühlte ich mich zu Ihrer Kunst nicht
+                    <lb/>vorbereitet, so würde ich mich
+                    <lb/>neigen <choice><abbr>u.</abbr><expan>und</expan></choice> warten. Aber ich habe
+                    <lb/>selbst so viel an mir gearbeitet.</p>
+                
+                <p rend="indent-first">So werden wir – vorläufig – wohl
+                    <lb/>ein jeder in dem Mittelpunkt des
+                    <lb/>eigenen Kreises bleiben, dessen R<subst><del rend="strikethrough">ä</del><add place="across">a</add></subst>nd<del rend="strikethrough">er</del> – 
+                    <lb/>wie Sie richtig sagen – <del rend="strikethrough">sich</del> den des
+                    <lb/>anderen streift. – <seg type="closer" subtype="salute">Mit freundlichstem
+                        <lb/>Gru<choice><orig>ss</orig><reg>ß</reg></choice>, Ihr
+                        
+                        <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (172)</bibl> und <bibl><ref target="#E0800005"/> (161)</bibl> ergänzen: <q>[Sie]</q></note>
+                        
+                        hochschätzender</seg></p>
+                
+                <closer>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                    
+                    <pb n="3"/>
+                    
+                    <dateline rend="inline rotate(225)">
+                        <date when-iso="1909-08-20">20. <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1909</date>
+                    </dateline>
+                </closer>
+                
+                <postscript>
+                    
+                    <p>Mit Verlegern dürften Sie für die allernächste Zeit
+                        <lb/>Schwierigkeiten finden. Aber die Zeit verwandelt sich
+                        <lb/>heutzutage rascher. Was ich jetzt vorbringe, ist
+                        <lb/>ein bescheidener Vorschlag: Der Verleger <persName key="E0300072">Zimmer
+                            <lb break="no"/>mann</persName> beginnt eine Serie Hefte meiner Redaktion
+                        <lb/>zu publi<choice><orig>ciren</orig><reg>zieren,</reg></choice> welche den Titel führen: <soCalled rend="dq-du"><rs key="E0400429">an die Jugend</rs></soCalled><reg>.</reg>
+                        <lb/><rs type="works" key="E0400205 E0400307 E0400308">Die ersten drei im Drucke befindlichen Hefte</rs> ent
+                        <lb break="no"/>halten von mir Eigenes <choice><abbr>u.</abbr><expan>und</expan></choice> Bearbeitetes.
+                        
+                        <note type="commentary" resp="#E0300317"><cit> <quote>Der Jugend gehört meine Liebe und soll fortan gehören.</quote> <bibl>(<ref target="#E0800035"/>, S. 39)</bibl> </cit>, schreibt <persName key="E0300017">Busoni</persName> <date when-iso="1909">1909</date> <!-- wo genau? --> kurz nach Vollendung der vier herausgegeben Hefte <title key="E0400429">An die Jugend</title>. Bei den darin enthaltenen Stücken handelt es sich nicht um einen Zyklus, sondern um eine Sammlung von Bearbeitungen verschiedener kurzer Klavierwerke, mit welchen <persName key="E0300017">Busoni</persName> einen Bogen schlägt von <persName key="E0300012">Bach</persName> (<title key="E0400307">Preludio, Fuga e Fuga figurata</title>) über <persName key="E0300010">Mozart</persName> (<title key="E0400308">Giga, Bolero e Variazione</title>) bis <persName key="E0300081">Paganini</persName> (für <persName key="E0300017">Busoni</persName> der <q><persName key="E0300013">Liszt</persName> des Geigenspiels</q>, <title key="E0400040">Introduzione, Capriccio (Paganinesco) e Epilogo</title>). Diese vier galten <persName key="E0300017">Busoni</persName> als Inbegriff von Weiterentwicklung und Erneuerung der Musik (und daher von <soCalled>Jugend</soCalled>). Mit Eigenkompositionen <rs key="E0400205">im ersten</rs> und einem Epilog <rs key="E0400040">im vierten Heft</rs> stellt sich <persName key="E0300017">Busoni</persName> in eine Reihe mit seinen Vorbildern. Öffentlich gespielt hat er allerdings nur Heft 2–4 ohne Epilog (vgl. <bibl><ref target="#E0800039"/>, S. 77–87</bibl>, und <bibl><ref target="#E0800005"/>, S. 77 f.</bibl>).</note>
+                        
+                        <soCalled rend="sq-uu"><rs key="E0400429">An
+                            <lb/>die Jugend</rs></soCalled> soll bedeuten, dass sich die Publikation
+                        <lb/>an die neue Genera<orig>- </orig>tion wendet. Würden Sie
+                        <lb/>sich mit der Idee versöhnen können, dass
+                        <lb/>z. B. ein viertes Heft <rs key="E0400113">Ihr 12/8-Stück</rs> <hi rend="underline">im</hi> <hi rend="underline">Original</hi>
+                        <lb/><hi rend="underline" n="2"><choice><abbr>u.</abbr><expan>und</expan></choice></hi> <hi rend="underline">in</hi> <rs key="E0400032"><hi rend="underline">meiner</hi> <hi rend="underline">Paraphrasierung</hi></rs> brächte? Dann
+                        <lb/>würde ich es <rs key="E0300072">dem Verleger</rs> vorschlagen und das
+                        <lb/>mir ausgezahlte Honorar (welches sehr bescheiden ist
+                        <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> vielleicht 300 <choice><abbr>Mk</abbr><expan>Mark</expan></choice> betrüge) Ihnen zuweisen.</p>
+                    
+                    <p rend="indent-first">Es gehört einige Überwindung meiner Seite zu diesem
+                        <lb/>Vorschlag, insofern als Sie <rs key="E0400032">meine Paraphrase</rs> still
+                        <lb break="no"/>schweigend übergehen, aber es ist der erste Anknüpfungs
+                        <lb break="no"/>punkt, der mir <del rend="strikethrough">zuerst</del> einfällt. –</p>
+                
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

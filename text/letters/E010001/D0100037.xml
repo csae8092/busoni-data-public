@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Wien, 14. November 1916)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Vienna, 14 November 1916)</title>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-05"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4564</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 26 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736470</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> hat von einem <q>Artikel über den Frieden</q> <persName key="E0300017">Busonis</persName> sowie von dessen <placeName key="E0500132">Zürcher</placeName> Domizil erfahren; leidet unter den Kriegsumständen und seiner Zeit als Soldat; glaubt, man könne der bösen Natur des Menschen durch <q>Schiedsrichter</q> begegnen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-11-14"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1916-11-19"/></docDate>
+                            <incipit>ich höre, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie in <placeName key="E0500132">Zürich</placeName> sind</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                    <dim type="format" unit="folio"/>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten; Umschlagaufriss oben, die rechte obere Ecke der Vorderseite mit Briefmarke und Poststempel fehlt.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signatur mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="post_red" scope="minor" medium="red_pen" scribe="postoffice">Hand eines Postbediensteten, der den Einschreiben-Vermerk mit Rotstift unterstrichen hat</handNote>
+                            <handNote xml:id="censor_red" scope="minor" medium="red_ink" scribe="censor">Zensurstempel (rote Tinte)</handNote>
+                            <handNote xml:id="censor_blue" scope="minor" medium="red_ink" scribe="censor">Hand eines Zensors, Notat mit Blaustift</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="3"/>
+                            
+                            <address rend="latin align(center)">
+                                <addrLine><seg  rend="kurrent">Herrn</seg> Prof. <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine>Klaviervirtuose und Komponist</addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500092">Schweiz</placeName></addrLine>
+                            </address>
+                            
+                            <note type="annotation" place="bottom-left" resp="#major_hand" rend="rotate(-45)"><hi rend="underline"><choice><abbr>rekom&#773;</abbr><expan>rekommandiert</expan></choice></hi></note>
+                            
+                            <note type="label" place="bottom" resp="#censor_red">
+                                <stamp rend="border">Zensuriert
+                                    <lb/>K.&#8239;u.&#8239;k. Zensurstelle
+                                    <seg rend="huge">12</seg>
+                                    <lb/><placeName key="E0500517">Feldkirch</placeName></stamp>
+                            </note>
+                            
+                            <note type="annotation" place="bottom" resp="#censor_blue"><unclear reason="illegible">cfR</unclear></note>
+                            
+                            <pb n="4"/>
+                            
+                            <stamp resp="#schoenberg_addr_st1">
+                                <address>
+                                    <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                    <addrLine><placeName key="E0500002">Wien</placeName>, XIII. Gloriette
+                                        <lb break="no" rend="sh"/>gasse 43. Tel. 84373</addrLine>
+                                </address>
+                            </stamp>
+                            
+                            <note type="stamp" resp="#post" place="right">
+                                <stamp rend="round border align(center) majuscule" sameAs="#post_rec">
+                                    * <placeName key="E0500132">Zürich</placeName> *<lb/><date when-iso="1916-11-19">19.XI.16</date>.VII–
+                                    <lb/>VIII
+                                    <lb/>Briefträger I
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough"><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp></del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4564-Beil.</add>
+                                    <lb/><del rend="strikethrough">Mus.ep. A. Schönberg 26</del>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate when-iso="1916-11-14"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 194 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 200 f. (Brief), S. 129–131 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 419 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100037">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1916-11-14"/>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100038"/>
+                    <ref type="previous" target="#D0100036"/>
+                    <ref type="next" target="#D0100038"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2016-03-15" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend, status todo</change>
+            <change when-iso="2016-05-30" who="#E0300314">Metadaten und diplomatische Umschrift ergänzt; Lesefassung und Kommentierung ausstehend, status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/83914282X/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4600000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4600000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4600000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4600000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <byline rend="top-left">
+                        <stamp resp="#schoenberg_addr_st1">
+                            <address>
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                <addrLine><placeName key="E0500002">Wien</placeName>, XIII. Gloriette
+                                    <lb break="no" rend="sh"/>gasse 43. Tel. 84373</addrLine>
+                            </address>
+                        </stamp>
+                    </byline>
+                    <dateline rend="top-right"><date when-iso="1916-11-14">14.XI.1916</date></dateline>
+                    
+                    <note type="shelfmark" place="top-center" resp="#archive">
+                        <subst>
+                            <del rend="strikethrough">Mus.ep. A. Schönberg 26 (Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#archive"/>)</del>
+                            <add place="below">Mus.Nachl. F. Busoni B II, 4564</add>
+                        </subst>
+                    </note>
+                </opener>
+                <p rend="space-above"><seg type="opener" subtype="salute">Lieber verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> ich höre, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie in <placeName key="E0500132">Zürich</placeName> sind, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie
+                    <lb/>einen Aritkel über den Frieden geschrieben haben, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie also der
+                    <lb/>Krieg bedrückt – da mu<choice><orig>ß</orig><reg>ss</reg></choice> ich Ihnen gleich schreiben.</p>
+                
+                <p rend="indent-first">Ich leide furchtbar unter diesem Krieg. Wie viele intime Beziehun
+                    <lb break="no"/>gen <subst><del rend="overwritten"><gap atLeast="2" unit="char" reason="overwritten"/></del><add place="across">zu</add></subst> den feinsten Menschen hat er mir <del rend="strikethrough"><gap extent="3" unit="char" reason="strikethrough"/></del> zerrissen; wie hat er mein
+                    <lb/>halbes Denken mit Beschlag belegt und mir gezeigt, da<choice><orig>ß</orig><reg>ss</reg></choice> ich mit der andern
+                    <lb/>Hälfte so<reg> </reg>wenig weiter existieren kann<orig>,</orig> wie mit der mit Beschlag belegten.</p>
+                
+                <p rend="indent-first">Bitte schicken Sie mir<orig>,</orig> Ihren Artikel über den Frieden<reg>,</reg> und lassen Sie
+                    <lb/>sonst vor sich hören. Dürften <hi rend="underline">wir zwei</hi> und <hi rend="underline">unseres<orig> </orig>gleichen in allen
+                        <lb/>Ländern</hi> uns zusammen<orig> </orig>setzen und über einen Frieden beraten. In <del rend="strikethrough"><gap extent="2" unit="char" reason="strikethrough"/></del>
+                    <lb/>einer Woche würden wir ihn der Welt schenken und tausende Ideen dazu,
+                    <lb/>die für eine halbe Ewigkeit, für einen halbwegs ewigen Frieden reichten.</p>
+                
+                <p rend="indent-first">Ja, die Menschen sind böse. Aber nicht so böse, da<choice><orig>ß</orig><reg>ss</reg></choice> man nicht Schieds
+                    <lb break="no"/>richter zwischen ihnen sein könnte. Sie sind furchtbar böse – das hat erst der
+                    <lb/>Krieg gezeigt. <del rend="strikethrough"><gap extent="3" unit="char" reason="strikethrough"/></del> Im Frieden hat es sich wenigstens nicht so gezeigt –
+                    <lb/>fast darf man glauben: da waren sie<reg>’</reg>s noch nicht. Gewi<choice><orig>ß</orig><reg>ss</reg></choice> wird ein
+                    <lb/>Schiedsrichter einen Stecken brauchen, der jeden erreicht, der schuld ist.
+                    <lb/>Aber mu<choice><orig>ß</orig><reg>ss</reg></choice> man sie vorher böse und unglücklich werden lassen? Sehen Sie<reg>,</reg>
+                    <lb/>böse und unglücklich, das ist im Materiellen identisch. Im Geistigen
+                    <lb/>heißt<reg>’</reg>s anders: unglücklich, daher gut!</p>
+                
+                <p rend="indent-first">Bitte lassen Sie von sich hören. Ich grüße Sie vielmals und von
+                    <lb/>ganzem Herzen.<seg type="closer" subtype="signed">Ihr <persName key="E0300023">Arnold Schönberg</persName></seg></p>
+                
+                <postscript>
+                    <p rend="indent-first">Ich war zehn Monate Soldat;
+                        
+                        <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönberg</persName> war <date when-iso="1915-11/1916-06">von November 1915 bis Juni 1916</date> eingezogen worden.</note>
+                        
+                        jetzt bin ich enthoben, weil ich schließlich
+                        <lb/>nicht frontdiensttauglich war. Ich habe natürlich viel mitgemacht! Denken
+                        <lb/>Sie: mit 42 Jahren als Lehrbub beim Militär; wenn man schließlich sein ganzes
+                        <lb/>Leben hindurch zur Wahrung seiner Selbständigkeit die größten Opfer gebracht hat,
+                        <lb/>nun plötzlich Lehrjunge zu sein und sich <del rend="strikethrough">von Idioten</del> befehlen lassen!</p>
+                </postscript>
+                
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spacedout">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-right" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                
+                <pb n="2"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite, vacat]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

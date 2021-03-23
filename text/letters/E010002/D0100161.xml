@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100161">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 4. Juni 1917)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 4 June 1917)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300329">
+                        <forename>Till</forename>
+                        <forename>Erik</forename>
+                        <surname>Sawallisch</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bedankt sich für Hubers Unterstützung in der <persName key="E0300084">Hans Pfitzner</persName>-Kontroverse; beklagt seine stereotype Herabsetzung durch die Deutschen; berichtet vom Erfolg mit <title key="E0400133">Arlecchino</title> und <title key="E0400153">Turandot</title>; arbeitet an einer Ausgabe von <persName key="E0300013">Liszts</persName> <title key="E0400154">Don-Juan-Fantasie</title>; <!-- Ausgabe erfassen? --> kündigt Aufführungsbesuch von Hubers Symphonie in <placeName key="E0500097">Basel</placeName> an.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-06-04"/></docDate>
+                            <incipit>es war so gut von Ihnen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Blätter</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der Datierung und Nummerierung mit Bleistift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1917-06-04"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;31</bibl>
+                            <bibl><ref target="#E0800060"/>, S.&#8239;260&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1917-06-04"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100160"/>
+                    <ref type="repliedBy" target="#D0100162"/>
+                    <ref type="previous" target="#D0100160"/>
+                    <ref type="next" target="#D0100162"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315"> Datei als Platzhalter erstellt, Transkription ausstehend. </change>
+            <change when-iso="2017-03-08" who="#E0300329"> Bearbeitung übernommen; status="unfinished" </change>
+            <change when-iso="2017-03-30" who="#E0300329">status="proposed"</change>
+            <change when-iso="2017-06-02" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+
+                <pb n="1"/>
+                
+                <note place="top-right" resp="#archive" type="numbering">53.</note>
+                
+                <note place="right" resp="#archive" type="dating"><date when-iso="1917-06-04">4. Juni 1917</date></note>
+                
+                <opener>
+                    <salute>Lieber <choice><orig>v</orig><reg>V</reg></choice>erehrter,</salute>
+                </opener>
+                
+                <p>es war so gut von Ihnen<reg>,</reg> auch
+                    <lb/>bei diesem geringen Anla<choice><orig>ß</orig><reg>ss</reg></choice>e Ihre
+                    <lb/>freundliche <choice><orig>Th</orig><reg>T</reg></choice>eilnahme zu zeigen.
+                    
+                    <note type="commentary" resp="#E0300329"><persName key="E0300084">Hans Pfitzner</persName> hatte kurz zuvor seine gegen <persName key="E0300017">Busoni</persName> gerichtete Schrift <title key="E0800052">Futuristengefahr</title> veröffentlicht.</note>
+                    <!-- als Werk auszeichnen? -->
+                </p>
+                <p rend="indent-first">Wohl hätte ich in ganz
+                    <lb/>anderem Tone erwi<orig>e</orig>dern können
+                    <lb/>an den <rs key="E0300084">Herrn Doktor von der 
+                        <lb/>Münchner Festwoche</rs><orig>,</orig> (die uns
+                    <lb/>keine neuesten Nachrichten bringen
+                    
+                    <!-- Kritik in den Münchner neuesten Nachrichten auszumachen? worauf nimmt Busoni Bezug? auf Pfitzner selbst? Person auszeichnen -->
+                    
+                    <lb/>wird!)<reg>,</reg> aber um ihn mit <subst><del rend="strikethrough">solchen</del><add place="above">den</add></subst>
+                    <lb/>Waffen der Grobheit zu schlagen<reg>,</reg>
+                    <lb/>hätte ich gemein werden mü<choice><orig>ß</orig><reg>ss</reg></choice>en,
+                    <lb/>was wiederum <hi rend="underline">sein</hi> Sieg gewesen
+                    <lb/>wäre. Völlig ungerecht ist er
+                    <lb/>bei dem Argument, dass ich mit
+                    <lb/>der Kritik der Schlagwörter
+                    <lb/><hi rend="align(center)"><mentioned rend="dq-uu">musikalisch</mentioned> und <mentioned rend="dq-uu">tief</mentioned></hi>
+                    <lb/>den Deutschen Unterricht ert<orig>h</orig>eilen
+                    <lb/>wolle.
+                    
+                    <note type="commentary" resp="#E0300329"><bibl><ref target="#E0800052"/>, S.&#8239;212.</bibl></note> 
+                    <!-- etwas kurz Zitierbares? -->
+                    
+                    Es verhält sich ganz umgekehrt.                    
+                </p>
+
+                <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                
+                <p><hi rend="underline">Ich</hi> bin’s, der ich in <placeName key="E0500015">Deutschland</placeName>,
+                    <lb/>seit Kindheit auf <choice><abbr>u.</abbr><expan>und</expan></choice> noch als
+                    <lb/>reifer Mann, fortwährend unter
+                    <lb break="no"/>richtet wurde; und jeder Noten
+                    <lb break="no" rend="after:-"/><del rend="strikethrough">K<gap unit="char" atLeast="2"/></del><choice><orig>K</orig><reg>k</reg></choice>opist, jeder Provinz-Stammtischler
+                    <lb/>konnte <choice><abbr>u.</abbr><reg>und</reg></choice> durfte mich mit <del rend="strikethrough">d</del> jenen
+                    <lb/>beiden Wörtern einschüchtern<orig>,</orig> <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>sich über mich stellen. Ähnlich
+                    <lb/>erging es mir mit dem gangbaren
+                    <lb/>Wort <mentioned rend="dq-du">Gefühl</mentioned>, <choice><abbr>u.</abbr><expan>und</expan></choice> man hat es
+                    <lb/>fertig<orig> </orig>gebracht, mir die Etikette
+                    <lb/>anzukleben <q rend="dq-uu">des Mannes von
+                    <lb/>Intellekt ohne Seele<orig>.</orig></q><reg>.</reg>
+                    
+                    <note type="commentary" resp="#E0300329">Die erwähnten Begriffe <mentioned>Gefühl</mentioned>, <mentioned>Tiefe</mentioned> und auch <mentioned>Sehnsucht</mentioned> dienen bei <persName key="E0300084">Pfitzner</persName> zur Abgrenzung der <q>Deutschen</q> von den <q>romanischen Völkern</q> <bibl>(vgl. <ref target="#E0800052"/>, S.&#8239;222</bibl>.</note>
+                    <!-- Entsprechender Abschnitt im Entwurf 1916? -->
+                    
+                    – Nein,
+                    <lb/>die durften nicht bedingungslos
+                    <lb/>siegen, Sie haben ganz Recht.<note type="commentary" resp="#E0300329">Siehe <ref type="E010002" target="#D0100160"/></note>
+                    <lb/>Nun werden Sie meine Revolte
+                    <lb/>gegen die Kanonisierung <persName key="E0300097">Reger<orig>’</orig>s</persName>
+                    <lb/>(durch <persName key="E0300132">Suter</persName>) eher verstehen<orig>,</orig> als
+                    <lb/>damals:
+                    
+                    <note type="commentary" resp="#E0300329"><persName key="E0300097">Max Reger</persName> war am <date when-iso="1916-05-11">11. Mai 1916</date> an Herzversagen gestorben.</note>
+                    <!-- Verweis auf Brief mit Busonis Replik auf Suter, Nov. 1916 -->
+                    
+                    das ging nicht gegen
+                    <lb/><persName key="E0300132">Suter</persName> <choice><abbr>u.</abbr><expan>und</expan></choice> kaum gegen <persName key="E0300097">Reger</persName>: es
+                    <lb/>ging gegen ein Prinzip, das
+                    <lb/>aufrecht zu halten ich die
+                    <lb/><placeName key="E0500092">Schweizer</placeName> für undeutsch genug
+                    <lb/>halten möchte.
+                </p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(3)</note>
+                
+                <p>Alle Verehrung vor den größten
+                    <lb/>Deutschen! Die mediokren füttern
+                    <lb/>sich aber von Schlagwörtern <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>sprechen im <choice><orig>Heerden-Ton</orig><reg>Herdenton</reg></choice> <q rend="dq-du">wir</q>.
+                    <lb/><q rend="dq-du"><hi rend="underline">Wir</hi> hal<del rend="strikethrough">l</del>ten durch</q>, das ist
+                    <lb/>das neueste. —
+                    
+                    <!--
+                    <note resp="#E0300329">Schon vor dem Kriegseintritt der USA im Juni 1917 hatte sich die Lage der Deutschen an der Westfront und in der Zivilbevölkerung deutlich verschlechtert.</note>
+                    
+                    Ist das wirklich eine Kriegsanspielung (Beleg?), oder geht es nicht doch bloß um eine musikalisches "Weiter so!"?
+                    -->
+                </p>
+                <p rend="indent-first">Am <date when-iso="1917-05-31">31. Mai</date> fand eine <choice><orig>4.</orig><reg>vierte</reg></choice> Auf
+                    <lb break="no"/>führung meiner Spiele
+                    
+                    <note type="commentary" resp="#E0300329"><persName key="E0300017">Busonis</persName> Opern <title key="E0400133">Arlecchino</title> und <title key="E0400153">Turandot</title>, die jeweils gemeinsam aufgeführt wurden.</note>
+                    
+                    statt, mit
+                    <lb/>gl<choice><orig>ae</orig><reg>ä</reg></choice>nzendem Erfolge. – Nun arbeite
+                    <lb/>ich an einer <soCalled rend="dq-du">gro<choice><orig>ss</orig><reg>ß</reg></choice>en, kritisch-in
+                        <lb break="no"/>struktiven Ausgabe</soCalled>
+                    
+                    <!-- Ausgabe erfassen? -->
+                    
+                    von <persName key="E0300013">Liszt<orig>’</orig>s</persName> <title key="E0400154">Don<choice>
+                        <orig><lb/></orig>
+                        <reg>-<lb break="no"/></reg></choice>Juan<choice><orig> </orig><reg>-</reg></choice>Fantasie</title>, worin ich Manches
+                    <lb/>niederlege
+                    
+                    <note type="commentary" subtype="ed_diff" resp="#E0300314"><bibl><ref target="#E0800047"/> (31)</bibl> fälschlich: <q>widerlege</q>.</note>
+                    
+                    – –                   
+                </p>
+                <p rend="indent-first">Ich rechne, zu Ihrer Symphonie
+                    
+                    <!-- welche Symphonie, welche Aufführung? siehe Refardt! -->
+                    
+                    <lb/>nach <placeName key="E0500097">Basel</placeName> zu kommen<reg>,</reg> und
+                    <lb/>freue mich auf Musik und
+                    <lb/>Geselligkeit. Die Symphonie ist
+                    
+                    <!-- Werk ermitteln und auszeichnen -->
+                    
+                    <lb/>doch am <date when-iso="1917-06-09">Samstag</date>? Möchten Sie
+                    <lb/>mir das kurz bestätigen?                                        
+                </p>
+                <closer rend="indent-first">Verzeihen Sie die Mühe und
+                    <lb/>seien Sie nochmals bedankt
+                    <lb/>von Ihrem verehrungsvoll
+                    <salute rend="align(right)"><choice><abbr>u.</abbr><expan>und</expan></choice> herzlich ergebenen</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline rend="no-indent">
+                        <date when-iso="1917-06-04">4<reg>.</reg> Juni 1917</date>
+                    </dateline>
+                </closer>
+                
+                <pb n="4"/>
+                <note type="objdesc" resp="#E0300329">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="5"/>
+                <note type="objdesc" resp="#E0300329">[Rückseite von Textseite 2, vacat]</note>
+                
+                <pb n="6"/>
+                <note type="objdesc" resp="#E0300329">[Rückseite von Textseite 3, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

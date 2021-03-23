@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hermann von Helmholtz</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">11854893X</idno>
+               <persName type="reg">
+                  <surname>Helmholtz</surname>,
+                  <forename>Hermann</forename>
+                  <nameLink>von</nameLink>
+               </persName>
+               <birth>
+                  <date when-iso="1821-08-31"/>
+                  <placeName key="E0500016">Potsdam</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1894-09-08"/>
+                  <placeName key="E0500017">Charlottenburg</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Physiologe</occupation>
+               <occupation>Physiker</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

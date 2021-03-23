@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfred Kerr</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">11856157X</idno>
+               <persName type="reg">
+                  <surname>Kerr</surname>,
+                  <forename>Alfred</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Alfred</forename>
+                  <surname>Kempner</surname>
+               </persName>
+               <persName type="pseud" from-iso="1887">
+                  <forename>Alfred</forename>
+                  <surname>Kerr</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1867-12-25"/>
+                  <placeName key="E0500070">Breslau</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1948-10-12"/>
+                  <placeName key="E0500005">Hamburg</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterkritiker</occupation>
+               <affiliation when-iso="1912/1915">Herausgeber des <orgName key="E0600005">Pan</orgName></affiliation>
+               <note>Pseudonym seit <date from-iso="1887">1887</date>, offizielle Namensänderung <date when-iso="1909">1909</date>.</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

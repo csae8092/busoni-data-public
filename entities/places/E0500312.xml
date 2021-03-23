@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500312">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konzertsaal Bösendorfer (Wien)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Konzertsaal Bösendorfer</placeName>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Herrengasse 6–8</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500002">Wien</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="AT"/>
+                  <geo>48.209144 16.3665834</geo>
+               </location>
+               <desc>Von <persName key="E0300230">Ludwig Bösendorfer</persName> im Liechtensteinpalais gegründeter und am <date when-iso="1872-11-19">19. November 1872</date> durch <persName key="E0300231">Hans von Bülow</persName> eröffneter Konzertsaal mit über 500 Sitzplätzen. Bis zum Abriss des Gebäudes im Jahr <date when-iso="1913">1913</date> einer der beliebtesten Konzertsäle <placeName key="E0500002">Wiens</placeName>, in welchem mehr als 4500 Konzerte stattfanden.</desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

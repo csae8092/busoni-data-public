@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Berg am Starnberger See, 19. September 1911)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Berg am Starnberger See, 19 September 1911)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4556</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 17 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736421</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> hält den <rs key="E0800027">Aufruf</rs> zu seinen Gunsten im <orgName key="E0600005">Pan</orgName> für zu unklar; fordert energischeres Engagement für seine geplanten Kurse am <orgName key="E0600012">Stern’schen Konservatorium</orgName>; hat <persName key="E0300043">Max Reinhardt</persName> seine Werke <title key="E0400022">Erwartung</title> und <title key="E0400021">Die glückliche Hand</title> zur Aufführung empfohlen; bietet sich als Dirigenten an; drängt auf schnelle Unterstützung seiner Übersiedlung nach <placeName key="E0500029">Berlin</placeName> durch <q>die Herren Geldmänner</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1911-09-19"/></docDate>
+                            <incipit>herzlichsten Dank für <ref type="E010001" target="#D0100025">Ihren sehr lieben Brief</ref>. Ich war schon sehr beunruhigt</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                    <dim type="format" unit="quarto"/>
+                                </extent>
+                                <foliation resp="#archive">Foliierung mit Bleistift oben rechts auf den Vorderseiten durch das Archiv.</foliation>
+                                <condition>Der Brief ist gut erhalten; Briefumschlag auf der Vorderseite links leicht beschädigt (infolge Aufriss).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="archivist">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp rend="round border majuscule align(center)" xml:id="post_abs">
+                                    <placeName key="E0500065">Berg</placeName> <seg rend="minuscule">b.</seg> <placeName key="E0500069">Starnberg</placeName>
+                                    <lb/><date when-iso="1911-09-19">19
+                                        <lb/>Sep</date>
+                                    <lb/>5–6 N<seg rend="minuscule">m.</seg><lb/><gap reason="illegible" atLeast="1" unit="char"/>
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent-2 latin"><placeName key="E0500029">Berlin</placeName> W.</addrLine>
+                                <addrLine rend="indent latin"><placeName key="E0500072">Viktoria<choice><orig> Luisep</orig><reg>-Luise-P</reg></choice>latz 11</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <address>
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                <addrLine rend="latin"><placeName key="E0500065">Berg</placeName>, am <placeName key="E0500067">Würmsee</placeName>, <placeName key="E0500068">Bayern</placeName></addrLine>
+                                <addrLine><choice><abbr>pr. Adr. H.</abbr><expan>private Adresse Herr</expan></choice> <persName rend="latin">Widl</persName></addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#arch_red"/>B II</stamp></del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4556-Beil.</add>
+                                    <lb/><del rend="strikethrough">Mus.ep. A. Schönberg 17</del>
+                                </subst>
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500065">Berg</origPlace>
+                            <origDate when-iso="1911-09-19"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;187–189</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;188–190 (Brief), S.&#8239;106–109 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 411–413</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100026">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1911-09-19"/>
+                    <placeName ref="http://www.geonames.org/2950767" key="E0500065">Berg am Starnberger See</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100025"/>
+                    <ref type="previous" target="#D0100025"/>
+                    <ref type="next" target="#D0100027"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-02-13" who="#E0300318">RevisionDesc auf status="unfinished" gesetzt.</change>
+            <change when-iso="2016-03-13" who="#E0300318">Dokument auf status="proposed" gesetzt.</change>
+            <change when-iso="2018-02-11" who="#E0300314">Codierung durchgesehen; Kommentierung redigiert; status candidate</change>
+            <change when-iso="2019-11-10" who="#E0300372">Ergänzung zur "Clark" Kommentierung.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839140681/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3600000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3600000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3600000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3600000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3600000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3600000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" rend="indent" resp="#archive">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. A. Schönberg 17 (Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    <dateline rend="top-left">
+                        <date when-iso="1911-09-19">19<choice><orig>/</orig><reg>.</reg></choice>9.1911</date>
+                    </dateline>
+                    <byline rend="top-right">
+                        <address>
+                            <addrLine><placeName key="E0500065">Berg</placeName> am <placeName key="E0500067">Starnberger<choice><orig>-</orig><reg> </reg></choice>See</placeName></addrLine>
+                            <addrLine><placeName key="E0500068">Bayern</placeName>, <choice><abbr>pr. Ad.</abbr><expan>private Adresse</expan></choice> <persName key="E0300369"><choice><abbr>H.</abbr><expan>Herr</expan></choice> Widl</persName></addrLine>
+                        </address>
+                    </byline>                    
+                </opener>
+                    <p rend="space-above"><seg type="opener" subtype="salute">Sehr verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> herzlichsten Dank für <ref type="E010001" target="#D0100025">Ihren sehr lieben
+                    <lb/>Brief</ref>. Ich war schon sehr beunruhigt, als ich keine Antwort
+                    <lb/>erhielt. Ich konnte mir<reg>’</reg>s gar nicht erklären und vermutete,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> ich<reg>,</reg> ohne es zu wollen, irgend<orig> </orig>wo angestoßen sei. Nun klärte
+                    <lb/>es sich glücklicherweise anders auf.</p>
+                
+                <p rend="indent-first">Nun zur Sache selbst: Sie haben wohl sehr recht, da<choice><orig>ß</orig><reg>ss</reg></choice> der
+                    <lb/>zwar gut gemeinte <rs key="E0800027">Aufruf</rs><orig>,</orig> etwas wenig wirksam ist. Vor
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>llem fehlt ihm die nötige sachliche Klarheit. Derlei Dinge
+                    <lb/>dürfen nicht mit ungewöhnlichen Worten und schön<reg> </reg>klingenden
+                    <lb/>Satzkonstruktionen gesagt werden, sondern <add place="above">nur</add> mit den nüchternsten
+                    <lb/>Worten. Ich kenne <persName key="E0300042">Kerr</persName> nicht
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300042">Kerr</persName> hatte den <rs key="E0800027">Aufruf</rs> im <orgName key="E0600005">Pan</orgName> unterzeichnet und auch mitformuliert (<bibl><ref target="#E0800005"/></bibl>); <persName key="E0300023">Schönberg</persName> lernte ihn persönlich erst im Herbst <date when-iso="1911">1911</date> in <placeName key="E0500029">Berlin</placeName> kennen (<bibl><ref target="#E0800001"/>, S.&#8239;136</bibl>).</note>
+                    
+                    und bin ihm sehr dankbar für
+                    <lb/>seine Absicht. Aber ich bin sicher, wenn Sie es vorher gelesen
+                    <lb/>hätten, wär<reg>’</reg>s günstig gewesen.</p>
+                
+                <p rend="indent-first">Ich meine<reg>,</reg> die ganze Aktion mü<choice><orig>ß</orig><reg>ss</reg></choice>te etwas energischer
+                    <lb/>angefa<choice><orig>ß</orig><reg>ss</reg></choice>t werden. Ich habe beispielsweise <persName key="E0300028">Herrn Clark</persName>
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300023">Schönberg</persName> hatte <persName key="E0300028">Clark</persName> am <date when-iso="1910-10-31">31. Oktober 1910</date> anlässlich einer Aufführung von <rs key="E0400012">Pelleas und Melisande</rs> in <placeName key="E0500029">Berlin</placeName> über <persName key="E0300041">Fried</persName> kennengelernt. <persName key="E0300028">Clark</persName> zählte fortan zu <persName key="E0300023">Schönbergs</persName> Unterstützern und wurde 1911 sein erster Berliner Schüler (<bibl><ref target="#E0800001"/>, S.&#8239;124&#8239;f. u. 139</bibl>).</note>
+                    
+                    einen
+                    <lb/>Entwurf für eine
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800060"/> (411)</bibl> fälschlich: <quote>seine</quote> (bzw. <q>his</q>).</note>
+                    
+                    Ankündigung meiner Kurse
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300023">Schönberg</persName> hatte bereits im Rahmen seines ersten <placeName key="E0500029">Berliner</placeName> Aufenthalts <date from-iso="1902" to-iso="1903">1902/03</date> am <orgName key="E0600012">Stern’schen Konservatorium</orgName> gelehrt – auf Empfehlung von <persName key="E0300022">Strauss</persName> hatte er Kurse in Harmonielehre gegeben (<bibl><ref target="#E0800026"/>, S.&#8239;80</bibl>). Im Winter <date when-iso="1911">1911</date> nun gab <persName key="E0300023">Schönberg</persName> eine Vortragsreihe zu Ästhetik und Kompositionslehre (<bibl><ref target="#E0800001"/>, S.&#8239;136</bibl>), die außerhalb des eigentlichen Lehrplans stattfand. Das <orgName key="E0600012">Konservatorium</orgName> stellte einen Saal zur Verfügung und übernahm die Bekanntmachung der Veranstaltungen, verlangte im Gegenzug jedoch ein Drittel der Einnahmen. Die Vorträge fanden zwischen dem <date when-iso="1911-11-20">20. November 1911</date> und dem <date when-iso="1912-01-29">29. Januar 1912</date> statt. Am ersten Termin nahmen auch <persName key="E0300017">Ferruccio</persName> und <persName key="E0300059">Gerda Busoni</persName> teil (<bibl><ref target="#E0800026"/>, S.&#8239;82&#8239;f.</bibl>). Der Reihe war jedoch kein großer Erfolg beschieden (<bibl><ref target="#E0800001"/>, S.&#8239;139</bibl>).</note>
+                    
+                    geschickt. Ich
+                    <lb/>hätte es für sehr gut gehalten, wenn man den in ein paar
+                    <lb/>Blättern veröffentlicht hätte.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300028">Clark</persName> hatte am <date when-iso="1911-09-22">22. September</date>, <date when-iso="1911-10-06">6. Oktober</date> und <date when-iso="1911-11-10">10. November</date> in der <orgName key="E0600014">Allgemeinen Musik-Zeitung</orgName> Inserate veröffentlicht, welche für die bevorstehenden Kurse <persName key="E0300023">Schönbergs</persName> am <orgName key="E0600012">Stern’schen Konservatorium</orgName> warben. Die Ankündigungen hatten jedoch nur wenig Erfolg (<bibl><ref target="#E0800005"/>, S.&#8239;106</bibl>).</note>
+                    
+                    <note type="stamp" place="inline" resp="#dsb_st_red"><stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp></note>
+                    
+                </p>
+                
+                <p rend="indent-first">Es wäre sehr gut, wenn ich in <placeName key="E0500029">Berlin</placeName> sein könnte<reg>,</reg>
+                    <lb/>und deshalb möchte ich Ihnen später noch einiges sagen.
+                    <lb/>Vor <choice><orig>A</orig><reg>a</reg></choice>llem, weil ich zur Sicherung meiner Existenz noch
+                    
+                    <note type="shelfmark" place="bottom-left" resp="#archive">
+                        <add place="bottom" xml:id="addSig">Mus.Nachl. F. Busoni B II, 4556</add>
+                    </note>
+                    
+                    <substJoin target="#delSig #addSig"/>
+                    
+                    <pb n="2"/>
+                    
+                    <sic>noch</sic> einiges unternommen
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800005"/> (189)</bibl> fälschlich: <quote>übernommen</quote>.</note>
+                    
+                    habe und noch <choice><orig>M</orig><reg>m</reg></choice>anches dazutun
+                    <lb/>will. So habe ich <persName key="E0300043">Max Reinhar<supplied reason="omitted">d</supplied>t</persName> meine zwei Bühnenwerke
+                    <lb/>zur Aufführung eingereicht (zwei kurze Stücke: <rs key="E0400022" rend="dq-du">Monodram</rs> und
+                    <lb/><rs key="E0400021" rend="dq-du">Die glückliche Hand</rs>) und mit ihm darüber verhandelt, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>ich sie selbst dirigiere.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300043">Reinhardt</persName>, den <persName key="E0300023">Schönberg</persName> kurz zuvor am <date when-iso="1911-08-31">31. August</date> in <placeName key="E0500034">München</placeName> durch Vermittlung von <persName key="E0300041">Fried</persName> kennengelernt hatte (<bibl><ref target="#E0800021"/>, S.&#8239;53</bibl>), leitete seit <date when-iso="1905">1905</date> u.&#8239;a. das <orgName key="E0600009">Deutsche Theater</orgName> und bezog, neben seiner Tätigkeit als Opernregisseur (<bibl><ref target="#E0800015"/>, S.&#8239;279</bibl>), musikalische Elemente auf innovative Weise in das Sprechtheater mit ein (<bibl><ref target="#E0800014"/>, Sp.&#8239;1531</bibl>). Die geplante Zusammenarbeit mit <persName key="E0300023">Schönberg</persName> sagte <persName key="E0300043">Reinhardt</persName> jedoch bereits am <date when-iso="1911-09-23">23. September 1911</date> wieder ab, da er eine Umsetzung der Werke in einem Sprechtheater für undurchführbar hielt (<bibl><ref type="ext" subtype="asc-l" target="#22383">Telegramm von <persName key="E0300043">Reinhardt</persName> an <persName key="E0300023">Schönberg</persName> vom <date when-iso="1911-09-23">23. September 1911</date></ref></bibl>).</note>
+                    
+                    Mich ihm gleichzeitig<orig>,</orig> als Dirigenten
+                    <lb/>angetragen für die andern Musikwerke, die er in dieser
+                    <lb/>Saison aufführen will.
+                    
+                    <note type="commentary" resp="#E0300318">An Musikwerken führte <persName key="E0300043">Reinhardt</persName> in dieser sowie der folgenden Saison u.&#8239;a. <persName key="E0300020">Offenbachs</persName> <rs key="E0400036">Die schöne Helena</rs>, <persName key="E0300017">Busonis</persName> <rs key="E0400033">Turandot-Musik</rs> sowie <persName key="E0300070">Humperdincks</persName> <rs key="E0400037">Der blaue Vogel</rs> auf (<bibl><ref target="#E0800029"/>, S.&#8239;332&#8239;f.</bibl>).</note>
+                    
+                    Er war <hi rend="underline" n="2">sehr geneigt</hi><reg>,</reg> und ich
+                    <lb/>glaube, wenn ich ihn noch einmal sprechen könnte, wäre
+                    <lb/>die Sache gemacht. Dabei <unclear cert="high" reason="illegible">hörte</unclear>
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl>, <bibl><ref target="#E0800005"/> (189)</bibl> und <bibl><ref target="#E0800060"/> (412)</bibl>: <quote>hoffte</quote> (bzw. <q>was hoping</q>).</note>
+                    
+                    ich, da<choice><orig>ß</orig><reg>ss</reg></choice> er auch
+                    <lb/>von Ihnen etwas macht. Das wäre mir eine große
+                    <lb/>Freude und höchst interessant, das zu dirigieren. Können
+                    <lb/>Sie nicht darauf Einflu<choice><orig>ß</orig><reg>ss</reg></choice> nehmen?
+                    
+                    <note type="commentary" resp="#E0300318">Am <date when-iso="1911-10-27">27. Oktober 1911</date> wurde <persName key="E0300017">Busonis</persName> <date when-iso="1905">1905</date> komponierte <title key="E0400033">Musik zu <persName key="E0300431">Gozzis</persName> Turandot</title> im Rahmen einer Neuproduktion des Stücks am <orgName key="E0600009">Deutschen Theater</orgName> aufgeführt (<bibl><ref target="#E0800029"/>, S.&#8239;332</bibl>); am Pult stand <persName key="E0300041">Oskar Fried</persName> (<bibl><ref target="#E0800016"/>, S.&#8239;37</bibl>). <persName key="E0300017">Busoni</persName> muss in dieser Zeit in regem Austausch mit <persName key="E0300043">Reinhardt</persName> gestanden haben.</note>
+                    
+                    <persName key="E0300043">Reinhardt</persName> war
+                    <lb/>bis dahin sehr dafür! Und ich hoffe bestimmt, wenn
+                    <lb/>er noch von Ihnen<orig>,</orig> dazu angeregt wird, da<choice><orig>ß</orig><reg>ss</reg></choice> er mich
+                    <lb/>en<del rend="strikethrough"><gap reason="strikethrough" atMost="1" unit="char"/></del>gagiert. – Sie brauchen keine Sorge zu haben, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>ich kein guter Dirigent bin. Ich bin ganz <choice><orig>gewiß</orig><reg>gewiss</reg></choice> sogar
+                    <lb/>ein hervorragender!
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300023">Schönberg</persName> hatte im <date when-iso="1905-01">Januar 1905</date> bei der Uraufführung von <rs key="E0400012">Pelleas und Melisande</rs> zum ersten Mal ein großes Ensemble dirigiert. <date when-iso="1912">1912</date> weitete sich <persName key="E0300023">Schönbergs</persName> Betätigung endgültig auf das Dirigieren aus (<bibl><ref target="#E0800013"/>, Sp.&#8239;1585&#8239;ff.</bibl>). So leitete er auf Einladung von <persName key="E0300046">Zemlinsky</persName> eine Aufführung von <rs key="E0400012">Pelleas und Melisande</rs> am <date when-iso="1912-02-29">29. Februar 1912</date> in <placeName key="E0500009">Prag</placeName>, welche großen Anklang fand (<bibl><ref target="#E0800001"/>, S.&#8239;149&#8239;f.</bibl>). <date when-iso="1912">1912</date> zunehmend europaweit bekannt (<bibl><ref target="#E0800001"/>, S.&#8239;154</bibl>), dirigierte <persName key="E0300023">Schönberg</persName> in den nächsten Jahren u.&#8239;a. in <placeName key="E0500115">Amsterdam</placeName>, <placeName key="E0500047">London</placeName> und <placeName key="E0500116">St. Petersburg</placeName> (<bibl><ref target="#E0800013"/>, Sp.&#8239;1588</bibl>).</note>
+                    
+                    Warum sollte ich es nicht sein, da
+                    <lb/>ich imstande bin, meine Sachen <hi rend="underline">einzustudieren</hi>!!!
+                    <lb/>Was <choice><orig>s</orig><reg>S</reg></choice>chwieriger<supplied reason="omitted">e</supplied>s
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800005"/> (189)</bibl>: <quote>schwierigeres</quote>.</note>
+                    
+                    gi<orig>e</orig>bt es doch nicht<reg>,</reg> und das Studieren
+                    <lb/>ist doch das Wichtigste! Und manuell bin ich entschieden
+                    <lb/>geschickt! Also, das Mi<choice><orig>ß</orig><reg>ss</reg></choice>trauen, das Mediokre immer
+                    <lb/>haben<reg>,</reg> ist so ungerechtfertigt<orig>,</orig> wie je!</p>
+                
+                <p rend="indent-first">Ich glaube<reg>,</reg> Kontrapunkt ist noch schwier<supplied reason="omitted">i</supplied>ger<orig>,</orig>
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800005"/> (189)</bibl>: <quote>schwieriger</quote>.</note>
+                    
+                    als dirigieren!</p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                
+                <p rend="indent-first">Was nun weiter meine <choice><orig>Ue</orig><reg>Ü</reg></choice>bersiedlungsmöglichkeiten
+                    <lb/>anbelangt, so rechne ich sehr auf die Mitwirkung der
+                    <lb/>in Aussicht gestellten Mä<choice><orig>c</orig><reg>z</reg></choice>ene.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300028">Clark</persName> hatte kurz zuvor die Wichtigkeit von Mäzenen für einen erfolgreichen Umzug nach <placeName key="E0500029">Berlin</placeName> unterstrichen (<bibl><ref type="ext" subtype="asc-l" target="#20358">Brief von <persName key="E0300028">Clark</persName> an <persName key="E0300023">Schönberg</persName> vom <date when-iso="1911-06-09">9. Juni</date></ref></bibl>). Neben <persName key="E0300061">Cassirer</persName>, der sich bereits im <date when-iso="1911-07">Juli</date> bereiterklärt hatte, 1000 Mark zur Verfügung zu stellen, und <persName key="E0300039">Hertzka</persName>, der (unter Auflagen) 1500 Kronen bereitstellen wollte (<bibl><ref target="#E0800001"/>, S.&#8239;130</bibl>), ist als Mäzen der Bankier <persName key="E0300080">Arnhold</persName> zu nennen; dieser hatte sich im <date when-iso="1912-01">Januar 1912</date> bereit erklärt, 1000 Mark für eine Aufführung der <rs key="E0400042">Gurrelieder</rs> zu geben (<bibl><ref target="#E0800001"/>, S.&#8239;154</bibl>). Für den eigentlichen Umzug wurden 2000 Mark gespendet (<bibl><ref target="#E0800001"/>, S.&#8239;136</bibl>). Der Plan, im <date when-iso="1911-09">September 1911</date> durch <persName key="E0300069">Bahr</persName> einen Fonds einzurichten und aus diesem jährlich eine Summe von 6000 Kronen zu beziehen, konnte nicht durchgeführt werden; der Fonds erhielt aber mehrere Spenden (<bibl><ref target="#E0800021"/>, S.&#8239;56</bibl>). Zudem hat <persName key="E0300023">Schönberg</persName> vermutlich indirekt durch die Freundschaft <persName key="E0300017">Busonis</persName> mit dem Bankier <persName key="E0300079">Sobernheim</persName> profitiert, indem <persName key="E0300079">Sobernheim</persName> beispielsweise für eine Aufführung von <rs key="E0400041">Pierrot lunaire</rs> in <persName key="E0300017">Busonis</persName> <rs key="E0500072">Wohnung</rs> 3000 Mark zur Verfügung stellte (<bibl><ref target="#E0800005"/>, S.&#8239;108</bibl>).</note>
+                    
+                    Und da setze ich meine große
+                    <lb/>Hoffnung auf Sie. Ein Wort von einem Mann<orig>,</orig> wie Sie, der<reg>,</reg>
+                    <lb/>wie ich selbst sehen konnte, mit Recht so verehrt wird, mu<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>sicher genügen.</p>
+                
+                <p rend="indent-first">Aber diese Sache, wie ich schon <del rend="strikethrough">g</del> in <ref type="E010001" target="#D0100024">meinem ersten
+                    <lb/>Brief</ref> schrieb, eilt sehr. Und ist jetzt noch dringender
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl> fälschlich: <quote>dringlicher</quote>.</note>
+                    
+                    als
+                    <lb/>damals, da ich bald <foreign xml:lang="fr" rend="latin">vis-<choice><orig>a</orig><reg>à</reg></choice>-vis du rien</foreign>
+                    
+                    <note type="commentary" resp="#E0300318">Frz.: <q>vor dem Nichts</q>.</note>
+                    
+                    stehe! Es wäre
+                    <lb/>also nötig, da<choice><orig>ß</orig><reg>ss</reg></choice> die Herren Geldmänner schon in den aller
+                    <lb break="no"/>nächsten Tagen ihre Hände öffneten und mich in die Lage
+                    <lb/>versetzten, wieder etwas zu tun.</p>
+                
+                <p rend="indent-first">Allerdings am allerliebsten wäre es mir, wenn
+                    <lb/>Sie es möglich machten, da<choice><orig>ß</orig><reg>ss</reg></choice> man mir so rasch wie
+                    <lb/>möglich jene Summe <choice><orig>giebt</orig><reg>gibt,</reg></choice> die ich zur <choice><orig>Ue</orig><reg>Ü</reg></choice>bersiedlung
+                    <lb/>brauche. Ich bin sicher<reg>,</reg> in <placeName key="E0500029">Berlin</placeName> geht<reg>’</reg>s dann weiter.
+                    <lb/>Es handelt sich leider nur
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800005"/> (190)</bibl>: <q>nur</q> fehlt.</note>
+                    
+                    um eine recht große Summe,
+                    <lb/>denn ich mu<choice><orig>ß</orig><reg>ss</reg></choice> in <placeName key="E0500002">Wien</placeName> meine Wohnungsmiete beza<supplied reason="omitted">h</supplied>len<reg>,</reg>
+                    <lb/>um meine M<choice><sic>o</sic><corr>ö</corr></choice>bel
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800005"/> (190)</bibl>: <quote>Möbel</quote>.</note>
+                    
+                    frei zu bekommen, mu<choice><orig>ß</orig><reg>ss</reg></choice> die Trans
+                    <lb break="no"/>portkosten haben und etwas für die erste Zeit zum Leben.
+                    <lb/>Ich glaube<reg>,</reg> unter 2000 Mark ist das nicht zu machen. Aber
+                    <lb/>3000 wären wohl günstig.</p>
+                
+                <p rend="indent-first">Wenn Sie mir das durchsetzen könnten<reg>,</reg> und vor <choice><orig>A</orig><reg>a</reg></choice>llem
+                    <lb/>so rasch, da<choice><orig>ß</orig><reg>ss</reg></choice> ich noch Ende dieser oder <choice><orig>A</orig><reg>a</reg></choice>nfangs nächster
+                    
+                    <pb n="4"/>
+                    
+                    Woche nach <placeName key="E0500029">Berlin</placeName> könnte<reg>,</reg> wäre ich sehr gut daran!
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300023">Schönberg</persName> gab ab dem <date when-iso="1911-09-25">25. September 1911</date> die <rs key="E0500117">Adresse</rs> von <persName key="E0300028">Clark</persName> in <placeName key="E0500029">Berlin</placeName> an. Der Umzug in die <placeName key="E0500058">Villa Lepcke</placeName> erfolgte zum <date when-iso="1911-10-01">1. Oktober</date> (<bibl><ref target="#E0800001"/>, S.&#8239;133&#8239;f.</bibl>).</note>
+                    
+                    Ich glaube,
+                    <lb/>ich mu<choice><orig>ß</orig><reg>ss</reg></choice> dort sein. Ich habe so<reg> </reg>viele Pläne, da<choice><orig>ß</orig><reg>ss</reg></choice> ich unbe
+                    <lb break="no"/>dingt alles durchsetzen werde, was ich will.</p>
+                
+                <p rend="indent-first">Ich will neben dem Unterrichten auch als Dirigent wirken
+                    <lb/>und habe dazu schon eine Verbindung ang<supplied reason="omitted">e</supplied>knüpft,
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (188)</bibl> und <bibl><ref target="#E0800005"/> (190)</bibl>: <quote>angeknüpft</quote>.</note>
+                    
+                    die mir
+                    <lb/>sehr nützlich sein wird.
+                    
+                    <note type="commentary" resp="#E0300318">Bei dieser <quote>Verbindung</quote> könnte es sich neben dem oben erwähnten <persName key="E0300043">Reinhardt</persName> um den Konzertagenten <persName key="E0300078">Gutmann</persName> handeln. Dieser hatte Mitte <date when-iso="1911-09">September 1911</date> versprochen, <persName key="E0300023">Schönberg</persName> eine Aufführungsmöglichkeit für <rs key="E0400012">Pelleas und Melisande</rs> zu verschaffen. <persName key="E0300078">Gutmann</persName>, der Anfang <date when-iso="1912">1912</date> den Hauptsitz seiner Agentur von <placeName key="E0500034">München</placeName> nach <placeName key="E0500029">Berlin</placeName> verlegen sollte (<bibl><ref target="#E0800021"/>, S.&#8239;64</bibl>), setzte sich später auch in <placeName key="E0500029">Berlin</placeName> für <persName key="E0300023">Schönberg</persName> ein (<bibl><ref target="#E0800001"/>, S.&#8239;179</bibl>). Zudem hatte <persName key="E0300046">Zemlinsky</persName> <persName key="E0300023">Schönberg</persName> am <date when-iso="1911-09-09">9. September</date> eine Aufführungsmöglichkeit von <rs key="E0400012">Pelleas und Melisande</rs> in <placeName key="E0500009">Prag</placeName> eröffnet, bei welcher <persName key="E0300023">Schönberg</persName> sein Werk dirigieren sollte (<bibl><ref target="#E0800028"/>, S.&#8239;62</bibl>).</note></p>
+                
+                <p rend="indent-first">Mit einem Wort, wenn die Mä<choice><orig>c</orig><reg>z</reg></choice>ene einstweilen
+                    <lb/>wenigstens für die <choice><orig>Ue</orig><reg>Ü</reg></choice>bersiedlung herhalten und <seg xml:id="mv_1">später</seg> <metamark function="transposition" target="#mv_1 #mv_2">&#8767;</metamark> <seg xml:id="mv_2">zusagen,</seg>
+                    
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#mv_2"/>
+                            <ptr target="#mv_1"/>
+                        </transpose>
+                    </listTranspose>
+                    
+                    <lb/>noch ein wenig nachzuhelfen, wenn es nicht gleich ins
+                    <lb/><choice><orig>Rechte</orig><reg>rechte</reg></choice> Geleise kommt, so habe ich wenig Sorge, da<choice><orig>ß</orig><reg>ss</reg></choice> die
+                    <lb/>Sache gelingt.</p>
+                
+                <p rend="indent-first">Aber ich meine: <hi rend="underline">es mu<choice><orig>ß</orig><reg>ss</reg></choice> äußerst rasch geschehen!</hi></p>
+                
+                <p rend="indent-first">Wenn Sie da etwas dazu tun könnten!</p>
+                
+                <p rend="indent-first">Seien Sie nicht bös, da<choice><orig>ß</orig><reg>ss</reg></choice> ich Sie belästige. Aber ich
+                    <lb/>ahne, da<choice><orig>ß</orig><reg>ss</reg></choice> einem großangelegten Menschen, wie Sie, derartige
+                    <lb/>Dinge nicht fremd vorkommen.</p>
+                
+                <p rend="indent-first">Ich hoffe<reg>,</reg> bald von Ihnen Nachricht zu erhalten<reg>,</reg> und bin</p>
+                <closer>
+                    <salute>mit vielen herzlichen verehrungsvollen <choice><sic>Gruße</sic><corr>Grüßen</corr></choice>
+                        
+                        <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (189)</bibl> und <bibl><ref target="#E0800005"/> (190)</bibl>: <quote>Grüßen</quote>.</note></salute>
+                    <signed rend="inline">Ihr <persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red" rend="space-above">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue" rend="space-above">
+                    <stamp rend="align(center)">Nachlaß Busoni</stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

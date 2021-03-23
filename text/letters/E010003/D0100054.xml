@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100054">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Heinrich Schenker (vmtl. Berlin, zw. 19. u. 26. Mai 1897)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Heinrich Schenker (prob. Berlin, between 19 and 26 May 1897)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-RIVu">University of California, Riverside, Special Collections and Archives</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">Vereinigte Staaten von Amerika</country>
+                        <settlement>Riverside</settlement>
+                        <institution key="US-RIVu">University of California, Special Collections and Archives</institution>
+                        <collection>Oswald Jonas memorial collection</collection>
+                        <idno>Box 9, Folder 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> dankt für die Zusendung von Noten, (darunter <title key="E0400305">Legende</title>, <title key="E0400304">C-Dur-Scherzo</title>, <title key="E0400306">Variationen</title> und eine <title key="E0400424">Ballade</title>); schlägt vor, einige der Stücke zu einer Fantasie zu vereinen.</summary>
+                        <msItem>
+                            <incipit><ref type="E010003" target="#D0100053">Ihre zweite Epistel</ref> klang <del rend="strikethrough">z</del> trostreicher als <ref type="E010003" target="#D0100052">die erste</ref>;</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="black-pen" scribe="recipient" scribeRef="#E0300024">Wahrscheinlich Hand Heinrich Schenkers, Markierungen mit schwarzem Buntstift.</handNote>
+                            <handNote xml:id="recipient_2" scope="minor" medium="black-pen" scribe="recipient" scribeRef="#E0300024">Wahrscheinlich Hand Heinrich Schenkers, Markierungen mit lila Buntstift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde vermutlich in <origPlace key="E0500029" cert="high">Berlin</origPlace> zwischen dem <origDate notBefore-iso="1897-05-19" notAfter-iso="1897-05-26">19. und 26.&#8239;Mai 1897</origDate> verfasst. Die Datierung erfolgt über den Kontext.</origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800079"/>, S.&#8239;80 [nicht vollständig abgedruckt]</bibl>
+                            <bibl><ref target="#E0800103"/>, S.&#8239;11&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100054">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date notBefore="1897-05-19" notAfter="1897-05-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100052 #D0100053"/>
+                    <ref type="previous" target="#D0100053"/>
+                    <ref type="next" target="#D0100055"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-06-06" who="#E0300317">Datei erstellt, Transkription begonnen.</change>
+            <change when-iso="2017-06-09" who="#E0300317">Erstcodierung erfolgt</change>
+            <change when-iso="2017-06-30" who="#E0300317">mit den Auszeichnungen begonnen</change>
+            <change when-iso="2018-05-16" who="#E0300317">Kommentierung abgeschlossen</change>
+            <change when-iso="2018-06-20" who="#E0300317">erste Kontrolle der Metadaten abgeschlossen.</change>
+            <change when-iso="2018-07-17" who="#E0300317">Rechtschreibung in der Lesefassung überprüft.</change>
+            <change when-iso="2018-07-23" who="#E0300317">Status von todo auf propsed gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <salute>Sehr geehrter Herr <choice><orig>Doctor</orig><reg>Doktor</reg></choice>.</salute>
+                </opener>
+                <p rend="indent-first"><ref type="E010003" target="#D0100053">Ihre zweite Epistel</ref>
+                    <lb/>klang <del rend="strikethrough">z</del> trostreicher als
+                    <lb/><ref type="E010003" target="#D0100052">die erste</ref>; trostreicher auch
+                    <lb/>für mich, der an Ihren
+                    <lb/>Schicksalen aufrichtigen
+                    <lb/><choice><orig>Antheil</orig><reg>Anteil</reg></choice> nimmt.</p>
+                <p rend="indent-first">Es freute mich, wenn
+                    <lb/>mit <orgName key="E0600065">Lienau</orgName> was werden 
+                    <lb/>sollte, wozu ich selbverst<choice><orig>ae</orig><reg>ä</reg></choice>ndlich
+                    <lb/>das Meinige – sobald sich
+                    <lb/>Gelegenheit gibt –
+                    <lb/><choice><orig>thun</orig><reg>tun</reg></choice> will <choice><abbr>u.</abbr><expan>und</expan></choice> werde.</p>
+                
+                <pb n="2"/>
+                
+                <p>Inzwischen ist auch
+                    <lb/>die Notensendung
+                    <lb/>eingetroffen, deren
+                    <lb/>Inhalt den trefflichen
+                    <lb/>ersten Eindruck durchaus
+                    <lb/><choice><orig>bestaetigte</orig><reg>bestätigte</reg></choice>.</p>
+                <p rend="indent-first">Wie w<choice><orig>ae</orig><reg>ä</reg></choice>re es (ein
+                    <lb/><choice><orig>subjectiver</orig><reg>subjektiver</reg></choice> Vorschlag
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> <choice><orig>N</orig><reg>n</reg></choice>ichts weiter!)<reg>,</reg>
+                    <lb/>wenn Sie <del rend="strikethrough"><title key="E0400424">Ballade</title></del>
+                    <lb/><hi rend="underline"><title key="E0400305">Legende</title></hi> und <hi rend="underline"><title key="E0400306">Variationen</title></hi>
+                    <lb/>zu <hi rend="underline" n="2">einem</hi> Opus
+                    <lb/>vereinigten, etwa als
+                    <lb/><title key="E0400252">Fantasie</title>. Dazu würde
+                    <lb/>als Mittelsatz das
+                    <lb/><title key="E0400304">C-<choice><orig>dur </orig><reg>Dur-</reg></choice>Scherzo</title> sehr passen,
+                    
+                    <pb n="3"/>
+                    
+                    das ich übrigens viel
+                    <lb/>lieber ohne Trio,
+                    <lb/><soCalled rend="dq-du">aus einem Guss</soCalled> haben
+                    <lb/><choice><orig>moechte</orig><reg>möchte</reg></choice>.</p>
+                <p>Also etwa: <hi rend="underline">Fantasia</hi>.</p>
+                <list rend="indent" style="decimal">
+                    <item rend="indent">In modo d’una leggenda</item>
+                    <item rend="indent">Intermezzo umoristico</item>
+                    <item rend="indent">Finale, alla variazione.</item>
+                </list>
+                <p><hi rend="stroke-left double black" resp="#recipient">Ich <del rend="strikethrough">ha<gap reason="strikethrough" unit="char" extent="1"/></del> glaube, in dieser
+                    <lb/>Form würde Ihr Werk
+                    <lb/>dem <persName key="E0300008">Schumann</persName>’schen
+                    <lb/><rs key="E0400299">op<reg>.</reg> 17</rs> nicht nachstehen.</hi></p>
+                <p rend="indent-first">Nach <placeName key="E0500108">Mannheim</placeName>
+                    
+                    <note type="commentary" resp="#E0300317">Anhand der Erwähnung <placeName key="E0500108">Mannheims</placeName> lässt sich die Datierung des Briefes auf den Zeitraum <date notBefore-iso="1897-05-19" notAfter-iso="1897-05-26">zwischen dem 19. und 26.&#8239;Mai</date> eingrenzen (vgl. <ref type="E010003" target="#D0100052">Brief von <persName key="E0300024">Schenker</persName> an <persName key="E0300017">Busoni</persName> vom <date when-iso="1897-05-18"></date>18.&#8239;Mai 1897</ref> und dortige Kommentierung; <bibl><ref target="#E0800103"/>, S.&#8239;11&#8239;f.</bibl>: <date when-iso="1897-05-20">ca. 20.5.1897</date>).</note>                    
+                    
+                    <lb/>komme ich leider nicht,
+                    <lb/>doch bitte ich<reg>,</reg> gelegentlich
+                    <lb/><persName key="E0300143">d’Albert</persName> zu grüßen.
+                    
+                    <note type="commentary" resp="#E0300317">Zwischen <persName key="E0300143">d’Albert</persName> und <persName key="E0300017">Busoni</persName>, zwei der berühmtesten Pianisten ihrer Zeit, scheint keine Korrespondenz bestanden zu haben. Überliefert sind einige Aussagen <persName key="E0300017">Busonis</persName>, aus denen hervorgeht, dass er <persName key="E0300143">d’Albert</persName> und dessen Spielweise nicht goutierte. <persName key="E0300049">Gottfried Galston</persName> notierte einige rückblickende Aussagen <persName key="E0300017">Busonis</persName>, in denen dieser <persName key="E0300143">d’Albert</persName> des Plagiats bezichtigt (<bibl><ref target="#E0800119"/>, S.&#8239;85</bibl>) und ihm abspricht, einer der <quote>größten Pianisten</quote> (<bibl><ref target="#E0800119"/>, S.&#8239;41</bibl>) zu sein, da <quote>der wirklich große Virtuose – ein Bahnbrecher, ein Markstein der Evolutionskurve sein müsse</quote> (<bibl><ref target="#E0800119"/></bibl>). Zudem beklagt <persName key="E0300017">Busoni</persName>, offenbar nicht ohne Neid, <persName key="E0300143">d’Alberts</persName> Verhältnis zu Presse und Publikum: <quote>Lauter Dinge, die einem anderen das Genick gekostet hätten. Wie haben sie mir gelauert und ausgespäht nach schwachen Punkten!! Wie hätten sie mich abgeschlachtet, ihm aber geschah nicht nur nichts, sondern er steht da als der einzige Held</quote> (<bibl><ref target="#E0800119"/>, S.&#8239;42</bibl>). Verstärkt wurden diese Konkurrenzgedanken sicher auch dadurch, dass beide mit <persName key="E0300037">Hermann Wolff</persName> denselben Konzertagenten hatten: <quote>Damals hatte <persName key="E0300037">Wolff</persName> <persName key="E0300143">d’Albert</persName>, er mußte lanciert werden, zwei konnte er nicht brauchen – also wurde <persName key="E0300017">Busoni</persName> nach <placeName key="E0500093">Amerika</placeName> spediert</quote> (<bibl><persName key="E0300553">Dents</persName> mschr. Aufzeichnungen seiner Interviews mit <persName key="E0300059">Gerda Busoni</persName>; RML, <persName key="E0300553">Dent</persName> Papers, o. Sign.; zit. nach <ref target="#E0800023"/>, S.&#8239;792, Fußnote 1</bibl>).</note>
+                    
+                    <pb n="4"/>
+                    
+                    Ihm ist zu dem Erfolg
+                    <lb/>seiner <title key="E0400301">Gernot</title> Glück
+                    <lb/>zu wünschen, was meiner
+                    <lb break="no"/>seits auch herzlichst geschieht.</p>
+                <p rend="indent-first">Ihren <rs type="biblio" key="E0800212 E0800211">Aufsatz über
+                    <lb/><persName key="E0300009">Brahms</persName></rs> habe ich nicht
+                    <lb/>gelesen; werde es aber
+                    <lb/>eifrig nachholen.</p>
+                <p rend="indent-first">Großen Dank für die 
+                    <lb/><choice><abbr>freundl.</abbr><expan>freundliche</expan></choice> Sendung der
+                    <lb/><hi rend="stroke-left double violet" resp="#recipient_2">Noten. Die <title key="E0400424">Ballade</title> machte
+                    <lb/>auf mich einen ernsten,
+                    <lb/><choice><orig>schoenen</orig><reg>schönen</reg></choice> Eindruck. –</hi></p>
+                <p rend="indent-first">Wenn mit <orgName key="E0600065">Schlesinger</orgName>
+                    
+                    <note type="commentary" resp="#E0300317">Siehe hierzu <ref type="E010003" target="#D0100053"><persName key="E0300024">Schenkers</persName> Brief an <persName key="E0300017">Busoni</persName> vom <date when-iso="1897-05-19">19.&#8239;Mai 1897</date></ref>. Die <date when-iso="1810">1810</date> gegründete <orgName key="E0600064">Schlesingersche Buch- und Musikhandlung</orgName> wurde <date when-iso="1864">1864</date> von <persName key="E0300297">Robert Emil Lienau</persName> gekauft und übernommen.</note>
+                    
+                    <lb/><choice><orig>N</orig><reg>n</reg></choice>ichts, so werden wir weiter
+                    <lb/>versuchen. –</p>
+                
+                <closer>
+                    <salute rend="indent-first">Mit herzlichstem Gruß
+                        <lb/>achtungsvoll ergeben</salute>
+                    <signed rend="align(right)">Ihr <persName key="E0300017">F<reg>.</reg> B<reg>.</reg> Busoni</persName></signed>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

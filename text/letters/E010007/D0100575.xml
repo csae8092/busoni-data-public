@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100575">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Briefkarte von Ferruccio Busoni an Robert Freund (Berlin, 19. Januar 1901)</title>
+                <title xml:lang="en">Correspondence card by Ferruccio Busoni to Robert Freund (Berlin, 19 January 1901)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Zz">Zentralbibliothek Zürich</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Zürich</settlement>
+                        <institution key="CH-Zz">Zentralbibliothek Zürich</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection>Nachlass Robert Freund &amp; Etelka Freund</collection>
+                        <idno>Ms. Z II 157 a.1.12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> bittet <persName key="E0300208">Freund</persName>, den für <date when-iso="1901-01-19" cert="high">diesen Tag</date> 
+                            geplanten Besuch auf einen anderen Tag zu verlegen, da ihn Reisen und andere wichtige Geschäfte <q>ganz und gar ermüdet</q> haben.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1901-01-19" cert="high"/>Sonnabend</docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1901-01-19"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1901-01-19"/></docDate>
+                            <incipit>Ich bin seit <date when-iso="1901-01-18" cert="high">gestern</date> Morgen 6 Uhr eigentlich nicht zur Ruhe gekommen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Briefkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Die Briefkarte ist gut erhalten; Umschlag mit Aufriss oben (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                            <handNote xml:id="post_pen" scope="minor" medium="blue_pen" scribe="postoffice" cert="high">
+                                vmtl. Hand eines Postangestellten, der mit blauem Buntstift die Zahl <q>10</q> auf der Umschlagvorderseite vermerkt hat
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="3" facs="D0100575_3.jpg"/>
+                            <note type="shelfmark" place="top-left" resp="#archive">12</note>
+                            <note type="annotation" place="below" rend="underline" resp="#major_hand">Rohrpost</note>
+                           
+                            <note type="stamp" place="inline" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center) rotate(90) small">
+                                    <placeName key="E0500029">Berlin</placeName> W.
+                                    <lb/><date when-iso="1901-01-19">19.1.01</date>.10 <gap reason="illegible" atLeast="2" unit="char"/>
+                                    <lb/>★ 50 <supplied reason="low-ink">★</supplied>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) rotate(90) small">
+                                    <placeName key="E0500029">B<supplied reason="illegible">erlin</supplied></placeName> <supplied reason="illegible">W.</supplied>
+                                    <lb/><date when-iso="1901-01-19">19<supplied reason="low-ink">.1.01</supplied></date>.10 <gap reason="illegible" atLeast="2" unit="char"/>
+                                    <lb/>★ <supplied reason="low-ink">50 ★</supplied>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) rotate(90) small">
+                                    <placeName key="E0500029">Be<supplied reason="paper-missing">rlin</supplied></placeName> <supplied reason="paper-missing">W.</supplied>
+                                    <lb/><date when-iso="1901-01-19">19.1.01</date>.10 <gap reason="illegible" atLeast="2" unit="char"/>
+                                    <lb/>★ 50 <supplied reason="low-ink">★</supplied>
+                                </stamp>
+                            </note>
+                            <lb/><note type="annotation" place="left" rend="huge" resp="#post_pen">10</note>
+                            
+                            <note type="stamp" place="right" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) rotate(90) small">
+                                    <placeName key="E0500029">B<supplied reason="paper-missing">erlin</supplied></placeName> <supplied reason="paper-missing">W.</supplied>
+                                    <lb/><date when-iso="1901-01-19">19.1.01</date>.10 <gap reason="illegible" atLeast="2" unit="char"/>
+                                    <lb/>★ 50 <supplied reason="low-ink">★</supplied>
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300208">Robert Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500558">T<orig>h</orig>iergartenstr. 12</placeName><orig>.</orig></addrLine>
+                                <addrLine><seg rend="indent-2"><hi rend="underline"><placeName key="E0500029">Berlin</placeName> W.</hi></seg></addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="right" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) rotate(90) small">
+                                    <supplied reason="paper-missing"><placeName key="E0500029">Berlin</placeName> W.</supplied>
+                                    <lb/><date when-iso="1901-01-19">19.1.01</date>.10 <gap reason="illegible" atLeast="2" unit="char"/>
+                                    <lb/>★ 5<supplied reason="low-ink">0 ★</supplied>
+                                </stamp>
+                            </note>
+                            
+                            <pb n="4" facs="D0100575_4.jpg"/>
+                            <note type="stamp" place="bottom-center" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) rotate(180) small">
+                                    <placeName key="E0500029">Berlin</placeName>.W.
+                                    <lb/><date when-iso="1901-01-19">19 1 01</date> <gap reason="illegible" extent="1" unit="char"/> 10 <unclear cert="high">30</unclear> <gap reason="illegible" extent="1" unit="char"/>
+                                    <lb/><gap reason="illegible" atLeast="3" unit="char"/> (R 17 <gap reason="illegible" atLeast="1" unit="char"/>
+                                </stamp>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029" cert="high">Berlin</origPlace>
+                            <origDate when-iso="1901-01-19" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100575">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1901-01-19" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029" cert="high">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029" cert="high">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100512"/>
+                    <ref type="next" target="#D0100514"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-06-24" who="#E0300361">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-07-27" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-02-28" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="cor_card">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100575_1.jpg"/>
+                <note type="shelfmark" place="top-right" resp="#archive">12</note>
+                
+                <p><seg type="opener" subtype="salute">Sehr verehrter Freund.</seg> Ich bin seit <date when-iso="1901-01-18" cert="high">gestern</date>
+                    <lb/>Morgen 6 Uhr eigentlich nicht zur Ruhe
+                    <lb/>gekommen und <date when-iso="1901-01-19" cert="high">heute</date>, nach überstandenen
+                    <lb/>Tag<reg>-</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> Nachtreisen, Probe und <choice><orig>Conc</orig><reg>Konz</reg></choice>ert in
+                    <lb/><placeName key="E0500052">Dresden</placeName>, ganz und gar ermüdet.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300017">Busoni</persName> war am <date when-iso="1901-01-18">18.01.1901</date> – einen Tag nach <persName key="E0300420">Etelka Freunds</persName> 
+                        Konzertpremiere in <placeName key="E0500029">Berlin</placeName>, die von ihm dirigiert wurde (vgl. Anm. in seinem <ref type="E010007" target="#D0100574" n="2">
+                            Brief vom <date when-iso="1900-10-26">26.10.1900</date></ref>) – selbst als Klaviersolist für ein Konzert mit der <orgName key="E0600119">Königlichen Kapelle</orgName> 
+                        <placeName key="E0500052">Dresden</placeName> unter der Leitung <persName key="E0300517">Ernst von Schuchs</persName> verpflichtet gewesen. In Anwesenheit des 
+                        <rs key="E0300518">Königs</rs> und zahlreicher Mitglieder des Königlichen Hauses spielte er mit <q>souveräne[r] Meisterschaft</q> und großem Erfolg 
+                        <persName key="E0300013">Liszts</persName> <title key="E0400384">Klavierkonzert Nr. 2 A-Dur</title>, die <rs key="E0400168">Paganini-Variationen</rs> von 
+                        <persName key="E0300009">Brahms</persName> und als Zugabe u. a. <persName key="E0300013">Liszts</persName> <title key="E0400190">Polonaise Nr. 2 E-Dur</title>. 
+                        <persName key="E0300017">Busonis</persName> <q>enorme physische Kraft und Ausdauer</q> und der Umstand, dass er offenbar selbst die Zugaben noch <q>ohne eine Spur 
+                            von Ermüdung durchzuführen vermochte</q>, wurden von der Kritik im Nachgang ganz explizit lobend hervorgehoben – allerdings dürften dies seine letzten 
+                        Kraftreserven gewesen sein. (<orgName key="E0600098">Dresdner Zeitung</orgName>, Kritik vom <date when-iso="1901-01-20">20.01.1901</date>; 
+                        D-B, Mus.Nachl. F. Busoni F, 1 [1900–1902]).
+                    </note>
+                    
+                    Wenn
+                    <lb/>ich einige der allerdringendsten Briefe <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>Programme abgefasst haben werde, um
+                    <lb/>welche ich fortw<choice><orig>ae</orig><reg>ä</reg></choice>hrend antelegraphi<reg>e</reg>rt
+                    
+                    <note type="shelfmark" place="top-left" rend="rotate(-90)" resp="#archive">Ms. Z II 157 a.1</note>
+                    
+                    <lb/>werde, dürfte ich (für <date when-iso="1901-01-19" cert="high">heute</date>) für geistige
+                    <lb/>Ausgaben und Aufnahmen ziemlich
+                    <lb/>bankrott sein. <q rend="dq-du">Diesenthalben</q> wollte
+                    <lb/>ich Sie bitten<reg>,</reg> Ihre<add place="inline">n</add> <del rend="strikethrough"><unclear cert="medium">ankegü</unclear></del> angekündigten
+                    <lb/><seg rend="indent-2">lieben Besuch auf einen beliebigen</seg>
+                    
+                    <pb n="2" facs="D0100575_2.jpg"/>
+                    der nächsten Tage verlegen<del rend="strikethrough"> zu wollen</del>,
+                    <lb/>mich aber auch recht verstehen und
+                    <lb/>insofern entschuldigen zu wollen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300208">Freund</persName> verbrachte den Winter <date when-iso="1901/1902">1901/02</date> mit <rs key="E0300434">seiner Frau</rs> in 
+                        <placeName key="E0500029">Berlin</placeName>. In Bezug auf persönliche Treffen zwischen <persName key="E0300017">Busoni</persName> und 
+                        <persName key="E0300208">Freund</persName> in dieser Zeit konnte nichts Konkretes ermittelt werden. Es ist aber davon auszugehen, dass diese mehrfach 
+                        stattgefunden haben.
+                    </note>
+                    
+                    <lb/><seg rend="indent">Wodurch den vermeintlichen <soCalled rend="dq-du">Italianismus</soCalled></seg>
+                    <lb/>wett gemacht zu haben glaubt, <seg type="closer" subtype="salute">Ihr herzlichst
+                        <lb/>ergebener<reg>,</reg> freundlichst grüßender</seg>
+                </p>
+                
+                <closer>
+                    <signed>
+                        <fw type="sig" place="center" rend="italic large"><persName key="E0300017">Ferruccio Busoni</persName></fw>
+                    </signed>
+                    <dateline><seg rend="align(right) large"><date when-iso="1901-01-19" cert="high">Sonnabend</date><orig>.</orig></seg></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800323">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt / Busoni / Franz-Liszt-Stiftung 1911</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author key="E0300013">
+                            <forename>Franz</forename>
+                            <surname>Liszt</surname>
+                        </author>
+                        <editor key="E0300017">
+                            <forename>Ferruccio</forename>
+                            <surname>Busoni</surname>
+                        </editor>
+                        <editor key="E0800116">
+                            <orgName><persName key="E0300013">Franz-Liszt</persName>-Stiftung</orgName>
+                        </editor>
+                        <title level="s" key="E0800116"><persName key="E0300013">Franz Liszts</persName> musikalische Werke</title>
+                        <title level="m">II. Pianofortewerke</title>
+                        <title level="m" type="sub">Band 2: Etüden für Pianoforte zu zwei Händen</title>
+                        <idno type="PPN">333165624</idno>
+                        <imprint>
+                            <pubPlace>Leipzig</pubPlace>
+                            <pubPlace>Berlin</pubPlace>
+                            <pubPlace>Brüssel</pubPlace>
+                            <pubPlace>London</pubPlace>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>
+                                <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                            </publisher>
+                            <date when-iso="1911"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s" key="E0800116"><persName key="E0300013">Franz Liszts</persName> musikalische Werke</title>
+                        <biblScope unit="volume">II, 2</biblScope>
+                    </series>
+                    <ref type="ext" subtype="mdz" target="#bsb00016992">Digitalisat des Münchener DigitalisierungsZentrums der Bayerischen Staatsbibliothek</ref>
+                    <note>
+                        Der Band enthält folgende Werke: <title key="E0400158">Études d’exécution transcendante</title>; <title key="E0400269">Große Bravour-Phantasie über das Glöckchen von <persName key="E0300081">Paganini</persName></title>
+                    </note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

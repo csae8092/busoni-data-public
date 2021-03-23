@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (24. Juli 1917, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (24 July 1917, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docDate><date when-iso="1917-07-24"/></docDate>
+                            <incipit>ich verstehe Ihre Gründe (von Ihnen aus gesehen)</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Nummerierung innerhalb des Briefwechsels mit Bleistift eingetragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1917-07-24"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;33&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100208">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1917-07-24"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <!-- DIESER BRIEF IST DIE ANTWORT AUF -->
+                    <!--<ref type="replyTo" target="#D0100..."/>-->
+                    <!-- ZU DIESEM BRIEF IST DER FOLGENDE DIE ANTWORT -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>-->
+                    <ref type="previous" target="#D0100207"/>
+                    <ref type="next" target="#D0100209"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">58.</note>
+                
+                <opener>
+                    <dateline>24 Juli 1917</dateline>
+                    <salute>Sehr verehrter Freund,</salute>
+                </opener>
+
+                <p>ich verstehe Ihre Gründe (von Ihnen
+                <lb/>aus gesehen); von mir aus geschaut
+                <lb/>erscheinen sie mir schön<pc>=</pc>bescheiden,
+                <lb/>weise gedacht. Dank für Ihre
+                <lb/>Ant<orig>h</orig>eilnahme. Leider haben Sie
+                <lb/>mir auf meine vertrauliche Mit
+                <lb break="no"/>t<orig>h</orig>eilung, mein entste[…]hendes Werk
+                <lb/>betreffend, nichts geäu<choice><orig>ss</orig><reg>ß</reg></choice>ert: – und
+                <lb/>über d’Albert schwiegen Sie ebenfalls;
+                <lb/>doch dieses Kapitel ist ja nicht
+                <lb/>anders zu interpretieren, als wie ich
+                <lb/>bei Ihrem Schweigen voraussetze.</p>
+                
+                <p>Ich schicke Ihnen eine unbedeu
+                <lb break="no"/>tende Besprechung Ihrer Sonate
+                <lb/>für 2 Violinen <choice><abbr>u.</abbr><expan>und</expan></choice> Klavier. In demselben
+                <lb/>Blatte stand auch eine nichtsnutzige
+                <lb/>Kritik über meine Opern.</p>
+                
+                <p>(Ich finde doch, dass ich ein wenig
+                    <lb/>viel maltraitiert werde!)</p>
+                
+                <p>Die Hauptsache bleibt, dass Sie
+                <lb/>sich schnell erholen <choice><abbr>u.</abbr><expan>und</expan></choice> Ihre
+                <lb/>weit <choice><abbr>u.</abbr><expan>und</expan></choice> tief ausgreifende „Achte“
+                <lb/>ausgestalten. Zu dieser Vollendung
+                <lb/>die dringenden Wünsche </p>
+
+                <closer><salute>Ihres
+                verehrungsvoll ergebenen</salute>
+                    <signed><persName key="E0300017">F. Busoni</persName></signed></closer>
+                
+                <pb n="2"/>
+
+            <note type="objdesc" resp="#E0300314">[Rückseite, vacat]</note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

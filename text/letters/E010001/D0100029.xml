@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100029">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Berlin, 22. Januar 1912)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Berlin, 22 January 1912)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300320">
+                        <forename>Clemens</forename>
+                        <surname>Gubsch</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2015-11"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4559</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 20 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno type="kalliope">DE-611-HS-736439</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> hat die Besetzung für die Uraufführung der <title key="E0400013">Orchesterstücke op. 16 (achthändige Fassung)</title> zusammengestellt; rezensiert begeistert <persName key="E0300017">Busonis</persName> <title key="E0400015">Berceuse élégiaque</title> und <rs key="E0400014">Klavierkonzert</rs>; moniert an letzterem lediglich die <q>unglaublich unrichtige[] Instrumentation</q>: das Thema müsse <q>meistens als Begleitung zu den Nebenstimmen erscheinen</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1912-01-22"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1912-01-22"/></docDate>
+                            <incipit>nun habe ich die Besetzung für meine</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung mit Bleistift unten rechts auf den Vorderseiten durch das Archiv.</foliation>
+                                <condition>Der Brief ist gut erhalten; Umschlagaufriss oben (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand Gerda Busonis, die auf dem Umschlag den Absendernamen vermerkt hat</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp rend="round border align(center)" xml:id="post_abs">
+                                    <placeName key="E0500056" rend="majuscule">Zehlendorf</placeName>
+                                    <lb/><date when-iso="1912-01-22">22.1.12</date>.4–5N.
+                                    <lb/>(Wannseebahn) 1b
+                                </stamp>
+                            </note>
+                            
+                            <address rend="left">
+                                <addrLine>Herrn <persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="latin align(right)"><placeName key="E0500029">Berlin</placeName> W30</addrLine>
+                                <addrLine rend="latin align(right)"><placeName key="E0500072">Viktoria<choice><orig> Luisep</orig><reg>-Luise-P</reg></choice>latz 11</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <stamp resp="#schoenberg_addr_st1" rend="small">
+                                <address rend="align(center)">
+                                    <addrLine><persName key="E0300023">Arnold Schönberg</persName>, <placeName key="E0500029">Berlin</placeName>-<placeName key="E0500056">Zehlendorf</placeName>-Wannseebahn</addrLine>
+                                    <addrLine><placeName key="E0500449">Machnower Chaussee</placeName>, <placeName key="E0500058">Villa Lepcke</placeName>.</addrLine>
+                                </address>
+                            </stamp>
+                            
+                            <note type="shelfmark" place="right" resp="#archive" rend="space-above">
+                                <subst>
+                                    <del rend="strikethrough"><stamp resp="#sbb_st_blue">Nachlaß Busoni</stamp>
+                                        <seg resp="#arch_red" rend="space-below">B II</seg>
+                                        <lb/>Mus.ep. A. Schönberg 20</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4559-Beil.</add>
+                                </subst>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#gerda.busoni"><persName key="E0300023"><hi rend="large underline">Schönberg</hi></persName></note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500056">Zehlendorf</origPlace>
+                            <origDate when-iso="1912-01-22"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 190</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 192 f. (Brief), S. 113–116 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 414 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100029">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1912-01-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100028"/>
+                    <ref type="next" target="#D0100030"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt, status todo</change>
+            <change when-iso="2019-11-21" who="#E0300314">Layoutelemente der vorliegenden Transkription (Clemens Gubsch) durchgesehen, status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839141386/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3C00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3C00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3C00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3C00000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3C00000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3C00000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-right" resp="#archive">
+                    <del xml:id="del_sig" rend="strikethrough">Mus.ep. A. Schönberg 20<lb/>(Busoni-Nachl.<lb/><handShift new="#arch_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <opener>
+                    <byline rend="left">
+                        <stamp resp="#schoenberg_addr_st1" rend="small">
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName>, <placeName key="E0500029">Berlin</placeName>-<placeName key="E0500056">Zehlendorf</placeName>-Wannseebahn</addrLine>
+                                <addrLine><placeName key="E0500449">Machnower Chaussee</placeName>, <placeName key="E0500058">Villa Lepcke</placeName>.</addrLine>
+                            </address>
+                        </stamp>
+                    </byline>
+                    <dateline rend="inline">
+                        <date when-iso="1912-01-22">22/1. 1912</date>
+                    </dateline>
+                </opener>
+                
+                <note type="shelfmark" place="top-left" resp="#archive" rend="rotate(-90)">
+                    <add xml:id="add_sig" place="margin-left">Mus.Nachl. F. Busoni B II, 4559</add>
+                </note>
+                
+                <substJoin target="#del_sig #add_sig"/>
+                
+                <p><seg type="opener" subtype="salute">
+                    Lieber verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> nun habe ich
+                    <lb/>die Besetzung für meine <rs key="E0400013">8<reg>-</reg>händige Orchesterstück</rs>-
+                    <lb break="no"/>Aufführung beisammen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Die Neuartigkeit von <persName key="E0300023">Schönbergs</persName> <title key="E0400020">Orchesterstücken</title>, vor allem aber ihre enorm große 
+                        Orchester-Besetzung, verhinderte lange Zeit die Uraufführung der Stücke. Daher veranlasste <persName key="E0300023">Schönberg</persName> eine 
+                        <rs key="E0400013">Bearbeitung</rs> für Klavier, wovon die Nummern 1, 2 und 4 im Rahmen einer Matinée am <date when-iso="1912-02-04">4. Februar 1912</date> im 
+                        <placeName key="E0500029">Berliner</placeName> Harmoniumsaal erstmals aufgeführt wurden (<bibl><ref target="#E0800282"/>, S. 44</bibl>). 
+                        <persName key="E0300023">Schönberg</persName> hatte zunächst <persName key="E0300017">Busoni</persName> und dessen Schüler <persName key="E0300031">Egon Petri</persName> 
+                        gefragt, ob sie bei der Aufführung mitwirken wollen (<bibl><ref target="#E0800278"/>, S. 9</bibl>). Offenbar aufgrund von Zeitmangel lehnten beide ab. 
+                        Es ist zu vermuten, dass <persName key="E0300017">Busoni</persName> quasi als Ausgleich Schüler von sich vermittelte und <persName key="E0300023">Schönberg</persName> 
+                        hier darauf Bezug nimmt. Beim Konzert traten letztlich die <persName key="E0300017">Busoni</persName>-Schüler <persName key="E0300521">Louis Closson</persName>, 
+                        <persName key="E0300520">Louis Gruenberg</persName> und <persName key="E0300071">Eduard Steuermann</persName> sowie <persName key="E0300023">Schönbergs</persName> 
+                        Schüler <persName key="E0300033">Anton Webern</persName> als Pianisten in Erscheinung (<bibl><ref target="#E0800001"/>, S. 145</bibl>).
+                    </note>
+                    <!-- E Harmoniumsaal neu anlegen -->
+                    
+                    <!-- Die Vorführung war ursprünglich im Rahmen einer Matinee für den 28.01.1912 geplant gewesen, bei der vor allem Lieder Schönbergs vorgetragen werden sollten.
+                        Aufgrund von Termin-Schwierigkeiten seitens der Sopranistin Martha Winternitz-Dorda fand das Konzert dann erst am 04.02.1912 statt.
+                        (Br. Schönberg an Alban Berg, 20.01.1912, in: Brand/Hailey/Meyer 2007, Bd. 3, Teilbd. 1, Br. 140 und Anm. 277, S. 174) -->
+                    
+                    <!--  Mit dem Gesamteindruck des Konzerts zeigte sich Schönberg "sehr zufrieden", vor allem da "viel darüber geschrieben und auch 
+                        manches Günstige". (Br. Schönberg an Alban Berg, 14.02.1912, in: Brand/Hailey/Meyer 2007, Bd. 3, Teilbd. 1, Br. 145, S. 187) -->
+                    <!-- zum Konzert mit der 8-händigen Bearb. gab's auch miese Kritik von Leopold Schmidt im Berliner Tageblatt ("Der Wert des Unmodernen", 06.02.1912);
+                        darauf reagierte Schönberg mti dem Artikel "Schlafwandler" in Pan 2 (1911/12), Nr. 14 (22.02.1912), S. 432 f.; die Kontroverse zw. beiden wurde mit
+                        zwei weiteren Beiträgen von beiden Seiten fortgesetzt (vgl. Nuria Nono, dicker Bd. mit Selbstzeugnissen) -->
+                    
+                    <!-- Busoni wohnte dem Konzert bei. -->
+                    
+                    <!-- Busonis Artikel "Schönberg-Matinée" stammt lt. Busoni/Weindel 2006 von 1911 (vgl. S. 62) und wurde erstmals im Pan, Heft 11 vom 01.02.1912
+                        veröffentlicht => beides kann nicht stimmen, da Matinée erst am 04.02.1912 stattfand ?!
+                        * Quellenangabe zu Pan nicht korrekt, bezieht sich auf Busonis Aufsatz "Selbst-Rezension" (vgl. Busoni/Weindel 2006, S. 64 f. und 184);
+                        zum Nachlesen: https://archive.org/details/Pan1911-122.jgnr.1-45/page/n335 -->
+                    
+                    Und jetzt, wo ich nicht
+                    <lb/>mehr in den Verdacht kommen kann – denn
+                    <lb/>diese Möglichkeit hielt mich tatsächlich ab – da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>ich mir durch Schmeichelei Ihre Mitwirkung
+                    <lb/>er<del rend="strikethrough">r</del>obern will, kann ich Ihnen über Ihre
+                    <lb/>Kompositionen mit aller Wärme das sagen, 
+                    <lb/>wozu es mich drängt.
+                    
+                    
+                    
+                    <note type="commentary" resp="#E0300313">
+                        <persName key="E0300023">Schönberg</persName> hatte am <date when-iso="1912-01-19">19. Januar 1912</date> gemeinsam mit seinem Schüler 
+                        <persName key="E0300033">Anton Webern</persName> ein Konzert in <placeName key="E0500029">Berlin</placeName> unter der Leitung 
+                        <persName key="E0300041">Oskar Frieds</persName> besucht, in dem drei Werke <persName key="E0300017">Busonis</persName> zur Aufführung gelangt 
+                        waren: die <title key="E0400018">Fantasia contrappuntistica</title>, allerdings in einer Bearbeitung für Orgel und Orchester, die 
+                        <title key="E0400015">Berceuse élégiaque</title> sowie das <title key="E0400014">Klavierkonzert</title>. (<bibl><ref target="#E0800005"/>, S. 113</bibl>)
+                    </note>
+                    <!-- E für Bearb. Fantasia neu anlegen -->
+                </p>
+                
+                <p rend="indent-first">Am nächsten gi<orig>e</orig>ng mir die <rs key="E0400015">Berceuse</rs>,
+                    <lb/>die ein sehr schönes, tief ergreifendes Stück
+                    <lb/>ist. Die hat durchaus, vom Anfang bis zum
+                    <lb/>Schlu<choice><orig>ß</orig><reg>ss</reg></choice> stark auf mich gewirkt und mich, wie
+                    <lb/>gesagt, wirklich bewegt.
+                    
+                    <!-- <persName key="E0300023">Schönberg</persName> verfasste später eine eigene Bearbeitung der <title key="E0400015">Berceuse</title> für 9&#160;Instrumente, 
+                        die <date when-iso="1965">1965</date> von <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> veröffentlicht wurde.
+                        (<bibl><ref target="#E0800121">Kindermann 1980</ref>, S.&#160;238</bibl>)
+                        
+                        NOPE!!
+                        Erwin Stein, ein Schüler Schönbergs, verfasste auf dessen Anregung später eine Bearbeitung der Beceuse für 9 Instrumente, die 1965 von Breitkopf &
+                        Härtel veröffentlicht wurde.
+                        </note> -->
+                    <!-- neue Entitäten: Schönbergs Bearbeitung Berceuse -->
+                    
+                    Dann aber hat mir
+                    <lb/>auch das <rs key="E0400014">Klavier<choice><orig>-K</orig><reg>k</reg></choice>onzert</rs>, das mir seiner<lb break="no"/>zeit
+                    in <placeName key="E0500002">Wien</placeName>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist evtl. die Aufführung von Busonis Klavierkonzert am 13.12.1910 im Wiener Musikverein. (vgl. Anmerkung im vorherigen Brief)
+                    </note>
+                    
+                    (ich sage es ehrlich) gänzlich
+                    <lb/>mi<choice><orig>ß</orig><reg>ss</reg></choice>fallen hat, diesmal auch ausgezeichnet
+                    <lb/>gefallen. Ich verstehe das nicht, und es scheint,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> wir, die wir zu den Besten zu gehören
+                    <lb/>glauben, doch oft genug versagen. Ich hatte
+                    <lb/>wirklich einen ausgezeichneten Eindruck.
+                    <lb/>Das Stück ist von A<choice><orig>–</orig><reg> bis </reg></choice>Z ein Satz von fabel
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    
+                    <pb n="2" break="no"/>
+                    
+                    hafter Architektur, ununterbrochen fließend, voller
+                    <lb/>Einfälle und wunderbarer Stimmungen. Stau
+                    <lb break="no"/>nenswert ist es, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie sich über ein so großes
+                    <lb/>umfangreiches Stück immer den <choice><orig>Ue</orig><reg>Ü</reg></choice>berblick ge
+                    <lb break="no"/>wahrt haben, da<choice><orig>ß</orig><reg>ss</reg></choice> es wirklich als etwas einheitliches
+                    <lb/>ununterbrochenes wirkt. Nun: bei der <rs key="E0400018">Fuge</rs> kam
+                    <lb/>ich zu keinem rechten Genu<choice><orig>ß</orig><reg>ss</reg></choice> wegen der sehr
+                    <lb/>schlechten Aufführung und der unglaublich unrichtigen
+                    <lb/>Instrumentation. Ich sagte zu <persName key="E0300033">Webern</persName>
+                    
+                    <!-- Kommentar: Webern zu der Zeit wohnhaft bei Schönberg => s. Website der Webern-GA, Chronologie S. 7, vgl. auch Moldenhauer -->
+                    
+                    <lb/>während des Konzerts: <q rend="dq-du">Man hört gar
+                    <lb/>nie die Hauptstimmen, sondern immer
+                        <lb/>nur das Thema.</q> Das ist zu gleichen T<orig>h</orig>eilen
+                    <lb/>Schuld der Aufführung und der Instrumentation.
+                    <lb/>Denn bei der Fuge sind es naturgemäß
+                    <lb/>die Nebenstimmen, welche die zusammen
+                    <lb break="no"/>hangbildenden Gegensätze herbei schaffen.
+                    <lb/>Aber die ausschließliche Hervorhebung
+                    <lb/>der Hauptthemen, die macht sich sehr
+                    <lb/>gelehrt, bringt aber nie eine Musik-
+                    <lb break="no"/>Wirkung hervor. Ich meine fast, das Thema
+                    <lb/>mu<choice><orig>ß</orig><reg>ss</reg></choice> meistens als Begleitung zu
+                    <lb/>den Nebenstimmen <del rend="strikethrough"><gap reason="strikethrough" atMost="2" unit="char"/></del> erscheinen. Das Thema
+                    <lb/>ist
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300313">
+                        Bei <bibl><ref target="#E0800004"/> (190)</bibl> und <bibl><ref target="#E0800005"/> (193)</bibl> fehlt <q>ist</q>.
+                    </note>
+                    
+                    sozusagen die Grundfarbe, der neutrale
+                    <lb/>Hintergrund, au<subst><del rend="overwritten">f</del><add place="across">s</add></subst> dem die Zeichnung, die
+                    
+                    <pb n="3"/>
+                    
+                    Formen und Farben hervortreten sollen. Wenn
+                    <lb/>aber der Hintergrund hervortritt (!!!)<reg>,</reg> dann
+                    <lb/>liegt alles <choice><orig>Ue</orig><reg>Ü</reg></choice>brige im Schatten. Jede
+                    <lb/>Stimmung, jeder Flu<choice><orig>ß</orig><reg>ss</reg></choice>, alle Gegensätze hören
+                    <lb/>sich auf. — Nichtsdestoweniger spürte
+                    <lb/>ich – was mir ja auch vom Lesen der
+                    <lb/>Klavierausgabe her<corr> </corr>bekannt war – de<subst><del rend="overwritten">m</del><add place="across">n</add></subst>
+                    <lb/>großen Zug und die Ausdruckskraft
+                    <lb/>auch dieses Werkes. Vor <choice><orig>A</orig><reg>a</reg></choice>llem aber die
+                    <lb/>kontrapunktische Kunst!
+                </p>
+                
+                <p rend="indent-first">
+                    Es ist mir ein großes Vergnügen, Ihnen
+                    <lb/>das Alles sagen <del rend="strikethrough"><gap reason="strikethrough" atMost="1" unit="char"/></del>zu können, denn vielleicht konnte
+                    <lb/>ich zu Ihnen jenes richtige Verhältnis bis jetzt noch
+                    <lb/>nicht finden, weil ich zu Ihren Kompositionen
+                    <lb/>in einem schiefen Verhältnis stand. Nun
+                    <lb/>ich aber zu meiner größten Freude, Sie auch von
+                    <lb/>dieser Seite her schätzen gelernt habe, hoffe ich,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> das bestimmt anders sein wird. Ich
+                    <lb/>habe Sie natürlich als Reprodu<choice><orig>c</orig><reg>z</reg></choice>ierende<choice><sic>r</sic><corr>n</corr></choice>,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300313">
+                        <bibl><ref target="#E0800004"/> (190)</bibl> und <bibl><ref target="#E0800005"/> (193)</bibl>: <q>Reproducierenden</q>.
+                    </note>
+                    
+                    als
+                    <lb/><choice><orig>K</orig><reg>Ch</reg></choice>arakter und Mensch<corr>en</corr> immer geschätzt. Aber
+                    <lb/>mir ist der Pro<subst><del rend="overwritten">z</del><add place="across">d</add></subst>uzierende das Wichtige und
+                    <lb/>deshalb wurde ich Ihnen bisher nicht gerecht.
+                </p>
+                
+                <closer>
+                    <salute rend="indent-first">
+                        Ich grüße Sie vielmals herzlichst und bin Ihr 
+                        <lb/>ergebener
+                    </salute>
+                    <signed rend="inline"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                <postscript>
+                    <p rend="indent-first small">
+                        <hi rend="underline" n="2">NB</hi> Möchten Sie nicht eine Probe meiner <rs key="E0400013">Orchesterstücke</rs> an
+                        <lb break="no"/>hören? Die erste ist bei <persName key="E0300034">Ibach</persName> <placeName key="E0500060">(Steglitzer Straße</placeName><subst><del rend="overwritten"> 38</del><add place="across">) a</add></subst>m Dienstag um 3 Uhr!
+                    </p>
+                </postscript>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 3]</note>
+                
+                <note type="stamp" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                <note type="stamp" place="bottom-left" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

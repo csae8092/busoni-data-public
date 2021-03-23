@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400262">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni, Ferruccio: Vorspiel zu Turandot</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <analytic>
+                  <author key="E0300017">Ferrucio Busoni</author>
+                  <title level="a">Vorspiel zu <title key="E0400153">Turandot</title></title>
+                  <idno type="wcat">K 273</idno>
+                  <idno type="GND">300378149</idno>
+               </analytic>
+               <monogr sameAs="#E0400153">
+                  <imprint>
+                     <date when-iso="1916/1917" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1917-05-11" type="firstperf"/>
+                     <pubPlace key="E0500132">Zürich</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

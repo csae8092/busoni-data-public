@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni / Weindel 2015</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <editor>
+                     <forename>Martina</forename>
+                     <surname>Weindel</surname>
+                  </editor>
+                  <title level="m"><persName key="E0300017">Ferruccio Busoni</persName>: Briefe an <rs key="E0300059">seine Frau</rs></title>
+                  <title level="m" type="sub">1889–1923</title>
+                  <edition>Gesamtausgabe</edition>
+                  <idno type="DNB">109636137X</idno>
+                  <imprint>
+                     <pubPlace>Wilhelmshaven</pubPlace>
+                     <publisher>Florian-Noetzel-Verlag</publisher>
+                     <publisher>Heinrichshofen-Bücher</publisher>
+                     <date when-iso="2015"/>
+                  </imprint>
+                  <extent>2 Bde.</extent>
+                  <biblScope unit="volume" n="1">
+                     <title level="m">Briefe</title>
+                     <idno type="DNB">1076750435</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="2">
+                     <title level="m">Kommentar, Verzeichnisse und Register</title>
+                     <idno type="DNB">1076750168</idno>
+                  </biblScope>
+               </monogr>
+               <series>
+                  <title level="s">Quellenkataloge zur Musikgeschichte</title>
+                  <biblScope unit="volume">66</biblScope>
+               </series>
+               <note>Die Edition reklamiert folgende diplomatische Standards: <q>Die Orthographie wurde weitgehend gewahrt, lediglich offensichtliche Verschreibungen werden stillschweigend korrigiert, dagegen unrichtig geschriebene Eigennamen belassen […]. Interpunktion und Eigenheiten der Schreibweise bleiben, von der kommentarlos erfolgten Auflösung von Dopplungsstrichen abgesehen, unverändert.</q> (S. 13); Abweichungsangaben in unserer Edition berücksichtigen nur hiervon nicht erfasste Fälle.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

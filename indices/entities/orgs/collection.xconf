@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <!-- Index-Einträge für orgs -->
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <range>
+            <create qname="tei:orgName" type="xs:string"/>
+            <create qname="tei:placeName" type="xs:string"/>                        
+            <create qname="tei:idno" type="xs:string"/>
+            <create qname="@type" type="xs:string"/>
+            <create qname="@when-iso" type="xs:string"/>
+            <create qname="@notAfter-iso" type="xs:string"/>
+            <create qname="@notBefore-iso" type="xs:string"/>
+            <create qname="@status" type="xs:string"/>
+            <create qname="@key" type="xs:string"/>
+            <create qname="@target" type="xs:string"/>
+            <create qname="@xml:id" type="xs:string"/>
+        </range>
+        <fulltext default="none" attributes="false"/>
+        <lucene diacritics="no">
+            <analyzer class="org.apache.lucene.analysis.standard.NoDiacriticsStandardAnalyzer"/>
+            <text qname="tei:org"/>
+            <text qname="tei:orgName" boost="2.0"/>
+            <text qname="tei:title" boost="25"/>
+        </lucene>
+    </index>
+</collection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600167">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cotta’sche Verlagsbuchhandlung</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="publisher">
+                    <idno type="GND">5056474-2</idno>
+                    <orgName>Cotta’sche Verlagsbuchhandlung</orgName>
+                    <desc><date when-iso="1659">1659</date> in <placeName key="E0500564">Tübingen</placeName> gegründet; <date from-iso="1798">ab 1798</date> zudem Filiale in <placeName key="E0500181">Stuttgart</placeName>, <date from-iso="1810">ab 1810</date> Verlagssitz <rs key="E0500181">dorthin</rs> verlagert; <date when-iso="1815">1816</date> Verkauf des Geschäfts in <placeName key="E0500564">Tübingen</placeName>.</desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

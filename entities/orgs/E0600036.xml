@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Königliche Hofoper Unter den Linden</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="theatre">
+               <idno type="GND">2085477-8</idno>
+               <orgName>Königliche Hofoper Unter den Linden</orgName>
+               <desc>Von <persName key="E0300290">Friedrich II.</persName> begründete, am <date when-iso="1742-12-07">7. Dezember 1742</date> in <placeName key="E0500029">Berlin</placeName> eröffnete Opernbühne; <date when-iso="1918">1918</date> in <orgName key="E0600106">Staatsoper Unter den Linden</orgName> umbenannt.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

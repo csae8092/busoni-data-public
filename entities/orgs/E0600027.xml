@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verein für musikalische Privataufführungen</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="music_society">
+               <idno type="GND">2080000-9</idno>
+               <orgName>Verein für musikalische Privataufführungen</orgName>
+               <desc>Im <date when-iso="1918-11">November 1918</date> auf Betreiben <persName key="E0300023">Arnold Schönbergs</persName> gegründeter Verein, der in <placeName key="E0500002">Wien</placeName> Konzerte exklusiv für Mitglieder und ohne vorherige Bekanntgabe des jeweiligen Programms veranstaltete, um moderner Musik ein unvoreingenommenes Forum zu bieten. Zu den Mitgliedern des 19-köpfigen Vorstands gehörten u. a. <persName key="E0300053">Alban Berg</persName> (auch Verfasser des <ref type="E010001" target="#D0100041" n="5">Vereinsprospekts</ref>), <persName key="E0300033">Anton Webern</persName> (Erster Vortragsmeister), <persName key="E0300120">Paul Pisk</persName> (Sekretär <date when-iso="1918/1919">1918/19</date>), <persName key="E0300121">Josef Rufer</persName> (Sekretär <date when-iso="1919/1921">1919–1921</date>), <persName key="E0300055">Josef Polnauer</persName> und <persName key="E0300071">Eduard Steuermann</persName>. Am <date when-iso="1921-12-05">5. Dezember 1921</date> musste der Verein infolge der fortschreitenden Geldentwertung seine Tätigkeit einstellen.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

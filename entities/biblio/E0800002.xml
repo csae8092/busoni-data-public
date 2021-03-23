@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speer 2000</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Florian</forename>
+                     <surname>Speer</surname>
+                  </author>
+                  <title level="m">Klaviere und Flügel aus dem Wupperthale</title>
+                  <title level="m" type="sub">Instrumentenbau in der Wupperregion und am Niederrhein während des 19. Jahrhunderts am Beispiel der Orgel- und Klavierbauerfamilie Ibach</title>
+                  <idno type="DNB">959813403</idno>
+                  <imprint>
+                     <pubPlace>Wuppertal</pubPlace>
+                     <date when-iso="2000"/>
+                  </imprint>
+               </monogr>
+               <ref type="ext"
+                    target="http://www.bib.uni-wuppertal.de/elpub/fb02/diss2000/speer/d020002.pdf">Elektronische Publikation</ref>
+               <!-- besser nach der vermutlich überarbeiteten Buch-Fassung zu zitieren! vgl. http://d-nb.info/964271877 -->
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<text>
+<h1>Impressum</h1>
+
+<persons>
+    <div>
+        <h2>Projektleitung und Herausgeber</h2>
+            <ul>
+                <li>Christian Schaper
+                    <span class="text-muted mail">christian.schaper[at]hu-berlin.de</span>
+                </li>
+                <li>Ullrich Scheideler
+                    <span class="text-muted mail">ullrich.scheideler[at]staff.hu-berlin.de</span>
+                </li>
+            </ul>
+
+    </div>
+    <div>
+        <h2>Editorische Bearbeitung</h2>
+        <ul>
+            <li>Zaher Alkaei</li>
+            <li>Claudio Arías Rodriguez</li>
+            <li>Lukas Baake</li>
+            <li>Thea Olivia Beger</li>
+            <li>Sophia Dörner</li>
+            <li>Marlene Everling</li>
+            <li>Hannah Fiedrowicz</li>
+            <li>Maximilian Furthmüller</li>
+            <li>Morten Grage</li>
+            <li>Anton Hoffmann</li>
+            <li>Juliane Imme</li>
+            <li>Ulrike Japes</li>
+            <li>Vanessa Kimpel</li>
+            <li>Theresa Menard</li>
+            <li>Kim Nocka</li>
+            <li>Till Erik Sawallisch</li>
+            <li>Sebastian Schade</li>
+            <li>Christian Schaper</li>
+            <li>Ullrich Scheideler</li>
+            <li>Jakob Schmidt</li>
+            <li>Angelina Smyschlajew</li>
+            <li>Wantana Tancharoenpol</li>
+            <li>Judith Treumann</li>
+            <li>Elizaveta Willert</li>
+        </ul>
+        
+    </div>
+    <div>
+        <h2>Mitarbeit Transkription</h2>
+        <ul>
+            <li>Patrick Becker</li>
+            <li>Immanuel Beyreuther</li>
+            <li>Marie Eggert</li>
+            <li>Claudio Fuchs</li>
+            <li>Clemens Gubsch</li>
+            <li>Vanda Hehr</li>
+            <li>Marie-Luise Hildebrand</li>
+            <li>Tim Martin Hoffmann</li>
+            <li>Natalia Kononchuk</li>
+            <li>Clara Kroher</li>
+            <li>Erik Krummbach</li>
+            <li>Nicole Kufeld</li>
+            <li>Josefine Lindmar</li>
+            <li>Nicole Malige</li>
+            <li>David Mews</li>
+            <li>Filiz Oflazoğlu</li>
+            <li>Anna Prothmann</li>
+            <li>Ivana Rajic</li>
+            <li>Emilija Temirkulovaite</li>
+            <li>Jan Weber</li>
+            <li>Jupp Wegner</li>
+            <li>Natsumi Witzmann</li>
+        </ul>
+        
+    </div>
+    <div>
+        <h2>Technische Umsetzung</h2>
+        <ul>
+        <li>Christian Schaper
+            <span class="text-muted mail">christian.schaper[at]hu-berlin.de</span>
+        </li>
+        
+        <li>Jakob Schmidt
+            <span class="text-muted mail">jakob.w.schmidt[at]student.hu-berlin.de</span>
+        </li>            
+        </ul>
+    </div>
+</persons>
+    
+<support>    
+    <div>
+        <h2>Förderer</h2>
+        <p>Ermöglicht wurde das Projekt durch Förderungen im Rahmen des Programms für digitale Medien in Forschung, Lehre und Studium der Medienkommission des Akademischen Senats der Humboldt-Universität zu Berlin (2015, erneuert 2017).
+        </p>
+    </div>
+</support>
+<contact> 
+    <div>
+        <h2>Kontakt</h2>      
+        <p>Humboldt-Universität zu Berlin<br/>
+            Institut für Musikwissenschaft und Medienwissenschaft<br/>
+            Fachbereich Musikwissenschaft<br/>
+            Unter den Linden 6<br/>
+            10099 Berlin<br/>
+            <span class="text-muted mail">edition[at]busoni-nachlass.org</span><br/>
+            <a class="external-link" target="_blank" href="https://www.hu-berlin.de/de/hu/impressum">Impressum der Humboldt-Universität zu Berlin</a>
+        </p>
+    </div>
+ </contact>
+    
+</text>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300257">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfons von Rothschild</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName type="reg">
+                  <surname>Rothschild</surname>,
+                  <forename>Alfons</forename>
+                  <nameLink>von</nameLink>
+               </persName>
+               <persName type="birth">
+                  <roleName type="nobility">Baron</roleName>
+                  <forename>Alfons</forename>
+                  <forename>Mayer</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Rothschild</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1878-02-15"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1942-09-01"/>
+                  <placeName key="E0500353">Bar Harbor</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Kunstsammler</occupation>
+               <occupation>Mäzen</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

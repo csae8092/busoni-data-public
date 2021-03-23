@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300549">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gerhard von Keußler</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-10-24" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">116152427</idno>
+                    <idno type="VIAF">1602</idno>
+                    <idno type="ISNI">0000000042391688</idno>
+                    <persName type="reg">
+                        <surname>Keußler</surname>,
+                        <forename>Gerhard</forename>
+                        <nameLink>von</nameLink>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Gerhard</forename>
+                        <forename>Ottomar</forename>
+                        <forename>Hugo</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Keußler</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1874-07-05"/>
+                        <placeName key="E0500624">Schwanenburg</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1949-08-21"/>
+                        <placeName key="E0500625">Niederwartha</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Komponist</occupation>
+                    <occupation>Dirigent</occupation>
+                    <occupation>Musikschriftsteller</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

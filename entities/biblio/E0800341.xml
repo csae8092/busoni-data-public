@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800341">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>von der Lühe 1999</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-10-22" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <forename>Barbara</forename>
+                            <surname>von der Lühe</surname>
+                        </author>
+                        <title level="m">Die Emigration deutschsprachiger Musikschaffender in das britische Mandatsgebiet Palästina</title>
+                        <title level="m" type="sub">Ihr Beitrag zur Entwicklung des israelischen Rundfunks, der Oper und der Musikpädagogik seit 1933</title>
+                        <idno type="DNB">957444753</idno>
+                        <imprint>
+                            <pubPlace>Frankfurt am Main</pubPlace>
+                            <pubPlace>Berlin</pubPlace>
+                            <pubPlace>Bern</pubPlace>
+                            <pubPlace>Brüssel</pubPlace>
+                            <pubPlace>New York</pubPlace>
+                            <pubPlace>Wien</pubPlace>
+                            <publisher>Peter Lang</publisher>
+                            <date when-iso="1999"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

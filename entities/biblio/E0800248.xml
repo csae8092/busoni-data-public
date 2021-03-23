@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800248">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schenker 1903</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300024">
+                     <forename>Heinrich</forename>
+                     <surname>Schenker</surname>
+                  </author>
+                  <title level="m">Ein Beitrag zur Ornamentik</title>
+                  <title level="m" type="sub">Als Einführung zu <persName key="E0300278">Ph. Em. Bach’s</persName> Klavierwerken, umfassend auch die Ornamentik <persName key="E0300466">Haydns</persName>, <persName key="E0300010">Mozarts</persName> u. <persName key="E0300001">Beethovens</persName> etc.</title>
+                  <idno type="PPN">448110172</idno>
+                  <imprint>
+                     <date when-iso="1903"/>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                     <publisher>
+                        <orgName key="E0600004">Universal-Edition</orgName>
+                     </publisher>
+                  </imprint>
+               </monogr>
+               <note>Als Begleitwerk zur Ausgabe der <title key="E0800247">Klavierwerke von <persName key="E0300278">Philipp Emanuel Bach</persName></title> veröffentlicht.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

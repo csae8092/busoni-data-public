@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100224">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Engelberg, Ende Dezember 1909)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Engelberg, late December 1909)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2242, 1</idno>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-756117</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> freut sich über <persName key="E0300017">Busonis</persName> Bereitschaft, den Meisterkurs <date when-iso="1910">1910</date> am <orgName key="E0600020"><placeName key="E0500097">Basler</placeName> Konservatorium</orgName> zu übernehmen; legt Übernahme von <persName key="E0300031">Egon Petris</persName> Vorgehen nahe; schlägt Abschluss mit <rs key="E0400014">Klavierkonzert</rs> und weiteren Orchesterwerken <persName key="E0300017">Busonis</persName> vor.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1909-12"/>Ende December 1909</docDate>
+                            <incipit>In allererster Linie erlauben Sie mir</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten; Umschlag offenbar nicht Versand-Original.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf der Umschlagrückseite die Zuordnung <q>Huber</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                            <pb n="6"/>
+                            
+                            <note type="shelfmark" place="top-center" resp="#archive">Mus.Nachl. F. Busoni B II, 2242, 1-Beil.</note>
+                            
+                            <note type="annotation" place="bottom-center" rend="large" resp="#recipient">Huber</note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500362">Engelberg</origPlace>
+                            <origDate when-iso="1909-12"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100224">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1909-12"/>
+                    <placeName ref="http://www.geonames.org/7285728" key="E0500362">Engelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100189"/>
+                    <ref type="next" target="#D0100101"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+            <change when-iso="2017-11-05" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/828127530/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F000000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F000000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F000000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F000000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F000000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A2F000000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <dateline rend="align(right)"><placeName key="E0500362">Engelberg</placeName> Winterstation<reg>,</reg> Ende
+                        <lb/><date when-iso="1909-12">De<choice><orig>c</orig><reg>z</reg></choice>ember 1909</date>.</dateline>
+                    <salute rend="indent">Mein lieber <persName key="E0300017">Herr Busoni</persName>!</salute>
+                </opener>
+                
+                <p>In allererster Linie erlauben Sie mir
+                    <lb/>Ihnen meine große Freude auszusprechen
+                    <lb/>über Ihre Mitt<orig>h</orig>eilung, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie den
+                    <lb/>die<choice><orig>ß</orig><reg>s</reg></choice>jährigen Meister<choice><orig>c</orig><reg>k</reg></choice>urs übernehmen
+                    <lb/>wollen. Für die flori<reg>e</reg>rende Zukunft
+                    <lb/><rs key="E0600202">unserer Schule</rs> hoffe ich aus diesem Kontakte
+                    <lb/>das Allerschönste! –</p>
+                
+                <p rend="indent-first">Man ne<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>t <placeName key="E0500097">Basel</placeName> die goldene
+                    <lb/>Pforte <placeName key="E0500013">Italiens</placeName>, aber damit ist leider nicht
+                    <lb/>gesagt, da<choice><orig>ß</orig><reg>ss</reg></choice> der Geldregen in verschwenderischem
+                    <lb/>Maße auf die Kunstinstitute herniederfallt, –
+                    <lb/>im Gegent<orig>h</orig>eil<reg>,</reg> s<del rend="overwritten"><gap reason="overwritten" atMost="2" unit="char"/></del>ie – (namentlich die musikalischen) –
+                    <lb/>sind ein wenig die Stiefkinder der <placeName key="E0500097">basler</placeName>ischen
+                    <lb/><choice><orig>c</orig><reg>k</reg></choice>ulturellen Bildung. De<choice><orig>ß</orig><reg>s</reg></choice>halb mu<choice><orig>ß</orig><reg>ss</reg></choice> auch
+                    <lb/>unsere Leitung im Arrangement des
+                    <lb/>Meisterkurses vorsichtig ans Werk
+                    <lb/>gehen <choice><abbr>&amp;</abbr><expan>und</expan></choice><reg>,</reg> ehe sie mit dem Prospektus –
+                    <lb/>verzeichnet in den vulgären
+                    
+                    <note type="shelfmark" place="bottom-left" resp="#archive">Mus.Nachl. F. Busoni B II, 2242, 1</note>
+                    
+                    <pb n="2"/>
+                    
+                    Handels-<foreign xml:lang="la" rend="latin">terminus technicus</foreign> – an die
+                    <lb/>Öffentlichkeit tritt, genau wi<choice><orig>ß</orig><reg>ss</reg></choice>en,
+                    <lb/>was wir den ko<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>enden Schülern <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <lb/>dem Publikum bieten kö<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>en. Denn
+                    <lb/>Re<choice><orig>c</orig><reg>k</reg></choice>lame müssen wir machen, wenn wir
+                    <lb/>auf die Kosten ko<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>en wollen. –</p>
+                
+                <p rend="indent-first">Bei <persName key="E0300031">Herrn <hi rend="latin">Petri</hi></persName> ergab sich in der Folge
+                    <lb/>der Erfahrung als bestes Arrangement
+                    <lb/><choice><abbr>folgd.</abbr><expan>folgende</expan></choice> Einrichtung: <choice><orig>e</orig><reg>E</reg></choice>r saß an den <choice><orig>3</orig><reg>drei</reg></choice>
+                    <lb/>ersten Wochentagen von 9<choice><orig>–</orig><reg> bis </reg></choice>12 <choice><abbr>&amp;</abbr><expan>und</expan></choice> <choice><orig>N</orig><reg>n</reg></choice>achmittags
+                    <lb/>von 4<choice><orig>–</orig><reg> bis </reg></choice>6 an der Arbeit. Durch die <choice><orig>3</orig><reg>drei</reg></choice> folgenden
+                    <lb/>Ferientage hatten die Schüler Zeit, die Aufgaben
+                    <lb/>wieder zu repeti<reg>e</reg>ren oder neue zu begi<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>en.
+                    <lb/>An einem dieser <choice><orig>3</orig><reg>drei</reg></choice> Feriennachmittage
+                    <lb/>spielte <persName key="E0300031">Herr <hi rend="latin">Petri</hi></persName> da<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> seine <persName key="E0300001">Beethoven</persName><choice><orig>s</orig><reg>-S</reg></choice>onaten.
+                    <lb/>Wie stellen Sie sich nun den Verlauf
+                    <lb/>des Kurses vor? Wünschen Sie eine
+                    <lb/>andere Arbeitsentwicklung?
+                    <lb/>Auf alle Fälle mü<choice><orig>ß</orig><reg>ss</reg></choice>en wir von Ihnen
+                    <lb/>verlangen, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie sich wöchentlich
+                    <lb/>einmal selbst ans Klavier setzen <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <lb/>so den Leuten in des Wortes bester
+                    
+                    <pb n="3"/>
+                    
+                    Bedeutung den <hi rend="underline">Meister</hi> zeigen. – Damit
+                    <lb/>wird natürlich das Ganze als wirklich bedeutungs
+                    <lb break="no"/>volle Zeit in die Annalen unseres öffentlichen
+                    <lb/>Musiklebens hineingetragen. Sie selbst
+                    <lb/>haben ja ein so großes Riesenrepertoir<supplied reason="omitted">e</supplied>,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> Sie kaum viel Zeit durch das Memori<reg>e</reg>ren
+                    <lb/>verlieren mü<choice><orig>ß</orig><reg>ss</reg></choice>en.</p>
+                
+                <p rend="indent-first">Als das <soCalled rend="dq-du latin">finis coronat opus</soCalled> käme
+                    <lb/>die Aufführung Ihres <rs key="E0400014">Klavierkonzertes</rs>.
+                    <lb/>Der hiesige Mä<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>erchor (<orgName key="E0600028">Liedertafel</orgName>)
+                    <lb/>unter Leitung <persName key="E0300132">Kapellmeister Suters</persName>
+                    <lb/>gehört zu den besten choralen Vereinigungen
+                    <lb/><placeName key="E0500015">Deutschlands</placeName><reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice> da<choice><orig>ß</orig><reg>ss</reg></choice> <persName key="E0300132">Suter</persName> sich eine Ehre
+                    <lb/>daraus machen wird, Ihr Werk auf das
+                    <lb/>Vollendetste herauszubringen, dafür bürgt
+                    <lb/>der mä<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>liche Künstlercharakter unseres
+                    <lb/>Freundes. Aber alle Bet<orig>h</orig>eiligten werden
+                    <lb/>verlangen, da<choice><orig>ß</orig><reg>ss</reg></choice> <hi rend="underline">Sie</hi> den Solopart
+                    <lb/>übernehmen<reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice> auch meine Wenigkeit
+                    <lb/>schließt sich dieser Bitte an. – Zum
+                    <lb/><rs key="E0400014">Klavierkonzert</rs> kö<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>te man
+                    <add place="above">das Progra<choice><abbr>m&#773;</abbr><expan>mm</expan></choice></add>
+                    <subst>
+                        <del rend="strikethrough">noch</del>
+                        <add place="above">mit</add>
+                    </subst>
+                    Ihrer
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="4"/>
+                    
+                    <hi rend="latin">Orchestersuite</hi> <choice><abbr>od.</abbr><expan>oder</expan></choice> <rs rend="latin">Ouvert<choice><orig>u</orig><reg>ü</reg></choice>re</rs> etc.
+                    
+                    <note type="commentary" resp="#E0300314">Unklar bleibt, ob <persName key="E0300125">Huber</persName> hier an die <title key="E0400033">Turandot-Suite op.&#8239;41</title> oder an die <title key="E0400227">Zweite Orchester-Suite (<soCalled>Geharnischte Suite</soCalled>) op.&#8239;34a</title> denkt und ob er sich mit <q>Ouvertüre</q> auf ein anderes, eigenständiges Werk (dann die <title key="E0400276">Lustspiel-Ouvertüre op.&#8239;38</title>) bezieht.</note>
+                    
+                    <lb/>– <choice><abbr>od.</abbr><expan>oder</expan></choice> was Sie wünschen – in intere<choice><orig>ß</orig><reg>ss</reg></choice>anter
+                    <lb/>Weise erweitern.</p>
+                
+                <p rend="indent-first">Nun schreiben Sie mir
+                    <lb/>baldmöglichst auf einer Ihrer weiten
+                    <lb/>Bahnfahrten über die Hauptsache:
+                    <lb/>Progra<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>ordnung des Kurses!
+                    <lb/>Seien Sie mit den herzlichsten
+                    <lb/>Wünschen für Ihr Wohlergehen <choice><abbr>&amp;</abbr><expan>und</expan></choice> für
+                    <lb/>Ihre Erfolge in <placeName key="E0500093">Amerika</placeName> aufs
+                    <lb/>freundschaftlichste begrüßt von</p>
+                
+                <closer>
+                    <salute>Ihrem ergebensten</salute>
+                    <signed rend="align(right)"><persName key="E0300125">Hans Huber</persName></signed>
+                    <dateline>Adre<choice><orig>ß</orig><reg>ss</reg></choice>e
+                        <lb/><placeName key="E0500097">Basel</placeName>, <placeName key="E0500204">Angensteinerstr. 30</placeName></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

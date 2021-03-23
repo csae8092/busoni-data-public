@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100576">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (vmtl. Basel, vmtl. 1. September 1910)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (presumably Basel, presumably 1 September 1910)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Zz">Zentralbibliothek Zürich</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Zürich</settlement>
+                        <institution key="CH-Zz">Zentralbibliothek Zürich</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection>Nachlass Robert Freund &amp; Etelka Freund</collection>
+                        <idno>Ms. Z II 157 a.1.13</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> lehnt eine Einladung von <persName key="E0300208">Freund</persName> wegen
+                            Zeitmangel ab, hofft aber auf ein Treffen zu einem späteren Zeitpunkt; ist gespannt auf die <q>Vorstellung der Schüler</q>.
+                        </summary>
+                        <msItem>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1901" cert="low"/></docDate>
+                            <incipit>Dank. Leider wird es diesen <date when-iso="1910-09-02" cert="high">Freitag</date> nicht gehen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <collation>Briefpapier im Querformat (aufgeklappter Bogen); auf der Vorderseite nur die rechte Spalte beschrieben, Rückseite vacat.</collation>
+                                <condition>Der Brief ist gut erhalten; Umschlag mit Aufriss oben, kleine Einrisse an der Oberkante (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen und einen Vermerk zum Entstehungsjahr ergänzt hat
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100576_5.jpg"/>
+                            <note type="shelfmark" place="top-right" rend="space-below" resp="#archive">13</note>
+                            <address><addrLine rend="align(right)">Herrn <persName key="E0300208">R. Freund</persName></addrLine></address>
+                            <pb n="6" facs="D0100576_6.jpg"/>
+                            <fw place="center" rend="align(center)">
+                                <figure><figDesc>Hotelsiegel: <placeName key="E0500375">Hôtel des Trois Rois</placeName> · <placeName key="E0500097">Bâle</placeName></figDesc></figure>
+                            </fw>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097" cert="high">Basel</origPlace>
+                            <origDate when-iso="1910-09-01" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100576">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1910-09-01" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097" cert="high">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100540"/>
+                    <ref type="next" target="#D0100541"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-06-24" who="#E0300361">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-07-28" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-02-25" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100576_1.jpg"/>
+                <note type="dating" place="top-right" rend="small" resp="#archive"><date xml:id="arch_date" when-iso="1901" cert="low">1901</date></note>
+                
+                <note type="commentary" rend="inline" resp="#E0300361">
+                    Der Brief liefert wenig Anhaltspunkte für eine zeitliche Einordnung in den Gesamtbriefwechsel, stammt aber sehr wahrscheinlich erst aus dem Jahr 
+                    <date when-iso="1910" cert="high">1910</date>. Die Zuordnung des <placeName key="E0500132">Zürcher</placeName> Archivs nach <date when-iso="1901">1901</date> 
+                    erfolgte vmtl. auf Basis der erwähnten <q>Vorstellung der Schüler</q>, die auf den Beginn eines Meisterkurses von <persName key="E0300017">Busoni</persName> 
+                    schließen lässt. In diesem Kontext werden in der Literatur v. a. die Kurse in <placeName key="E0500144">Weimar</placeName> im Sommer 
+                    <date when-iso="1900">1900</date> und <date when-iso="1901">1901</date> als eine außergewöhnliche und sehr positive Erfahrung thematisiert. (vgl. dazu Anm. in 
+                    <persName key="E0300017">Busonis</persName> <ref type="E010007" target="#D0100573">Brief vom <date when-iso="1900-09-12">12.09.1900</date></ref>) Mehrere 
+                    Gründe sprechen hier allerdings gegen <placeName key="E0500144">Weimar</placeName>. Zum einen fand <rs key="E0500144">dort</rs> kein <q>Umzug</q> statt. 
+                    Es wäre auch unklar, weshalb <persName key="E0300208">Freund</persName>, der sich in dieser Zeit überwiegend in <placeName key="E0500534">Kleinlaufenburg</placeName>
+                    oder zu Arbeitszwecken in <placeName key="E0500132">Zürich</placeName> aufhielt, <persName key="E0300017">Busoni</persName> gerade aus     
+                    <placeName key="E0500144">Weimar</placeName> zu sich einladen sollte. Ebenso wenig ließe sich erklären, warum <persName key="E0300017">Busoni</persName> 
+                    die Vorstellung der Schüler – die in <placeName key="E0500144">Weimar</placeName> alle vorab handverlesen wurden – <q>fürchte[n]</q> sollte. Stärkstes Argument 
+                    gegen <placeName key="E0500144">Weimar</placeName> ist aber, dass das Schreiben auf Briefpapier des <placeName key="E0500097">Basler</placeName> 
+                    <placeName key="E0500375">Hôtel des Trois Rois</placeName> abgefasst wurde. In <placeName key="E0500097">Basel</placeName> fand <date when-iso="1910">1910</date> 
+                    ebenfalls ein Meisterkurs statt. Die konkrete Datierung des Briefes auf den <date when-iso="1910-09-01" cert="high">01.09.1910</date> ergibt sich aus der Kombination 
+                    von <persName key="E0300017">Busonis</persName> Mitteilung, dass <q><date when-iso="1910-09-01" cert="high">heute</date></q> die Vorstellung der Schüler stattfindet 
+                    und einem Brief der passiven Kursteilnehmerin <persName key="E0300516">Edda Ottho</persName>, die ihrem Klavierlehrer <persName key="E0300049">Gottfried Galston</persName> 
+                    berichtet: <q>Am Morgen des <date when-iso="1910-09-01">1. September</date> mussten sich alle Teilnehmer am Meisterkursus im <orgName key="E0600020">Konservatorium</orgName> 
+                        melden, die Aktiven wurden dem <rs key="E0300017">Meister</rs> vorgestellt. Um 3 begann der Unterricht […]</q> (<persName key="E0300516">Ottho</persName> an 
+                    <persName key="E0300049">Galston</persName>; <placeName key="E0500097">Basel</placeName>, <date when-iso="1910-09-10">10.09.1910</date>; D-B, Mus.Nachl. F. Busoni B II, 3664) 
+                    Der eigentliche Kurs erstreckte sich über vier Wochen, vom <date when-iso="1910-09-05/1910-09-30">05. bis 30.09.1910</date>. Planmäßig sollte zweimal pro Woche – dienstags 
+                    und donnerstags – Unterricht stattfinden. Da aufgrund der hohen Teilnehmerzahl – 35 Aktive (vgl. <bibl><ref target="#E0800038">Busoni/Weindel&#160;1999a</ref>, 
+                        Br.&#160;78, S.&#160;122</bibl>) – nach der ersten Woche noch nicht alle aktiven Teilnehmer wenigstens einmal vorgespielt hatten, wurde die Zahl der 
+                    Unterrichtstage auf drei erhöht und fand nun montags, mittwochs und freitags statt. Integraler Bestandteil des Kurses waren zudem vier Klavier-Abende des 
+                    <rs key="E0300017">Meisters</rs>, jeweils mit Werken von <persName key="E0300001">Beethoven</persName>/<persName key="E0300009">Brahms</persName>, 
+                    <persName key="E0300137">Chopin</persName>, <persName key="E0300013">Liszt</persName> und <persName key="E0300017">Busoni</persName> (für das genaue Programm vgl. Anm. 
+                    in <persName key="E0300017">Busonis</persName> <ref type="E010002" target="#D0100101">Brief an <persName key="E0300125">Hans Huber</persName></ref> vom 
+                    <date when-iso="1910-07-19">19.07.1910</date>) sowie ein Abschlusskonzert am <date when-iso="1910-10-04">04.10.1910</date>, bei dem u. a. <persName key="E0300017">Busonis</persName> 
+                    <title key="E0400014">Klavierkonzert op. 39</title> gespielt wurde, mit <persName key="E0300031">Egon Petri</persName> am Klavier und unter Leitung des 
+                    <rs key="E0300017">Komponisten</rs> selbst. 
+                </note>
+                
+                <note type="shelfmark" place="margin-right" resp="#archive">13</note>
+                
+                <opener>
+                    <salute><seg rend="indent-2 space-above">Verehrtester Freund.</seg></salute>
+                </opener>
+                <p>Dank. Leider wird es
+                    <lb/>diesen <date when-iso="1910-09-02" cert="high">Freitag</date> nicht gehen,
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Unter der Prämisse, dass dieser Brief aus der Zeit des <placeName key="E0500097">Basler</placeName> Meisterkurses stammt, ist es vollends schlüssig, dass 
+                        <persName key="E0300208">Freund</persName> unmittelbar nach <persName key="E0300017">Busonis</persName> Ankunft in der <placeName key="E0500092">Schweiz</placeName> 
+                        eine <q>Einladung</q> ausspricht. Aus den von <persName key="E0300017">Busoni</persName> benannten Gründen kam am ersten Wochenende zwar noch kein Treffen zustande, 
+                        aber sehr wahrscheinlich zu einem späteren Zeitpunkt während <persName key="E0300017">Busonis</persName> Aufenthalt in <placeName key="E0500097">Basel</placeName>.
+                    </note>
+                    
+                    <lb/>da ich an diesem Tage oder
+                    <lb/>am <date when-iso="1910-09-03" cert="high">nächsten</date> <rs key="E0300059">Frau Gerda</rs>
+                    <lb/>erwarte – <del rend="strikethrough">d</del> an welchem
+                    <lb/>ist noch nicht sicher.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300017">Busoni</persName> war zwei Tage zuvor, am <date when-iso="1910-08-30">30.08.1910</date>, in Begleitung von 
+                        <persName key="E0300060">Benni</persName> in <placeName key="E0500097">Basel</placeName> angekommen und teilte <rs key="E0300059">seiner Frau</rs> 
+                        brieflich die zu nutzende Verbindung mit: <q>Der Zug geht über <placeName key="E0500410">Strassburg</placeName> u. erreicht <placeName key="E0500097">Basel</placeName> 
+                            um 7 Uhr 10.</q> (bei <bibl><ref target="#E0800023"/>, Bd. 1, Br. 555, S. 506</bibl> fälschlich <q>1 Uhr 10</q>; 
+                        vgl. D-B, N.Mus.Nachl. F. Busoni 4, 747) <persName key="E0300059">Gerda Busoni</persName> muss also am <date when-iso="1910-09-02">02.</date> oder 
+                        <date when-iso="1910-09-03">03.09.1910</date> ebenfalls in <placeName key="E0500097">Basel</placeName> eingetroffen sein.
+                    </note>
+                    
+                    –
+                    <lb/>Außerdem hab<orig>’</orig> ich viel
+                    <lb/>Vorbereitungen, Umzug.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Das <placeName key="E0500375">Hôtel des Trois Rois</placeName> diente lediglich als erster Anlaufpunkt in <placeName key="E0500097">Basel</placeName>. 
+                        Bereits <date when-iso="1900">10 Jahre zuvor</date> hatte <persName key="E0300017">Busoni</persName> <persName key="E0300059">Gerda</persName> gegenüber angemerkt, 
+                        das <rs key="E0500375">Hotel</rs> sei <q>gross, comfortabel und in seiner Art schön, aber aus der Biedermanns (oder Biedermeyer)-Zeit stammend</q>, d.h. die 
+                        Ausstattung ist schön, aber vor allem <q>Maskerade</q>, und der Stil nicht vereinbar mit <q>künstlerisch-phantastischer Einrichtung</q>. 
+                        (<bibl><ref target="#E0800023"/>, Bd.&#160;1, Br.&#160;172, S.&#160;196</bibl>) Für die Dauer des <placeName key="E0500097">Basler</placeName> 
+                        Meisterkurses wohnten <persName key="E0300017">Busoni</persName> und seine <persName key="E0300059">Frau Gerda</persName> im 
+                        <placeName key="E0500502">Hôtel Pension Schloss <placeName key="E0500217">Bottmingen</placeName></placeName>, wie diverse Korrespondenz belegt. 
+                        (vgl. Briefumschlag mit Aufdruck <q><placeName key="E0500502">Hôtel Pension Schloss <placeName key="E0500217">Bottmingen</placeName></placeName></q> 
+                        von <persName key="E0300017">Busoni</persName> an <persName key="E0300528">Emilio Anzoletti</persName>; <placeName key="E0500217">Bottmingen</placeName>, 
+                        <date when-iso="1910-09-17">17.09.1910</date>; D-B, Mus.Nachl. F. Busoni B I, 58; Brief <persName key="E0300526">Adolf Hamm</persName> an 
+                        <persName key="E0300017">Busoni</persName>, adressiert an <q>z. Zt. im <placeName key="E0500502">Schloß Bottmingen</placeName></q>; 
+                        <placeName key="E0500097">Basel</placeName>, <date when-iso="1910-09-29">29.09.1910</date>; D-B, Mus.Nachl. F. Busoni B II, 2048; Referenz auf die 
+                        <q>versunkene Schloßherrlichkeit von <placeName key="E0500217">Bottmingen</placeName></q> in <persName key="E0300125">Hans Hubers</persName> 
+                        <ref type="E010002" target="#D0100227" n="2">Brief an <persName key="E0300017">Busoni</persName> vom <date when-iso="1911-11-12">12.11.1911</date></ref>) 
+                        Wahrscheinlich erfolgte der Umzug auf das <rs key="E0500502">Schloss</rs> noch <date when-iso="1910-09-01">am selben Tag</date>, wie eine tagebuchartige Notiz 
+                        <persName key="E0300017">Busonis</persName> andeutet. (vgl. Aufzeichnungen <date when-iso="1909/1914">1909–1914</date>, Eintrag vom 
+                        <date when-iso="1910-09-01">01.09.1910</date>; D-B, N.Mus.Nachl. 4,98; <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB00014B7000000015">
+                            Digitalisat bei der Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName></ref>)
+                    </note>
+                    
+                    <lb/><seg rend="indent">Vielleicht wiederholen</seg>
+                    <lb/>Sie Ihre freundliche Ein
+                    <lb break="no"/>ladung, die ich gerne
+                    <lb/>annehmen würde.
+                    <lb/><seg rend="indent"><date when-iso="1910-09-01" cert="high">Heute</date> ist erst Vorstellung</seg>
+                    <lb/>der Schüler. Ich bin gespannt
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> fürchte auch ein wenig.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300017">Busonis</persName> Furcht dürfte sich auf das pianistische Niveau der Teilnehmer seines Meisterkurses bezogen haben. Offenbar 
+                        hatte er im Vorfeld eine Art Eignungsprüfung für interessierte Kandidaten gewünscht, welche jedoch nicht erfolgte. In einem Brief von 
+                        <persName key="E0300213">Hermann Stumm</persName>, Vorstandsmitglied des <placeName key="E0500097">Basler <orgName key="E0600020">Konservatoriums</orgName></placeName>, 
+                        an <persName key="E0300017">Busoni</persName> heißt es dazu: <q>Was die von Ihnen berührte Aufnahmsprüfung [sic] anbelangt, so dürfte es schwierig sein, dies 
+                            durchzuführen. Denn wenn ein Teilnehmer aus <placeName key="E0500093">Amerika</placeName> oder <placeName key="E0500140">England</placeName> extra nach 
+                            <placeName key="E0500097">Basel</placeName> reist, so dürfte es schwer halten, ihn vom Kurs gänzlich auszuschliessen. Ich begnüge mich mit diesem Hinweis, 
+                            da wir es selbstverständlich im übrigen Ihnen überlassen müssen, sich mit allzuschwachen Schülern s. Zt. in geeigneter Weise auseinanderzusetzen. Eventuell 
+                            könnten allzuschwache Schüler lediglich als Hörer dem Kurse folgen.</q> (<persName key="E0300213">Stumm</persName> an <persName key="E0300017">Busoni</persName>; 
+                        <placeName key="E0500097">Basel</placeName>, <date when-iso="1910-04-18">18.04.1910</date>; D-B, Mus.Nachl. F. Busoni B II, 5048) Den Wunsch nach einer 
+                        Aufnahmeprüfung äußerte <persName key="E0300017">Busoni</persName> drei Monate später <persName key="E0300125">Huber</persName> gegenüber noch einmal, allerdings ohne 
+                        Erfolg. (vgl. <ref type="E010002" target="#D0100101" n="2">Brief vom <date when-iso="1910-07-19">19.07.1910</date></ref>) <persName key="E0300017">Busonis</persName> 
+                        Sorge dbzgl. sollte sich in Folge als gerechtfertigt erweisen. Bereits erwähnte <persName key="E0300516">Edda Ottho</persName> teilt ihrem Lehrer 
+                        <persName key="E0300049">Galston</persName> am Ende der ersten Kurswoche mit: <q>[…] der Unterricht [begann] ohne vorhergehendes Examen, was ein grosser Fehler war, 
+                            denn unter den zahlreichen Schülern sind viele, die für diesen Kursus noch garnicht reif sind, und es auch nie werden würden. <persName key="E0300017">Busoni</persName> 
+                            muss ihr Geklimper jedoch geduldig anhören, denn sie haben ja das Geld bezahlt. In solchen Fällen lässt er die Betreffenden zu Ende spielen und sagt dann nur: 
+                            <q rend="sq-du">ganz hübsch, sehr nett.</q> zum Gaudium des Auditoriums.</q> (<persName key="E0300516">Ottho</persName> an <persName key="E0300049">Galston</persName>; 
+                        <placeName key="E0500097">Basel</placeName>, <date when-iso="1910-09-10">10.09.1910</date>; D-B, Mus.Nachl. F. Busoni B II, 3664) Der Eindruck, dass eine Prüfung 
+                        vorab – oder zumindest eine kritische Selbsteinschätzung der aktiven Teilnehmer bzgl. ihrer pianistischen Fertigkeiten – notwendig und sinnvoll gewesen wäre, 
+                        wird bestätigt durch einen weiteren Brief von <persName key="E0300516">Ottho</persName>. Darin berichtet sie von einem <q>Nachtessen</q> 
+                        im Anschluss an <persName key="E0300017">Busonis</persName> 3. Klavier-Abend, wo dieser in einer Ansprache u. a. erläuterte, <q>was 
+                            <hi rend="underline">er</hi> unter einem <hi rend="underline">Meisterkursus</hi> versteht</q>. An einem solchen sollten nämlich nur diejenigen teilnehmen, 
+                        <q>die schon selbst Meister sind, denen einige Ratschläge genügen können um ihnen über manche Schwierigkeit hinwegzuhelfen, nicht aber Schüler bei denen 
+                            noch vieles Elementare nicht überwunden ist […].</q> (<persName key="E0300516">Ottho</persName> an <persName key="E0300049">Galston</persName>; 
+                        <placeName key="E0500588">Brienz</placeName>, <date when-iso="1910-10-02">02.10.1910</date>; D-B, Mus.Nachl. F. Busoni B II, 3665)
+                    </note>
+                    
+                </p>
+                <closer>
+                    <salute><seg rend="indent">Allerherzlichste Grüße<reg>.</reg></seg>
+                        <lb/>Nochmals Dank.
+                    </salute>
+                    <signed>
+                        <seg rend="align(right)">Ihr <persName key="E0300017">F. Busoni</persName></seg>
+                    </signed>
+                </closer>
+                <note type="shelfmark" place="bottom-left" rend="small" resp="#archive">Ms. Z II 157 a.1</note>
+                
+                <pb n="2" facs="D0100576_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite des Bogens, linke Spalte; vacat]</note>
+                
+                <pb n="3" facs="D0100576_3.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite des Bogens, rechte Spalte; vacat]</note>
+                
+                <pb n="4" facs="D0100576_4.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite des Bogens, rechte Spalte]</note>
+                <fw place="top-left" rend="align(center) tiny">
+                    <figure>
+                        <figDesc>Hotelsiegel</figDesc>
+                    </figure>
+                    <foreign xml:lang="fr">
+                        <lb/><hi rend="majuscule">Chambres
+                            <lb/>&amp; Appartements
+                            <lb/>avec Salles
+                            <lb/>de bains privés</hi>
+                        <milestone unit="section" style="—" rend="align(center)"/>
+                        <hi rend="caps italic">Auto–Garage</hi>
+                        <milestone unit="section" style="—" rend="align(center)"/>
+                        <hi rend="majuscule bold spaced-out"><persName key="E0300495">L. A. Bossi</persName></hi>
+                        <lb/><hi rend="majuscule small">Propr</hi><hi rend="majuscule tiny sup underline">re</hi>
+                    </foreign>
+                </fw>
+                <fw place="margin-right">
+                    <foreign xml:lang="fr">
+                        <hi rend="caps bold"><placeName key="E0500375">Hôtel <seg rend="small">des</seg> Trois Rois</placeName> <seg rend="small">à</seg> <placeName key="E0500097">Bâle</placeName></hi>
+                    </foreign>
+                    <figure place="center">
+                        <figDesc>Ansicht: <placeName key="E0500375">Hôtel des Trois Rois</placeName></figDesc>
+                    </figure>
+                </fw>
+            </div>
+        </body>
+    </text>
+</TEI>

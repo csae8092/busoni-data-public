@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300295">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Max Kalbeck</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">11603498X</idno>
+               <idno type="VIAF">32103304</idno>
+               <idno type="ISNI">0000000121268039</idno>
+               <persName type="reg">
+                  <surname>Kalbeck</surname>,
+                  <forename>Max</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1850-01-04"/>
+                  <placeName key="E0500070">Breslau</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1921-05-04"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikkritiker</occupation>
+               <occupation>Autor</occupation>
+               <occupation>Übersetzer</occupation>
+               <affiliation from-iso="1880">unter anderem Kritiker bei der <orgName key="E0600058">Wiener Allgemeinen Zeitung</orgName> und dem <orgName key="E0600059">Neuen Wiener Tagblatt</orgName></affiliation>
+               <event from-iso="1904" to-iso="1914"><ab>Herausgabe einer vierbändigen Biographie über <persName key="E0300009">Johannes Brahms</persName></ab></event>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

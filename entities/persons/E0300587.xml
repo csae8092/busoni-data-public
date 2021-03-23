@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300587">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Giovanni Ricordi</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-09-15" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">116531185</idno>
+                    <idno type="VIAF">43394665</idno>
+                    <idno type="ISNI">0000000083773041</idno>
+                    <persName type="reg">
+                        <surname>Ricordi</surname>,
+                        <forename>Giovanni</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1785"/>
+                        <placeName key="E0500085">Mailand</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1853-03-15"/>
+                        <placeName key="E0500085">Mailand</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Musikverleger</occupation>
+                    <occupation>Geiger</occupation>
+                    <affiliation when-iso="1808">Gründer des Musikverlages <orgName key="E0600164">Ricordi</orgName> (<placeName key="E0500085">Mailand</placeName>)</affiliation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

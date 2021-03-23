@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800170">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bekker 1920</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-03-10" who="#E0300361">kleine Ergänzungen (Zitat im Titel, Notiz zur Wiederveröffentlichung etc.)</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author key="E0300111">
+                     <forename>Paul</forename>
+                     <surname>Bekker</surname>
+                  </author>
+                  <title level="a"><q>Impotenz</q> – oder Potenz?</title>
+                  <title level="a" type="sub">Eine Antwort an Herrn Professor Dr. <persName key="E0300084">Hans Pfitzner</persName></title>
+               </analytic>
+               <monogr>
+                  <title level="j"><orgName key="E0600070">Frankfurter Zeitung</orgName></title>
+                  <imprint>
+                     <date when-iso="1920-01-15/1920-01-16"/>
+                  </imprint>
+                  <biblScope unit="volume">64. Jg.</biblScope>
+                  <biblScope unit="no">37 und 40 (jeweils Erstes Morgenblatt)</biblScope>
+                  <biblScope unit="page">1 f.</biblScope>
+               </monogr>
+               <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2400000000">Digitalisat der Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName></ref>
+               <note>wiederveröffentlicht in: <bibl><ref target="#E0800241"/>, S. 310–26</bibl>.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

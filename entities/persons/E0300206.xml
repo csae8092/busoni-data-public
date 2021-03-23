@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300206">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lennart von Zweygberg</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-02-02" who="#E0300361">korrekturgelesen und ergänzt; status="reviewed"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName type="reg">
+                  <surname>Zweygberg</surname>,
+                  <forename>Lennart</forename>
+                  <nameLink>von</nameLink>
+               </persName>
+               <persName type="birth">
+                  <forename>Lennart</forename>
+                  <forename>August</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Zweygberg</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1874-12-25"/>
+                  <placeName key="E0500268">Jyväskylä</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1960-02-11"/>
+                  <placeName key="E0500267">Indianapolis</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Violoncellist</occupation>
+               <bibl><ref target="#E0800056"/>, S. 202 (Digitalisat im Internet Archive: <ref type="ext" target="https://archive.org/details/violoncellistend00unse/page/202"/>)</bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

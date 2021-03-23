@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100169">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 12. November 1917)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 12 November 1917)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300326">
+                        <forename>Anton</forename>
+                        <surname>Hoffmann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> berichtet von seinem Besuch einer <placeName key="E0500132">Zürcher</placeName> Aufführung von <persName key="E0300125">Hubers</persName> Oper <title key="E0400156">Die schöne Bellinda</title>; lobt die <q>Mischung von Zauber, Humor und Tanzhaftem […] als ein richtiges Ziel für das musikalische Theater</q>; vermisst im Text das <q>Schlagwort[]</q> als den <q>Zünder am musikalischen Feuerspiel</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-11-12"/></docDate>
+                            <incipit>Ihre <rs key="E0400156">Bellinda</rs> wurde gestern</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Es wurde jeweils die Vorderseite der Blätter beschrieben</collation>
+                                <condition> Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc> 
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der mit Bleistift die Paginierung eingetragen und das Datum auf die erste Seite übertragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1917-11-12"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;34 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100169">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1917-11-12"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <!--<ref type="replyTo" target="#1917-11-12-hb"/>-->
+                    <ref type="repliedBy" target="#D0100170"/>
+                    <ref type="previous" target="#D0100168"/>
+                    <ref type="next" target="#D0100170"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315"> Datei als Platzhalter erstellt, Transkription ausstehend. </change>
+            <change when-iso="2017-03" who="#E0300326">Bearbeitung übernommen</change>
+            <change when-iso="2017-03" who="#E0300326">Bearbeitung abgeschlossen</change>
+            <change when-iso="2017-06-10" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" resp="#archive" place="top-right">61.</note>
+                
+                <note type="dating" resp="#archive" place="top-right">12. Nov. 1917</note>                
+                
+                <opener><salute rend="indent">Lieber, Verehrter.</salute></opener>
+                
+                <p>
+                    Ihre <title key="E0400156">Bellinda</title> wurde gestern
+                    <lb/>mit Liebe <choice><abbr>u.</abbr><reg>und</reg></choice> gutem Können dar
+                    <lb break="no"/>geboten, mit Wärme aufgeno<choice><abbr>m̅</abbr><expan>mm</expan></choice>en.
+                    
+                    <note type="commentary" resp="#E0300314">Eine Aufführung am <orgName key="E0600037">Stadttheater <placeName key="E0500132">Zürich</placeName></orgName>; vgl. den <ref type="E010002" target="#D0100168" n="2">vorherigen Brief</ref>.</note>
+                    
+                    <lb/>Die Verwandlungsbilder<orig>,</orig> (na
+                    <lb break="no"/>mentlich das zur Winterland
+                    <lb break="no"/>schaft<orig>,</orig>) wirkten ganz märchenhaft,
+                    <lb/>waren geschickt <choice><abbr>u.</abbr><reg>und</reg></choice> fantasievoll
+                    <lb/>inszeniert. Besonders gut war
+                    <lb/>der Narr von <persName key="E0300233">Herrn Jerger</persName>.
+                    <lb/>Den größten Beifall <del rend="strikethrough">er</del>weckte
+                    <lb/>der Tanzschluss in der Rosengrotte.
+                    <lb/>Ein symphatisches, anregendes
+                    <lb/>Werk voller einzelner Einfälle,
+                    <lb/>musste es <choice><orig>J</orig><reg>j</reg></choice>eden erfreuen, der
+                    <lb/>von den heutigen abgeplagten
+                    <lb/>Voraussetzungen von Bühnen<choice><orig>-<lb break="no"/>K</orig><reg><lb break="no"/>k</reg></choice>onflikten <choice><abbr>u.</abbr><reg>und</reg></choice> <choice><orig>K</orig><reg>-k</reg></choice>niffen <del rend="strikethrough">sich</del> ab
+                    <lb break="no"/>zusehen vermochte; und dass
+                    <lb/>ich zu diesen Rebellen zähle,
+                    
+                    <pb n="2"/>
+                    
+                    <note type="numbering" resp="#archive" place="top-right">(2)</note>
+                    
+                    ist Ihnen geläufig. – Gerade
+                    <lb/>diese Mischung von Zauber, Humor
+                    <lb/><choice><abbr>u.</abbr><reg>und</reg></choice> Tanzhaftem erscheint mir
+                    <lb/>als ein richtiges Ziel für das
+                    <lb/>musikalische Theater.
+                    
+                    <!-- vgl. den entsprechenden Passus im Entwurf 1916! -->
+                    
+                    – Darum
+                    <lb/>danke ich Ihnen, dass Sie zu
+                    <lb/>diesem Argument so schön
+                    <lb/>beitragen. Ein Anderes ist
+                    <lb/>es mit dem Text – nicht dem
+                    <lb/><foreign xml:lang="fr">S<subst><del rend="overwritten">j</del><add place="across">u</add></subst>jet</foreign>! – aber wohl der Diktion,
+                    <lb/>die nicht charakteristisch
+                    <lb/>eindringlich ist <choice><abbr>u.</abbr><reg>und</reg></choice> häufig <choice><orig>an
+                        <lb/>Stelle</orig><reg>an<lb break="no"/>stelle</reg></choice> des <soCalled rend="dq-du">Schlagwortes</soCalled> –
+                    <lb/>das der Zünder am musikalischen
+                    <lb/>Feuerspiel ist – den <soCalled rend="dq-du">Vortrag</soCalled>
+                    <lb/>setzt, der die Musik fesselt.
+                    <lb/>Trotzdem ist der Text auch
+                    <lb/>achtungswert<orig>h</orig>, zumal e<subst><del rend="overwritten">s</del><add place="across">r</add></subst>
+                    <lb/>nobel <choice><abbr>u.</abbr><reg>und</reg></choice> idealistisch bewegt ist.</p>
+                
+                <closer>
+                    <salute rend="indent-first">Nochmals Dank <choice><abbr>u.</abbr><reg>und</reg></choice> die
+                        <lb/>herzlichsten Beglückwünschungen
+                        <lb/>Ihres verehrungsvoll ergebenen</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline>
+                        <date when-iso="1917-11-12" rend="align(left)">12. Nov. 1917.</date>
+                    </dateline>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <pb n="4"/>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

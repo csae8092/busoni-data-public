@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400147">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bach, Johann Sebastian: Partita Nr. 2 d-Moll</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300012">Johann Sebastian Bach</author>
+                  <title level="m">Partita Nr. 2 d-Moll</title>
+                  <idno type="wcat">BWV 1004</idno>
+                  <idno type="GND">30001113X</idno>
+                  <imprint>
+                     <date notBefore-iso="1714" notAfter-iso="1720" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1843" type="firstprint"/>
+                     <pubPlace key="E0500007">Leipzig</pubPlace>
+                  </imprint>
+               </monogr>
+               <series sameAs="#E0400435">
+                  <biblScope unit="volume" n="2"/>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

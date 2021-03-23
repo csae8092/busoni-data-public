@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300312">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robert Neumann</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName type="reg">
+                  <surname>Neumann</surname>,
+                  <forename>Robert</forename>
+               </persName>
+               <sex value="m"/>
+               <occupation>Philosoph</occupation>
+               <!--
+                  ist offenbar nicht der Philosoph mit den Büchern über Fichte und Goethe (1904) sowie Herder (1911)
+                  (entgegen der Vermutung von Walter Frisch in "Schoenberg and His World")
+                  Schönberg nennt ihn in der Harmonielehre: "(ein junger Philosoph, dessen scharfer Verstand mich auf seine eigenen Arbeiten äußerst neugierig macht)"
+                  ist im Briefwechsel mit Schönberg 1911 offenbar hauptsächlich mit Reisen und mit Arbeiten im Bereich der Logik befasst
+                  könnte er zum Wiener Kreis (Wittgenstein) gehört haben?
+                  vgl. https://books.google.ee/books?id=JiVACQAAQBAJ&pg=PA47&lpg=PA47&dq=%22robert+neumann%22+wittgenstein&source=bl&ots=4my72MBO4R&sig=Rd2O9E0SfxxtYOfJWLq0SaBBnYY&hl=de&sa=X&ved=0ahUKEwiDwauH6b7YAhUBmrQKHbUpBHQQ6AEIQzAE#v=snippet&q=%22robert%20neumann%22&f=false
+                  ("ein Gymnasiallehrer"?)
+                  war am Schüler-Tribut in "Arnold Schönberg" (München 1912) beteiligt
+               -->
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

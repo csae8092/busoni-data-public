@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100331">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (vmtl. 4. Dezember 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (prob. 4 December 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300389">
+                        <forename>Clara</forename><surname>Kroher</surname></persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4288</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 29 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-724227</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Rubiner berichtet sein Drama „Die Gewaltlosen“ vollendet zu haben und kündigt seinen Besuch bei Busoni an. Rubiner spricht seine Dankbarkeit für Busonis Einfluss zur Vollendung seines Werks aus.
+                            <persName key="E0300126">Rubiner</persName>
+                            <persName key="E0300017">Busoni</persName>
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-12-04"/>Mittwoch.</docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1918-12-04"
+                            />(4.12.1918)</docDate>
+                            <incipit>Zuvor der lieben Frau Gerda einen Gruss</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent><measure type="folio">2 Blatt</measure><measure type="pages">2 beschriebene Seiten</measure></extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf der Umschlagrückseite die Zuordnung <q>Rubiner</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat><pb n="3"/>
+                            <note type="stamp" place="E0500132" resp="#post">
+                                <stamp xml:id="post_abs">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <date when-iso="1918-12-04">4. Dezember 1918</date>
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine>Prof. <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine><placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                            </address>
+                            <pb n="4"/>
+                            <note type="annotation" place="top-center" rend="large" resp="#recipient">Rubiner</note>
+                            <note type="shelfmark" place="below">
+                                <del type="stamp" rend="strikethrough" resp="#sbb_st_blue"><idno type="D-B.olim">Nachlaß Busoni</idno><handShift new="#archive_red"/><idno type="D-B">B II</idno></del>
+                                <lb/><del rend="strikethrough"><idno type="D-B.olim">Mus.ep. L. Rubiner 29</idno></del>
+                                <lb/><add place="below"><handShift new="archive_sig"/><idno type="D-B">Mus.Nachl. F. Busoni B II, 4288-Beil.</idno></add>
+                            </note>
+                            <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1918-12-04"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/edition/letters/E010005/D0100331.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-12-04">04.12.1918</date>
+                    <placeName ref="http://www.geonames.org/maps/google_47.367_8.55.html" key="E0500132">Zürich</placeName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/maps/google_47.367_8.55.html" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100330"/>
+                    <ref type="next" target="#D0100331"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-08" who="#E0300389">Transkription erstellt und Übertragung in XML, status unfinished.</change>
+            <change when-iso="2018-01-29">Upload in das Repository, Korrekturen, status unfinished</change>
+            <change when-iso="2018-02-21" who="#E0300389">status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873594290/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6800000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6800000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6800000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6800000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="shelfmark" place="top-left" resp="#archive_sig">
+                    <del rend="strikethrough"><idno type="D-B.olim">Mus.ep. L. Rubiner </idno>
+                        (Busoni-Nachl. <handShift new="#archive_red"/>B II)</del>
+                    <subst>
+                        <add place="below"><handShift new="#archive_sig"/><idno type="D-B">Mus.Nachl. F. Busoni B II 4288, </idno></add>
+                    </subst>
+                </note>
+                <dateline><date when-iso="1918-12-04">Mittwoch</date>
+                    <lb/><note type="dating" resp="#archive" place="center"><date when-iso="1918-12-04">(4.12.1918)</date>
+                    </note></dateline>
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <opener>
+                    <salute>Lieber!</salute>
+                </opener>
+                <p>Zuvor der lieben <persName key="E0300059">Frau Gerda</persName> einen Gru<choice><orig>ss</orig><reg>ß</reg></choice>, den Gru<choice><orig>ss</orig><reg>ß</reg></choice> eines
+                    <lb/>langen Verschwundenen! &#8212;</p>
+                <p rend="indent-first">Schon um ½ 6 bin ich mit meinem Drama <note type="commentary" resp="#E0300389">gemeint ist Rubiners einziges Drama <title key="E0400316">Die Gewaltlosen</title></note>
+                    <lb/>fertig geworden und habe das Wort: Ende darunter
+                    <lb/>geschrieben. Ein Vorspiel und drei Akte. (Ein
+                    <lb/>sonderbares Vorspiel und drei monströse Akte.)</p>
+                <p rend="indent-first">Endlich, endlich habe ich den Kopf und
+                    <lb/>werde Ihnen wieder in die Augen schauen. Ich
+                    <lb/>möchte gern &#8211; morgen Donnerstag <choice><orig>a</orig><reg>A</reg></choice>bend &#8211; zu
+                    <lb/>Ihnen kommen und Ihnen die Hand drücken. <lb/>Ich komme, wenn Sie mir nicht vorher das
+                    <lb/>Gegenteil schreiben.</p>
+                <p>Meine alte, mir offenbar eingeborene
+                    <lb/>Gewohnheit, Sie nie <del rend="strikethrough">gleich</del> neben dem Leben
+                    <lb/>her zu sehen, sondern nur, wenn ich recht
+                    <lb/>freudiger Stimmung bin, wird dabei durch
+                    <lb/>manches unterstützt. Vor allem dadurch, <lb/>dass <rs type="persons" key="E0300060 E0300153">Ihre beiden Söhne</rs> gerettet durch
+                    <lb/>die vergangenen Jahre <note type="commentary" resp="#E0300389">Ende des Ersten Weltkriegs am 11. November 1918</note> gekommen sind!</p>
+                <pb n="2"/>
+                <p>Und nun muss ich Ihnen auch sagen, <lb/>was ich wei<choice><orig>ss</orig><reg>ß</reg></choice>: Was irgend an meiner
+                    <lb/>Arbeit gut ist, verdanke ich Ihnen,
+                    <lb/>Ihrem guten Zureden, Ihrer Teilnahme, <lb/>und <hi rend="underline">dem Gedanken an Sie.</hi></p>
+                <p>Manches wird vielleicht Ihren Beifall
+                    <lb/>haben, sehr vieles, sehr vieles vielleicht
+                    <lb/>nicht. Ich wei<choice><orig>ss</orig><reg>ß</reg></choice> es nicht. Ich wei<choice><orig>ss</orig><reg>ß</reg></choice> nicht, <lb/>ob es <soCalled rend="dq-du">gut</soCalled> ist, oder ob es das nicht ist. Manches
+                    <lb/>ist mir nicht gelungen. &#8212;</p>
+                <p>Warum ich Ihnen nun so dankbar bin, <lb/>das ist keine Floskel, sondern liegt an Folgendem. <lb/>Als ich, nach einjähriger Arbeit, zum Schluss
+                    <lb/>gekommen war, merkte ich, dass jedes Ihrer
+                    <lb/>Worte, das Sie jemals mit mir über künstlerische
+                    <lb/>Probleme gesprochen haben, aus einer tiefen
+                    <lb/>Erfahrung heraus <hi rend="underline">prophetisch</hi> gewesen war. Es ist
+                    <lb/>alles, alles eingetroffen, auch das (Geständnis: <lb/>Ja gerade das!), wogegen ich polemisiert habe.</p>
+                <p>Nachträglich noch bitte ich Sie, mir jeden Widerspruch
+                    <lb/>zu verzeihen; es war offenbar die Form, mit deren
+                    <lb/>Hilfe ich mir Ihre Erkenntnisse und Ihren Rat
+                    <lb/>Gestalt in mir werden lie<choice><orig>ss</orig><reg>ß</reg></choice>! Sie haben mich dadurch
+                    <lb/>tiefere Zusammenhänge im Menschenleben gelehrt! &#8212;</p>
+                <p>Und nun lasse ich die Arbeit einen Tag liegen, dann
+                    <lb/>nehme ich in aller Eile die Arbeit der eigenen Abschrift
+                    <lb/>auf. Anfang der nächsten Woche wird es lesbar sein, <lb/>auch vorlesbar. &#8212; <seg type="closer" subtype="salute">In Liebe!</seg> <seg type="closer" subtype="signed">Ihr <persName key="E0300126">Ludwig Rubiner</persName></seg></p>
+            </div>
+        </body>
+    </text>
+</TEI>

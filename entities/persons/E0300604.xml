@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300604">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Ranzow</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">133619842</idno>
+                    <idno type="VIAF">50421085</idno>
+                    <idno type="ISNI">0000000019404022</idno>
+                    <persName type="reg">
+                        <surname>Ranzow</surname>,
+                        <forename>Maria</forename>
+                    </persName>
+                    <persName type="alt">
+                        <forename>Maria</forename>
+                        <surname>Fiedler-Ranzow</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1886"/>
+                    </birth>
+                    <death>
+                        <date when-iso="1952"/>
+                    </death>
+                    <sex value="f"/>
+                    <occupation>Sängerin</occupation>
+                    <occupation>Mezzosopran</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

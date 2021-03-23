@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100402"><!-- header ok; Korrekturlesung durch -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Postkarte von Ferruccio Busoni an Paul Bekker (Berlin, 24. Oktober 1910)</title>
+                <title xml:lang="en">Postcard by Ferruccio Busoni to Paul Bekker (Berlin, 24 October 1910)</title>
+                <author key="E0300117">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300416"> 
+                        <forename>Angelina</forename>
+                        <surname>Smyschlajew</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-NH">Yale University, Irving S. Gilmore Music Library, New Haven, CT</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>New Haven (CT)</settlement>
+                        <institution key="US-NH">Gilmore Music Library</institution>
+                        <collection>The Paul Bekker Papers</collection>
+                        <idno>MSS 50, I.A. Correspondence - Individual, A-E: Box 2, Folder 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300317">Busoni</persName> bezweifelt, dass er den gewünschten Programmbuchtext wird schreiben können, da <q>der Termin knapp ist</q>, schließt es aber noch nicht aus; verweist auf alternative Texte von ihm, die Grundlage für den Aufsatz sein könnten.
+                        </summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1910-10-24"/></docDate>
+                            <incipit>gern hätte ich den gewünschten Aufsatz für das Programm<choice><orig><lb/>B</orig><reg><lb break="no"/>b</reg></choice>uch</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Postkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Die Postkarte ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Text in schwarzer Tinte, in lateinischer Schreibschrift</handNote>
+                            <handNote xml:id="recipient_addr_stamp" scope="minor" medium="blue_ink" scribe="recipient" scribeRef="#E0300111">
+                                Adressstempel des Empfängers Paul Bekker (blaue Tinte)</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="black_ink" scribe="recipient" scribeRef="#E0300111" cert="high">
+                                vmtl. Hand des Empfängers Paul Bekker, der den Adressstempel in Kurrentschrift mit schwarzer Tinte ergänzt bzw. partiell nachgeschrieben hat</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1910-10-24"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100402">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1910-10-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100401"/>
+                    <ref type="previous" target="#D0100401"/>
+                    <ref type="next" target="#D0100403"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Kommentare ausstehend, status todo.</change>
+            <change when-iso="2018-03-26" who="#E0300416">status=unfinished</change>
+            <change when-iso="2018-04-03" who="#E0300416">proposed</change>
+            <change when-iso="2018-06-06" who="#E0300314">status zurückgesetzt auf unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="postcard">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <p><seg type="opener" subtype="salute">Hochgeehrter Herr,</seg> gern hätte ich den 
+                    <lb/>gewünschten Aufsatz für das Programm<choice><orig><lb/>B</orig><reg><lb break="no"/>b</reg></choice>uch
+                    
+                    <note type="commentary" resp="#E0300416">
+                        Zum 3. <persName key="E0300025">Nikisch</persName>-Konzert am <date when-iso="1910-11-07">7. November 1910</date> in <placeName key="E0500029">Berlin</placeName>; vgl. <persName key="E0300111">Bekkers</persName> Anfrage im <ref type="E010006" target="#D0100401">vorherigen Brief</ref>.
+                    </note>
+                    
+                    verfasst, doch fürchte ich<reg>,</reg> dass der 
+                    <lb/>Termin knapp ist für die Ausführung, 
+                    <lb/>da ich<reg> </reg><metamark function="insertion" target="#add_überdies"><seg rend="sub">×</seg></metamark><add xml:id="add_überdies" place="above" rend="small">überdies</add><reg> </reg><date when-iso="1910-10-25">morgen</date> <choice><orig>C</orig><reg>K</reg></choice>lavier<choice><orig>A</orig><reg>a</reg></choice>bend habe.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Besagter Klavierabend fand am <date when-iso="1910-10-25">25. Oktober 1910</date> im <placeName key="E0500029">Berliner</placeName> <placeName key="E0500074">Beethovensaal</placeName> statt (vgl. <bibl><ref type="ext" target="http://zefys.staatsbibliothek-berlin.de/index.php?id=dfg-viewer&amp;set%5Bimage%5D=10&amp;set%5Bzoom%5D=default&amp;set%5Bdebug%5D=0&amp;set%5Bdouble%5D=0&amp;set%5Bmets%5D=http%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27646518-19101023-1-0-0-0.xml">Digitalisat</ref> des Wochenplans der <orgName key="E0600001">Konzertdirektion <persName key="E0300037">Hermann Wolff</persName></orgName> im <orgName key="E0600050">Berliner Tageblatt</orgName>, Nr. 539 vom <date when-iso="1910-10-23">23.10.1910</date> [39. Jg.], Morgen-Ausgabe, 2. Beiblatt</bibl>). Zu <persName key="E0300017">Busonis</persName> Konzertprogramm gehörten u. a. die <rs type="works" key="E0400171 E0400341 E0400337 E0400159">vier Balladen</rs> von <persName key="E0300137">Frédéric Chopin</persName>, <persName key="E0300001">Beethovens</persName> <title key="E0400003">Hammerklavier-Sonate</title> sowie <persName key="E0300013">Franz Liszts</persName> <rs key="E0400154">Don-Juan-Fantasie</rs>. Als <q><supplied reason="incomplete">im</supplied>posante Kundgebung gegen alles Althergebrachte</q> beschreibt der Kritiker <persName key="E0300032">Leopold Schmidt</persName> den Abend im Nachgang und bleibt in seinem Urteil dennoch weitgehend ambivalent. Er erkennt in <persName key="E0300017">Busonis</persName> Spiel vor allem <q>das Ergebnis grüble<supplied reason="incomplete">rischen</supplied> Nachdenkens</q> und fasst zusammen: <q>[D]ie Freude des Intellekts kann die Beleidigung d<supplied reason="incomplete">es Ge</supplied>fühls nicht aufwiegen.</q> (<bibl><ref type="ext" target="http://zefys.staatsbibliothek-berlin.de/index.php?id=dfg-viewer&amp;set%5Bimage%5D=18&amp;set%5Bzoom%5D=default&amp;set%5Bdebug%5D=0&amp;set%5Bdouble%5D=0&amp;set%5Bmets%5D=http%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27646518-19101028-1-0-0-0.xml">Digitalisat</ref> der Konzertkritik im <orgName key="E0600050">Berliner Tageblatt</orgName>, Nr. 550 vom <date when-iso="1910-10-29">29.10.1910</date> [39. Jg.], Morgen-Ausgabe, 1. Beiblatt</bibl>)
+                    </note>
+                    
+                    <lb/>Ich werde versuchen, d<del rend="strikethrough">i</del>en Artikel am
+                    <lb/><date when-iso="1910-10-26">Mittwoch</date> zu schreiben<reg>,</reg> und mich in
+                    <lb break="no"/>zwischen in Gedanken mit ihm beschäftigen.
+                    <lb/>Heute erhielt ich den <rs key="E0800322">ersten Band</rs> 
+                    <lb/>von <persName key="E0300013">Liszt</persName><choice><orig> </orig><reg>-</reg></choice>Klavierwerken (<rs key="E0800116">Gesa<choice><orig>m̅</orig><reg>m</reg></choice>t<choice><abbr><choice><orig>A</orig><reg>a</reg></choice>usg.</abbr><expan><choice><orig>A</orig><reg>a</reg></choice>usgabe</expan></choice></rs>)<reg>,</reg>
+                                        
+                    <pb n="2"/>
+                    
+                    <cb type="postcard"/>
+                    
+                    der eine längere Vorrede
+                    <lb/>von mir enthält.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Als Herausgeber des <rs key="E0800322">Bandes</rs> stellt <persName key="E0300017">Busoni</persName> in seinen Vorbemerkungen <persName key="E0300013">Liszt</persName> als <q>größten Nach-<persName key="E0300001">Beethoven</persName>schen <soCalled>Klavier</soCalled>komponisten</q> heraus, der selbst <persName key="E0300137">Chopin</persName>, <persName key="E0300008">Schumann</persName> und <persName key="E0300009">Brahms</persName> im <q>Pianistisch-Gestaltenden überragt</q> und lobt ihn zugleich als <q>verkündenden Interpreten jedweden Stiles</q> (<bibl><ref target="#E0800322"/>, S. III</bibl>).
+                    </note>
+                    
+                    <!-- 
+                        »… und »erstaunlichen Verwandlungskünstler«
+                        * S. VIII: krass … das ist wie in der Ästhetik: der abstrakte Einfall, die Idee … deren NOTATION, dann bereits eine erste TRANSKRIPTION darstellt, 
+                        die nur eine von vielen Möglichkeiten verkörpert   => denn immer gilt: Die Form folgt dem Inhalt. <=
+                        * Was war zuerst? Ästhetik … und Liszt passt perfekt in deren Ideenwelt? Oder war Liszt zuerst und überhaupt Ideengeber / Inspirator für die Ästhetik?!
+                        * Bearbeitungen beschreiben also eine Art Werkgenese-Prozess …-->
+                    
+                    Meine
+                    <lb/>Meinung über <hi rend="underline"><choice><abbr>Bearbtgn.</abbr><expan>Bearbeitungen</expan></choice></hi>
+                    <lb/>findet sich in meiner
+                    <lb/>kleinen <rs key="E0400043" rend="dq-du"><choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik<orig>.</orig></rs><reg>.</reg>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Verweis <persName key="E0300017">Busonis</persName> auf seinen <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title> in der <rs key="E0800315">ersten Ausgabe</rs> von <date when-iso="1907">1907</date>, wo es etwas kryptisch heißt: <q>So gilt die Bearbeitung nicht, weil sie an dem Original ändert; und es gilt die Veränderung, obwohl sie das Original bearbeitet.</q>; siehe <ref type="E010004" target="#D0200001" n="19">digitale Edition der Schrift</ref> im Rahmen dieses Projekts. Die zitierte Passage ist in der <rs key="E0800326">erweiterten Neuausgabe</rs> von <date when-iso="1916">1916</date> ebenso enthalten, dort jedoch ergänzt um eine ausführliche Fußnote (vgl. <ref type="E010004" target="#D0200002" n="24">ebd.</ref>), die u. a. einige erläuternde Sätze aus <persName key="E0300017">Busonis</persName> <rs key="E0800036">Programmbuchtext</rs> enthält. Dass <persName key="E0300017">Busonis</persName> Wertschätzung für Bearbeitungen kein bloßes Lippenbekenntnis war, belegt auch ein Blick in sein <rs key="E0800121">Werkverzeichnis</rs>: Über 100 von ihm bearbeitete Werke sind dort gelistet, vor allem Kompositionen von <persName key="E0300012">Bach</persName>, <persName key="E0300013">Liszt</persName> und <persName key="E0300010">Mozart</persName>, aber auch weiterer Komponisten (vgl. <bibl><ref target="#E0800121"/>, S. 490 ff.</bibl>).
+                    </note>
+                    <!-- unmittelbar vor der zit. Ästhetik-Passage heißt es: "Merkwürdigerweise steht bei „Buchstaben-Treuen“ die Variationenform in grossem Ansehen. Das ist seltsam, weil die Variationenform – wenn sie über ein fremdes Thema aufgebaut ist – eine ganze Reihe von Bearbeitungen gibt und zwar um so respektloser, je geistreicher[er] Art sie sind." -->
+                    <!-- PH-Text liefert Infos zum Aufbau und Formplan der Rhapsodie -->
+                    
+                    
+                    <lb/>Ein charakterisi<reg>e</reg>render 
+                    <lb/>Ausspruch über <persName key="E0300013">Liszt<orig>’</orig>s</persName>
+                    <lb/>Persönlichkeit in <persName key="E0300049">Galstons</persName> 
+                    <lb/><hi rend="underline"><rs key="E0800291">Studienbuch</rs></hi>, aus meiner 
+                    <lb/>Feder.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist ein im Anhang des <rs key="E0800291">Studienbuches</rs> wiedergegebener Ausspruch <persName key="E0300017">Busonis</persName>, in dem er <persName key="E0300013">Liszt</persName> voller Pathos als <q>Großen</q> in der Kunst konstituiert, der <q>schon bei Lebzeiten eine Legende</q> war (<bibl><ref target="#E0800291"/>, S. 210</bibl>; <ref type="ext" target="https://archive.org/details/studienbuch00gals/page/210/mode/2up">Digitalisat</ref>).
+                    </note>
+                    <!-- vgl. evtl. auch Busoni, "Galstons Studienbuch", in: Von der Einheit, S. 53 -->
+                    
+                    Vielleicht, dass 
+                    <lb/>Sie diese Aufzeichnungen
+                    <lb/>benützen, falls ich nicht
+                    <lb/>bis <date when-iso="1910-10-27">Donnerstag</date> mich melde.
+                
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300111">Bekkers</persName> <ref type="E010006" target="#D0100401">Anfrage</ref> erreichte <persName key="E0300017">Busoni</persName> am Montag, den <date when-iso="1910-10-24">24. Okotber 1910</date>, das heißt ihm standen zwei bis drei Tage zum Schreiben zur Verfügung. Trotz anfänglicher Zweifel ob der knappen Zeitplanung hat <persName key="E0300017">Busoni</persName> den gewünschten Programmbuch-Text letztlich verfasst. Unter dem Titel <title key="E0800036">Wert der Bearbeitung</title> wurde dieser u. a. in der Aufsatz-Sammlung <title key="E0800018">Von der Einheit der Musik</title> wiederveröffentlicht.
+                    </note></p>
+                
+                <closer>
+                    <salute>Freundlichsten Dank <choice><abbr>&amp;</abbr><expan>und</expan></choice> Gru<choice><orig>ss</orig><reg>ß</reg></choice>.</salute>
+                    <signed rend="inline">Ihr
+                        <lb/><seg rend="align(right) space-below"><choice><abbr>ergbr.</abbr><expan>ergebener</expan></choice> <persName key="E0300017">F<reg>.</reg> Busoni</persName></seg></signed>
+                </closer>
+                
+                <cb type="postcard"/>    
+                
+                <fw place="top-left" rend="large fraktur space-above">Postkarte</fw>
+                
+                <note type="stamp" place="top-right" resp="#post">
+                    <stamp xml:id="post_abs" rend="round border small align(center)">
+                        <seg rend="majuscule"><placeName key="E0500029">Berlin</placeName>.W.</seg>
+                        <lb/><date when-iso="1910-10-24">24.10.10</date>.6–7N
+                        <lb/>* 30 d
+                    </stamp>
+                </note>
+                
+                <note type="stamp" place="center" rend="align(center) space-above" resp="#recipient_addr_stamp">
+                    <stamp>
+                        <address>
+                            <addrLine><handShift new="#recipient" cert="high"/><seg rend="kurrent small">Herrn</seg> <handShift new="#recipient_addr_stamp"/><persName key="E0300111">Paul Bekker</persName></addrLine>
+                            <addrLine><seg><seg rend="small"><placeName key="E0500118">Friedenau</placeName>-<placeName key="E0500029">Berlin</placeName></seg></seg></addrLine>
+                            <addrLine><seg rend="small"><placeName key="E0500504">Handjerystra<choice><orig>ss</orig><reg>ß</reg></choice>e <handShift new="#recipient" cert="high"/><subst><del rend="overwritten">86</del><add place="across">86</add></subst></placeName></seg></addrLine>
+                        </address>
+                    </stamp>
+                    <note type="commentary" resp="#E0300361">
+                        Da <persName key="E0300111">Bekker</persName>, wie er im <ref type="E010006" target="#D0100401" n="2">vorherigen Brief</ref> schrieb, <q>möglichst sofort</q> eine Rückmeldung bzgl. seiner Anfrage wünschte, hatte er offenbar eine bereits mit seinem Adressstempel versehene Antwortkarte beigefügt.
+                    </note>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

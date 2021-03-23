@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500609">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saal Bechstein (Berlin)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-16" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place type="building">
+                    <placeName>Saal Bechstein</placeName>
+                    <location>
+                        <address>
+                            <addrLine><placeName type="street">Linkstraße 42</placeName></addrLine>
+                            <addrLine><settlement key="E0500029">Berlin</settlement></addrLine>
+                        </address>
+                        <country key="DE"/>
+                        <geo>52.504553 13.373623</geo>
+                    </location>
+                    <desc>
+                        Durch <persName key="E0300237">Carl Bechstein</persName> gebauter und am <date when-iso="1892-10-04">04.10.1892</date> eröffneter Konzertsaal 
+                        mit etwa 500 Plätzen, vorrangig zur Aufführung von Kammerkonzerten (Auftraggeber: <orgName key="E0600001">Konzertdirektion Hermann Wolff</orgName>, Architekt: 
+                        <persName key="E0300510">Franz Schwechten</persName>); das Eröffnungskonzert wurde gestaltet durch <persName key="E0300231">Hans von Bülow</persName> (sein letztes 
+                        Konzert als Pianist); der Saal wurde gegen Ende des Zweiten Weltkriegs <date when-iso="1944">1944</date> durch einen Bombentreffer zerstört.
+                    </desc>
+                    <idno type="GND">1084247690</idno>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

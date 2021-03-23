@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Wien, 16. Dezember 1903)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Vienna, 16 December 1903)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300315">
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno type="D-B">Mus.Nachl. F. Busoni B II, 3553</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. OrchesterAbend 1903, 29 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno type="kalliope">DE-611-HS-681438</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary> <persName key="E0300023">Schönberg</persName> hat eine Aufführung von <title key="E0400012">Pelleas und Melisande</title> in Aussicht, bittet <persName key="E0300017">Busoni</persName> um Rücksendung seiner Partitur; bietet erneute Zusendung (ggf. einer Abschrift) an. </summary>
+                        <msItem>
+                            <docDate><date when-iso="1903-12-16"/></docDate>
+                            <incipit>es ist augenblicklich eine Anzahl von Bekannten</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate when-iso="1903-12-16"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800003"/>, S. 319</bibl>
+                            <bibl><ref target="#E0800284"/>, S. 221</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100005">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1903-12-16"/>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100004"/>
+                    <ref type="next" target="#D0100006"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-03-15" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2016-04-02" who="#E0300315">Ersttranskription, Überarbeitung und Kommentierung ausstehend.</change>
+            <change when-iso="2017-12-09" who="#E0300314">Codierung abgeschlossen, status proposed</change>
+            <change when-iso="2020-02-03" who="#E0300550">Korrekturlesung abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839133375/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2300000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2300000003"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2300000002"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2300000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top" resp="#archive">
+                    <subst>
+                        <del xml:id="del_sig" rend="strikethrough">Mus.ep. OrchesterAbend 1903, 29 (Busoni-Nachl. B II)</del>
+                        <add xml:id="add_sig" place="margin-left" rend="rotate(-90)">Mus.Nachl. F. Busoni B II, 3553</add>
+                    </subst>
+                </note>
+                
+                <opener>
+                    <dateline rend="align(right) space-below">
+                        <placeName key="E0500002">Wien</placeName><reg>,</reg>
+                        <date when-iso="1903-12-16">16<choice><orig>/12. </orig><reg>.12.</reg></choice>1903</date>
+                    </dateline>                    
+                </opener>
+                <p rend="indent-first"><seg type="opener" subtype="salute">Hochverehrter Herr Professor,</seg> 
+                    es ist augenblicklich
+                    <lb/>eine Anzahl von Bekannten bestrebt<reg>,</reg> mir von
+                    <lb/>einigen Kunstfreunden den zur Aufführung meiner
+                    <lb/><rs key="E0400012">symphonischen Dichtung</rs> nöt<orig>h</orig>igen Betrag zu ver
+                    <lb break="no"/>schaffen. Da ich nun,
+                    
+                    <note resp="#E0300314, E0300550" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319) und bei <ref target="#E0800284"/> (221)</bibl> fälschlich: <q>mir</q>.</note>
+                    
+                    falls daraus etwas wird,
+                    <lb/>gerne vorbereitet
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319) und bei <ref target="#E0800284"/> (221)</bibl> fälschlich: <q>zu unvorbereitet</q>.</note>
+                    
+                    wäre, benöt<orig>h</orig>ige ich meine
+                    <lb/>Partitur sehr dringend. Ich möchte auch noch
+                    <lb/>einige Stellen ein wenig
+                    
+                    <note resp="#E0300315" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319) und bei <ref target="#E0800284"/> (221)</bibl> fehlt <q>ein wenig</q>.</note>
+                    
+                    retouchieren
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl>Bei <ref target="#E0800003"/> (319)</bibl>: <q>retouschieren</q>.</note>
+                    
+                    und
+                    <lb/>umarbeiten, muss also
+                    
+                    <note resp="#E0300315" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319) und <ref target="#E0800284"/> (221)</bibl> fälschlich: <q>aber</q>.</note>
+                    
+                    <subst><del rend="overwritten">auf</del><add place="across">für</add></subst> alle Fälle<reg>,</reg> bevor
+                    <lb/>ich ans Stimmen<choice><orig><pc>=</pc>C</orig><reg>k</reg></choice>opieren denken kann, die
+                    <lb/>Partitur durchsehen. Ich bitte Sie daher recht
+                    <lb/>sehr<reg>,</reg> mir so rasch als irgend möglich das
+                    <lb/>Manus<choice><orig>c</orig><reg>k</reg></choice>ript (<hi rend="underline" n="2">eingeschrieben</hi> – Sie sind wohl so
+                    <lb/>liebenswürdig) zu übersenden. Falls Sie die
+                    <lb/>Absicht haben, noch heuer
+                    
+                    <note resp="#E0300550" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319) und bei <ref target="#E0800284"/> (221)</bibl> fälschlich: <q>ferner</q>.</note>
+                    
+                    irgend<orig> </orig>etwas dafür
+                    <lb/>zu t<orig>h</orig>un, so sende ich Ihnen eventuell eine
+                    <lb/>in längstens 5–6 Tagen angefertigte Abschrift;
+                    <lb/>oder<reg>,</reg> falls aus
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319)</bibl> fälschlich: <q>mit</q>.</note>
+                    
+                    meinen hiesigen Aussichten
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319) und bei  <ref target="#E0800284"/> (221)</bibl> fälschlich: <q>Absichten</q>.</note>
+                    
+                    <lb/>nichts wird<reg>,</reg> das Original. Vielleicht kann
+                    <lb/>ich Ihnen dann auch einen <choice><orig>C</orig><reg>K</reg></choice>lavierauszug
+                    <lb/>davon dazugeben, d<subst><del rend="overwritten">a</del><add place="across">en</add></subst> einer meiner Freunde
+                    <lb/>schon früher zu arbeiten begonnen hat<orig>,</orig> und
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    <pb n="2"/>
+                    
+                    fortzusetzen
+                    
+                    <note resp="#E0300315" type="commentary" subtype="ed_diff_major"><bibl>Bei <ref target="#E0800003"/> (319)</bibl> fälschlich: <q>fortzuführen</q>.</note>
+                    
+                    gedenkt.
+                </p>
+                
+                <p rend="indent-first">
+                    Ich schließe also, noch einmal meine Bitte
+                    <lb/>um möglichst rasche <choice><orig>Ue</orig><reg>Ü</reg></choice>bersendung
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (319)</bibl>: <q>Übersendung</q>.</note>
+                    
+                    wiederholend<reg>,</reg>
+                    <lb/>mit der besten Empfehlung in</p>
+                <closer rend="align(right)">
+                    <salute rend="align(center)">vorzüglicher
+                        
+                        <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (319) und bei <ref target="#E0800284"/> (221)</bibl> fälschlich: <q>vorzüglichster</q>.</note>
+                        
+                        Hochachtung </salute>
+                    <signed rend="align(center)"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                    <address rend="align(center)">
+                        <addrLine>
+                            <placeName key="E0500002">Wien </placeName><placeName key="E0500077">IX Liechtensteinstraße 68/70</placeName>
+                        </addrLine>
+                    </address>
+                    
+                </closer>
+                
+                <note type="stamp" place="margin-left" resp="#dsb_st_red"><stamp rend="round border align(center) small"><supplied reason="illegible">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></supplied></stamp></note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

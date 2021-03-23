@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300509">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Muck</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118584685</idno>
+               <idno type="VIAF">17408317</idno>
+               <idno type="ISNI">0000000059348758</idno>
+               <persName type="reg">
+                  <surname>Muck</surname>,
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1859-10-22"/>
+                  <placeName key="E0500565">Darmstadt</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1940-03-03"/>
+                  <placeName key="E0500181">Stuttgart</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Dirigent</occupation>
+               <occupation>Pianist</occupation>
+               <affiliation>Von <date when-iso="1892/1908">1892 bis 1908</date> Erster Kapellmeister und von <date when-iso="1908/1912">1908 bis 1912</date>Generalmusikdirektor der <orgName key="E0600036">Königlichen Hofoper</orgName> in <placeName key="E0500029">Berlin</placeName>.</affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

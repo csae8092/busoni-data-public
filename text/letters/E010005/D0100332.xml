@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100332">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Berlin, 15. März 1919)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Berlin, 15 March 1919)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300391">
+                        <forename>Ivana</forename>
+                        <surname>Rajic</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4289</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 30 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-724485</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300126">Rubiner</persName> berichtet von seinem Einzug in <persName key="E0300017">Busonis</persName> <placeName key="E0500029">Berliner</placeName> Wohnung am <placeName key="E0500072">Viktoria-Luise-Platz</placeName>, seiner Unzufriedenheit mit dem <q rend="dq-du">politischen Parteiverlag <orgName key="E0600074">Cassirer</orgName></q> und seinem Eintritt in den Verlag <orgName key="E0600079">Kiepenheuer</orgName>; er bittet <persName key="E0300017">Busoni</persName> darum, diesem seine Opern <title key="E0400218">Doktor Faustus</title>, <title key="E0400133">Arlecchino oder Die Fenster</title> (I, II) und <title key="E0400153">Turandot</title> zur Herausgabe anzuvertrauen; zusätzlich schlägt er ihm vor, eine Auswahl seiner Lieblingsnovellen von <persName key="E0300019">E.&#8239;T.&#8239;A. Hoffmann</persName> zu veröffentlichen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-03-15"/></docDate>
+                            <incipit>Dieser Brief wartet mit einigen Überraschungen auf.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">6 Blatt</measure>
+                                    <measure type="pages">12 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                        <accMat> </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1919-03-15"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100332">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1919-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100331"/>
+                    <ref type="next" target="#D0100334"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-04" who="#E0300391">Ersttranskription, status unfinished</change>
+            <change when-iso="2018-01-22" who="#E0300391">status unfinished</change>
+            <change when-iso="2018-01-26" who="#E0300391">status unfinished</change>
+            <change when-iso="2018-01-30" who="#E0300391">status unfinished</change>
+            <change when-iso="2018-02-06" who="#E0300391">status unfinished</change>
+            <change when-iso="2018-02-07" who="#E0300391">status unfinished</change>
+            <change when-iso="2018-02-13" who="#E0300391">proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873594320/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000010"/>
+        <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000011"/>
+        <graphic n="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000012"/>
+        <graphic n="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6900000013"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="foliation" place="top-right" rend="underline" resp="#archive">1</note>
+                <opener>
+                    <dateline rend="align(left)">
+                        <placeName key="E0500029">Berlin</placeName>, d. <date when-iso="1919-03-15">15. März 1919</date>                        
+                        <note type="shelfmark" place="top-right" rend="inline" resp="#archive_sig">
+                            <subst>
+                                <del rend="strikethrough"><idno type="D-B.olim">Mus.ep. L. Rubiner 30 </idno>
+                                    <lb/>(Busoni-Nachl. <handShift new="#archive_red"/>B II)</del>
+                                <lb/><add place="below"><handShift new="#archive_sig"/><idno type="D-B">Mus.Nachl. F. Busoni B II, 4289 </idno></add>
+                            </subst>
+                        </note>
+                    </dateline>
+                    <salute> Lieber! </salute>
+                    <note type="stamp" place="top-right" rend="align(right)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                </opener>
+                <p>Dieser Brief wartet mit einigen Überraschungen
+                    <lb/>auf.
+                    <lb/>Die erste ist, dass meine Adresse nun lautet: <lb rend="ident-first"/>
+                    <placeName key="E0500072">Berlin W.30. Viktoria Luiseplatz 11 IV</placeName>.
+                    <lb/>Dass ich in Ihrem gro<choice><orig>ss</orig><reg>ß</reg></choice>en Zimmer bei der Arbeit
+                    <lb/>sitze, und dass <persName key="E0300502"><hi rend="underline">Emma</hi> Fital</persName> soeben im Nebenzimmer 
+                    <lb/>denkbar peinlich rein macht. &#8212;</p>
+                <p>Bald nachdem ich <persName key="E0300351">Rita</persName> wieder gesehen hatte, schien
+                    <lb/>es dieser (ernstlich ganz au<choice><orig>ss</orig><reg>ß</reg></choice>erordentlichen) Ver
+                    <lb break="no"/>walterin Ihres Haushaltes während Ihrer Abwesen
+                    <lb break="no"/>heit
+                    
+                    <note type="commentary" resp="#E0300391">Angesichts der immer bedrohlicheren internationalen Lage floh Busoni im Oktober 1915 in die <placeName key="E0500092">Schweiz</placeName>, genauer gesagt in die <placeName key="E0500132">Züricher</placeName> <placeName key="E0500189">Scheuchzerstraße</placeName>. Nachdem der Krieg im November 1918 beendet war, nahm Busoni seine internationale Konzerttätigkeit wieder auf. Erst im September 1920 kam er zurück an den <placeName key="E0500072">Viktoria-Luise-Platz</placeName>, um eine Meisterklasse für Komposition an der <orgName key="E0600083">Akademie der Künste</orgName> zu unterrichten.</note>
+                    
+                    &#8211; und schien es auch mir &#8211; aus mehreren
+                    <lb/>Gründen am besten zu sein, wenn ich in Ihre
+                    <lb/>Wohnung zöge, bis auf Weiteres, das hei<choice><orig>ss</orig><reg>ß</reg></choice>t: bis
+                    <lb/>auf Ihre hoffentlich baldige Wiederkunft, oder
+                    <lb/>bis auf Ihr Veto. &#8211; Ich tat dies zunächst ohne
+                    <lb/>Bedenken, weil Sie selbst <!-- Wann haben sich Busoni und Rubiner zuletzt in Zürich gesehen? --> mir in <placeName key="E0500132">Zürich</placeName> die Schwierig
+                    <lb break="no"/>keiten als mehr <placeName key="E0500029">berlinischer</placeName> Art und vor allem
+                    <lb/>durch <persName key="E0300351">Rita</persName> zu entscheiden dargelegt hatten. Die
+                    <lb/>drei Gründe waren: <choice><orig>1.)</orig><reg>Erstens,</reg></choice> der persönliche Grund:
+                    <lb/>Dass Ihre Wohnung der herrlichste Arbeits
+                    <lb break="no"/>platz von der Welt ist, voll von Wundern,
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">2</note>
+                    
+                    drau<choice><orig>ss</orig><reg>ß</reg></choice>en vor den Fenstern, wobei immer wieder
+                    <lb/>das <choice><orig>m</orig><reg>M</reg></choice>erkwürdigste von allen die Kuppel der
+                    <lb/>peterskirchlichen Gasanstalt der <placeName key="E0500441"><choice><orig>Augsburgerstrasse</orig><reg>Augsburger Straße</reg></choice></placeName>
+                    
+                    <note type="commentary" resp="#E0300391">1895 wurde im östlichen Abschnitt der <placeName key="E0500441">Augsburger Straße</placeName> (heute <placeName key="E0500443">Fuggerstraße</placeName>) ein 81.000 Kubikmeter umfassender Gasbehälter errichtet. Dieser wurde 1944 im Zweiten Weltkrieg zerstört und Anfang der 1950er Jahre abgerissen.</note>
+                    
+                    <lb/>ist. Die Wohnung ist überhaupt merkwürdig. Ich
+                    <lb/>wohnte erst im Hotel, dann bei Bekannten, äu<choice><orig>ss</orig><reg>ß</reg></choice>erst
+                    <lb/>traurig, so dass es nichts mit der Arbeit war
+                    <lb/>und ich krank wurde. Kaum zog ich endlich
+                    <lb/>(nach sorgfältigster Vorbereitung durch
+                    <persName key="E0300351">Rita</persName>
+                    <lb/>und <persName key="E0300502">Emma</persName>) in Ihre Wohnung, wurde ich gesund
+                    <lb/>und arbeitete drauf los. &#8211; Der <choice><orig>2.)</orig><reg>zweite</reg></choice> Grund: Im Hause
+                    <lb/>(wie auch in Ihrer Wohnung, dort glücklicherweise
+                    <lb/>ergebnislos) war mehrmals eingebrochen worden.
+                    <lb/>Alle Beteiligten atmeten auf, als sie hörten, es
+                    <lb/>bestehe die Möglichkeit, dass ein (zuverlässiges) <lb/><hi rend="underline">männliches</hi> Individuum sich in der Wohnung
+                    <lb/>aufhalten werde. <choice><orig>3.)</orig><reg>Drittens:</reg></choice> Es besteht die Möglichkeit,
+                    <lb/>sogar die Wahrscheinlichkeit, dass in nächster
+                    <lb/>Zeit schon gro<choice><orig>ss</orig><reg>ß</reg></choice>e Wohnungen, vor allem solche,
+                    <lb/>von denen mehrere Räume <choice><orig>leerstehen</orig><reg>leer stehen</reg></choice><choice><orig> </orig><reg>, </reg></choice>an
+                    <lb/>obdachlose Familien aufgeteilt werden.
+                    
+                    <note type="commentary" resp="#E0300391">Das Deutsche Reich sah sich bereits im ausgehenden 19. Jahrhundert mit einem zunehmenden Wohnungsnotstand konfrontiert. Mit der Weimarer Republik setzte ein grundlegendes Verständnis der Notwendigkeit staatlicher Interventionen hinsichtlich des Wohnungsmarktes ein, weshalb Maßnahmen im Bereich Mieterschutz, Mietpreisregelung und öffentliche Wohnraumbewirtschaftung getroffen wurden. Im Artikel 155 der Weimarer Verfassung heißt es beispielsweise: <q rend="dq-du">Die Verteilung und Nutzung des Bodens wird von Staats wegen in einer Art und Weise überwacht, die Missbrauch verhütet und dem Ziele zustrebt, jedem Deutschen eine gesunde Wohnung und allen deutschen Familien, besonders den kinderreichen, eine ihren Bedürfnissen entsprechende Wohn- und Wirtschaftsheimstätte zu sichern.</q></note>
+                    
+                    Und so
+                    <lb/>halte ich die jetzige Kombination (wie <persName key="E0300351">Rita</persName>
+                    <lb/>auch) für eine ausgezeichnete Fürsorge &#8211; da man
+                    <lb/>ja nicht wissen kann, ob nicht der gerade
+                    <lb/>zufällige Dezernent über das <choice><abbr>betr.</abbr><expan>betroffene</expan></choice> Viertel
+                    <lb/>böswillig ist, oder schlecht geschlafen hat, oder
+                    <lb/><choice><orig>irgend etwas</orig><reg>irgendetwas</reg></choice> dergleichen, z. B. nationalwahnsinnig.
+                    <lb/>Ich jedenfalls glaube, die Dinge sichern zu können. &#8212;</p>
+                <p>In <placeName key="E0500132">Zürich</placeName> haben Sie mir merkwürdig richtig prophezeit.
+                    <lb/>Abgeraten vom Journalismus und <subst>
+                        <del rend="overwritten"/>
+                        <add place="across"><unclear reason="overwritten" cert="unknown">angedeutet</unclear></add>
+                    </subst> eine Existenz,
+                    <lb/>die nicht von der Produktion des Talents abhänge. Ich, sonst
+                    <lb/>ein sehr schlechter Boden für Lebensregeln, bin doch diesem
+                    <lb/>Rat, der starken Eindruck auf mich machte, gefolgt. Ich fand,
+                    <lb/>dass meine Angelegenheiten sich so wendeten, dass ich als geisti
+                    <lb break="no"/>ger Leiter in einem gro<choice><orig>ss</orig><reg>ß</reg></choice>en Verlag eintrat, und zwar mit einem
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">3</note>
+                    <note type="shelfmark" place="top-left" resp="#archive_sig"><idno type="D-B">B II, 4289 </idno></note>
+                    
+                    so hohen Honorar, wie es wohl selten ein deu
+                    <lb break="no"/>tscher Schriftsteller für eine <choice><orig>solche-freie-Tätig
+                        <lb break="no"/>keit</orig><reg>solche freie Tätigkeit</reg></choice> je bekommen hat. Materiell geht es mir
+                    <lb/>also gut! (Ich hoffe, dass Sie ein solches Wort
+                    <lb/>in allen Briefen, die Freunde von irgendeinem
+                    <lb/>Punkte der Welt an Sie schreiben, antreffen
+                    <lb/>könnten!) Ich schreibe Ihnen das &#8211; so unwichtig es für die Hauptdinge
+                    <lb/>ist &#8211; weil ich wei<choice><orig>ss</orig><reg>ß</reg></choice>, dass es Sie erfreuen wird. &#8212;</p>
+                <p>Die Geschichte, wie ich Leiter dieses Verlages wurde,
+                    <lb/>ist aber wiederum seltsam. Ich suchte den
+                    <lb/>Verlag <orgName key="E0600074">Cassirer</orgName> auf. Und da erlebte ich den
+                    <lb/>aller, aller allerschlechtesten Eindruck, den ein
+                    <lb/>Mensch in der Welt bekommen kann. Mir
+                    <lb/>wurde sofort klar, dass wir in der <placeName key="E0500092">Schweiz</placeName>
+                    <lb/>alle ganz ungenügend unterrichtet waren.
+                    <lb/>Erstens ist der Verlag
+                    <orgName key="E0600074">Cassirer</orgName> ein <hi rend="underline">politischer</hi>
+                    <lb/>Verlag. Er bekommt seine Druckaufträge <choice><abbr>z.T.</abbr><expan>zum Teil</expan></choice> von
+                    <lb/>der Regierung, die sie nur des Buchhandels wegen
+                    <lb/>mit <!--Beispiele? Welche Regierungsaufträge?--> der Marke dieses Verlages herausgeben lie<choice><orig>ss</orig><reg>ß</reg></choice>.
+                    <lb/>Zweitens aber ist er ein noch <choice><orig>mehr politischer</orig><reg>politischerer</reg></choice>
+                    <lb/>Verlag insofern, als er auch noch der <del><gap rend="strikethrough"/></del>
+                    <lb/>geistige Unterstützungsverlag der <choice><abbr>sog.</abbr><expan>sogenannten</expan></choice>
+                    <orgName key="E0600075" rend="dq-du">Unabhängi
+                        <lb break="no"/>gen so<choice><orig>c</orig><reg>z</reg></choice>ialistischen Partei</orgName>
+                    
+                    <note type="commentary" resp="#E0300391">Gemeint ist die <orgName key="E0600075"><soCalled rend="dq-du">Unabhängige Sozialdemokratische Partei Deutschlands</soCalled></orgName> (<orgName key="E0600075">USPD</orgName>), die in der zweiten Hälfte des Ersten Weltkriegs aus der Spaltung der <orgName key="E0600084"><soCalled rend="dq-du">Sozialdemokratischen Partei Deutschlands</soCalled></orgName> (<orgName key="E0600084">SPD</orgName>) aufgrund von Meinungsunterschieden hinsichtlich der Kriegskredite hervorging. Um die Abgrenzung von der <orgName key="E0600075">USPD</orgName> zu betonen, bezeichnete sich die <orgName key="E0600084">SPD</orgName> als <orgName key="E0600084"><soCalled rend="dq-du">Mehrheitssozialdemokratische Partei Deutschlands</soCalled></orgName> (<orgName key="E0600084">MSPD</orgName>).</note>
+                    
+                    ist, und er ist also
+                    <lb/>ein politischer <hi rend="underline">Partei</hi>verlag, derma<choice><orig>ss</orig><reg>ß</reg></choice>en, dass alles
+                    <lb/>was heute (wo die Regierung die <choice><abbr>diesbezügl.</abbr><expan>diesbezüglichen</expan></choice> Druck
+                    <lb break="no"/>aufträge voraussichtlich nicht mehr geben
+                    <lb/>wird, d.h. die mehrheitssozialistische Regierung)
+                    <lb/>im Verlage <orgName key="E0600074">Cassirer</orgName> erscheint, automatisch als
+                    <lb/>zugehörig zur <orgName key="E0600075" rend="dq-du">U.S.P.</orgName> (<orgName key="E0600075"><choice><abbr>unabhäng. so<choice><orig>c</orig><reg>z</reg></choice>. Part.</abbr><expan>unabhängigen sozialistischen Partei</expan></choice></orgName>)
+                    <lb/>gerechnet wird. So blüte mir die unerbetene
+                    <lb/>
+                    Überraschung, gerade an dem Tage, als ich nach
+                    
+                    <pb n="4"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">4</note>
+                    
+                    <placeName key="E0500029">Berlin</placeName> kam,
+                    
+                    <note type="commentary" resp="#E0300391">Am 30. Januar 1918 kehrt Rubiner über <placeName key="E0500034">München</placeName> zurück nach <placeName key="E0500029">Berlin</placeName>, nachdem der gebürtige <placeName key="E0500029">Berliner</placeName> 1915 als radikaler Kriegsgegner in die <placeName key="E0500092">Schweiz</placeName> geflüchtet ist.</note>
+                    
+                    gro<choice><orig>ss</orig><reg>ß</reg></choice>e Teile meines <rs key="E0800155"><persName key="E0300175">Voltaire</persName>-Aufsatzes</rs>
+                    <lb/>aus den <orgName key="E0600069" rend="dq-du">Wei<choice><orig>ss</orig><reg>ß</reg></choice>en Blättern</orgName>
+                    
+                    <note type="commentary" resp="#E0300391"><persName key="E0300126">Rubiners</persName> Artikel <title key="E0800155">Der Dichter Voltaire</title> erschien 1919 in den <orgName key="E0600069">Weißen Blättern</orgName>. Diesen wird er im gleichen Jahr noch im ersten Band seiner und <persName key="E0300340">Frida Ichaks</persName> Übersetzungen von <persName key="E0300175">Voltaires</persName> <title key="E0800154">Romanen und Erzählungen</title> als Vorwort veröffentlichen.</note>                    
+                    
+                    <hi rend="underline">ohne meine Erlaubnis</hi>
+                    <note type="stamp" place="top-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <lb/>abgedruckt zu finden in der Tageszeitung <orgName key="E0600076" rend="dq-du">Freiheit</orgName>,
+                    <lb/>dem Partei-Organ der <orgName key="E0600075"><choice><abbr>Unabh. So<choice><orig>c</orig><reg>z</reg></choice>.</abbr><expan>Unabhängigen Sozialisten</expan></choice></orgName>.
+                    
+                    <note type="commentary" resp="#E0300391">Die Tageszeitung <orgName key="E0600076">Die Freiheit</orgName> trug den Zusatz <soCalled rend="dq-du"><placeName key="E0500029">Berliner</placeName> Organ der Unabhängigen Sozialdemokratie Deutschlands</soCalled>, und erschien von 1918 bis 1922 sowie erneut von 1928 bis 1931 (die <orgName key="E0600075">USPD</orgName> bestand ebenfalls bis 1931).</note>
+                    
+                    Mein Einspruch
+                    <lb/>wurde mit Befremden abgewiesen. Die <orgName key="E0600069" rend="dq-du"><choice><abbr>Wei<choice><orig>ss</orig><reg>ß</reg></choice>en Blä</abbr><expan>Weißen Blätter</expan></choice></orgName>
+                    <lb/>erschienen im Verlag <orgName key="E0600074">Cassirer</orgName><choice><orig>,</orig><reg>;</reg></choice>
+                    
+                    <note type="commentary" resp="#E0300391">Von Februar 1919 bis Dezember 1920 wurden die <orgName key="E0600069">Weißen Blätter</orgName> vom <orgName key="E0600074">Paul Cassirer Verlag</orgName> in <placeName key="E0500029">Berlin</placeName> herausgegeben.</note>
+                    
+                    der Verlag <orgName key="E0600074">Cassirer</orgName>
+                    <lb/>sei Parteiverlag, und was da erschiene<choice><orig> </orig><reg>, </reg></choice>könne
+                    <lb/>abgedruckt werden. &#8211; Nun gehöre ich erstens
+                    <lb/>dieser Partei nicht an <add place="above">(wie keiner Partei!)</add>, und zweitens, selbst wenn
+                    <lb/>ich ihr angehören wollte, müsste ich mir doch
+                    <lb/>das Recht wahren, dies nach meinem eigenen Willen
+                    <lb/>tun zu können, nicht aber auf Grund eines
+                    <lb/>schlechten und ausbeuterischen Verlagsvertrages
+                    <lb/>mechanisch als Glied dieser Partei zu gelten!
+                    <lb/>Dies war das eine im Verlage <orgName key="E0600074">Cassirer</orgName>. Das andere
+                    <lb/>aber war mein wiederholter Eindruck, dass
+                    <lb/>ein Autor, der im Verlage <orgName key="E0600074">Cassirer</orgName> erscheint,
+                    <lb/>zwar gelegentlich ein Honorar bekommt, aber
+                    <lb/>in der Tat zum Vergessen verurteilt ist. In
+                    <lb/><!--Evtl. Beispiele. Welche Autoren zu jener Zeit publiziert?--> diesem Verlage ist keine Person, die etwas
+                    <lb/>von Büchern versteht, oder sich dafür interes
+                    <lb break="no"/>siert. <persName key="E0300061">Cassirer</persName> ist politisch interessiert,
+                    
+                    <note type="commentary" resp="#E0300391"><persName key="E0300061">Paul Cassirer</persName> war bis 1915 überzeugt davon, dass der Krieg zur Verteidigung der deutschen Unabhängigkeit notwendig sei. So gründete er die wöchentlich erscheinende Zeitschrift <orgName key="E0600086">Kriegszeit</orgName>. Im darauffolgenden Jahr veränderte sich <persName key="E0300061">Cassirers</persName> Einstellung, sodass die <orgName key="E0600086">Kriegszeit</orgName> 1916 durch die neue Zeitschrift <orgName key="E0600085">Der Bildermann</orgName>, an der <persName key="E0300155">Leo Kestenberg</persName> beteiligt war, ersetzt wurde. Seit der Novemberrevolution gab Cassirer als Mitglied der <orgName key="E0600075">USPD</orgName> Schriften sozialistischer Politiker und marxistischer Theoretiker heraus.</note>
+                    
+                    er ist
+                    <lb/>seinem Talent nach ein Bilderhändler ersten
+                    <lb/>Ranges und beschäftigt sich mit dem Verlag
+                    <lb/>überhaupt nicht, er schiebt alles auf <persName key="E0300155">Kesten
+                        <lb break="no"/>berg</persName> ab. <persName key="E0300155">Kestenberg</persName> ist lediglich für seine
+                    <lb/>Person interessiert, er g<choice><orig>ie</orig><reg>i</reg></choice>bt Musikunterricht,
+                    <lb/>er sitzt in der <orgName key="E0600077">Volksbühne</orgName>, er sitzt täglich
+                    <lb/>im <orgName key="E0600078">Kultusministerium</orgName>, und er macht auch
+                    <lb/>Fettflecke im Verlag <orgName key="E0600074">Cassirer</orgName> &#8211; 
+                    
+                    <note type="commentary" resp="#E0300391"><persName key="E0300155">Leo Kestenberg</persName> war als überzeugter Sozialdemokrat vor allem kulturpolitisch engagiert. Er war musikalischer Leiter der <placeName key="E0500029">Berliner</placeName> <orgName key="E0600077">Freien Volksbühne</orgName>. Er setzte sich für die Demokratisierung der Künste ein und organisierte in diesem Rahmen zahlreiche künstlerische Veranstaltungen, beispielsweise Mittagskonzerte für die Arbeiterschaft. Seit 1916 war er durch die Kunstzeitschrift <orgName key="E0600085">Der Bildermann</orgName> mit dem <orgName key="E0600074">Cassirer Verlag</orgName> verbunden. Ab 1918 war er zudem als wissenschaftlicher Mitarbeiter im <orgName key="E0600078">Preußischen Kultusministerium</orgName> aktiv. 1920 wurde er zum Referenten der Kunstabteilung berufen und leitete die Musikabteilung für Erziehung und Unterricht.</note>
+                    
+                    aber seine Tätig
+                    <lb break="no"/>keit besteht darin, seine Person möglichst gut
+                    <lb/>zu sichern. Er tut nichts und schiebt wiederum
+                    <lb/>alles ab auf einen <persName key="E0300503">Herrn Reif</persName>, den
+                    
+                    <!--Wer ist Herr Reif? Keine Informationen gefunden. Gesucht in: Paul Cassirer Verlag. Eine kommentierte Bibliographie & Ein Fest der Künste - Paul Cassirer. ... Könnte Reif für Benno Reifenberg stehen? Wurde von Cassirer herausgegeben, aber keine Information darüber, ob er dort auch gearbeitet hat.-->
+                    
+                    <pb n="5"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">5</note>
+                    <note type="shelfmark" place="top-left" resp="#archive_sig"><idno type="D-B">B II, 4289 </idno></note>
+                    
+                    engagierten Buchhändler des Verlages, der jung,
+                    <lb/>langsam, untätig und ungebildet ist wie alle
+                    <lb/>neueren Buchhändler. So kommt es, dass Sie in
+                    <lb/>den Buchhandlungen nur jene vier politischen
+                    <lb/>Schriften aus dem Verlag <orgName key="E0600074">Cassirer</orgName> sehen, die in
+                    <!--Welche vier politischen Schriften? Nachgeschaut in "Paul Cassirer Verlag: Eine kommentierte Bibliographie". Zu viele Werke um 1918/1919 erschienen. Wahrscheinlich Mitglieder der USPD? Dennoch eine wahrscheinliche Auswahl erstellen?-->
+                    <lb/>der Novemberrevolution
+                    
+                    <note type="commentary" resp="#E0300391">Die Novemberrevolution, die sich in der Endphase des Ersten Weltkriegs ereignete, führte das Deutsche Reich von einer konstitutionellen Monarchie in eine parlamentarisch-demokratische Republik, genauer gesagt die Weimarer Republik.</note>
+                    
+                    die Regierung dort
+                    <lb/>herstellen lie<choice><orig>ss</orig><reg>ß</reg></choice>, und für deren Vertrieb und Propa
+                    <lb break="no"/>ganda wohl auch die Regierung selbst sorgte.
+                    <lb/>Von den Dichtungen des Verlages sieht man nichts, <!--Dichtungen. Beispiele nennen?-->
+                    <lb/>von ihnen singt kein Lied, kein Heldenbuch.
+                    <lb/>Den allerschlechtesten Eindruck machte mir aber
+                    <lb/><persName key="E0300155">Kestenbergs</persName> Verhalten, als ich ihn über Ihren
+                    <lb/><title key="E0400218" rend="dq-du">Faust</title> interpellierte. <add place="above">Er tat, als wisse er nichts!</add> Er grunzte erst <q rend="dq-du-oo">Das inte
+                        <lb break="no"/>ressiert <subst>
+                            <del rend="overwritten"/>
+                            <add place="across">mich!</add>
+                        </subst></q> (Wie gütig: das interessierte ihn!)
+                    <lb/>Als ich aber ernst wurde und den Schwindel mit
+                    <lb/>der angeblichen Bestellung neuer Typen festnagelte,
+                    <!--Worum geht es hier genau? Typen =^ Typendruck? Oder Bestellung neu gedruckter Exemplare? Im Antwort-Brief von Busoni nicht aufgegriffen.-->
+                    <lb/>wurde er unruhig und musste sich plötzlich von
+                    <lb/><persName key="E0300367"><choice><abbr>Prof.</abbr><expan>Professor</expan></choice> Gaul</persName> verabschieden, der sich in irgendeinem
+                    <lb/>Raume des Hauses aufhielt. <note type="stamp" place="right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                </p>
+                <p rend="indent-first"> Da ich nun sicher bin, dass sich in
+                    <lb/>ernsten Angelegenheiten stets ein Gaul oder
+                    <lb/>ein anderer Esel im Hause befinden wird,
+                    <lb/>der gerade im passenden Moment die Dinge
+                    <lb/>nicht zur Klarheit kommen lassen wird, so
+                    <lb/>verlie<choice><orig>ss</orig><reg>ß</reg></choice> ich das Haus mit dem Entschluss,
+                    <lb/>meine Beziehungen zum Verlage <orgName key="E0600074">Cassirer</orgName>
+                    <lb/>zu lösen. Diesen Entschluss führte ich dieser
+                    <lb/>Tage auch aus, sandte <persName key="E0300061">Cassirer</persName> das Geld,
+                    <lb/>das ich plötzlich, nach Monaten, von ihm
+                    <lb/>erhielt, zurück, und war ihm nur noch eine
+                    <lb/>Summe schuldig, die ich in der <placeName key="E0500092">Schweiz</placeName>
+                    
+                    <pb n="6"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">6</note>
+                    
+                    von ihm erhalten hatte. Sie können sich denken,
+                    <lb/>dass mich diese ganze Sache recht deprimiert
+                    <lb/>hatte. In dieser Stimmung traf ich mit dem
+                    <lb/>Verleger <persName key="E0300368">Kiepenheuer</persName> zusammen, über den
+                    <lb/>wiederum ich nicht richtig informiert gewesen
+                    <lb/>war, trotzdem ich den Voltaire für ihn
+                    <lb/>gemacht hatte. Der Verlag <orgName key="E0600079">Kiepenheuer</orgName>
+                    <lb/>hat nämlich nicht allein eine <hi rend="underline">sehr</hi> gro<choice><orig>ss</orig><reg>ß</reg></choice>e
+                    <lb/>Menge ausgezeichneter Bücher erscheinen
+                    <lb/>lassen, sondern auch das kostspielige
+                    <!--Beispiele nennen?-->
+                    <lb/><orgName key="E0600080" rend="dq-du">Kunstblatt</orgName>
+                    
+                    <note type="commentary" resp="#E0300391"><orgName key="E0600080">Das Kunstblatt</orgName> wurde von 1917 bis 1933 vom <orgName key="E0600079">Gustav Kiepenheuer Verlag</orgName> herausgegeben. Die Leitidee <q rend="dq-du">Das Kunstblatt will der werdenden Kunst dienen</q> legt die Programmatik der Zeitschrift offen: Sie dient allen voran als Sprachrohr der zeitgenössischen Kunstströmungen.</note>
+                    
+                    eine Zeitschrift, die in glanz
+                    <lb break="no"/>vollen Reproduktionen sich mit ältester,
+                    <lb/>mit exotischer, indischer, <choice><orig>ae</orig><reg>ä</reg></choice>gyptischer und
+                    <lb/>neuester Kunst beschäftigt, und vor allem
+                    <lb/>auch eine Reihe von ganz kostbaren Luxus
+                    <lb break="no"/>drucken. <persName key="E0300368">Kiepenheuer</persName> empfing mich, wie
+                    <lb/>der Legende nach in alten Zeiten Verleger
+                    <!--Was genau versteht er unter Luxusdruck?-->
+                    <lb/>Künstler empfangen haben sollen: Alles Pe<choice><orig>c</orig><reg>k</reg></choice>uniäre
+                    <lb/>war ihm <hi rend="underline">selbstverständliche</hi> Nebensache, die ebenso
+                    <lb/>schnell wie klar &#8211; nach dem Wunsche des Autors! &#8211;
+                    <lb/>verlegt wurde. Die Hauptsache war ihm
+                    <lb/>ein reizender Empfang nach dem anderen,
+                    <lb/>ausgezeichnete Bewirtung und leicht <choice><orig>ph</orig><reg>f</reg></choice>antastische
+                    <lb/>Diners. Kurz<choice><orig> </orig><reg>, </reg></choice>ich fühlte mich im <placeName key="E0500012">Paris</placeName> der
+                    <lb/><rs type="persons" key="E0300384 E0300383">Goncourt</rs>-Zeit,
+                    
+                    <note type="commentary" resp="#E0300391">Gemeint sind die Brüder Edmund (1822-1896) und Jules de Goncourt (1830-1870), die im Bereich des Romans als Führer der naturalistischen Schule gelten. Sie, die durch ihren Urgroßvater in den Adelsstand erhoben wurden, vertraten, gemeinsam mit <persName key="E0300179">Gustave Flaubert</persName>, die rechte, aristokratische literarische Strömung und Lebensweise.</note>
+                    
+                    in der ein Verleger es als
+                    <lb/>eine menschlich interessante Ehre betrachtet,
+                    <lb/>mit dem Autor kostspielig speisen zu dürfen.
+                    <lb/>Dabei erzählte ich dem <persName key="E0300368">Kiepenheuer</persName> meine
+                    <lb/>Unzufriedenheit mit <orgName key="E0600074">Cassirer</orgName>, setzte ihm
+                    <lb/>auseinander, worin die Sünden solcher Dinge
+                    <lb/>bestehen, sprach auch über Unterlassungen
+                    
+                    <pb n="7"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">7</note>
+                    <note type="shelfmark" place="top-left" resp="#archive_sig"><idno type="D-B">B II, 4289 </idno></note>
+                    
+                    seines Verlages mit ihm, und der Schluss war seine
+                    <lb/>Idee: Kommen Sie in meinen Verlag. Das nahm
+                    <lb/>ich an, denn erstens war ich nach den Erfahrungen
+                    <lb/>des Hauses <orgName key="E0600074"><choice><abbr>Cass.</abbr><expan>Cassirer</expan></choice></orgName> aufgeputscht und ich fühlte
+                    <lb/>das Bedürfnis, <subst>
+                        <del><gap rend="strikethrough"/></del>
+                        <add place="above">dass nun endlich ein</add>
+                    </subst> Verlag <add place="above">da sei</add>, der über gro<choice><orig>ss</orig><reg>ß</reg></choice>e
+                    <lb/>Mittel verfüge, <subst>
+                        <del><gap rend="strikethrough"/></del>
+                        <add place="above">auf den man wirklichen Einfluss hat,</add>
+                    </subst>
+                    <lb/>so dass kein<del rend="strikethrough">e</del> Unsinn geschehe, dass nur
+                    <lb/>künstlerisch wertvolle Werke mit internatio
+                    <lb break="no"/>nalem Weltgesicht erschienen, und dass man
+                    <!--Beispiele nennen?-->
+                    <lb/>für diese Werke <mentioned rend="dq-du">etwas tut</mentioned> &#8211; wie der Ausdruck
+                    <lb/>hei<choice><orig>ss</orig><reg>ß</reg></choice>t. Nämlich dies ist <subst>
+                        <del><gap rend="strikethrough"/></del>
+                        <add place="above">doch der Sinn!</add>
+                    </subst> Auch wenn
+                    <lb/>in den kommenden Jahren in der Welt
+                    <lb/>überall alles drunter und drüber geht, mit H<choice><orig>ü</orig><reg>i</reg></choice>lfe
+                    <!--Kontext, Aufzählung, z.B. Inflation-->
+                    <lb/>dieses Verlages &#8211; unabhängig von jeder <choice><orig>C</orig><reg>K</reg></choice>onjun<choice><orig>c</orig><reg>k</reg></choice>tur
+                    <lb/>die Werke zu halten und durchzusetzen. &#8211; Ande
+                    <lb break="no"/>rerseits sah ich auch in dieser Möglichkeit die
+                    <lb/>Lösung meiner eigenen finanziellen Fragen, da ja
+                    <lb/>der Eintritt in den Verlag unabhängig von meinen
+                    <lb/>Produktionen ist, und so besprochen wurde, dass
+                    <lb/>ich reiche Zeit und Kraft zu meiner eigenen Arbeit
+                    <lb/><del><gap rend="strikethrough"/></del> behalte. Wiederum mit meinen Vorstellungen von einem modernen Verlage
+                    <lb/>war <persName key="E0300368">Kiepenheuer</persName> völlig einverstanden. &#8211;
+                    <lb/>Ich komme nun zu einem sehr wesentlichen
+                    <lb/>Punkte, der <hi rend="underline">Sie</hi> betrifft.</p>
+                <note type="stamp" place="right" rend="align(right)" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                <p>Ich habe mir erlaubt <persName key="E0300368">Kiepenheuer</persName> das
+                    <persName key="E0300155">Kesten
+                        <lb break="no"/>berg</persName>&#8211;<persName key="E0300061">Cassirersche</persName> Verbrechen gegen Ihren
+                    <lb/><title key="E0400218" rend="dq-du">Faust</title> zu berichten.</p> <!--Nochmal: Welches Verbrechen?? Was genau?-->
+                <p>
+                    <persName key="E0300368">Kiepenheuer</persName> wäre sehr froh, ich darf
+                    <lb/>sagen: glücklich! &#8211; in seinem Verlage
+                    <lb/>dieses Werk als vorbildlichen
+                    
+                    <pb n="8"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">8</note>
+                    
+                    Luxusdruck erscheinen zu lassen.
+                    
+                    <note type="commentary" resp="#E0300391"><persName key="E0300017">Busonis</persName> <title key="E0400218">Doktor Faust</title> wurde im Jahr 1920 vom <orgName key="E0600079">Gustav Kiepenheuer Verlag</orgName> in <placeName key="E0500016">Potsdam</placeName> herausgegeben.</note>
+                    
+                    Er betrachtet
+                    <!--Nochmal: Was versteht er genau unter einem Luxussdruck? Z.B. mit Ausgabe 1920 vergleichen.-->
+                    <lb/>es als selbstverständlich, <del><gap rend="strikethrough"/></del> das Hono
+                    <lb break="no"/>rar, das sie eventuell mit ihm vereinbaren
+                    <lb/>würden, zu zahlen, und au<choice><orig>ss</orig><reg>ß</reg></choice>erdem die
+                    <lb/><hi rend="underline">Ablösung</hi> jener Summe, die <persName key="E0300061">Cassirer</persName> Ihnen
+                    <lb/>dafür gab, zu übernehmen! (<persName key="E0300351">Rita</persName> sagte
+                    <lb/>mir etwas von 3000 <choice><orig>Frs</orig><reg>Schweizer Franken</reg></choice> 
+                    
+                    <note type="commentary" resp="#E0300391">Die Abküzrung geht vermutlich auf die französische (<foreign xml:lang="fr">Franc suisse</foreign>) oder italienische (<foreign xml:lang="it">Franco svizzero</foreign>) Schreibweise zurück.</note>
+                    
+                    <choice><orig>betr.</orig><reg>betreffend</reg></choice>
+                    <persName key="E0300061">Cassirer</persName>. Wenn
+                    <lb/>Ihnen das irgendwie passte, bitte natürlich genaue
+                    <lb/>Angaben.)</p>
+                <p>Ich, <persName key="E0300126">Ludwig Rubiner</persName>, übernehme die
+                    <lb/>moralische Garantie, dass der Luxusdruck
+                    <lb/>nicht nur sofort in Angriff genommen
+                    <lb/>wird, sondern auch nach <hi rend="underline">Ihren</hi> Wünschen
+                    <lb/>ausgeführt.</p>
+                <p>Weiter bitte ich Sie: Haben Sie Lust, und
+                    <lb/>haben Sie <choice><orig>soviel</orig><reg>so viel</reg></choice> Vertrauen zu mir, dass
+                    <lb/>Sie diesem Verlage &#8211; unter der Garantie der
+                    <lb/>Aufsicht durch meine Person &#8211; für eine
+                    <lb/>wundervolle, international hochstehende
+                    <lb/>und unnaturalistische dramatische
+                    <lb/>Bibliothek
+                    
+                    <note type="commentary" resp="#E0300391">Gemeint ist wahrscheinlich die 1936 entstandene <orgName key="E0600087">Gustav-Kiepenheuer-Bücherei</orgName>. Das Ziel dieser Buchreihe war die Publikation klassischer Literatur sowohl der Vergangenheit als auch der Gegenwart, die <q rend="dq-du">zum unverlierbaren Schatz der Weltliteratur gezählt werden dürfen.</q></note>
+                    
+                    (die als einzelnes Buch schon
+                    <lb/>wunderbar wird) Ihren <title key="E0400133">Arlecchino</title> und
+                    <lb/><title key="E0400133">Arlecchino II</title> und Ihren <rs key="E0400153">Parnass</rs>
+                    
+                    <note type="commentary" resp="#E0300391">Gemeint sind wahrscheinlich die ersten beiden Sätze von <persName key="E0300017">Busonis</persName> <title key="E0400133">Arlecchino oder Die Fenster</title> sowie sein Werk <title key="E0400153">Turandot</title>. Den Bezug zum <placeName key="E0500444">Parnass</placeName>, der in der griechischen Mythologie das Reich der Dichtkunst symbolisiert, stellt auch <persName key="E0300125">Hans Huber</persName> in einem <ref type="E010002" target="#D0100239">Brief</ref> an <persName key="E0300017">Busoni</persName> vom 5. Dezember 1916 her. So gratuliert er diesem <q rend="dq-du">zum Aufstieg auf die sonnigen Höhen des Parnass</q>; er bezieht sich auf ein Werk, das in Zürich aufgeführt werden soll. Es liegt nahe, dass er auf <title key="E0400153">Turandot</title> verweist, da dieses Werk gemeinsam mit <title key="E0400133">Arlecchino oder Die Fenster</title> am 11. Mai 1917 im <placeName key="E0500250">Stadttheater Zürich</placeName> uraufgeführt wurde.</note>
+                    
+                    zur
+                    <lb/>vorbildlichen Herausgabe anvertrauen <!--Erstveröffentlichung der Werke im Rahmen dieser Buchreihe?-->
+                    <lb/>würden? Und ferner: Ihre literarischen
+                    <lb/>Schriften &#8212; &#8212; Alle in bleibenden
+                    
+                    <pb n="9"/>
+                    
+                    <note type="shelfmark" place="top-left" resp="#archive_sig"><idno type="D-B">B II, 4289 </idno></note>
+                    
+                    Ausgaben nach Ihrem Wunsch und
+                    <lb/>nach Ihren Honorarforderungen.
+                    &#8212; <note type="foliation" place="top-right" rend="align(right)" resp="#archive">[9]</note>
+                </p>
+                <p>Ich wäre sehr froh, wenn Sie bald
+                    <lb/>Zeit fänden, mir darüber ein paar
+                    <lb/>Worte zu schreiben. Um Ihnen einen
+                    <lb/>Begriff vom Verlage <orgName key="E0600079">Kiepenheuer</orgName> zu
+                    <lb/>geben, wollte ich Ihnen erst die Luxusaus
+                    <lb break="no"/>gaben selbst senden lassen. Es stellte sich
+                    <lb/>heraus, dass sie vergriffen sind, und
+                    <lb/>so werden Sie sich mit einem Verlags
+                    <lb break="no"/>verzeichnis begnügen müssen.</p> <!--Wann und wie hat er das Verlagsverzeichnis geschickt? Auffindbar?-->
+                <p>Was meine eigenen Wünsche angeht, so will
+                    <lb/>ich, dass dieser Verlag der erste, anständige moderne
+                    <lb/>Verlag Deutschlands wird: Nicht so eisern lang
+                    <lb break="no"/>weilig und staubnaturalistisch wie <orgName key="E0600082">S. Fischer</orgName>;
+                    <lb/>nicht so liederlich und mit Amerikanismus
+                    <lb/>in der Reklame wie <orgName key="E0600081">Kurt Wolff</orgName>, und nicht
+                    <lb/>so indifferent und tatenlos wie <orgName key="E0600074">Cassirer</orgName>. <!--Ein paar Werke bzw. Autoren den Verlagen zuordnen?-->
+                    <lb/>Und überdies hat er gro<choice><orig>ss</orig><reg>ß</reg></choice>es Kapital, und
+                    <lb/>der Verleger verspricht sich selbst nur etwas
+                    <lb/>davon, sein Geld in so etwas hineinzustecken.
+                    <lb/>Und noch eins: Würden
+                    <hi rend="underline">Sie</hi> selbst im Verlag <orgName key="E0600079"><choice><abbr>K.</abbr><expan>Kiepenheuer</expan></choice></orgName> eine <hi rend="underline"><persName key="E0300019">Hoffmann</persName>-Ausgabe</hi> machen
+                    <lb/>wollen &#8211; Auswahl ihrer Lieblingsnovellen in einem <add place="below">(dicken)</add> Band?
+                    
+                    <note type="commentary" resp="#E0300391"><persName key="E0300017">Busoni</persName> schrieb die Einführung zu <persName key="E0300019">E.T.A. Hoffmanns</persName> <title>Phantastische Geschichten</title>, die jedoch bereits 1914 erschienen ist. Ein weiterer direkter Zusammenhang zwischen einer <persName key="E0300019">Hoffmann</persName>-Ausgabe und <persName key="E0300017">Busoni</persName> war nicht auffindbar.</note>
+                    
+                    <!--Ansatzpunkt: Briefe zwischen Busoni und Volkmar Andreae. In Stuckenschmidt 1967, S. 125 Fußnoten-Hinweis: Busoni empfiehlt Kiepenheuer-Verlag seinen Sohn als Illustrator für eine geplante Hoffmann-Ausgabe.--> Nicht vergessen!</p>
+                <note type="stamp" place="right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                <p rend="space-above"> Als ich die deutsche Grenze überschritt, fiel
+                    <lb/>mir auf, dass alle Menschen so reines Deutsch
+                    <lb/>sprachen, selbst wenn es bayrisch war; dass
+                    <lb/>alle so freundlich und zuvorkommend
+                    <lb/>waren, selbst in der Eisenbahn. Manches,
+                    <lb/>vor allem Zeitungsberichte, hat uns eine
+                    
+                    <pb n="10"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">10</note>
+                    
+                    falsche Vorstellung vermittelt. Es g<choice><orig>ie</orig><reg>i</reg></choice>bt überall
+                    <lb/><choice><orig>C</orig><reg>Z</reg></choice>igarren und <choice><orig>C</orig><reg>Z</reg></choice>igaretten, nur teuer. Es g<choice><orig>ie</orig><reg>i</reg></choice>bt
+                    <lb/>ein Bierli, das tausendmal besser ist als das
+                    <lb/>von Hürli. Es g<choice><orig>ie</orig><reg>i</reg></choice>bt, im Schleichhandel, <mentioned rend="dq-du">sogar</mentioned>
+                    <lb/>Bohnenkaffee. &#8211; Die Menschen sind im
+                    <lb/>Ganzen und Gro<choice><orig>ss</orig><reg>ß</reg></choice>en williger als früher, nur
+                    <lb/>vollkommen uninformiert, über das was
+                    <lb/>sie erwartet, und <choice><abbr>z.T.</abbr><expan>zum Teil</expan></choice> über das, was war. Sie
+                    <lb/>glauben heute noch genau wie früher<choice><orig>, </orig><reg> </reg></choice><del><gap rend="strikethrough"/></del> ihrer
+                    <lb/>Lügenpresse. In
+                    <placeName key="E0500029">Berlin</placeName> fällt einem zunächst
+                    <lb/>auf: Eine unwahrscheinlich gro<choice><orig>ss</orig><reg>ß</reg></choice>e Zahl von
+                    <lb/>Autos; eine au<choice><orig>ss</orig><reg>ß</reg></choice>erordentliche <choice><orig>Gross-Stadtzahl</orig><reg>Großstadtzahl</reg></choice>
+                    <lb/>von Menschen in den Stra<choice><orig>ss</orig><reg>ß</reg></choice>en; eine wunder
+                    <lb break="no"/>bare Schnelligkeit im Denken und Antworten
+                    <lb/>(z.B. auf der Stra<choice><orig>ss</orig><reg>ß</reg></choice>e). Die Verhältnisse sind
+                    <lb/>voll von Böswilligkeit. Was in diesen Wochen
+                    <lb/>an furchtbaren und grausamen Gemetzel vor
+                    <lb break="no"/>gekommen ist, die entsetzlich, blutdürstige und
+                    <lb/>tierische Roheit gegen ahnungslose und dumpf,
+                    <lb/>unterernährt dahinlebende Unterdrückte,
+                    
+                    <note type="commentary" resp="#E0300391">Gemeint sind die sogenannten Märzkämpfe, die aufgrund der Enttäuschung über die politische Entwicklung der Revolution von 1918/1919 herbeigeführt wurden. Anfang März 1919 weiteten Anhänger der <orgName key="E0600095">Kommunistischen Partei Deutschlands</orgName> einen Generalstreik zu einem bewaffneten Aufstand aus, mit dem Ziel, die Reichsregierung zu stürzen.</note>
+                    
+                    das
+                    <lb/>lässt einem die so berühmte Bartholomäusnacht
+                    
+                    <note type="commentary" resp="#E0300391">Die Bartholomäusnacht bezeichnet ein Massaker an den Hugenotten in <placeName key="E0500014">Frankreich</placeName>, das in der Nacht zum 24. August 1572 begann.</note>
+                    
+                    <lb/>als eine Lappalie der Weltgeschichte erscheinen.
+                    <lb/>Es scheint, man hat in den vergangenen vier
+                    <lb/>Jahren noch zu wenig gesiegt, und man
+                    <lb/>will durchaus <choice><orig>weitersiegen</orig><reg>weiter siegen</reg></choice>. &#8212; Die wirtschaftlichen
+                    <lb/>Verhältnisse sehe ich für das kommende halbe
+                    <lb/>Jahr ohne Optimismus an. Wenn Sie im
+                    <lb/>Herbst kommen könnten, so, dass Sie
+                    <lb/>Ihre &#8211; für Ihre Lebensfreude &#8211; unumgäng
+                    <lb break="no"/>lichen Bedürfnisse befriedigen können,
+                    <lb/>ohne allzu wucherische Preise zu bezahlen,
+                    
+                    <note type="commentary" resp="#E0300391">Die Inflation des Deutschen Reichs, die durch die Ausweitung der Geldmenge zur Beseitigung von Staatsschulden in der Weimarer Republik sowie die Finanzierung des Ersten Weltkriegs herbeigeführt wurde, hat sich mit dem Ende des Krieges angebahnt und in der Hyperinflation von 1923 ihren Höhepunkt gefunden.</note>
+                    
+                    <pb n="11"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">11</note>
+                    <note type="shelfmark" place="top-left" resp="#archive_sig"><idno type="D-B">B II, 4289 </idno></note>
+                    
+                    so würde ich mich sehr freuen. Ihrer
+                    <lb/>Aufnahme als geistigen und künstlerischen
+                    <lb/><choice><sic>Führers</sic>
+                        <corr>Führer</corr></choice> der Generation seien Sie sicher.
+                    <lb/>Das hat alles gestimmt, was
+                    <persName key="E0300351">Rita</persName> davon
+                    <lb/>in <placeName key="E0500132">Zürich</placeName> sagte; noch mehr, Sie müssen
+                    <lb/>sich die Masse, in denen das geschehen wird,
+                    <lb/>noch <hi rend="underline">viel, viel grö<choice><orig>ss</orig><reg>ß</reg></choice>er</hi> vorstellen, als man
+                    <lb/><add place="above">es</add> sich in der bescheidenen Zürcher Luft gewöhnt. <lb/>In den nächsten Jahren wird wohl <placeName key="E0500029">Berlin</placeName>
+                    <lb/>doch der geistige und künstlerische Mittel
+                    <lb break="no"/>punkt von Europa werden, so wie es
+                    <lb/>in den sechziger bis <choice><orig>achziger</orig><reg>achtziger</reg></choice> Jahren <placeName key="E0500012">Paris</placeName>
+                    <lb/>war. Darauf deutet mir heute hier alles.
+                    <lb/>An <persName key="E0300351">Rita</persName> habe ich eine gro<choice><orig>ss</orig><reg>ß</reg></choice>e Überraschung
+                    <lb/>erlebt. Sie bewegt sich in <placeName key="E0500029">Berlin</placeName> ganz
+                    <lb/>natürlich, ist nicht hysterisch, ist
+                    <lb/>nett und klug, hat ausgezeichnete und
+                    <lb/>sympathische Bekannte, sie ist in ihrer
+                    <lb/>natürlichen Luft und <choice><orig>garnicht</orig><reg>gar nicht</reg></choice> mit der
+                    <lb/>Zürcher <persName key="E0300351">Rita</persName> zu vergleichen. Und zu allem
+                    <lb/>war Sie wirklich eine so ausgezeichnete
+                    <lb/>Verwalterin der tausend Dinge Ihrer
+                    <lb/>Wohnung, dass ich nur staunen kann.</p>
+                <p rend="indent-first"> Alles hängt hier nun von der <note type="stamp" place="right" rend="align(right)" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                    <lb/>Entwicklung der Ereignisse im Sommer ab.
+                    <!--Welche Ereignisse im Sommer?-->
+                    <lb/>Vorläufig haben die Leute leider noch
+                    <lb/>ein zu gro<choice><orig>ss</orig><reg>ß</reg></choice>es Vertrauen zu… ja, Sie
+                    <lb/>werden das nicht für möglich halten,
+                    
+                    <pb n="12"/>
+                    
+                    <note type="foliation" place="top-right" rend="underline" resp="#archive">12</note>
+                    
+                    zur Entente, obwohl sie an diesem Vertrauen
+                    <lb/>verhungern! Dieses Vertrauen wird, wie ich
+                    <lb/>vermute, von offizieller Seite zu partei
+                    <lb break="no"/>politischen Zwecken geschürt; da es aber
+                    <lb/>noch eine Briefzensur g<choice><orig>ie</orig><reg>i</reg></choice>bt, kann ich mich
+                    <!--Infos zur Briefzensur-->
+                    <lb/>wohl über diese Dinge wie über einige andere
+                    <lb/>nicht auslassen. &#8212;</p>
+                <p rend="indent-first"> Noch eins: Dass ein Mensch wie <persName key="E0300192">Bruno
+                    <lb/>Goetz</persName> nicht in <placeName key="E0500029">Berlin</placeName> ist, ist verbreche
+                    <lb break="no"/>rische, dumme Idylle. Er muss nicht ver
+                    <lb break="no"/>hungern, er würde genug verdienen, dafür
+                    <lb/>könnte <hi rend="underline">ich</hi>, <hi rend="underline-wave">zum Teil</hi>, sorgen; und hier ist
+                    <lb/>sein Platz, hier hat er zu arbeiten, wenn er
+                    <lb/>nicht verkommen will. (Niemand muss ver
+                    <lb break="no"/>hungern: Selbst
+                    <persName key="E0300192">Goetzens</persName> Familie, die sich von
+                    <lb/>lächerlich kleinen Summen erhält, isst mit ihren
+                    <lb/>vier Personen ganz ordentlich; ich besuchte sie.)
+                    <lb/>Jedenfalls ist höchste Zeit, dass er hier lebt.
+                    <lb/>Die Pumpstation <placeName key="E0500132">Zürich</placeName> ist Unsinn. &#8212;</p>
+                <p rend="indent-first"> Meine Frau war nur kurze Zeit in
+                    <lb/><placeName key="E0500029">Berlin</placeName>. Sie fuhr auf ihr Besitztum, wo ihr <!--Welches Besitztum? Lage?-->
+                    <lb/>Vater starb, und von dessen <del><gap rend="strikethrough"/></del> Beschaffen
+                    <lb break="no"/>heit &#8211; ganz?, zerschossen?, verkommen? oder blühend? &#8211;
+                    <lb/>wir uns keine Vorstellung machen konnten. Ich
+                    <lb/>erhielt eine, wie es scheint, nicht unerfreuliche
+                    <lb/>Nachricht von ihr. Sie wird in den nächsten
+                    <lb/>Wochen wieder eintreffen.</p>
+                <p rend="indent-first"> Und nun umarme ich Sie und die
+                    <lb/>liebe <persName key="E0300059">Frau Gerda</persName> und <persName key="E0300153">Lello</persName> und &#8211; vielleicht
+                    <lb/>ist er schon in Ihrer Nähe &#8211; Ihren <persName key="E0300060">Benni</persName>!</p>
+                <closer>
+                    <signed> Der Ihre in Freundschaft und Dankbarkeit <persName key="E0300126">Ludwig Rubiner</persName>
+                    </signed>
+                </closer>
+                <dateline>
+                    <address>
+                        <addrLine>
+                            <placeName rend="indent" key="E0500029">Berlin</placeName> W.30.
+                            <placeName key="E0500072">Viktoria Luisenplatz 11</placeName>.
+                        </addrLine>
+                    </address>
+                </dateline>
+                
+                <pb n="13"/>
+                
+                <note type="stamp" place="top-right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400467">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Konzert D Moll für Klavier und Streichorchester (Bearbeitung)
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300017">Ferruccio Busoni</author>
+                        <title level="m">Konzert D Moll für Klavier und Streichorchester</title>
+                        <title level="m" type="sub">Freie Bearbeitung von Ferruccio Busoni</title>                        
+                        <idno type="wcat"></idno>
+                        <imprint>
+                            <date when-iso="1890"/>
+                        </imprint>                        
+                    </monogr>
+                    <note>Gewidmet Victor Bendix.</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

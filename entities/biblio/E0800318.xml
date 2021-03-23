@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800318">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekker 1920d</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-06" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300111">
+                            <forename>Paul</forename>
+                            <surname>Bekker</surname>
+                        </author>
+                        <title level="a">Die <q>Rückkehr zur Natur</q></title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName></title>
+                        <title level="j" type="sub">und Handelsblatt.</title>
+                        <idno type="ZDB">125829-1</idno>
+                        <idno type="DNB">010712402</idno>
+                        <imprint>
+                            <date when-iso="1920-06-12"/>
+                        </imprint>
+                        <biblScope unit="volume">64</biblScope>
+                        <biblScope unit="no">425 (Erstes Morgenblatt)</biblScope>
+                        <biblScope unit="page">1–2</biblScope>
+                    </monogr>
+                    <ref type="ext" target="https://archive.org/details/KritischeZeitbilderGesammelteSchriftenBand1/page/n323/mode/2up">Digitalisat im Internet Archive</ref>
+                    <note>Der Artikel wurde auch veröffentlicht in: <bibl><ref target="#E0800241">Paul Bekker, Kritische Zeitbilder</ref>, S. 327–336</bibl>.</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

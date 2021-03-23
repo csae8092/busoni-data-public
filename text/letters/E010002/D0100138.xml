@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 5. Januar 1917)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 5 January 1917)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300325">
+                        <forename>Hannah</forename>
+                        <surname>Fiedrowicz</surname>
+                    </persName>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> freut sich, dass <persName key="E0300125">Huber</persName> sein <title key="E0400216">Albumblatt</title> gefällt; erwähnt dessen Widmungsträger <persName key="E0300173">Albert Biolley</persName>; äußert sich zu <persName key="E0300125">Huber</persName> als Künstler, zum Schriftsteller <persName key="E0300174">John Ruskin</persName> und zur Bedeutung des Humors.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-01-05"/></docDate>
+                            <incipit>das Albumblatt, das Ihren Beifall findet</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>                                
+                                <collation>Brieftext auf den Vorderseiten; auf der zweiten Rückseite Notizen <persName key="E0300125">Hubers</persName>.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300125">Hand des Empfängers Hans Huber, der Notizen mit Bleistift vorgenommen hat. </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1917-01-05"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S. 24</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100138">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1917-01-05"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100241"/>
+                    <ref type="next" target="#D0100139"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend</change>
+            <change when-iso="2017-03-14" who="#E0300325">Bearbeitung übernommen; status:"unfinished"</change>
+            <change when-iso="2017-03-31" who="#E0300325">Kodierung abgeschlossen; status="proposed"</change>
+            <change when-iso="2017-04-29" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">37.</note>
+                
+                <dateline rend="align(right)">
+                    <placeName key="E0500132">Zürich</placeName>
+                    <date when-iso="1917-01-05"><choice><orig>5 </orig><reg>5.</reg></choice> <choice><abbr>Jan.</abbr><expan>Januar</expan></choice> 1917</date>
+                </dateline>
+                
+                 <p><seg type="opener" subtype="salute">Lieber Verehrter,</seg> 
+                    das <rs key="E0400216">Album<orig> 
+                        <lb/></orig>blatt</rs>, das Ihren Beifall findet, ist
+                    <lb/>ursprünglich für Flöte geschrieben, 
+                    <lb/>ein Instrument<reg>,</reg> dessen sich <foreign xml:lang="fr">
+                        <choice><abbr>M<hi rend="underline sup">r</hi></abbr><expan>Monsieur</expan></choice></foreign>
+                    <lb/><persName key="E0300173">Biolley</persName> beflei<choice><orig>ss</orig><reg>ß</reg></choice>igt, der Dedikant. 
+                    
+                    <note type="commentary" resp="#E0300325">Widmungsträger (lat. dedicare = widmen).</note>
+                    
+                    <lb/>Dieser <persName key="E0300173">Biolley</persName> hat – so weit
+                    <lb/>seine begrenzten Kräfte zulie<choice><orig>ss</orig><reg>ß</reg></choice>en –
+                    <lb/>fast ebenso viel Gutes mir an
+                    <lb break="no"/>get<orig>h</orig>an, als die <placeName key="E0500097">Basler</placeName> gegen
+                    <lb break="no"/>wärtig Ihnen ant<orig>h</orig>un.
+                    
+                    <note type="commentary" resp="#E0300325"><cit><quote source="#E0800047">Es wurde damals von privater Seite ein Kapital als Ehrengabe für Huber aufgebracht, da seine geschwächte Gesundheit einen baldigen Rücktritt befürchten ließ.</quote><bibl> (<ref target="#E0800047"/>, S.&#8239;24).</bibl></cit></note>
+                    
+                    Diese
+                    <lb/>Nachricht aus Ihrem Briefe
+                    
+                    <note type="commentary" resp="#E0300314">Der besagte Brief ist im <persName key="E0300017">Busoni</persName>-Nachlass nicht überliefert.</note>
+                    
+                    <lb/>hat mich wahrhaftig beglückt.
+                    <lb/>Ihre Deutung meines <add place="above">Mit<orig><pc>=</pc></orig></add><choice><orig>W</orig><reg>w</reg></choice>irkens
+                    <lb/>hiebei ist durchaus dichterisch
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> freundschaftlich <choice><abbr>u.</abbr><expan>und</expan></choice> bescheiden:<del rend="strikethrough">,</del>
+                    <lb/>Attribute, die in Ihnen den
+                    <lb/>Menschen<orig>,</orig> wie auch den Künstler
+                    <lb/><seg rend="align(center)">kennzeichnen.</seg>
+                </p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                
+                <p>Andererseits:
+                    
+                    <note type="commentary" resp="#E0300314"><bibl><ref target="#E0800047"/> (24)</bibl> fälschlich: <q>Andernteils:</q>.</note>
+                    
+                    wenn die 
+                    <lb/><placeName key="E0500097">Basler</placeName> <choice><orig>S</orig><reg>s</reg></choice>olches t<orig>h</orig>un, 
+                    <lb/>dann plagt sie das Gewissen.
+                    <lb/>Nehmen Sie darum das Fa<choice><orig>c</orig><reg>k</reg></choice>tum
+                    <lb/>als <add place="above">nur</add> <hi rend="underline">den T<orig>h</orig>eil</hi>
+                    
+                    <note type="commentary" resp="#E0300314">Bei <bibl><ref target="#E0800047"/> (24)</bibl> ist nur <q>den</q>, nicht aber <q>Teil</q> hervorgehoben.</note>
+                    
+                    eines Tributes,
+                    <lb/>der Ihnen durchaus gebührt.
+                </p>
+                
+                <p>
+                    – Von <persName key="E0300174">Ruskin</persName> wei<choice><orig>ss</orig><reg>ß</reg></choice> ich zu
+                    <lb/>wenig. Er <add place="above">er</add>schien mir eigen
+                    <lb break="no"/>sinnig und beschränkt, damals,
+                    <lb/>als ich ihn ergriff: <choice><orig>s</orig><reg>S</reg></choice>eitdem ist
+                    <lb/>so vieles in und außer mir
+                    <lb/>vorgegangen, dass ich kaum
+                    <lb/>mehr erkennen könnte, wie
+                    <lb/><del rend="strikethrough" extent="1" unit="char"/>ich heute zu ihm stünde. –
+                    <lb/>Menschlichkeit <choice><abbr>u.</abbr><expan>und</expan></choice> Witz stehen
+                    <lb/>mir heute obenan. Wehe den 
+                    <lb/>Humorlosen! –
+                </p>
+                
+                <closer>
+                    <salute rend="indent-first">Allen Segen und meine
+                        <lb/><foreign xml:lang="fr">affectueuse v<choice><orig>ene</orig><reg>éné</reg></choice>ration</foreign>.
+                        
+                        <note type="commentary" resp="#E0300325">Frz.: liebevolle Verehrung.</note>
+                        
+                    </salute>
+                    <signed rend="align(right)">Ihr <persName key="E0300017">F. Busoni</persName></signed>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300325">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note resp="#recipient" cert="unknown" type="annotation" rend="align(center)"><hi rend="underline"><persName key="E0300183">George Borrow</persName></hi>
+                    <lb/><title key="E0400213">Lavengro</title> <lb/><title key="E0400214">Rom<sic>m</sic>any Rye</title> <lb/><title key="E0400215">The Bible in Spain</title>
+                </note>
+                
+                <note resp="#recipient" type="annotation" rend="align(right)">
+                    <foreign xml:lang="it">accordatore</foreign>
+                    
+                    <note type="commentary" resp="#E0300325">Ital.: Stimmer, Klavierstimmer.</note>
+                    
+                    <lb/>Venturi <placeName key="E0500254">Belli<supplied reason="omitted">n</supplied>zona</placeName>
+                </note>
+                
+                <!-- Rotationen noch darzustellen, wohl nur mit Spaltenlösung möglich -->
+                
+            </div>
+        </body>
+    </text>
+</TEI>

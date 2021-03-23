@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400412">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Goldmark, Carl: Scherzo in A op. 45</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300293">Carl Goldmark</author>
+                  <title level="m">Scherzo in A</title>
+                  <idno type="op">45</idno>
+                  <idno type="GND">1032361255</idno>
+                  <imprint>
+                     <date when-iso="1894" type="firstprint"/>
+                     <pubPlace key="E0500007">Leipzig</pubPlace>
+                     <publisher>Edition Peters</publisher>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="2012" type="reprint"/>
+                     <pubPlace key="E0500034">München</pubPlace>
+                     <note>Nachdruck eines Exemplars aus der Musikbibliothek der Münchner Stadtbibliothek, München.</note>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

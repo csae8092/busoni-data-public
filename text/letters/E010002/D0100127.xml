@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100127">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 2. Mai 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 2 May 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300329">
+                        <forename>Till</forename>
+                        <forename>Erik</forename>
+                        <surname>Sawallisch</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> beklagt sich über <persName key="E0300144">Karl Nefs</persName> Konzertkritik zur <title key="E0400120">Indianischen Fantasie</title>; schickt einen als <q>Seitenbemerkung</q> zum <persName key="E0300137">Chopin</persName>-Abend verwendeten Text.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-05-02"/></docDate>
+                            <incipit>Ich empfange die mich betreffenden <orgName key="E0600019" rend="dq-uu">B.N</orgName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Datierung mit Bleistift auf die erste Seite übertragen hat.</handNote>
+                            <handNote xml:id="archive2" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der eine Nummerierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300125">Hand des Empfängers Hans Huber, der eine Antwort skizziert hat; Bleistift, deutsche Kurrentschrift.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-05-02"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;17</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>       
+                    <date when="1916-05-02"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100128"/>
+                    <ref type="previous" target="#D0100126"/>
+                    <ref type="next" target="#D0100128"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-12-10" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01-01" who="#E0300329">Bearbeitung übernommen; status="unfinished"</change>
+            <change when-iso="2017-02-24" who="#E0300329">status="proposed"</change>
+            <change when-iso="2016-06-22" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note place="top-right" resp="#archive2" type="numbering">20.</note>
+                
+                <note place="right" resp="#archive" type="dating"><date when-iso="1916-05-02">2. Mai 1916</date></note>
+                
+                <opener>
+                    <salute rend="indent">Sehr verehrlicher Freund,</salute>
+                </opener>
+                
+                <p>
+                    <hi rend="indent">ich empfange die mich 
+                        <lb/>betreffenden <orgName key="E0600019" rend="dq-uu">B. N<reg>.</reg></orgName> <choice><abbr>u.</abbr><expan>und</expan></choice> bin</hi>
+                    <lb/>bestürzt über die Respektlosigkeit,
+                    <lb/>mit der die Zeitung <hi rend="underline">Ihre</hi> Ansicht,
+                    <lb/>die sie selbst abdruckte, verhöhnt! –
+                    
+                    <note type="commentary" resp="#E0300329"><bibl><ref target="#E0800047"/> (17)</bibl> verweist hier auf die Kritik <persName key="E0300144">Karl Nefs</persName> zu <persName key="E0300017">Busonis</persName> <title key="E0400120">Indianischer Fantasie</title>.</note>
+                    
+                    <lb/>Dass der (als völlig unbekannte
+                    <lb/>Größe in den Spalten des Blattes
+                    <lb/>sich bergende<del rend="strikethrough">r</del>) <rs key="E0300144">Referent</rs><orig>,</orig>
+                    <lb/><rs key="E0300017">einem Fünfzigjährigen</rs>, der Beweise
+                    <lb/>von <del rend="strikethrough">s</del>eigenem Denken <choice><abbr>u.</abbr><expan>und</expan></choice> Urt<orig>h</orig>eilen
+                    <lb/>gegeben hat, gute Rat<orig>h</orig>schläge,
+                    <lb/>ungefragt, ert<orig>h</orig>eilt, ist –
+                    <lb/>gegen das erstgenannte Vergehen gewogen
+                    <lb/>– noch harmlos. – Wir klagen über
+                    <lb/><foreign xml:lang="es">los desastros de la guerra</foreign>,
+                    
+                    <note type="commentary" resp="#E0300329">Span.: die Schrecken des Krieges.</note>
+                    
+                    doch gi<orig>e</orig>bt
+                    <lb/>es Friedenszustände<reg>,</reg> die nicht minder
+                    <lb/>schaurig sind – wie eben die der
+                    <lb/>öffentlichen Kunstkritik – und die
+                    <lb/><hi rend="underline">verbleiben</hi>; wohingegen der Krieg
+                    <lb/>doch einmal ein Ende erreicht.
+                </p>
+                
+                <p rend="indent-first">
+                    Trotz jener<orig>,</orig> <del rend="strikethrough">d</del> bewahre ich
+                    <lb/>von dem <placeName key="E0500097">Basler</placeName> Abend eine erfreuliche
+                    <lb/>Erinnerung; namentlich von der Probe
+                    
+                    <pb n="2"/>
+                    
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> Ihrer t<orig>h</orig>eilnahmsvollen
+                    <lb/>Aufmerksamkeit. – Mit der letzten
+                    <lb/>Probe ist auch für mich die Aufgabe
+                    <!-- Welche Probe/Aufgabe-->
+                    <lb/>gelöst <choice><abbr>u.</abbr><expan>und</expan></choice> das Interesse erschöpft.
+                    <lb/>Dass noch ein <soCalled rend="dq-du">Exempel auf die Probe</soCalled>
+                    <lb/>folgen muss, gehört in das unlieb
+                    <lb break="no" rend="after:-"/>same Kapitel <del rend="strikethrough">d</del> von dem
+                    <lb/>Verhältnisse zwischen Publikum <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>Künstler – – wozu eine Seitenbemerkung
+                    <lb/>meinen <persName key="E0300137">Chopin</persName><reg>-</reg>Abend
+                    
+                    <note type="commentary" resp="#E0300329">Am <date when-iso="1916-01-26">26. Januar 1916</date> fand der dritte von vier Klavierabenden <persName key="E0300017">Busonis</persName> in <placeName key="E0500097">Basel</placeName> statt, bei dem er ausschließlich Werke <persName key="E0300137">Chopins</persName> aufführte.</note>
+                    
+                    einleitete.                                 
+                </p>
+                
+                <p rend="indent-first">
+                    Diese füge ich bei,
+                    
+                    <note type="commentary" resp="#E0300329">Anlage nicht mit dem Brief überliefert.</note>
+                    
+                    und
+                    <lb/>in der Hoffnung, bald wieder
+                    <lb/>durch ein <del rend="strikethrough">g</del> wohlmeinendes
+                    <lb/>Geschick zu Ihnen geführt zu
+                    <lb/>werden (es w<choice><orig>ae</orig><reg>ä</reg></choice>re noch Manches
+                    <lb/>zu besprechen) – zeichne ich für
+                    <lb/>heute mit herzlichen Grüßen,
+                    <lb/>für stets als Ihr
+                </p>
+                
+                <closer>
+                    <salute rend="align(right)">verehrungsvoll ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                    <dateline><placeName key="E0500132">Zürich</placeName>, den <date when-iso="1916-05-02">2. Mai 1916</date>. –</dateline>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300329">[Rückseite von Textseite 1]</note>
+                
+                <note type="commentary" resp="#E0300329">Entwurf des <ref type="E010002" target="#D0100128">Antwortbriefs vom 3. Mai 1916</ref>. Die Entzifferung ist vor allem anhand der abgeschickten Reinschrift möglich, der Text weicht allerdings offenbar teilweise ab.</note>
+                
+                <note type="annotation" place="bottom-left" rend="upside-down" resp="#recipient">
+                    So sind sie alle, unsere
+                    <lb/>Musikhistoriker, vom schlechten
+                    <lb/>Exempel <persName key="E0300152">Kret<reg>z</reg>schmar</persName> ausgehend
+                    <lb/>– arme Geisteskrüppel, die
+                    <lb/>entweder an einem <add place="above">musik</add>technischen <gap extent="1" unit="word" reason="illegible"/>
+                    <lb break="no"/><unclear cert="high">schaft</unclear> oder in einem anderen Beruf
+                    <lb/>(Jus, <unclear cert="high" reason="faded">Philosophie</unclear>, Theologie) scheiternd
+                    <lb/><gap extent="1" unit="word" reason="illegible"/> am sogena<choice><orig>n̅</orig><reg>nn</reg></choice>ten <soCalled rend="dq-du">unter dem Strich</soCalled>
+                    <lb/>sich mit einer ganzen Sch<orig>a</orig>ar impotenter
+                    <lb/><gap extent="4" unit="line" reason="illegible"/>
+                    <lb/><gap atLeast="2" unit="word" reason="illegible"/> Ausnahmestellung in der 
+                    <lb/>heutigen <gap extent="1" unit="word" reason="illegible"/> Kultur – dürfen stolz
+                    <lb/>über solche Dinge zu weiterem Schaffen, Schenken, <add place="below">Schulen</add>
+                    <lb/>gehen. Damit <gap atLeast="2" unit="word" reason="illegible"/>
+                    <lb/><gap extent="1" unit="word" reason="illegible"/>
+                </note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300329">[Rückseite von Textseite 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

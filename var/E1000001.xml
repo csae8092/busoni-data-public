@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E1000001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Projektbeschreibung</title>
+                <title xml:lang="en">Project Description</title>
+                <respStmt>
+                    <resp>Encoding by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                    <persName key="E0300315">
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-08"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Projektbeschreibung</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="approved">
+            <change who="#E0300315" when="2017-08-20">angelegt.</change>
+            <change who="#E0300315" when="2018-06-18">Update auf aktuellen Stand, Erweiterung "Mitarbeit".</change>
+            <change who="#E0300314" when="2020-02-21">Einarbeitung bisheriger Editionen, Auszeichnung weiterer Entitäten, Präzisierung Förderzeiträume, status approved</change>
+            <change who="#E0300314" when="2020-12-11">fixed some links, updated agenda, added Leichtentritt edition and Entwurf paralipomena</change>
+            <change who="#E0300314" when="2021-02-10">added forthcoming seminar on Schönberg, Jarnach, Weill</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="en">
+                <head>Project Description</head>
+                <p>Sorry, there is currently no english version available.</p>
+            </div>
+            <div xml:lang="de">
+                <!-- <h1>Ferruccio Busoni – Briefe und Schriften</h1> -->
+                <div xml:id="edition-about" type="level2">
+                    <head>Über diese Edition</head>
+                    <p>Der italienische Komponist, Pianist und Musikschriftsteller <persName key="E0300017">Ferruccio Busoni</persName> (<date when-iso="1866/1924">1866–1924</date>) lebte seit <date when-iso="1894">1894</date> in <placeName key="E0500029">Berlin</placeName>; seine <placeName key="E0500072">Wohnung am Viktoria-Luise-Platz</placeName> gab er auch während des kriegsbedingten Exils in <placeName key="E0500132">Zürich</placeName> (<date when-iso="1915/1920">1915–1920</date>) nicht auf. Sein Nachlass, der in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz aufbewahrt wird, umfasst insgesamt mehr als 8.000 Briefe, daneben u. a. Noten- und Text-Manuskripte, Konzertprogramme, Kritiken, biograpisches Material, Bilder und Porträts.</p>
+                    <p>Aus dem Korpus von <persName key="E0300017">Busonis</persName> Schriften und Korrespondenzen erscheint hier in digitaler Edition zunächst:<lb/>
+                        <list rend="liststyle">
+                            <item>der <hi rend="bold">
+                                <ref target="#E010001">Briefwechsel mit <persName key="E0300023">Arnold Schönberg</persName>
+                                </ref>
+                            </hi> (erstmals mit allen 41+1 bekannten Briefen in einer geschlossenen Edition);</item>
+                            <item>der <hi rend="bold">
+                                <ref target="#E010002">Briefwechsel mit <persName key="E0300125">Hans Huber</persName>
+                                </ref>
+                            </hi> (gegenüber der 1939 erschienenen <bibl><ref target="#E0800047">Ausgabe der <persName key="E0300017">Busoni</persName>-Briefe</ref> von <persName key="E0300127">Edgar Refardt</persName></bibl> mit zwei neuen Briefen [<ref type="E010002" target="#D0100197">20.11.1916</ref>, <ref type="E010002" target="#D0100204">10.2.1917</ref>] und erstmals mit den 76 Gegenbriefen <persName key="E0300125">Hubers</persName>);
+                            </item>
+                            <item>der <hi rend="bold">
+                                <ref target="#E010003">Briefwechsel mit <persName key="E0300024">Heinrich Schenker</persName>
+                                </ref>
+                            </hi> (erste Edition mit allen 34 bekannten Briefen, hrsg. von <persName key="E0300317">Theresa Menard</persName> und <persName key="E0300318">Maximilian Furthmüller</persName>);
+                            </item>
+                            <item>der <hi rend="bold">
+                                <ref target="#E010005">Briefwechsel mit <persName key="E0300126">Ludwig Rubiner</persName>
+                                </ref>
+                            </hi> (erste Edition mit allen 41 bekannten Briefen);
+                            </item>
+                            <item>der <hi rend="bold">
+                                <ref target="#E010006">Briefwechsel mit <persName key="E0300111">Paul Bekker</persName>
+                                </ref>
+                            </hi> (erste Edition mit allen 23 bekannten Briefen);
+                            </item>
+                            <item>der <hi rend="bold">
+                                <ref target="#E010007">Briefwechsel mit <persName key="E0300208">Robert Freund</persName>
+                                </ref>
+                            </hi> (erste Edition mit allen 80 bekannten Briefen, hrsg. von <persName key="E0300361">Judith Treumann</persName>);
+                            </item>
+                            <item>der <hi rend="bold">
+                                <ref target="#E010009">Briefwechsel mit <persName key="E0300093">Hugo Leichtentritt</persName>
+                                </ref>
+                            </hi> (zunächst mit den 13 Briefen <persName key="E0300093">Leichtentritts</persName>, hrsg. von <persName key="E0300327">Juliane Imme</persName> und <persName key="E0300418">Marlene Everling</persName>);
+                            </item>
+                            <item>zum Essay <hi rend="bold">
+                                <ref target="#E010004">Entwurf einer neuen Ästhetik der Tonkunst</ref>
+                            </hi>: <list rend="liststyle">
+                                <item>die Fassung der <hi rend="bold">
+                                    <ref target="#D0200001">Erstausgabe (1907)</ref>
+                                </hi></item>
+                                <item>die überarbeitete und erweiterte <hi rend="bold">
+                                    <ref target="#D0200002">zweite Ausgabe (1916)</ref>
+                                </hi></item>
+                                <item>das <hi rend="bold"><ref target="#D0200004">Vorwort (1909)</ref></hi> für eine nicht zustande gekommene italienische Ausgabe</item>
+                                <item>die nicht in die zweite Ausgabe übernommene Nachschrift <hi rend="bold"><ref target="#D0200005"><title>Das Reich der Musik</title> (1911)</ref></hi></item>
+                            </list>
+                            </item>
+                        </list>
+                    </p>
+                    <p>Als nächstes werden erscheinen: <list rend="liststyle">
+                        <item>zum <hi rend="italic"><title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title></hi>: <list rend="liststyle">
+                            <item>das korrigierte Exemplar der Ausgabe von 1907 (mit Einlagen), das für die Drucklegung der Neuausgabe 1916 benutzt wurde;</item>
+                            <item>das annotierte Exemplar aus dem Besitz von <persName key="E0300023">Arnold Schönberg</persName>;</item>
+                            <item>die englische Ausgabe von 1911;</item>
+                            <item><persName key="E0300017">Busonis</persName> <hi rend="italic">Offener Brief an <persName key="E0300084">Hans Pfitzner</persName></hi> als Erwiderung auf <persName key="E0300084">Pfitzners</persName> Pamphlet <hi rend="italic">Futuristengefahr</hi>.</item>
+                        </list>
+                        </item>
+                        <item>sowie weitere Briefwechsel aus dem Nachlass <persName key="E0300017">Busonis</persName>, u. a. mit: <list rend="liststyle">
+                            <item>
+                                <persName key="E0300376">Philipp Jarnach</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300154">Kurt Weill</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300039">Emil Hertzka</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300084">Hans Pfitzner</persName>
+                            </item>
+                        </list>
+                        </item>
+                    </list>
+                    </p>
+                </div>
+                <div xml:id="edition-processing" type="level2">
+                    <head>Wissenschaftliche Bearbeitung</head>
+                    <p>Die Textkorpora werden seitenweise in verschiedenen Ansichten zugänglich gemacht, die frei zu einer Synopse kombiniert werden können: <list rend="liststyle">
+                        <item>im Faksimile (sofern vorhanden);</item>
+                        <item>in diplomatischer Umschrift (zeichen- und zeilengenau, inkl. Dokumentation von Überarbeitungen)</item>
+                        <item>in einer Lesefassung, die Orthographie, Interpunktion und Layout regularisiert.</item>
+                    </list>
+                    </p>
+                    <p>Ein umfangreicher Kommentar begleitet die Textdarstellung. Im kritischen Apparat sind zusätzliche Informationen zuschaltbar: <list rend="liststyle">
+                        <item>der erläuternde Stellenkommentar;</item>
+                        <item>die Quellenbeschreibung;</item>
+                        <item>eine Übersicht zu erwähnten Personen, Werken, Orten und Institutionen;</item>
+                        <item>Hinweise zu unsicheren Lesarten;</item>
+                        <item>Abweichungen von bisherigen Editionen.</item>
+                    </list>
+                    </p>
+                    <p>Die Codierung der Quellen erfolgt auf der Grundlage des Standards <ref type="ext" target="http://www.tei-c.org/Guidelines/P5/">TEI P5</ref> der <ref type="ext" target="http://www.tei-c.org/">Text Encoding Initiative</ref>. Details sind den <ref target="#E1000003">Editionsrichtlinien</ref> zu entnehmen. Zu jedem Dokument ist der vollständige XML-Code abrufbar.</p>
+                    <p>Die Erfassung der Texte begann 2015/16 unter der Leitung von <persName key="E0300314">Christian Schaper</persName> und <persName key="E0300313">Ullrich Scheideler</persName> im Rahmen eines Seminars am <ref type="ext" target="http://www.muwi.hu-berlin.de/de/musikwissenschaft/">Institut für Musikwissenschaft und Medienwissenschaft</ref> der <ref type="ext" target="http://www.hu-berlin.de">Humboldt-Universität zu Berlin</ref> und wird seitdem kontinuierlich in Folgeseminaren fortgesetzt:<list rend="liststyle">
+                        <item>Der Nachlass <persName key="E0300017">Ferruccio Busonis</persName> in der Staatsbibliothek zu Berlin: digitale Textedition ausgewählter Quellen mit TEI (Wintersemester 2015/16)</item>
+                        <item>Edition in der Musikwissenschaft. Methoden, Medien, Perspektiven (Wintersemester 2016/17)</item>
+                        <item><persName key="E0300017">Busonis</persName> Ästhetik digital: Edition von Briefen, Konvoluten und annotierten Drucken mit TEI (Wintersemester 2018/19)</item>
+                        <item><persName key="E0300017">Ferruccio Busoni</persName> revisited: Digitale Edition als work in progress (Wintersemester 2019/20)</item>
+                        <item><persName key="E0300023">Schönberg</persName>, <persName key="E0300376">Jarnach</persName>, <persName key="E0300154">Weill</persName> – <persName key="E0300017">Ferruccio Busoni</persName> im Netzwerk der musikalischen Moderne (Sommersemester 2021)</item>
+                    </list>
+                    </p>
+                    <p>
+                        Bisher sind fünf BA-Abschlussarbeiten im Rahmen der Edition entstanden:
+                        <list rend="liststyle">
+                            <item>Briefwechsel mit <persName key="E0300024">Heinrich Schenker</persName> (hrsg. von <persName key="E0300317">Theresa Menard</persName> und <persName key="E0300318">Maximilian Furthmüller</persName>, 2018)</item>
+                            <item>Briefwechsel mit <persName key="E0300208">Robert Freund</persName> (hrsg. von <persName key="E0300361">Judith Treumann</persName>, 2019)</item>
+                            <item>Briefwechsel mit <persName key="E0300093">Hugo Leichtentritt</persName> (hrsg. von <persName key="E0300327">Juliane Imme</persName> und <persName key="E0300418">Marlene Everling</persName>, 2020)</item>
+                        </list>
+                    </p>
+                </div>
+                <div xml:id="edition-technical" type="level2">
+                    <head>Technische Realisierung und Mitarbeit</head>
+                    <p>Als Vorbild und Ausgangspunkt von Codierung und Präsentation diente ursprünglich das Projekt <ref type="ext" target="http://www.berliner-intellektuelle.eu/">Briefe und Texte aus dem intellektuellen Berlin</ref> (Nachwuchsgruppe Berliner Intellektuelle 1800–1830, Institut für deutsche Literatur der Humboldt-Universität zu Berlin).</p>                                                           
+                    <p>Ermöglicht wurde das Projekt durch Förderungen im Rahmen des Programms Digitale Medien in Forschung, Lehre und Studium der Medienkommission des Akademischen Senats der Humboldt-Universität zu Berlin (2015–2017, 2017–2018). Während des zweiten Förderzeitraums wurde das Projekt inhaltlich und technisch weiterentwickelt. Die im Zuge dessen entstandene WebApp läuft in der nativen XML-Datenbank <ref target="http://exist-db.org" type="ext">eXist-db</ref> und ist in XQuery und XSL geschrieben. Sie basiert weitgehend auf der für die <ref type="ext" target="http://weber-gesamtausgabe.de">Carl-Maria-von-Weber-Gesamtausgabe</ref> von Peter Stadler entwickelten <ref type="ext" target="https://github.com/Edirom/WeGA-WebApp">WeGA-WebApp</ref>.
+                    </p>                    
+                    <p>Auch nach Ablauf des Förderzeitraums läuft die Entwicklung weiter, insbesondere im Rahmen von Lehrveranstaltungen zur digitalen Edition sowie von Abschlussarbeiten. Externe Mitarbeit sowohl an der Applikation als auch an den Datensätzen ist grundsätzlich willkommen. Für weitere Details und Ansicht der XML-Daten besuchen Sie bitte die <ref type="ext" target="https://scm.cms.hu-berlin.de/busoni-schriften/busoni-data">Projektseite im hochschulinternen GitLab</ref> (Anmeldung erforderlich). Informationen und Zugriff auf den Programmquellcode sind auf Nachfrage möglich. Auch mit Ihren Fehlermeldungen, Fragen oder Anregungen können Sie sich gerne an unsere Kontaktadresse wenden.
+                    </p>
+                </div>
+                <div xml:id="reviews" type="level2">
+                    <head>Rezensionen</head>
+                    <p><ref type="ext" target="https://ride.i-d-e.de/issues/issue-12/busoni-nachlass/">Besprechung von Theodor Costea</ref>, in: <hi rend="italic"><ref type="ext" target="https://ride.i-d-e.de/">RIDE. A Review Journal for Scholarly Digital Editions and Resources</ref></hi>, Ausgabe 12 (Juni 2020)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

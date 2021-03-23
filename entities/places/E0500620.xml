@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500620">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tymoszówka</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2019-10-17" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="settlement" subtype="small">
+               <placeName xml:lang="pl">Tymoszówka</placeName>
+               <placeName xml:lang="uk">Тимошівка</placeName>
+               <location>
+                  <country key="UA"/>
+                  <country key="RU" to-iso="1918"/>
+                  <country key="SUHH" when-iso="1922/1991"/>
+                  <geo>48.96968 32.06514</geo>
+               </location>
+               <!--<idno type="GND"></idno>-->
+               <idno type="geonames">691524</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

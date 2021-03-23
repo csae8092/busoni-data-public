@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400269">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: Grande Fantaisie de bravoure sur <q>La Clochette</q> de Paganini</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="m">Grande Fantaisie de bravoure sur <q>La Clochette</q> de <persName key="E0300081">Paganini</persName></title>
+                        <idno type="wcat">S&#160;420</idno>
+                        <idno type="wcat">R&#160;231</idno>
+                        <idno type="GND">1189917661</idno>
+                        <imprint>
+                            <date when-iso="1832/1834" type="composed"/>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1834" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600162">M.&#160;Schlesinger</orgName>
+                            </publisher>
+                            <pubPlace key="E0500012">Paris</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1839" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600165">Mechetti</orgName>
+                            </publisher>
+                            <pubPlace key="E0500002">Wien</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <note>
+                        Basiert auf dem Hauptthema des dritten und letzten Satzes (Rondo <q><foreign xml:lang="it">La Campanella</foreign></q> [= <foreign xml:lang="fr">La Clochette</foreign>]) von <persName key="E0300081">Nicolò Paganinis</persName> <title key="E0400250">Violinkonzert Nr.&#160;2</title> op.&#160;7.
+                    </note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

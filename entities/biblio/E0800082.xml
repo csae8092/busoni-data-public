@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>N. N. 1900e</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <title level="a">Sechstes und letztes Academ. Concert</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Jenaische Zeitung</title>
+                  <title level="j" type="sub">Amts-, Gemeinde und Tageblatt</title>
+                  <idno type="GND">1087183367</idno>
+                  <imprint>
+                     <date when-iso="1900-02-10"/>
+                  </imprint>
+                  <biblScope unit="no">34</biblScope>
+                  <biblScope unit="page">4</biblScope>
+               </monogr>
+               <ref type="ext"
+                    target="http://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00164576/1900_jenaische_0178.tif?x=-1669.2933104631215&amp;y=0&amp;scale=0.16619156214367162&amp;rotation=0&amp;layout=singlePageLayout&amp;logicalDiv=jportal_jparticle_00139919">Digitalisat bei journals@UrMEL der Thüringer Universitäts- und Landesbibliothek Jena</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

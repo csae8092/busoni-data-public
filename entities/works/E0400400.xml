@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400400">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: Der nächtliche Zug</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-21" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <analytic>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="a">Der nächtliche Zug</title>
+                        <idno type="wcat">S 110</idno>
+                        <idno type="wcat">R 427</idno>
+                        <idno type="no">1</idno>
+                        <idno type="GND">300093314</idno>
+                    </analytic>
+                    <monogr sameAs="#E0400401">
+                        <edition>Fassung für Orchester</edition>
+                        <imprint>
+                            <date when-iso="1866" type="firstprint"/>
+                            <pubPlace key="E0500007">Leipzig</pubPlace>
+                            <publisher><orgName key="E0600124">J. Schuberth &amp; Co.</orgName></publisher>
+                        </imprint>
+                    </monogr>
+                    <note type="dedicatee"><persName key="E0300284">Carl Tausig</persName></note>
+                    <ref type="ext" subtype="gallica" target="https://gallica.bnf.fr/ark:/12148/btv1b55001662p.image">Digitalisat des Autographs bei Gallica</ref>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

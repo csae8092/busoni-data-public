@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100549">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Zürich, 15. Mai 1912)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Zurich, 15 May 1912)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300418">
+                        <forename>Marlene</forename>
+                        <surname>Everling</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1726</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 37 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-590257</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300208">Freund</persName> dankt für <persName key="E0300017">Busoni</persName>s Klavier-Auszug der <q rend="dq-du"><title key="E0400138">Brautwahl</title></q> und sendet Komplimente für diesen an den bearbeitenden <persName key="E0300031">Petri</persName>; <persName key="E0300208">Freund</persName> schlägt Kürzungen am Text vor und erfragt, ob <persName key="E0300017">Busoni</persName> seinen Text <q rend="dq-du"><title key="E0400048">Der mächtige Zauberer</title></q> in Musik setzen möchte.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1912-05-15"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1912-05-15"/></docDate>
+                            <incipit>Jetzt ka<choice><orig>n̅</orig><reg>nn</reg></choice> ich Ihnen erst aus vollem Herzen danken nachdem ich die Brautwahl genau angesehen.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">6 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Seitenfolge: 1, 4, 3, 2, 5, 8 (2, 3, 8 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="9"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 4
+                                    <lb/><date when-iso="1912-04-25">15.V.12.</date>XI –
+                                    <lb/>Fil. Rämistrasse
+                                </stamp>
+                            </note>
+                            
+                            
+                            <address rend="space-above"> 
+                                <addrLine>Herrn <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                
+                                <note type="stamp" place="center" resp="#dsb_st_red">
+                                    <stamp rend="round border align(center) small">Deutsche
+                                        <lb/>Staatsbibliothek
+                                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi> W.</placeName>
+                                    </stamp>
+                                </note>
+                                
+                                <addrLine rend="align(right)"><placeName key="E0500029" rend="underline">Berlin</placeName></addrLine>
+                                <addrLine rend="align (right)"><placeName key="E0500072"><choice><orig>Viktoria Luisenplatz 11</orig><reg>Viktoria-Luise-Platz 11</reg></choice><orig>.</orig></placeName></addrLine>
+                                
+                            </address>
+                            
+                            <pb n="10" facs="D0100549_10.jpg"/>
+                            
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300208"><choice><abbr>R.</abbr><expan>Robert</expan></choice> Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500495">Untere Zäune 7</placeName></addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="space-above bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                        <lb/>Mus.ep. R. Freund 37
+                                    </del>
+                                    <add place="below" rend="align(right)">Mus.Nachl. F. Busoni B II, 1726 Beil.</add> 
+                                </subst>                    
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1912-05-15"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100549">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1912-05-15"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100550"/>
+                    <ref type="previous" target="#D0100548"/>
+                    <ref type="next" target="#D0100550"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-04-03" who="#E0300418">Ersttranskription, Meta-Daten, status unfinished.</change>
+            <change when-iso="2018-04-06" who="#E0300418">Korrekturen, Kommentare, status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013725735/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000004"/>
+        <graphic n="3" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000003"/>
+        <graphic n="4" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000002"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000005"/>
+        <graphic n="6" corresp="8" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000008"/>
+        <graphic n="7" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000006"/>
+        <graphic n="8" corresp="7" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000007"/>
+        <graphic n="9" corresp="10" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D11000000010"/>
+        <graphic n="10" corresp="9" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1100000009"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="annotation" place="top-right" resp="#archive">[1]</note>
+                
+                <note type="shelfmark" resp="#archive" place="margin-left">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. R.Freund 37 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                    <add place="below">Mus.Nachl. F. Busoni 
+                    <lb/>B II, 1726</add>
+                </note>
+                
+                <opener>
+                    <dateline>
+                        <address>
+                            <addrLine rend="align(right)"><placeName key="E0500132">Zürich</placeName>
+                                <date when-iso="1912-05-15">15/5 12</date></addrLine>
+                        </address>
+                    </dateline>
+                </opener>
+                
+                <p rend="align (left) space-above">
+                    <seg type="opener" subtype="salute">Lieber Freund!</seg> Jetzt ka<choice><abbr>n̅</abbr><expan>nn</expan></choice>
+                    <lb/>ich Ihnen erst aus vollem
+                    <lb/>Herzen danken, nachdem
+                    <lb/>ich die <title key="E0400138">Brautwahl</title> genau
+                    <lb/>angesehen. <note type="commentary" resp="#E0300418"><persName key="E0300017">Busoni</persName> hatte <persName key="E0300208">Freund</persName> einen Klavier-Auszug der <title key="E0400138">Brautwahl</title> zukommen lassen.</note> Wäre die Oper
+                    <lb/>ein rein–musikalisches
+                    <lb/>Kunstwerk, dürfte keine
+                    <lb/>Note geopfert werden; de<choice><abbr>n̅</abbr><expan>nn</expan></choice>
+                    <lb/><q rend="dq-uu">wo ihr’s packt</q> ist es interes
+                    <lb break="no"/>sant <choice><orig>u.</orig><reg>und</reg></choice> eigenartig. Da
+                    <lb/>aber die Oper auch ein
+                    <lb/>dramatisches Opus ist, so
+                    <lb/>ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en auch die Bedingungen
+                    
+                 
+                <pb n="2"/>
+                
+                    <lb/>des Bühnenwerkes in Betracht. Und da
+                    <lb/>habe ich noch i<choice><abbr>m̅</abbr><expan>mm</expan></choice>er die Empfindung<reg>,</reg> als
+                    <lb/>ob im <choice><orig>3 ten</orig><reg>dritten</reg></choice> Akt die Handlung <choice><orig>conciser</orig><reg>konziser</reg></choice>,
+                    <lb/>straffer geführt werde sollte. Mir selbst
+                    <lb/><choice><orig>thäte</orig><reg>täte</reg></choice> es <choice><orig>leid</orig><reg>Leid</reg></choice><reg>,</reg> etwas zu opfern, ich glaube
+                    <lb/>also, dass Kürzungen dem ganzen Werk
+                    <lb/>zum <choice><orig>Vortheil</orig><reg>Vorteil</reg></choice> gereichen würden. In den
+                    <lb/>beiden ersten Akten <choice><orig>u.</orig><reg>und</reg></choice> wohl auch im
+                    
+                
+                
+                <pb n="3"/>
+                    
+                    <note type="annotation" place="top-right" resp="#archive">[2]</note>
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small rotate">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                
+                    <lb/>Nachspiel ist jede Kürzung
+                    <lb/>ausgeschlossen, bleibt aber
+                    <lb/>nur der <choice><orig>3 te</orig><reg>dritte</reg></choice> Akt übrig<reg>,</reg>
+                    <lb/>in dem ein Zusa<choice><abbr>m̅</abbr><expan>mm</expan></choice>enfassen
+                    <lb/>möglich. Ich betone aber
+                    <lb/>nochmals, dass rein musi
+                    <lb break="no"/>kalisch der <choice><orig>3 te</orig><reg>dritte</reg></choice> Akt
+                    <lb/>gewiss auf der Höhe
+                    <lb/>der Übrigen steht, ja
+                    <lb/>in der Erzählung Leon
+                    <lb break="no"/>hard’s vielleicht den
+                    <lb/>Höhepunkt des Werkes
+                    <lb/>erreicht. – Jetzt ko<choice><abbr>n̅</abbr><expan>nn</expan></choice>te
+                    <lb/>ich auch erst ermessen,
+                
+                <pb n="4"/>
+                    
+                    <note type="stamp" place="top-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                
+                    <lb/>wieviel die Aufführung in <placeName key="E0500005">Hamburg </placeName> <note type="commentary" resp="#E0300418">Gemeint ist die Uraufführung der <q rend="dq-du"><title key="E0400138">Brautwahl</title></q> am <date when-iso="1913-04-13">13. April 1912</date> im <orgName key="E0600107">Stadttheater <placeName key="E0500005">Hamburg</placeName></orgName>. In einem vorherigen <ref type="E010007" target="#D0100547" n="3">Brief</ref> hatte <persName key="E0300017">Busoni</persName> aufgezeigt, was ihm an der Aufführung missfiel.</note> zu Stande 
+                    <lb/>zu wünschen übrig lie<choice><orig>ss</orig><reg>ß</reg></choice>. Um eine Auf
+                    <lb break="no"/>führung in Ihrem Si<choice><abbr>n̅</abbr><expan>nn</expan></choice>e 
+                    <lb/>zu bringen, brauchte es einen <persName key="E0300047">Mahler</persName>.
+                    <lb/>Und wo ist ein Ersatz für diesen?!  <note type="commentary" resp="#E0300418"><persName key="E0300047">Mahler</persName> war erst in etwa ein Jahr vor Verfassen des Briefes, nämlich am <date when-iso="1911-05-18">18. Mai 1911</date>, verstorben.</note>
+                    <lb/>– <del rend="overwritten"><unclear/></del>Ein besonderes <choice><orig>C</orig><reg>K</reg></choice>ompliment möchte
+                    <lb/>ich noch Herrn <persName key="E0300031">Petri</persName> für seinen Auszug <note type="commentary" resp="#E0300418">Gemeint ist der Klavierauszug zu <q rend="dq-du"><title key="E0400138">Die Brautwahl</title></q> </note>
+                    <lb/>machen. Ich wei<choice><orig>ss</orig><reg>ß</reg></choice> wirklich keinen
+                
+                <pb n="5"/>
+                    <note type="annotation" place="top-left" resp="#archive">B II, 1726</note>
+                    <note type="annotation" place="top-right" resp="#archive">[3]</note>
+                    
+                    <lb rend="align(right)"/><orig>2.</orig>
+                    <lb/><choice><orig>C</orig><reg>K</reg></choice>lavier–Auszug<reg>,</reg> der so
+                    <lb/>sauber, durchsichtig
+                    <lb/><choice><orig>u.</orig><reg>und</reg></choice> spielbar wäre <choice><orig>u.</orig><reg>und</reg></choice>
+                    <lb/>doch (soweit es mir ohne
+                    <lb/>Ke<choice><orig>n</orig><reg>nn</reg></choice>tni<choice><orig>ss</orig><reg>s</reg></choice> der Partitur
+                    <lb/>scheint) ein so getreues
+                    <lb/>Bild der Partitur
+                    <lb/>gäbe. – Ich habe in 
+                    <lb/>den letzten Tagen Ihren
+                    <lb/><title key="E0400048">ersten Text</title> wieder gelesen
+                    <lb/>den ich i<choice><abbr>m̅</abbr><expan>mm</expan></choice>er bevorzugte.
+                    <lb/>Nur erschien mir diesmal 
+                    <lb/>der Schluss etwas kurz.
+                    
+                    <pb n="6"/>
+                    
+                    <lb/>Denken Sie noch daran ihn in
+                    <lb/>Musik zu setzen? – 
+                </p>
+                
+                <closer rend="align(center)">
+                    <salute>Und nun seien Sie <choice><orig>u.</orig><reg>und</reg></choice> <persName key="E0300059">Frau Busoni</persName>
+                        <lb/>noch herzlichst gegrüsst von Ihrem</salute>
+                    <signed>treu ergebenen
+                        <lb/><persName key="E0300208">R. Freund</persName>.</signed>
+                </closer>
+                
+                <note type="annotation" place="bottom-right" resp="#archive">[4r]</note>
+                
+                <pb n="7"/>
+                
+                    <note type="objdesc" resp="#E0300418">[Rückseite von Textseite 3]</note>
+                    
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                
+                <pb n="8"/>
+                
+                    <note type="objdesc" resp="#E0300418">[Seite 3 des zweiten Bogens]</note>
+                    
+                    <note type="annotation" place="top-right" resp="#archive">[4]</note>
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+            </div>
+        </body>
+    </text>
+</TEI>

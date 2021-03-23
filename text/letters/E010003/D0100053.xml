@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100053">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Heinrich Schenker an Ferruccio Busoni (Wien, 19. Mai 1897)</title>
+                <title xml:lang="en">Letter by Heinrich Schenker to Ferruccio Busoni (Vienna, 19 May 1897)</title>
+                <author key="E0300024">Heinrich Schenker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4414</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Schenker 2 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-731108</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300024">Schenker</persName> hat durch Vorspielen bei <persName key="E0300295">Max Kalbeck</persName> Interesse an seinen Werken bei <persName key="E0300298">Robert Lienau jr.</persName> geweckt.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1897-05-19"/></docDate>
+                            <incipit>Ein Zufall führte <choice><abbr><hi rend="kurrent">H</hi>.</abbr><expan>Herrn</expan></choice> <persName key="E0300298">Robert Lienau jr.</persName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Beschrieben wurden vermutlich Vorder- und Rückseite eines Blattes.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Heinrich Schenker, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_1" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die ursprüngliche Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_2" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die erneute Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate when-iso="1897-05-19"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100053">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                    <date when="1897-05-19"/>
+                    <placeName ref="http://www.geonames.org/2761367" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100054"/>
+                    <ref type="previous" target="#D0100052"/>
+                    <ref type="next" target="#D0100054"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-06-06" who="#E0300317">Datei erstellt, Transkription vorgenommen.</change>
+            <change when-iso="2017-06-23" who="#E0300317">Erstcodierung erfolgt</change>
+            <change when-iso="2017-06-30" who="#E0300317">mit den Auszeichnungen begonnen</change>
+            <change when-iso="2018-05-22" who="#E0300317">Kommentierung abgeschlossen.</change>
+            <change when-iso="2018-06-20" who="#E0300317">erste Kontrolle der Metadaten abgeschlossen.</change>
+            <change when-iso="2018-07-17" who="#E0300317">Rechtschreibung in der Lesefassung überprüft.</change>
+            <change when-iso="2018-07-23" who="#E0300317">Status von todo auf propsed gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/874361060/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8000000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EC8000000002"/>
+    </facsimile>
+    
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#arch_black_2">
+                    <subst>
+                        <del rend="strikethrough"><handShift new="#arch_black_1"/>Mus.ep. H. Schenker 2
+                            <lb/>(Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#arch_black_1"/>)</del>
+                        <add place="below"><handShift new="#arch_black_2"/>Mus.Nachl. F. Busoni B II, 4414</add>
+                    </subst>
+                </note>
+                
+                <opener rend="top-right">
+                    <dateline><date when-iso="1897-05-19">19.V.1897</date></dateline>
+                    <salute rend="indent space-above space-below">Sehr geehrter Herr!</salute>
+                </opener>
+                
+                <p>Ein Zufall führte <choice><abbr><hi rend="kurrent">H</hi>.</abbr><expan>Herrn</expan></choice> <persName key="E0300298">Robert Lienau jr.</persName>
+                    <lb/>aus <placeName key="E0500029">Berlin</placeName> zu <persName key="E0300295">Max Kalbeck</persName> zu einer
+                    <lb/>Stunde, wo ich einige meiner Sachen in
+                    <lb/><rs key="E0500539"><persName key="E0300295">Kal<subst><del rend="overwritten"><unclear reason="overwritten" cert="high">k</unclear></del><add place="across">b</add></subst>eck<orig>’</orig>s</persName> Zi<choice><abbr>m̅</abbr><expan>mm</expan></choice>er</rs> vortrug.
+                    
+                    <note type="commentary" resp="#E0300317">Am <date when-iso="1897-05-10">10.&#8239;Mai 1897</date> wandte sich <persName key="E0300024">Schenker</persName> an <persName key="E0300295">Max Kalbeck</persName> mit der Bitte, dieser möge seine Kompositionen anhören, <quote>über die sowohl <persName key="E0300009">Brahms</persName>, als <persName key="E0300293">Goldmark</persName>, <persName key="E0300143">d’Albert</persName> und <persName key="E0300017">Busoni</persName> sehr, vielleicht allzusehr anerkennend sich aussprachen? […] Mir ist nur darum zu thun, im Kreis der Allerbesten mich als Komponist einzuführen, noch ehe <persName key="E0300143">d’Albert</persName> von mir Einiges spielt. Darf ich hoffen?</quote> (<bibl><persName key="E0300024">Schenker</persName> an <persName key="E0300295">Kalbeck</persName> am <date when-iso="1897-05-10">10.&#8239;Mai 1897</date>, <idno>US-RIVu, OJ 5/19</idno></bibl>). <persName key="E0300295">Kalbecks</persName> Antwort enthält eine Einladung für den <date when-iso="1897-05-18">18.&#8239;Mai</date> (vgl. <bibl>Brief <persName key="E0300295">Kalbecks</persName> an <persName key="E0300024">Schenker</persName> vom <date when-iso="1897-05-10">17.&#8239;Mai 1897</date>, <idno>US-RIVu, OJ 5/19</idno></bibl>).</note>
+                    
+                    <choice><abbr><hi rend="kurrent">H</hi>.</abbr><expan>Herr</expan></choice> <persName key="E0300298">Lienau</persName> schien
+                    <lb/>sich für die Dinge zu <choice><orig>interessiren</orig><reg>interessieren</reg></choice> <choice><abbr>u</abbr><expan>und</expan></choice> bat
+                    <lb/>mich, seinem <rs key="E0300297">Vater</rs> vorzuspielen. Derselbe
+                    <lb/>ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>t Freitag an, um <choice><sic>der</sic><corr>die</corr></choice> Premiere eines
+                    <lb/>von ihm verlegten <rs key="E0400302">Ballettopus</rs> zu hören.
+                    <lb/>Ich erzählte <choice><abbr><hi rend="kurrent">H</hi></abbr><expan>Herrn</expan></choice> <persName key="E0300298">Lienau jr.</persName>, wie Sie
+                    <lb/>meine Sachen lobten<orig>,</orig> <choice><abbr>u.</abbr><expan>und</expan></choice> bereit sind,
+                    <lb/>sie zu spielen. Nun ist es wahr
+                    <lb break="no"/>scheinlich, dass er Sie sprechen
+                    <lb/>wird
+                    
+                    <note type="commentary" resp="#E0300317">Ob dieses Treffen stattgefunden hat, ist nicht bekannt; auch ist Korrespondenz zwischen <persName key="E0300298">Lienau</persName> und <persName key="E0300017">Busoni</persName> aus dieser Zeit nicht überliefert. In der Staatsbibliothek Berlin lässt sich ein späterer Briefwechsel zwischen den Jahren <date when-iso="1900/1912">1900 und 1912</date> einsehen (<ref type="ext" target="http://kalliope.staatsbibliothek-berlin.de/de/search.html?q=Busoni+Lienau&amp;htmlFull=false&amp;lang=de&amp;sort=ead.unitdate.sort+asc&amp;sort=">Briefwechsel zwischen <persName key="E0300017">Busoni</persName> und <persName key="E0300298">Lienau</persName> im Kalliope-Verbund</ref>).</note>
+                    
+                    – Sie sollen noch vor <choice><orig>2</orig><reg>zwei</reg></choice> Tagen
+                    <lb/>in seinem <rs key="E0500540">Gesch<choice><sic>a</sic><corr>ä</corr></choice>ft</rs> gewesen sein –<reg>,</reg>
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    
+                    <pb n="2"/>
+                    
+                    somit wollte ich Ihnen den eigen
+                    <lb break="no"/><choice><orig>thümlichen</orig><reg>tümlichen</reg></choice> Zufall berichten, der
+                    <lb/>vielleicht angenehme Folgen haben
+                    <lb/>wird.</p>
+                <p><persName key="E0300295">Kalbeck</persName> kennen Sie ja?
+                    
+                    <note type="commentary" resp="#E0300317">Über die Beziehung zwischen <persName key="E0300295">Kalbeck</persName> und <persName key="E0300017">Busoni</persName> ist nicht viel bekannt. Auf Anregung <persName key="E0300295">Kalbecks</persName> wollte <persName key="E0300017">Busoni</persName> <persName key="E0300285">Joseph Victor Widmann</persName> offenbar als Librettisten für eine Vertonung von <persName key="E0300476">Gottfried Kellers</persName> <title key="E0400413">Romeo und Julia auf dem Dorfe</title> gewinnen (<bibl><ref target="#E0800023"/>, S.&#8239;781, Fußnote 270</bibl>). Ansonsten beurteilte <persName key="E0300017">Busoni</persName> <persName key="E0300295">Kalbeck</persName> vornehmlich als scharfen und konservativen Kritiker: <quote>[W]as mögen die Kalbeckmesser toben?</quote>“ (<bibl><ref target="#E0800020"/>, S.&#8239;130</bibl>), schrieb er an <persName key="E0300049">Gottfried Galston</persName> anlässlich der Berufung <persName key="E0300023">Schönbergs</persName> ans <orgName key="E0600049">Wiener Konservatorium</orgName>.</note>
+                    
+                    </p>
+                <p>Herzlichsten Dank f<choice><sic>u</sic><corr>ü</corr></choice>r die Ausdauer
+                    <lb/>in der Lektüre.</p>
+                <closer>
+                    <salute rend="align(center)">Mit ergebensten <choice><orig>Grüssen</orig><reg>Grüßen</reg></choice>
+                        <lb/>Ihr</salute>
+                    <signed rend="align(right)"><persName key="E0300024">Dr. H<reg>.</reg> Schenker</persName></signed>
+                    <dateline rend="align(right)">
+                        <address>
+                            <addrLine><placeName key="E0500379">III.</placeName> <placeName key="E0500395">Reisnerstr. 18</placeName>.</addrLine>
+                        </address>
+                    </dateline>
+                </closer>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

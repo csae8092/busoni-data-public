@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300131">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ilona Durigo</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-19" who="#E0300372">Status reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">11625503X</idno>
+               <idno type="VIAF">25349069</idno>
+               <idno type="ISNI">0000000071464954</idno>
+               <persName type="reg">
+                  <surname>Durigo</surname>,
+                  <forename>Ilona</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1881-05-13"/>
+                  <placeName key="E0500188">Budapest</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1943-12-25"/>
+                  <placeName key="E0500188">Budapest</placeName>
+               </death>
+               <sex value="f"/>
+               <occupation>Sängerin</occupation>
+               <occupation>Gesangspädagogin</occupation>
+               <affiliation>Von <date when-iso="1921/1937">1921–1937</date> Lehrerin für Sologesang am <orgName key="E0600136">Zürcher Konservatorium</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

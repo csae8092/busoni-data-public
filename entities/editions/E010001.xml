@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E010001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title xml:lang="de"><q>Mit Schönberg zu correspondiren macht mir stets Vergnügen</q></title>
+                <title type="sub" xml:lang="de">Ferruccio Busoni im Briefwechsel mit Arnold Schönberg</title>
+                <title xml:lang="en"><q>Mit Schönberg zu correspondiren macht mir stets Vergnügen</q></title>
+                <title type="sub" xml:lang="en">Ferruccio Busoni in correspondence with Arnold Schönberg</title>
+                <author key="E0300313">Ullrich Scheideler</author>                
+            </titleStmt>
+            <editionStmt>
+                <edition xml:lang="de">erste Edition mit allen 41+1 bekannten Briefen</edition>
+            </editionStmt>
+            <extent>
+                <measure unit="pieces">42</measure>
+                <measure unit="years">
+                    <date when-iso="1903/1919"/>
+                </measure>
+            </extent>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Edition</title>
+                <title type="subgenre" key="letters">Briefedition</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unfinished">
+            <change who="#E0300315" when-iso="2017-09-12">Von standalone xml nach TEI überführt.</change>
+            <change who="#E0300314" when-iso="2017-10-26">Briefkennungen aktualisiert.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="en">
+                <p>Sorry, there is currently no english version available.</p>
+            </div>
+            <div xml:lang="de">
+                <head>
+                    <q>Mit Schönberg zu correspondiren macht mir stets Vergnügen</q> <note type="commentary" resp="#E0300313">Ferruccio Busoni an <persName key="E0300039">Emil Hertzka</persName>, Berlin, 17. Juni 1910; Archiv der Universal Edition, Wien.</note>
+                </head>
+                <head type="sub">Ferruccio Busoni im Briefwechsel mit Arnold Schönberg</head>
+
+                <p>Am 10. September 1903, wenige Tage vor seinem 29. Geburtstag, wandte sich <persName key="E0300023">Arnold Schönberg</persName>, damals ein noch wenig bekannter und erfolgreicher
+                    Wiener Komponist, <ref target="#D0100001">brieflich mit einer Bitte</ref> an <persName key="E0300017">Ferruccio Busoni</persName>: <q>Hochverehrter Herr
+                    Professor […] Folgendes: Ich habe eine symphonische Dichtung: ‚<title key="E0400012">Pelleas und Melisande</title>‘ nach <persName key="E0300027">Maeterlinck</persName>
+                    componiert. Da diese nun leider insofern zu den ‚selten aufgeführten Werken‘ gehört, als sie noch gar nicht aufgeführt ist und meine bisherigen Versuche sie zu placieren durchaus
+                    vergeblich waren, so möchte ich mir erlauben, Sie zu fragen, ob Sie sie nicht einmal ansehen wollten.</q> Schönberg hat immer wieder derartige Briefe geschrieben, war er doch auf die
+                    Unterstützung von Musikern, Dirigenten und Mäzenen angewiesen, wenn er seine Werke in die Öffentlichkeit bringen wollte. Und auch Busoni dürfte zahllose Briefe mit Bitten erhalten
+                    haben, an seinen <orgName key="E0600003">Orchesterabenden</orgName>, die er in Berlin in den Jahren 1902 bis 1909 veranstaltete und die ausdrücklich der Förderung der neuesten
+                    Musik dienten, bisher nicht gespielte Werke aufzuführen. Waren die ersten Anfänge des Briefwechsels zwischen Schönberg und Busoni also unscheinbar und wenig spektakulär, so
+                    entwickelte er sich wenige Jahre später zu einem Austausch über grundlegende musikalische Fragen, so dass mindestens für das Verständnis von Schönbergs Komponieren eine Quelle
+                    allerersten Ranges vorliegt.</p>
+                <p>Im Jahr 1903 hatte die Bitte um eine Aufführung keinen oder nur eingeschränkten Erfolg. Zwar ließ sich Busoni die Partitur von <title key="E0400012">Pelleas und Melisande</title>
+                    tatsächlich schicken, doch sah er keine Möglichkeit, das einen <q>
+                        <ref target="#D0100004">Meister des Orchesters</ref>
+                    </q> zeigende Werk zu
+                    dirigieren. Vollkommen vergeblich war Schönbergs Ansinnen indes nicht, brachte Busoni am 5. November 1903 doch <title key="E0400017">dessen Bearbeitung</title> von <persName key="E0300024">Heinrich Schenkers</persName>
+                    <title key="E0400016">Syrischen Tänzen</title> zur Aufführung. Danach scheint es vorerst zu keinem weiteren brieflichen Austausch gekommen zu sein.</p>
+                <p>Erst im Sommer des Jahres 1909 fand der Briefwechsel seine Fortsetzung. Erneut wurde er mit der Bitte um die Aufführung einer neuen Komposition Schönbergs eröffnet. Diesmal war es
+                    indes kein Orchesterwerk, sondern eine Folge neuer Klavierstücke. Schon im ersten <ref target="#D0100006">Brief vom 13. Juli 1909</ref> deutete
+                    Schönberg an, dass es ihm um mehr ging als bloß einen renommierten und der Neuen Musik gegenüber aufgeschlossenen Pianisten für eine Aufführung bzw. die Uraufführung zu gewinnen.
+                    Er sah in Busoni vor allem einen Verbündeten, wenn es um einen Aufbruch in neue musikalische Welten ging. Und das war nicht nur eine Phrase, denn Schönberg setzte in dieser Zeit
+                    auf eine radikale Abkehr von der musikalischen Tradition: <quote>
+                        <ref target="#D0100006">Ich habe zwei Klavierstücke […], die nur jemand spielen kann,
+                            der wie Sie mit seinen Sympathien auf der Seite aller jener ist, die suchen. Also nur Jemand, […] der eben aus seiner eigenen Phantasie soviel an die Werke der anderen
+                            abzugeben vermag, daß jene Vollkommenheit entsteht, die ja nur im Vorgestellten, im Eingebildeten, niemals aber im Thatsächlichen, in der realen Erscheinung vorkommen kann.
+                            […] [Die Stücke] sind ja technisch kaum von besonderer Schwierigkeit. Aber ihr Vortrag erfordert Glauben und Überzeugung.</ref>
+                    </quote> Busoni <ref target="#D0100007">übermittelte nur wenige Tage später</ref> sein intensives Interesse, sodass Schönberg <ref target="#D0100008">eine Abschrift der beiden Stücke übersenden</ref> konnte. Dann kam eine Dynamik in die Sache, welche nun einen ganz anderen und
+                    viel umfassenderen Verlauf als zunächst beabsichtigt nahm. Statt Bedingungen und Möglichkeiten einer Aufführung durch Busoni zu erörtern (zu der es wohl nie kam), ging es jetzt um
+                    nichts Geringeres als die ästhetischen Grundlagen von Schönbergs Komponieren.</p>
+                <p>Alles begann damit, dass Busoni glaubte, Unzulänglichkeiten in Schönbergs Klaviersatz zu entdecken, sodass er sich herausgefordert fühlte, den – wie er meinte – eigentlichen
+                    Absichten Schönbergs etwas nachzuhelfen, indem er das zweite, später als op. 11, Nr. 2 veröffentlichte Stück behutsam umkomponierte. Was sich an <ref target="#D0100009" n="3">die Zusendung von Busonis erstem kleinen Entwurf</ref> anschloss, war ein Manifest der Neuen Musik, so <ref target="#D0100020">wie Schönberg sie um 1910 verstand</ref>. In dieser Phase seines Komponierens kam es ihm nicht mehr auf Schönheit, sondern auf
+                    Wahrheit an, ja mehr noch: Da er das Vertrauen in die normative Kraft oder den Vorbildcharakter der musikalischen Tradition verloren hatte, bedeutete schon allein das Streben nach
+                    Wahrheit, das Suchen nach neuen Ausdrucksformen einen Wert an sich. Nicht das Fertige, sondern das Unfertige, nicht das Vollkommene, sondern das Unvollkommene war zu diesem
+                    Zeitpunkt das Ziel seiner Kunst. Das aber hatte eine doppelte Konsequenz: für den Akt des Komponierens sowie für das Kunstwerk selbst. <ref target="#D0100012">Schönberg erklärte</ref>: <q>Meine einzige Absicht ist: keine Absicht zu haben! Keine formelle, keine architektonische, keine
+                    sonstige artistische, (als etwa die Stimmung eines Gedichtes zu treffen) keine ästhetische – überhaupt keine; oder höchstens die: dem Strom meiner unbewußten Empfindungen nichts
+                    Hemmendes in den Weg zu legen. Nichts da hinein geraten zu lassen, was durch die Intelligenz oder durch das Bewußtsein hervorgerufen ist</q>. Schon einige Wochen zuvor hatte Schönberg
+                    im Hinblick auf die Beschaffenheit der Werke programmatisch und nicht frei von Pathos formuliert: <q>Ich strebe an: Vollständige Befreiung von allen Formen. von allen Symbolen des
+                    Zusammenhangs und der Logik. also: weg von der ‚motivischen Arbeit‘[.] Weg von der Harmonie als Cement oder Baustein einer Architektur. Harmonie ist Ausdruck und nichts anderes als
+                    das. Dann: Weg vom Pathos! Weg […] von den gebauten und konstruierten Thürmen, Felsen und sonstigen gigantischem Kram. Meine Musik muß kurz sein. Knapp! in zwei Noten: nicht bauen,
+                    sondern ‚ausdrücken‘!! […] Und diese Buntheit, diese Vielgestaltigkeit, diese Unlogik die unsere Empfindungen zeigen […], möchte ich in meiner Musik haben. […] Nun habe ich bekannt
+                    und man möge mich verbrennen.</q>
+                </p>
+                <p>Natürlich wollte Busoni Schönberg nicht verbrennen, aber er verhielt sich doch reserviert, obgleich er Sympathien für Schönbergs Maximen hegte. Er argumentierte vor allem von seiner
+                    Position als Pianist aus. Die Idee, nach neuen Ausdrucksmöglichkeiten zu suchen, war ihm nicht fremd, aber dem radikalen Bruch mit der Tradition <ref target="#D0100013">vermochte er wenig abzugewinnen</ref>: <q>Das ‚Asketische‘ des Claviersatzes […] scheint mir ein unnützer Verzicht auf schon
+                    Errungenes. Sie setzen einen Werth anstelle eines früheren anstatt den neuen mit diesem zu addieren. Sie werden anders und nicht reicher.</q> Busoni konnte daher in dem Werk, wie er
+                    dem Verlag <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> kurz darauf schrieb, lediglich <q>den Ansatz zu einer späteren Tonkunst</q> erblicken. Dem <ref target="#D0100014">hielt Schönberg ein anderes Verständnis von Musikgeschichte entgegen</ref>, nicht stets ergänzend und erweiternd im Sinne eines
+                    Fortschritts, sondern im Wechsel von Akzentsetzungen: <q>Die kontrapunktische Kunst Bachs ist verloren, wenn Beethovens melodische Homophonie beginnt. Die Formenkunst Beethovens wird
+                    verlassen, wenn Wagners Ausdrucks-Kunst beginnt.</q>
+                </p>
+                <p>Greifbaren Niederschlag fand der Disput in Busonis Bearbeitung des zweiten Klavierstücks, die im Sommer 1909 fertiggestellt wurde.<note type="commentary" resp="#E0300313">Das Autograph Busonis ist am Ende mit dem Datum „26. Juli 1909“ versehen; Staatsbibliothek zu Berlin, Musikabteilung, Mus.Nachl. F. Busoni 243.</note> Diese Bearbeitung ist
+                    zum einen Ausdrucks von Busonis Gespür für die überragende musikgeschichtliche Bedeutung Schönbergs, die ja zu diesem Zeitpunkt kaum abzusehen war (und beide waren sich zu diesem
+                    Zeitpunkt noch nicht einmal persönlich begegnet). Zum anderen ist sie Dokument einer Tonsprache, die den Klaviersatz stärker vom Wechsel unterschiedlicher Klangfarben her dachte.
+                    Das zeigt sich etwa darin, dass Busoni etliche Akkorde in Spielfiguren auflöste oder in deutlich höhere oder tiefere Oktavlagen versetzte. Außerdem wurde das Stück um zwölf Takte
+                    verlängert, oft durch Dehnung oder Wiederholung von Takten, wodurch das Stück weniger komprimiert erscheint oder, wie Busoni es gegenüber <persName key="E0300039">Emil
+                        Hertzka</persName>, dem Direktor des Verlags <orgName key="E0600004">Universal-Edition</orgName>, formulierte, <q>Allzulakonisches verbreitert</q> wurde.<note type="commentary" resp="#E0300313">Ferruccio Busoni an Emil Hertzka, Berlin, 6. Dezember 1909; Archiv der Universal Edition, Wien.</note>
+                </p>
+                <p>Ein besonders erhellendes Dokument stellt in diesem Zusammenhang das Autograph Busonis dar, denn es zeigt, wie sich die Kommunikation jetzt in ein anderes Medium verlagerte.
+                    Schönberg hat an etlichen Stellen den Notentext kommentiert und kritisiert, woraufhin Busoni seine ursprüngliche Version teilweise noch einmal überarbeitete. Nachdem seit Ende 1909
+                    die Drucklegung auch von <title key="E0400032">Busonis Transkription</title> ins Auge gefasst wurde (zunächst verhandelte <orgName key="E0600004">der Verlag</orgName> mit
+                    beiden Komponisten getrennt), wurde im Sommer 1910 auch der Briefwechsel wieder aufgenommen, um Details der Veröffentlichung zu klären. Eine erwogene Publikation der Transkription
+                    als Einlage in Schönbergs Originalfassung der <title key="E0400019">Drei Klavierstücke</title> wurde ebenso verworfen wie die Beigabe von zwei Vorworten, in denen beide ihre
+                    Anschauungen und Absichten erläutern sollten. Letztlich erschien Busonis Transkription separat. Auch eine Garantie, die Klavierstücke öffentlich zu spielen, wollte Busoni nicht
+                    abgeben, obwohl Schönberg eine solche erbeten hatte, um dem Verlag die Drucklegung schmackhaft zu machen. In dieser Hinsicht blieben beide auf Distanz, obgleich sie das eine oder
+                    andere Werk des jeweils anderen zur Aufführung brachten (oder bringen wollten) und im Konzert hörten.</p>
+                <p>Ab 1911 wurden nur noch sporadisch Briefe gewechselt. Noch einmal <ref target="#D0100024">bemühte Schönberg sich um Busonis Unterstützung</ref>, als er
+                    im Herbst 1911 nach Berlin übersiedelte, ohne hier eine feste Anstellung in Aussicht zu haben. Da beide dann für mehrere Jahre am selben Ort wohnten, dürfte der Austausch zum
+                    größten Teil mündlich erfolgt sein. In einem Fall, der berühmt gewordenen Aufführung von Schönbergs <title key="E0400041">Pierrot lunaire</title> in Busonis <placeName key="E0500072">Berliner Wohnung</placeName> am 17. Juni 1913, kennen wir durch Berichte an Dritte Busonis Eindrücke von dem Werk, dem er <q>einige Meisterstellen und einige
+                    Genie-Momente</q> attestierte,<note type="commentary" resp="#E0300313">Ferruccio Busoni an seinen Schüler <persName key="E0300031">Egon Petri</persName>, Berlin, 19. Juni 1913.</note> dem er sonst aber wiederum mit einer gewissen Reserve begegnete.</p>
+                <p>Die letzten Briefe enthalten Mitteilungen über gehörte Werke des jeweils anderen oder über eigene Kompositionspläne, auch die Wirren des Krieges kommen zur Sprache. Der Briefwechsel
+                    endet <ref target="#D0100041">im Februar 1919</ref>, als Schönberg – inzwischen wieder nach Österreich zurückgekehrt – begeistert von einer Aufführung
+                    von Busonis <title key="E0400079">Sechs Elegien</title> im von ihm gegründeten Verein für musikalische Privataufführungen berichtete und eine Mitteilung über neue Werke erbat.</p>
+                <p>In seinem Brief an Emil Hertzka vom 16. Dezember 1909 hatte Busoni bereits selbst eine recht treffende Interpretation des Briefwechsels abgegeben: <q>So ist es für unsere
+                    Korrespondenz karakteristisch dass S. darin nur von sich gesprochen, ich nur von ihm und über ihn geschrieben habe.</q>
+                    <note type="commentary" resp="#E0300313">Archiv der Universal Edition, Wien.</note> Ganz so einseitig verlief der Briefwechsel nicht, werden doch auch Busonis Positionen immer deutlich. Gleichwohl erfahren wir in erster Linie
+                    etwas über Schönbergs musikalisches Denken. Nicht zuletzt ist der briefliche Austausch zweier so unterschiedlicher Naturen aber ein einzigartiges Dokument in einer für die
+                    Musikgeschichte kritischen Phase: Ohne die brieflichen Zeugnisse wüssten wir weniger über Hintergründe und Ästhetik der Anfänge der Neuen Musik.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

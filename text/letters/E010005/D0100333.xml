@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100333">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Ludwig Rubiner (Zürich, 21. März 1919)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Ludwig Rubiner (Zurich, 21 March 1919)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300378">
+                        <forename>Elizaveta</forename>
+                        <surname>Willert</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 1013</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 807 (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-565434</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary> <persName key="E0300017">Busoni</persName> freut sich, dass <persName key="E0300126">Rubiner</persName> in seine <placeName key="E0500029">Berliner </placeName> <rs key="E0500072">Wohnung</rs> gezogen ist; berichtet über die Veröffentlichung des <title key="E0400133">Arlecchino</title> durch <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-03-21"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1919-03-21"/></docDate>                             
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1919-03-21"/></docDate> 
+                            <incipit>Ihr erfreulicher Brief brauchte eine kleine Woche zu mir</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Keine Besonderheiten der Seitenfolge</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die auf der Umschlagrückseite mit Bleistift das Datum <q> 21. März 1919</q> notiert hat.</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand Gerda Busonis, die mit Bleistift eine Paginierung vorgenommen und das Datum auf der Umschlagrückseite notiert hat.</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/> 
+                            
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 
+                                    <lb/><date when-iso="1919-03-21">21.03.19</date>—<gap extent="…" unit="chair"></gap> 
+                                    <lb/>BAHNHOF
+                                </stamp>
+                            </note>
+                            
+                            
+                            <address>
+                                <addrLine> An den Herrn</addrLine> 
+                                <addrLine><persName key="E0300126">Ludwig Rubiner</persName></addrLine>
+                                <addrLine><placeName key="E0500072">Viktoria-Luise-Platz 11</placeName></addrLine>
+                                <addrLine><placeName rend="underline" key="E0500029">Berlin, W.30</placeName></addrLine>
+                                <addrLine><note type="annotation" resp="#author" rend="underline">bei Busoni</note></addrLine>
+                            </address>
+                            
+                            
+                            <note type="stamp" place="top-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                            <pb n="6"/>             
+                            
+                            <note type="dating" place="above" resp="#gerda.busoni"> 21 März 1919 </note>
+                            <note type="shelfmark" place="bottom" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B I</stamp>
+                                        Mus.ep. F. Busoni 807</del>
+                                    <add place="below" rend="align(right)">Mus.Nachl. F. Busoni B I, 1013-Beil.</add> 
+                                </subst>                    
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1919-03-21"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100333">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1919-03-21"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100332"/>
+                    <ref type="repliedBy" target="#D0100334"/>
+                    <ref type="previous" target="#D0100332"/>
+                    <ref type="next" target="#D0100334"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-03-25" who="#E0300378">in Bearbeitung status="unfinished"</change>
+            <change when-iso="2018-04-01" who="#E0300378">status="proposed"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/87334619X/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EA8A00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EA8A00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EA8A00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EA8A00000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EA8A00000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EA8A00000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <del rend="strikethrough">Mus.ep. F. Busoni 807 (Busoni-Nachl.  <handShift
+                        new="#archive_red"/>B I)</del>
+                    <add place="below">Mus.Nachl. F. Busoni B I, 1013</add>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    
+                    <salute><choice><abbr>L</abbr><expan>Lieber</expan></choice> <persName key="E0300126"><choice><abbr>LR</abbr><expan>Ludwig Rubiner</expan></choice></persName></salute>
+                </opener>
+                
+                <p rend="indent-first"> Ihr erfreulicher
+                    <lb/>Brief brauchte eine
+                    <lb/>kleine Woche zu mir. Wir sind
+                    <lb/>recht froh, da<choice><orig>ss</orig><reg>ß</reg></choice> Sie unsere Wohnung
+                    <lb/>benutzen und glücklich, wenn Sie
+                    <lb/>sich darin wohl fühlen. Besonders
+                    <lb/>freudig stimmten mich Ihre
+                    <lb/><ref type="E010001" target="#D0100332">Mitteilungen über den Verlag</ref> <note type="commentary" resp="#E0300378"><persName key="E0300126">Rubiner</persName> arbeitet momentan beim <orgName key="E0600079">Kiepenheuer</orgName>.</note>.
+                    <lb/>Ich werde den sehr günstigen Antrag
+                    <lb/>ernstlich überlegen. Sie
+                    <lb/>verga<choice><orig>ss</orig><reg>ß</reg></choice>en, dass die Angelegenheit
+                    <lb/>mit dem anderen Verlag<choice><orig>e</orig><reg> </reg></choice> haupt<lb break="no"/>sächlich darum angebahnt wurde,
+                    <lb/>weil es mir unerlässlich erschien,
+                    <lb/>da<choice><orig>ss</orig><reg>ß</reg></choice> <gap reason="erasure" extent="1" unit="char"></gap> meine <choice><orig>o</orig><reg>O</reg></choice>perndichtung
+                    <lb/>unter neutraler Flagge — also
+                    <lb/>durch die <placeName key="E0500092">Schweiz</placeName> — hinaus
+                    <lb/>segelte. <seg rend="space-above">- Eine Veröffentlichung</seg>
+                    <lb/>des <title key="E0400133">Arlecchino</title> müsste mit
+                    <lb/><orgName key="E0600002">Breitkopf <choice><orig>x</orig><reg>&amp;</reg></choice> Härtel</orgName> (so<orig> </orig> weit dies
+                    
+                    <pb n="2"/>
+                    
+                    <note type="objdesc" resp="#E0300378">[Rücksteite von Textteil 1]</note>
+                    <note type="shelfmark" resp="#unknown_hand" place="bottom"> M.1441.1907.</note>
+                    
+                    <pb n="3"/>
+                    <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                    <note type="shelfmark" place="top-left" resp="#archive">B I, 1013</note>
+                    
+                    <lb/>den operatischen T<orig>h</orig>eil 
+                    <lb/>berührt) vereinbart werden. — 
+                    
+                    
+                    <note type="commentary" resp="#E0300378">In dieser Zeit entstand eine Briefkorrespondenz zwischen <persName key="E0300017">Busoni</persName> 
+                        <lb/>und dem Verlag <orgName key="E0600002">Breitkopf &amp;Härtel</orgName>. Am <date when-iso="1918-12-21">21. Dezember 1918</date> schreibt der Verlag über einen <q rend="dq-du">besonderen Prospekt</q> zu <title key="E0400133">Arlecchino</title>.
+                        <bibl><ref target="#E0800050"/>, Bd.&#160;2, S.408–409.</bibl> Weitere Informationen über die <title key="E0400133">Arlecchino</title>-Ausgabe bei  <orgName key="E0600002">Breitkopf &amp;Härtel</orgName> sind nicht verfügbar.
+                        <lb/>Bei <orgName key="E0600002">Breitkopf &amp;Härtel</orgName> erschien neben der Partitur und dem Klavierauszug zu <title key="E0400133">Arlecchino</title> (<date when-iso="1917">1917</date> und <date when-iso="1918">1918</date>) auch ein Textbuch. In der Anmerkung im  Busoni-Werkverzeichnis
+                        (<bibl><ref target="#E0800058"/>, S.135 </bibl>) gibt es aber dazu keine Jahresangabe. 
+                        <lb/>Im Jahr <date when-iso="1918">1918</date> verfasst <persName key="E0300017">Busoni</persName>eine Ergänzung zu <title key="E0400133">Arlecchino</title>: <title key="E0400366">Arlecchineïde</title>. 
+                        <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB0001C60500000000 (Digitalisat) ">Digitalisat der Staatsbibliothek Berlin</ref>. 
+                        <lb/>Diese Fortsetzung wurde aber nie publiziert. Die Frage, über welche <title key="E0400133">Arlecchino</title>-Ausgabe <persName key="E0300017">Busoni</persName> hier redet, bleibt offen.
+                    </note>
+           
+                </p> 
+                <note type="annotation" resp="#author" place="margin-left" rend="rotate(-90)">Aus der <title key="E0400218">Faust</title>-Partitur haben sich zwei Orchesterstücke
+                    <lb/> los<orig> </orig>gelöst: <title rend="dq-uu" key="E0400358" xml:lang="fr">Sarabande et Cortége</title>, die zu meinem (ach!)
+                    <lb/>Geburtstage <note type="commentary" resp="#E0300378">Die Erstauffürung von <title key="E0400358">Sarabande et Cortége</title> findet am <date when-iso="1919-03-31">31. März 1919</date> in <placeName key="E0500132">Zürich</placeName> statt.  
+                        <persName key="E0300129">Andrea Volkmar</persName> dirigierte die Werke in der <orgName key="E0600024">Tonhalle-Gesellschaft</orgName>(<bibl><ref target="#E0800121"/>, S. 341</bibl> und <bibl><ref target="#E0800058"/>, S.72.</bibl>).
+                        <lb/>Die zweite Aufführung des Konzertes, wo <title key="E0400358" xml:lang="fr">Sarabande et Cortége</title> erklang, fiel auf <persName key="E0300017">Busonis</persName> Geburtstag.
+                        <lb/>An dem Tag wurde <title  key="E0400358" xml:lang="fr">Sarabande et Cortége</title>, <title key="E0400221">Violinsonate e-Moll</title>und <title key="E0400202">Mephisto-Walzer</title> gespielt. (<bibl><ref target="#E0800058"/>, S.70.</bibl>)</note>gespielt werden. 
+                    </note>
+                
+                <p>Eigenartig dachte ich mir
+                    <lb/>einen Theater<choice><orig> A</orig><reg>a</reg></choice>bend, an dem
+                    <lb/>sowohl der Opern<choice><orig> </orig><reg>-</reg></choice>Einakter, als
+                    <lb/>auch die literarische Ergänzung
+                    <lb/>dazu auf dem Wege des Ex<lb break="no"/>perimentes auf der Bühne
+                    <lb/>gespielt würden. - Dazu aber
+                    <lb/>müsste ich wohl selber am
+                    <lb/>Platz sein.    
+                </p>
+                
+                <p rend="indent-first"><ref type="E010001" target="#D0100332">Ihren Bericht über Gutes
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Böses in Ihrer Stadt</ref>  las
+                    <lb/>ich mit besorgter T<orig>h</orig>eilnahme.
+                    <lb/>Noch ist <q rend="dq-uu">Keinem nicht nichts</q> klar.
+                    <lb/>Ich taste inzwischen, ohne Plan 
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Entschluss vorläufig. - Grüßen
+                    <lb/>Sie und danken Sie <persName key="E0300351">Rita</persName> .
+                </p>      
+                <p rend="indent-first">Ich schreibe bald mehr
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> erhoffe auch von Ihnen
+                    <lb/>Weiteres. An <persName key="E0300340">Frau Rubiner </persName> Alles
+                    <lb/>Schöne. <seg type="closer" subtype="salute">Ihr herzlich ergebener</seg></p>
+
+                <closer>
+                    <signed rend="indent"><persName key="E0300017">F. Busoni</persName>.</signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300378">[Rückseite von Textteil 2, vacat]</note>
+                
+                
+            </div>
+        </body>
+    </text>
+    
+</TEI>
+
+

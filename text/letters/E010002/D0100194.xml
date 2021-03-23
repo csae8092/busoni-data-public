@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100194">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 25. September 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 25 September 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bittet um Entschuldigung für seinen schlecht gestimmten <ref type="E010002" target="#D0100193">vorherigen Brief</ref>; hat nach vom Militär geprägten Feiern zum Nationalfeiertag (<q>widerwärtig</q>) ein verändertes Bild von der <placeName key="E0500092">Schweiz</placeName>; fürchtet nach der Kriegserklärung <placeName key="E0500013">Italiens</placeName> an <placeName key="E0500015">Deutschland</placeName> um seine künstlerische und wirtschaftliche Existenz; sucht Ablenkung in der Arbeit an <title key="E0400218">Doktor Faust</title>; verzeichnet eine zunehmende Lustlosigkeit beim Klavierüben.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-09-25"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1916-09-25"/></docDate>
+                            <incipit>dass mein Brief Sie <soCalled>verschnupft</soCalled> hat</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Blatt</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift Nummerierung und Foliierung vorgenommen und das Datum auf die erste Seite übertragen hat.</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die eine römische Nummerierung mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="unknown_hand_red" scope="minor" medium="red_pen" scribe="unknown">Unbekannte Hand (Anstreichungen am linken Rand und Foliierung, mit Rotstift).</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-09-25"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;20&#8239;f.</bibl>
+                            <bibl><ref target="#E0800060"/>, S.&#8239;248&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100194">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-09-25"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100132"/>
+                    <ref type="repliedBy" target="#D0100235"/>
+                    <ref type="previous" target="#D0100132"/>
+                    <ref type="next" target="#D0100235"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-15" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">25.</note>
+                
+                <note type="foliation" place="left" resp="#unknown_hand">1</note>
+                
+                <note type="dating" resp="#archive" place="right" xml:id="arch_date">25. Sept. 1916</note>
+                
+                <opener>
+                    <salute rend="align(center)">Lieber Verehrter<reg>,</reg>
+                        <lb/><foreign xml:lang="it">Carissimo e veneratissimo</foreign><reg>,</reg></salute>
+                </opener>
+                
+                <p>dass mein Brief Sie <q rend="dq-du">verschnupft</q>
+                    <lb/>hat, rechne ich mir zur unverzeih
+                    <lb break="no"/>lichen Schuld: Sie verdienen solche
+                    <lb/>Briefe, die erwärmen, wie die Ihren
+                    <lb/>es (<foreign xml:lang="it">infallibilmente</foreign>) t<orig>h</orig>un!</p>
+                
+                <p><quote source="#E0400053" rend="dq-du align(right)">Allein die Schuld liegt nicht
+                    <lb/>an mir</quote>
+                    <lb/>ausschlie<choice><orig>ss</orig><reg>ß</reg></choice>lich; überall sehe ich zu
+                    <lb/>viel des Hässlichen <choice><abbr>u.</abbr><expan>und</expan></choice> Bösen in Wirkung
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Erscheinung treten, <choice><abbr>u.</abbr><expan>und</expan></choice> es ist nur
+                    <lb/>gekränkte Güte, verletzter Gerechtigkeit<supplied reason="omitted">s</supplied>sinn
+                    <lb/>an mir, wenn ich selber hässlich <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>böse werde, oder scheine. – Schie<choice><orig>ss</orig><reg>ß</reg></choice>en
+                    <lb/>im Kriege <choice><abbr>u.</abbr><expan>und</expan></choice> Kassierer-Vorträge im
+                    <lb/>Frieden sind Dinge<reg>,</reg> die mich irritieren.
+                    <lb/>Ich vermeide sie, ignoriere sie so lange<reg>,</reg>
+                    <lb/>als es geht (es geht am glücklichsten<reg>,</reg> wenn
+                    <lb/>ich sehr interessiert arbeite) – aber
+                    <lb/>wenn ich mit ihnen zusammengeführt
+                    <lb/>werde, ist es mir schwer<reg>,</reg> den wohlwollenden
+                    <lb/>Ton zu wahren. – Die Sache mit den
+                    <lb/>Bajonetten am Abend des <date when-iso="1916-08-01"><choice><orig>ersten</orig><reg>1.</reg></choice> August</date>
+                    
+                    <note type="commentary" resp="#E0300314">Anlässlich des <soCalled>Bundesfeiertags</soCalled> (Nationalfeiertag der <placeName key="E0500092">Schweiz</placeName>).</note>
+                    
+                    <lb/>in <placeName key="E0500132">Zürich</placeName> <hi rend="underline">war</hi> <choice><abbr>u.</abbr><expan>und</expan></choice> bleibt widerwärtig, <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top" rend="indent" resp="#unknown_hand">2</note>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                    
+                    sie hat mir von de<subst><del rend="strikethrough">m</del><add>n</add></subst> sympathischen
+                    <lb/>bisherigen <placeName key="E0500092">Schweizer</placeName> Eindrücken viel
+                    <lb/>zerstört. Ich sehe die <placeName key="E0500092">Schweiz</placeName> seitdem
+                    <lb/>anders<orig>,</orig> als vorher. Diese – wenn Sie
+                    <lb/>wollen – Über<choice><orig>E</orig><reg>e</reg></choice>mpfindlichkeit findet
+                    <lb/>aber in dem nun beginnenden <hi rend="underline">dritten</hi>
+                    <lb/>Verbannungs<choice><orig> J</orig><reg>j</reg></choice>ahr eine Art Erklärung;
+                    <lb/>noch verwickelter geworden für mich durch
+                    <lb/>die <rs key="E0500013">italienische</rs> Kriegserklärung an
+                    <lb/><placeName key="E0500015">Deutschland</placeName>.
+                    
+                    <note type="commentary" resp="#E0300314"><placeName key="E0500013">Italien</placeName>, mit den anderen Mittelmächten seit <date when-iso="1915">1915</date> im Kriegszustand, hatte dem <placeName key="E0500015">Deutschen Reich</placeName> erst am <date when-iso="1916-08-28">28. August 1916</date> den Krieg erklärt.</note>
+                    
+                    Damit fällt möglicherweise
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>lles zusammen, das ich in 20 Jahren
+                    <lb/>künstlerisch aufgebaut, wirt<orig>h</orig>schaftlich
+                    <lb/>erspart hatte; <choice><abbr>u.</abbr><expan>und</expan></choice> das trifft mich in einem
+                    <lb/>Alter, wo ein neuer Anfang eine
+                    <lb/>moralische Anstrengung erfordert, gegen
+                    <lb/>die die gewonnene Einsicht sich widersetzt.
+                    <lb/>Populär gesagt: man findet es nicht mehr
+                    <lb/><hi rend="align(center)">die Mühe wert<orig>h</orig>.</hi>
+                    <lb/>Glücklicher<orig> </orig>weise dämmert mir das 
+                    <lb/>erste schwache<del rend="strikethrough">n</del> Morgenrot<orig>h</orig> eines neuen
+                    <lb/>Arbeitstages, der – wenn e<subst><del rend="strikethrough">r</del><add place="across">s</add></subst> hält<choice><orig> –</orig><reg>,</reg></choice>
+                    <lb/>was es verspricht<reg> –</reg> ein schöner Tag
+                    <lb/>werden sollte … <choice><abbr>u.</abbr><expan>und</expan></choice> 2–3 Jahre dauern müsste. 
+                    <lb/>Volkst<orig>h</orig>ümlicher: ich beschäftige mich in
+                    <lb/>Gedanken mit der Ausführung meines <rs key="E0400218"><soCalled rend="dq-uu underline">Haupt</soCalled><choice><orig><lb/></orig><reg>-<lb break="no"/></reg></choice>Werkes</rs>.</p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(3)</note>
+                
+                <note type="foliation" place="left" rend="indent" resp="#unknown_hand">3</note>
+                
+                <p>Nun werden Sie <ref type="E010002" target="#D0100193">meinen letzten Brief</ref>
+                    <lb/>nachsichtiger lesen, Ihre Verzeihung
+                    <lb/>leichter ert<orig>h</orig>eilen. –</p>
+                
+                <p>Ungern – immer stärker ungern –
+                    <lb/>setze ich mich an<orig>’</orig>s Klavier zum Üben.
+                    <lb/>(Für das <choice><abbr>I. Abonn. Konz.</abbr><expan>erste Abonnementskonzert</expan></choice> <rs key="E0500132">hier</rs> habe ich
+                    <lb/>mich noch nicht gerührt). <foreign xml:lang="it">La prospettiva</foreign>
+                    <lb/>eines verantwortlichen vier-abendlichen
+                    <lb/>Zyklus in <placeName key="E0500097">Basel</placeName> – an sich selbst
+                    <lb/>erfreulich – stellt aber eine tüchtige
+                    <lb/>Klimper-Aufgabe dem Lustlosen,
+                    <lb/>nimmt mir viel Zeit von meiner
+                    <lb/><soCalled rend="dq-uu">Morgenröt<orig>h</orig>e</soCalled> weg. Darum meine
+                    <lb/>strenge Allüre in Fragen des Hon
+                    <lb break="no"/>orars, wenngleich (bei noch strengerer
+                    <lb/>Logik) kein Zusammenhang besteht
+                    <lb/>zwischen einem Stück Leben<reg>,</reg> das
+                    <lb/>ausgegeben ist<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> einem Tausend
+                    <lb break="no"/>frank<supplied reason="omitted">en</supplied>schein<reg>,</reg> der eingenommen wird.
+                    <lb/>Wird das ihr <soCalled rend="dq-du">Kassierer</soCalled> verstehen?
+                    <lb/>Hoffnungslos. Eher<del rend="strikethrough"><gap reason="strikethrough" extent="1" unit="char"/></del> vielleicht die
+                    <lb/>bemittelten <add place="above">vorgesetzten</add> Musikfreunde!</p>
+                <p rend="indent-first">Bleiben Sie mir gut, denn Sie
+                    <lb/>verstehen <choice><orig>A</orig><reg>a</reg></choice>lles.</p>
+                
+                <closer>
+                    <salute rend="align(right)">Ihr verehrungsvoll
+                        <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> herzlich ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F<reg>.</reg> Busoni</persName></signed>
+                    <dateline><placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName><reg>,</reg> <date when-iso="1916-09-25">25. <choice><abbr>S.</abbr><expan>September</expan></choice> 1916</date>.</dateline>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="5"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 3]</note>
+                
+                <note type="numbering" place="bottom-center" resp="#unknown_hand" rend="rotate(180)">
+                    <subst><del rend="strikethrough">II</del><add>V</add></subst>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400458">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni, Ferruccio: Indianisches Tagebuch. Zweites Buch. Gesang vom Reigen der Geister</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-08-02" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300017">Ferruccio Busoni</author>
+                  <title level="m">Indianisches Tagebuch</title>
+                  <title level="m" type="sub">Zweites Buch</title>
+                  <title level="m" type="sub">Gesang vom Reigen der Geister</title>
+                  <idno type="wcat">K 269</idno>
+                  <idno type="op">47</idno>
+                  <idno type="GND">300372833</idno>
+                  <imprint>
+                     <date when-iso="1915" type="composed"/>
+                  </imprint>
+               </monogr>
+               <series sameAs="#E0400439">
+                  <biblScope unit="volume" n="2">Zweites Buch</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

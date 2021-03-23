@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400450">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strauss, Richard: Till Eulenspiegels lustige Streiche</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-02-28" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300022">Richard Strauss</author>
+                  <title level="m">Till Eulenspiegels lustige Streiche</title>
+                  <title level="m" type="sub">Nach alter Schelmenweise – in Rondeauform – für großes Orchester gesetzt</title>
+                  <idno type="op">28</idno>
+                  <idno type="wcat">TrV 171</idno>
+                  <idno type="GND">4264112-3</idno>
+                  <imprint>
+                     <date when-iso="1894/1895" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <pubPlace key="E0500033">Köln</pubPlace>
+                     <date when-iso="1895-11-05" type="firstperf"/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100192">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (7. September 1916, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (7 September 1916, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> weist auf Zensur-Bedingungen seines <persName key="E0300083">Boccioni</persName>-Artikels hin; sucht Ablenkung vom Kriegsgeschehen durch die Arbeit; trägt <persName key="E0300125">Huber</persName> die Widmung seiner <rs key="E0800113">Revision</rs> der <persName key="E0300012">Bach</persName>-Toccaten <rs key="E0400280">BWV 914</rs>, <rs key="E0400281">915</rs>, <rs key="E0400282">916</rs> an; weist auf <rs key="E0400284">seine Ausgabe</rs> von <persName key="E0300013">Liszts</persName> <persName key="E0300081">Paganini</persName>-Etüde <title key="E0400184">La campanella</title>, auf <persName key="E0300093">Hugo Leichtentritts</persName> <rs key="E0800114"><persName key="E0300017">Busoni</persName>-Biographie</rs> sowie auf die bevorstehende <rs key="E0800326">Neuausgabe</rs> des <title key="E0400043">Entwurfs einer neuen Ästhetik der Tonkunst</title> hin; hofft auf eine <title key="E0400133">Arlecchino</title>-Aufführung in <placeName key="E0500132">Zürich</placeName>; hat <persName key="E0300012">Bachs</persName> <rs key="E0400283">Fantasie und Fuge a-Moll BWV 904</rs> bearbeitet und eine <rs key="E0400286">Improvisation für zwei Klaviere</rs> über <title key="E0400285">Wie wohl ist mir, o Freund der Seelen</title> komponiert; schlägt für die Klavierabende ein Honorar von CHF 6.000 vor.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-09-07"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1916-09-07"/></docDate>
+                            <incipit>Ihre guten Zeilen thaten mir besonders wohl.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Blatt</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift Nummerierung und Foliierung vorgenommen und das Datum auf die erste Seite übertragen hat.</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die eine römische Nummerierung mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="unknown_hand_red" scope="minor" medium="red_pen" scribe="unknown">Unbekannte Hand (Anstreichungen mit Rotstift am linken Rand).</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1916-09-07"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;18</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100192">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-09-07"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100129"/>
+                    <ref type="repliedBy" target="#D0100234"/>
+                    <ref type="previous" target="#D0100129"/>
+                    <ref type="next" target="#D0100234"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-13" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">22.</note>
+                
+                <note type="dating" resp="#archive" place="right" xml:id="arch_date"><date when-iso="1916-09-07">7. Sept. 1916</date></note>
+                
+                <opener>
+                    <salute rend="indent">Verehrtester Freund,</salute>
+                </opener>
+                
+                <p rend="indent-first">Ihre guten Zeilen t<orig>h</orig>aten
+                    <lb/>mir besonders wohl. – Der dritte
+                    <lb/>Herbst beginnt und noch
+                    <lb/>zeigen die Dinge keine Wendung.
+                    <lb/>Über <persName key="E0300083">Boccioni</persName> hätte ich noch
+                    <lb/>manches Andere geschrieben,
+                    <lb/>aber man hätte es nicht zum
+                    <lb/>Druck angenommen! Die
+                    <lb/>Zeit steht im Zeichen des Maul
+                    <lb break="no"/><choice><orig>K</orig><reg>k</reg></choice>orbes. Die Menschen sind nicht
+                    <lb/>gut, und auch nicht ehrlich.</p>
+                
+                <p>Um<orig> </orig>so mehr freut man sich
+                    <lb/>über die Einzelnen, Einsamen,
+                    <lb/>heute völlig Isolierten. Ich
+                    <lb/>rechne Sie dankbar zu diesen.</p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                
+                <p rend="indent-first">Krampfhaft klammere ich
+                    <lb/>mich an die Arbeit. Ich habe
+                    <lb/>seit der <soCalled rend="dq-du">Geburt</soCalled> des <title key="E0400133">Arlecchino</title>
+                    <lb/>wieder <choice><orig>E</orig><reg>e</reg></choice>iniges vollbracht.</p>
+                
+                <p rend="indent-first">Unter <choice><orig>A</orig><reg>a</reg></choice>nderem die Revision
+                    <lb/>dreier <persName key="E0300012">Bach</persName>’scher Toccaten,
+                    
+                    <note type="commentary" resp="#E0300314"><title key="E0400280">Toccata e-Moll</title> BWV 914, <title key="E0400281">Toccata g-Moll</title> BWV 915 und <title key="E0400282">Toccata G-Dur</title> BWV 916; zumsammen mit <title key="E0400283">Fantasie und Fuge a-Moll</title> BWV 904 <date when-iso="1920">im Jahr 1920</date> bei <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> erschienen als <rs key="E0800113">Band 18</rs> der <persName key="E0300017">Busoni</persName>-Ausgabe von <persName key="E0300012">Bachs</persName> Klavierwerken.</note>
+                    
+                    auf
+                    <lb/>die ich sehr gerne Ihren Namen
+                    <lb/>setzen zu dürfen wünschte.</p>
+                
+                <p>Wollen Sie mir dieses erlauben?</p>
+                
+                <p>Inzwischen ist <title key="E0400284" rend="dq-du">La Campanella</title>
+                    <lb/>für die Sie sich interessierten, er
+                    <lb break="no" rend="after:-"/>schienen. – Ferner die <rs key="E0800114">erste Biogra
+                        <lb break="no"/>phie meiner Geringheit</rs>, von <persName key="E0300093">Dr.
+                            <lb/>Leichtentritt</persName> verfasst. – Der <orgName key="E0600018">Insel-
+                                <lb break="no"/>Verlag</orgName> hat <rs key="E0800326">meine vermehrte
+                    <lb/>Ausgabe</rs> des <title key="E0400043"><soCalled rend="dq-uu">Entwurfes</soCalled> zu einer
+                        <lb/>neuen <choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik der Tonkunst</title>
+                    <lb/>druckfertig bei sich.</p>
+                
+                <p>Vielleicht kann <rs key="E0400133">der Einakter</rs>
+                    <lb/>in <placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName> zur Darstellung kommen,
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">(3)</note>
+                    
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> dann würde ich Sie freudigst
+                    <lb/>als Pat<orig>h</orig>e begrü<choice><orig>ss</orig><reg>ß</reg></choice>en.</p>
+                
+                <p>Weiter fertigte ich eine
+                    <lb/><rs key="E0800113" rend="dq-du">Kontrapunkt-Studie</rs> über die
+                    <lb/><title key="E0400283"><choice><abbr>Fant. u.</abbr><expan>Fantasie und</expan></choice> Fuge <choice><orig>A m</orig><reg>a-M</reg></choice>oll</title> von <persName key="E0300012">Bach</persName>,
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> eine <rs key="E0400286">Improvisation à 2 Pianos
+                        <lb/>über ein <persName key="E0300012">Bach</persName>’sches <rs key="E0400285">Choral<choice><orig>L</orig><reg>l</reg></choice>ied</rs></rs>. –</p>
+                
+                <p>Das ist doch recht tüchtig, nicht?</p>
+                
+                <p>Nun muss ich wieder <soCalled rend="dq-du">üben</soCalled>,
+                    <lb/>zumal wenn ich mit Ehren in
+                    <lb/><placeName key="E0500097">Basel</placeName> bestehen soll. Über Daten,
+                    <lb/>Programme <choice><abbr>u.</abbr><expan>und</expan></choice> anderes Geschäftliche
+                    <lb/>schreibe ich bald wieder.</p>
+                
+                <p>(Wäre ein Gesamt<choice><orig> H</orig><reg>h</reg></choice>onorar von 6000
+                    <lb/>übermä<choice><orig>ss</orig><reg>ß</reg></choice>ig?)</p>
+                
+                <p>Seien Sie nochmals bedankt,
+                    <lb/>herzlich <choice><abbr>u.</abbr><expan>und</expan></choice> verehrungsvoll begrü<choice><orig>ss</orig><reg>ß</reg></choice>t.
+                    <lb/><rs key="E0300142">Ihre Elisabeth</rs> vermisste ich in
+                    <lb/><placeName key="E0500180">Luzern</placeName>!
+                
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314">Dieser Satz über <persName key="E0300180">Elisabeth Huber</persName> fehlt bei <bibl><ref target="#E0800047"/> (18)</bibl>.</note>
+                
+                </p>
+                
+                <closer>
+                    <salute rend="align(right)">Ihr treu ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                    <dateline><date when-iso="1916-09-07">7. <choice><abbr>S.</abbr><expan>September</expan></choice> 1916</date>.</dateline>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="5"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 3]</note>
+                
+                <note type="numbering" resp="#unknown_hand" place="top-left">II</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

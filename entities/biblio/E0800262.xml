@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800262">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freund 1951</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-14" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author key="E0300208">
+                            <forename>Robert</forename>
+                            <surname>Freund</surname>
+                        </author>
+                        <title level="m">Memoiren eines Pianisten</title>
+                        <idno type="DNB">367426072</idno>
+                        <imprint>
+                            <pubPlace>Zürich</pubPlace>
+                            <publisher>Komissionsverlag Hug &amp; Co.</publisher>
+                            <date when-iso="1951"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Neujahrsblatt der Allgemeinen Musikgesellschaft Zürich</title>
+                        <biblScope unit="volume">139</biblScope>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

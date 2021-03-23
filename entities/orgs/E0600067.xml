@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Signale für die musikalische Welt</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="journal">
+               <idno type="GND">4181268-2</idno>
+               <idno type="ZDB">513338-5</idno>
+               <orgName>Signale für die musikalische Welt</orgName>
+               <desc>In 99 Jahrgängen von <date from-iso="1843">1843</date> (Probenummer <date when-iso="1842">1842</date>) bis <date to-iso="1941">1941</date> in <placeName key="E0500007">Leipzig</placeName> und <placeName key="E0500029">Berlin</placeName> erschienene Wochenzeitung für Musik.</desc>
+               <bibl><ref type="ext"
+                       target="https://de.wikisource.org/wiki/Signale_f%C3%BCr_die_musikalische_Welt">Übersicht zu verfügbaren Digitalisaten bei Wikisource</ref></bibl>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

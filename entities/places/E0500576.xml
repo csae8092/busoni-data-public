@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500576">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romanisches Café (Berlin)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2019-02-04" who="#E0300361">Datei überarbeitet und vervollständigt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Romanisches Café</placeName>
+               <location>
+                  <address>
+                     <addrLine><placeName type="street" key="E0500577">Auguste-Viktoria-Platz</placeName></addrLine>
+                     <addrLine><settlement key="E0500029">Berlin</settlement></addrLine>
+                  </address>
+                  <country key="DXDE"/>
+                  <geo>52.504279 13.338561</geo>
+               </location>
+               <desc><placeName key="E0500029">Berliner</placeName> Kaffeehaus; <date when-iso="1899">1899</date> als <q>Conditorei &amp; Romanisches Café</q> im von 
+                  <persName key="E0300510">Franz Schwechten</persName> erbauten Zweiten Romanischen Haus eingerichet; betrieben vom <orgName key="E0500573">Hotel Kaiserhof</orgName>; 
+                  <date when-iso="1916">1916</date> Betreiberwechsel und Ausbau des Cafés (in diversen Quellen wird <date when-iso="1916">1916</date> fälschlich als Eröffnungsjahr 
+                  kommuniziert); wurde ab dieser Zeit – nach Schließung des Cafés des Westen (<q>Café Größenwahn</q>) Ende <date when-iso="1915">1915</date> – der neue
+                  Lieblingstreffpunkt für Künstler und Intellektuelle; bestand aus einem kleinen Raum mit etwa 20 Tischen, dem sog. <soCalled rend="dq-du">Bassin für Schwimmer</soCalled>, 
+                  wo nur bereits erfolgreiche Künstler Zutritt hatten und einem großen Raum mit etwa 70 Tischen, dem sog. <soCalled rend="dq-du">Bassis für Nichtschwimmer</soCalled>, 
+                  wo v.a. versucht wurde, berufliche Kontakte zu knüpfen (vgl. etwa <bibl><ref target="#E0800257">Haider 2006</ref>, S.&#160;162&#160;ff.</bibl> oder 
+                  <bibl><ref target="#E0800256">Schebera 1988</ref>, S.&#160;28&#160;ff.</bibl>); im <date when-iso="1943-11">November 1943</date> bei einem Luftangriff zerstört; 
+                  <date when-iso="1963/1965">1963–65</date> Bau des <soCalled rend="dq-du">Europa-Centers</soCalled> an gleicher Stelle.
+               </desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

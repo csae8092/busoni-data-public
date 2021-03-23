@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E08....."><!-- ID ausfüllen -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Kürzel nach dem Muster: Nachname[n] (Jahr), z.B.:
+                Theurich 1977
+                Busoni / Breitkopf & Härtel / Hanau 2012
+                Busoni 1911a (Weindel 2006)
+                [vorhandenes Register prüfen, ob Kombination schon vergeben wurde, ggf. Buchstaben an Jahreszahl anhängen] -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="…" who="#E03.....">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>…</forename>
+                            <surname>…</surname>
+                        </author>
+                        <title level="a">…</title>
+                        <title level="a" type="sub">…</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">…</title>
+                        <title level="j" type="sub">…</title>
+                        <idno type="DNB">…</idno>
+                        <imprint><date when-iso="…"/></imprint>
+                        <biblScope unit="volume">…</biblScope>
+                        <biblScope unit="no">…</biblScope>
+                        <biblScope unit="page">…–…</biblScope>
+                    </monogr>
+                    <ref type="…" subtype="…" target="…">…</ref>
+                    <note>…</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

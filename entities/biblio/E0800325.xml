@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800325">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Music Division, Library of Congress (Hrsg.) 2009</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-09-17" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <editor>Music Division, Library of Congress</editor>
+                  <title level="m"><persName key="E0300093">Hugo Leichtentritt</persName> Papers</title>
+                  <title level="m" type="sub">Guides to Special Collections in the Music Division of the Library of Congress</title>
+                  <imprint>
+                     <pubPlace>Washington, D.C.</pubPlace>
+                     <date when-iso="2009"/>
+                  </imprint>
+               </monogr>
+               <ref type="ext" target="https://findingaids.loc.gov/exist_collections/ead3pdf/music/2012/mu012014.pdf">Digitalisat der Library of Congress (Stand: <date when-iso="2020-09-17">17.09.2020</date>)</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

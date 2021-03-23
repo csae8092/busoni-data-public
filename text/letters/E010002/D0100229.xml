@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100229">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Basel, 23. Oktober 1915)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Basel, 23 October 1915)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2249</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 22 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621564</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> lobt <persName key="E0300017">Busonis</persName> Sprachbehandlung im <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title>; suggeriert weiterhin einen zweiten <persName key="E0300013">Liszt</persName>-Abend; nennt Werk-Präferenzen für den <persName key="E0300012">Bach</persName>- und den <persName key="E0300137">Chopin</persName>-Abend; kündigt Übersendung von Briefen <persName key="E0300185">Karl Stauffer-Berns</persName> an; äußert sich abschätzig über <persName key="E0300287">Otto Brahm</persName>.</summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1915-10-23"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1915-10-23"/></docDate>
+                            <incipit>Nachdem endlich alle Faktoren günstig beisa<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>en sind</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf dem Umschlag die Zuordnung <q>Huber</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der mit Bleistift Signaturen eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300017">F. Busoni</persName></addrLine>
+                                
+                                <note type="stamp" place="center" resp="#dsb_st_red">
+                                    <stamp rend="round border align(center) small">Deutsche
+                                        <lb/>Staatsbibliothek
+                                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                    </stamp>
+                                </note>
+                                
+                                <addrLine rend="indent"><placeName key="E0500132" rend="underline">Zürich</placeName></addrLine>
+                                <addrLine rend="indent"><placeName key="E0500387">Rigistraße 42</placeName>.</addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="bottom-left" resp="#post">
+                                <stamp rend="round border align(center) majuscule rotate(180)" xml:id="post_abs">
+                                    <placeName key="E0500097">Basel</placeName> 2
+                                    <lb/><date when-iso="1915-10-23">23.X.15</date>.–5
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                            
+                            <pb n="6"/>
+                            
+                            <note type="annotation" place="top-center" resp="#recipient">Huber</note>
+                            
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp rend="round border align(center) majuscule" xml:id="post_rec">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/><date when-iso="1915-10-23">23.X.15</date>.–10
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough"><handShift new="#sbb_st_blue"/><stamp>Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp><handShift new="#archive"/>Mus.ep. H. Huber 22</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 2249-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097">Basel</origPlace>
+                            <origDate when-iso="1915-10-23"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100229">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1915-10-23"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100108"/>
+                    <ref type="repliedBy" target="#D0100109"/>
+                    <ref type="previous" target="#D0100108"/>
+                    <ref type="next" target="#D0100109"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+            <change when-iso="2017-11-09" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873367154/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA900000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA900000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA900000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA900000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA900000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAA900000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. H. Huber 22 (Busoni Nachl. B II)</del>
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+
+                <note type="shelfmark" place="right" resp="#archive">
+                    <add place="right" xml:id="addSig">Mus.Nachl. F. Busoni B II, 2249</add>
+                </note>
+                
+                <substJoin target="#addSig #delSig"/>
+                
+                <opener>
+                    <dateline rend="align(center)"><placeName key="E0500097">Basel</placeName> <placeName key="E0500204">Angensteinerstr. 30</placeName></dateline>
+                    <salute rend="indent">Mein lieber Kollege <persName key="E0300017">Busoni</persName>!</salute>
+                </opener>
+                
+                <p rend="indent-first">Nachdem endlich alle Faktoren
+                    <lb/>günstig beisa<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>en sind – sogar neues
+                    <lb/>Papier mu<choice><orig>ß</orig><reg>ss</reg></choice>te ich mir holen la<choice><orig>ß</orig><reg>ss</reg></choice>en –<reg>,</reg>
+                    <lb/>kann ich Ihnen auf Ihren lieben Brief
+                    <lb/>antworten. Allerdings mu<choice><orig>ß</orig><reg>ss</reg></choice> ich Ihnen
+                    <lb/>– <foreign xml:lang="la">omnia praeclara rara</foreign>! – in erster
+                    <lb/>Linie meine Bewunderung aussprechen,
+                    <lb/>wie Sie als geborener Romane die
+                    <lb/>deutsche Sprache beherrschen. Dabei denke
+                    <lb/>ich nicht nur an Ihren Brief, sondern auch
+                    <lb/>an den <title key="E0400043">Entwurf einer neuen <choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik
+                        <lb/>der Tonkunst</title>. Ist es nicht schade, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>Sie <add place="above">nicht</add> all’ den deutschen <unclear reason="illegible" cert="high" rend="dq-du">Scribaxen</unclear> zeigen,
+                    <lb/>wie man über Musik <choice><abbr>&amp;</abbr><expan>und</expan></choice> Musizi<reg>e</reg>ren schreiben
+                    <lb/>soll. Die Franzosen sind uns in
+                    <lb/>dieser Beziehung weit überlegen! –</p>
+                
+                <pb n="2"/>
+                
+                <p rend="indent-first"><persName key="E0300264">Herr His-Schlumberger</persName> äußerte
+                    <lb/>gestern den Wunsch, zwei <persName key="E0300013">Liszt</persName>-Abende
+                    <lb/>zu veranstalten <choice><abbr>&amp;</abbr><expan>und</expan></choice> vielleicht <persName key="E0300001">Beethoven</persName>
+                    <lb/>zu elimini<reg>e</reg>ren. Sie sehen, wie weit
+                    <lb/>ich die Leute schon mit Suggestion behandelt
+                    <lb/>habe. I<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>erhin sind Sie aber in jeder
+                    <lb/>Beziehung der Tonangeber<reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice> auch <persName key="E0300264">His</persName>
+                    <lb/>möchte Ihnen das letzte Wort geben.
+                    <lb/>Wie ich zufällig hörte, will <add place="above">Sie</add> auch die
+                    <lb/><orgName key="E0600021">Musikgesellschaft</orgName> bei Ihrem Auftreten im
+                    
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red" xml:id="dsb_st">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb/>Abonnementskonzerte zu einem Extra<pc>=</pc>
+                    <lb break="no"/><persName key="E0300001">Beethoven</persName><choice><orig>a</orig><reg>-A</reg></choice>bende einladen. Da<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> hätten
+                    <lb/>die beiden <persName key="E0300013">Liszt</persName>-Vorträge ja Berechtigung
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> Si<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>! –</p>
+                
+                <p><persName key="E0300012">Bach</persName><choice><orig>a</orig><reg>-A</reg></choice>bend: Jedenfalls die <title key="E0400149">Goldberg<pc>-</pc>
+                    <lb break="no"/>Variationen</title>, <choice><orig>Ue</orig><reg>Ü</reg></choice>bertragung eines
+                    <lb/>Orgelwerkes, <title key="E0400433"><choice><abbr>wohltemp.</abbr><expan><choice><orig>w</orig><reg>W</reg></choice>ohltemperiertes</expan></choice> <choice><orig>C</orig><reg>K</reg></choice>lavier</title> –
+                    <lb/>jedenfalls auch die <rs key="E0400145">Abreise</rs> <choice><abbr>&amp;</abbr><expan>und</expan></choice> die
+                    <lb/><title key="E0400150"><choice><orig>c</orig><reg>C</reg></choice>hromatische Fantasie</title>, die ich z. B.
+                    <lb/>außerordentlich gern einmal von
+                    <lb/>Ihnen hören möchte! –</p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                
+                <p><persName key="E0300137">Chopin</persName> – jedenfalls die Et<choice><orig>u</orig><reg>ü</reg></choice>den (famos)
+                    
+                    <note type="commentary" resp="#E0300314">Man wird sich im weiteren Verlauf auf <persName key="E0300137">Chopins</persName> <title key="E0400125">Etüden op.&#8239;10</title> verständigen, nicht auf die <title key="E0400169">Etüden op.&#8239;25</title>.</note>
+                    
+                    <lb/>auch die <rs key="E0400159">vierte Ballade</rs> (ebenfalls mein
+                    <lb/>Lieblingsstück) <choice><abbr>&amp;</abbr><expan>und</expan></choice> die <rs key="E0400170">Pr<choice><orig>ae</orig><reg>ä</reg></choice>ludien</rs>?? – <add place="above">(<foreign xml:lang="it"><choice><orig>e</orig><reg>è</reg></choice> troppo</foreign>.)</add>
+                    <lb/>Behandeln Sie also die Progra<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>e ganz
+                    <lb/>von Ihrem subjektiven Standpunkte aus;
+                    <lb/>wir sind Ihnen für alles dankbar. Diese
+                    <lb/>Konzerte werden sehr besucht; darüber
+                    <lb/>herrscht hier kein Zweifel. <persName key="E0300213">Dr. Stumm</persName>
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> <persName key="E0300214">Hagenbachs</persName> freuen sich inde<choice><orig>ß</orig><reg>ss</reg></choice>en bereits
+                    <lb/>auf den II. A<choice><orig>c</orig><reg>k</reg></choice>t, auf die Symposien in
+                    <lb/>der <placeName key="E0500365">Veltliner<choice><orig> H</orig><reg>h</reg></choice>alle</placeName>!! –</p>
+                
+                <note type="stamp" place="margin-left" resp="#dsb_st_red" sameAs="#dsb_st">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <p rend="indent-first">Als Pa<orig>c</orig>ketsendung erhalten
+                    <lb/>Sie morgen <choice><abbr>od.</abbr><expan>oder</expan></choice> übermorgen die
+                    <lb/>Briefe <choice><abbr>&amp;</abbr><expan>und</expan></choice> Gedichte von <persName key="E0300185">Stauffer</persName>. Leider
+                    <lb/>sind die schönsten Römerbriefe in
+                    <lb/>dem hä<choice><orig>ß</orig><reg>ss</reg></choice>lichen Judenrahmen von
+                    <lb/><persName key="E0300287">Brahm</persName>, den Sie übrigens ganz gut
+                    <lb/>ungelesen la<choice><orig>ß</orig><reg>ss</reg></choice>en kö<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>en. La<choice><orig>ß</orig><reg>ss</reg></choice>en Sie sich
+                    <lb/>in <placeName key="E0500132">Zürich</placeName> einmal die Begegnung <persName key="E0300178">B<choice><orig>oecklin’</orig><reg>öcklin</reg></choice>s</persName>
+                    <lb/>mit diesem israelitischen Exemplar
+                    <lb/>erzählen. Vielleicht ke<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>t <persName key="E0300129">Andreae</persName>
+                    <lb/>die hübsche Episode <choice><abbr>od.</abbr><expan>oder</expan></choice> dann jedenfalls <persName key="E0300288">Hegar</persName>.</p>
+                    
+                    <pb n="4"/>
+                    
+                    <closer>
+                        <salute rend="indent-first">Und nun <foreign xml:lang="la">pax vobiscum</foreign> <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                            <lb/>verehrungsvollste Grüße von Ihrem</salute>
+                        <signed rend="align(right)"><persName key="E0300125">Hans Huber</persName></signed>
+                    </closer>
+                    
+            </div>
+        </body>
+    </text>
+</TEI>

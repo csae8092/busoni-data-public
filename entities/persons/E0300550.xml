@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300550">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friederike Walch</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2019-11-05" who="#E0300314">Daten angelegt</change>
+         <change> when-iso="2020-01-08" who="#E0300550">neuer Status reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person role="staff">
+               <persName type="reg">
+                  <surname>Walch</surname>,
+                  <forename>Friederike</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Friederike</forename>
+                  <forename>Kezia</forename>
+                  <surname>Walch</surname>
+               </persName>
+               <sex value="f"/>
+               <occupation>Studentin</occupation>
+               <affiliation><orgName key="E0600132">Humboldt-Universität zu Berlin</orgName></affiliation>
+               <affiliation when-iso="2019-10/2020-03">Seminar <title>Ferruccio Busoni revisited: Digitale Edition als work in progress</title> (<orgName key="E0600132">Humboldt-Universität zu Berlin</orgName>)</affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

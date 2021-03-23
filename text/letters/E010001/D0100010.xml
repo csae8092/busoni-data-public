@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Steinakirchen am Forst, vmtl. 31. Juli 1909)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Steinakirchen am Forst, prob. 31 July 1909)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4548</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 9 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736311</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> verteidigt die Faktur der Stücke <rs key="E0400019">op. 11,1–2</rs> mit Blick auf deren <q>so raschen Harmonien<lb break="no"/><choice><orig>C</orig><reg>k</reg></choice>onsum</q> und <q>düstere, ge<lb break="no"/>pre<choice><orig>ß</orig><reg>ss</reg></choice>te Klangfarbe</q>; stellt weitere Klavierstücke in Aussicht.</summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1909-07-31"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1909-08-02"/></docDate>
+                            <incipit>ich <supplied reason="incomplete">habe</supplied> lange über Ihren Einwand gegen meinen Klavierstil nachgedacht</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Umschlag, 1 Blatt</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Der Umschlag des Briefes bildet zugleich einen Teil des Briefpapiers (Außenseite frankiert, Innenseite beschrieben, darin zusätzlich ein Blatt).</collation>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="stamp_violet" scope="minor" medium="violet_ink" scribe="unknown">Stempel unbekannter Herkunft</handNote>
+                            <handNote xml:id="post_red" scope="minor" medium="red_pen" scribe="postoffice">Rotstift (Post-Zustellbezirk)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="3"/>
+                            
+                            <note type="annotation" place="top-left" resp="#post_red" rend="large">30</note>
+                            
+                            <note type="stamp" place="margin-right" rend="majuscule" resp="#post">
+                                <stamp rend="round border majuscule">
+                                    <supplied reason="incomplete" rend="majuscule"><placeName key="E0500029">Berlin</placeName> W.</supplied>
+                                    <lb/><supplied reason="incomplete" cert="unknown">-<date when-iso="1909-08-02">2.8.09</date></supplied> 11.50V<supplied reason="incomplete">.</supplied>
+                                    <lb/>* 2 z
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp rend="round border majuscule" sameAs="#post_abs">
+                                    <placeName key="E0500040"><supplied reason="incomplete">Steinakirchen</supplied></placeName>
+                                    <lb/><supplied reason="incomplete" cert="high"><date when-iso="1909-07-31">31-VII-09-5</date></supplied>
+                                    <lb/><placeName key="E0500040"><seg rend="minuscule">am</seg> Fors<supplied reason="incomplete">t</supplied></placeName>
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300017" rend="latin">Ferruc<supplied reason="omitted">c</supplied>io Busoni</persName></addrLine>
+                                
+                                <note type="annotation" place="margin-left" rend="rotate(-45)" resp="#major_hand"><del rend="strikethrough"><hi rend="underline latin">express</hi></del></note>
+                                
+                                <addrLine rend="indent latin"><placeName key="E0500029">Berlin</placeName> W30</addrLine>
+                                <addrLine rend="indent latin"><placeName key="E0500072">Viktoria-Luise<choice><orig> </orig><reg>-</reg></choice>Platz 11</placeName></addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="top-right" resp="#schoenberg_addr_st1">
+                                <stamp rend="align(center) majuscule">
+                                    <address>
+                                        <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                        <addrLine rend="small"><delSpan rend="verticalStrike" spanTo="#delAddr01"/>– – – <placeName key="E0500002">Wien</placeName> – – –</addrLine>
+                                        <addrLine rend="small"><placeName key="E0500077">IX. Liechtensteinstraße 68/70</placeName><anchor xml:id="delAddr01"/></addrLine>
+                                    </address>
+                                </stamp>
+                            </note>
+                            
+                            <add xml:id="addAddr01" resp="#major_hand" place="below" rend="align(right)">
+                                <address>
+                                    <addrLine rend="latin"><placeName key="E0500040">Steinakirchen am Forst</placeName></addrLine>
+                                    <addrLine rend="latin"><placeName key="E0500081"><choice><abbr>Nied. Oesterr</abbr><expan>Niederösterreich</expan></choice></placeName></addrLine>
+                                </address>
+                            </add>
+                            
+                            <substJoin target="#delAddr01 #addAddr01"/>
+                            
+                            <note place="margin-right" resp="#stamp_violet" type="stamp" rend="rotate(180)">
+                                <stamp>VI.</stamp>
+                            </note>
+                            
+                            <note type="stamp" place="margin-left" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule rotate(45)">
+                                    <placeName key="E0500029">Berlin.</placeName> W.
+                                    <lb/><date when-iso="1909-08-02">2.8.09</date>.12<seg rend="sup">20</seg> N.
+                                    <lb/>* 30 *
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="bottom" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule">
+                                    <placeName key="E0500040">Steinakirchen
+                                        <lb/><seg rend="minuscule">am</seg> Forst</placeName>
+                                    <lb/><date when-iso="1909-07-31">31-VII<supplied reason="illegible">-0</supplied>9</date>-5
+                                </stamp>
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500040">Steinakirchen am Forst</origPlace>
+                            <origDate when-iso="1909-07-31" cert="high"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;167 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;143 f. (Brief), S.&#8239;68 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 385 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100010">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1909-07-31" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2764556" key="E0500040">Steinakirchen am Forst</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1909-08-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100009"/>
+                    <ref type="repliedBy" target="#D0100011"/>
+                    <ref type="previous" target="#D0100009"/>
+                    <ref type="next" target="#D0100011"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt, status unfinished</change>
+            <change when-iso="2015-03-11" who="#E0300318">Dokument auf Status="proposed" gesetzt.</change>
+            <change when-iso="2017-12-25" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839136862/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2B00000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2B00000003"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2B00000002"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-center" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. A. Schönberg 9 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 4548</add>
+                    </subst>
+                </note>
+                
+                <p><seg type="opener" subtype="salute">Sehr geehrter Herr,</seg> ich <supplied reason="incomplete">habe</supplied> lange über Ihren Einwand
+                    <lb/>gegen meinen Klavierstil nachgedacht und
+                    <lb/>komme zu dem Resultat, dass Sie in einer gewissen
+                    <lb/>Hinsicht unbedingt Recht haben. Die sehr geistreiche
+                    <lb/>Art<reg>,</reg> <subst><del rend="overwritten">mit</del><add place="across">auf</add></subst> die Sie an dem Beispiel Ihre Meinung
+                    <lb/>illustrieren, hat mir auch klar<orig> </orig>gemacht<reg>,</reg> um was
+                    <lb/>es sich Ihnen handelt. Nichts<orig> </orig>destoweniger glaube
+                    <lb/>ich sagen zu dürfen, dass es mir nicht scheint, als
+                    <lb/>ob dieser Mangel einer wäre, der nicht im
+                    <lb/>Wesen dieser Musik begründet wäre. Es ist
+                    <lb/>ja klar, dass stets, wenn irgend<orig> </orig>eine neue
+                    <lb/>Fähigkeit errungen wird, ältere Vorzüge <subst><del rend="overwritten"><gap reason="overwritten" atMost="4" unit="char"/></del><add place="across">falle</add></subst>n
+                    <lb/>müssen. Und so scheint mir auch, dass bei
+                    <lb/>einer Musik, die einen so raschen Harmonien
+                    <lb break="no"/><choice><orig>C</orig><reg>k</reg></choice>onsum betreibt, Breite des Satzes ebenso selten
+                    <lb/>sein muss, als sie bei breiterer Disposition
+                    <lb/>der A<choice><orig>cc</orig><reg>kk</reg></choice>orde häufig sein kann. Durch A<choice><orig>cc</orig><reg>kk</reg></choice>ord
+                    <lb break="no"/>zerlegungen Beiwerk und Aufputz zu schaffen<reg>,</reg>
+                    <lb/>ist wohl nur dann leicht möglich, wenn der
+                    <lb/>A<choice><orig>cc</orig><reg>kk</reg></choice>ord lang genug liegt. Da aber, wie
+                    <lb/>mir scheint, der Klaviersatz mehr auf
+                    <lb/>das Nacheinander seiner <choice>
+                        <unclear cert="high"><choice><orig>Acc</orig><reg>akk</reg></choice>ordbilden
+                            <lb break="no"/>den</unclear>
+                        <unclear cert="low"><choice><orig>Acc</orig><reg>akk</reg></choice>ord<orig> </orig>bilden
+                            <lb break="no"/>den</unclear>
+                    </choice>
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (168)</bibl> und <bibl><ref target="#E0800005"/> (153)</bibl>: <quote>Accord bildenden</quote>.</note>
+                    
+                    Bestandt<orig>h</orig>eile
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (168)</bibl> und <bibl><ref target="#E0800005"/> (153)</bibl>: <quote>Bestandteile</quote>.</note>
+                    
+                    angewiesen ist<orig>,</orig> als
+                    <lb/>auf deren Miteinandererklingen, ergi<orig>e</orig>bt
+                    <lb/>sich von selbst, dass der Satz an Glanz und
+                    <lb/>Pracht relativ verlieren muss. Aber abge
+                    <lb break="no"/>sehen<orig>,</orig> davon scheint mir, als ob <choice><orig><choice><unclear cert="high">speciell</unclear><unclear cert="low">spetiell</unclear></choice></orig><reg>speziell</reg></choice>
+                    
+                    <note resp="#E0300318" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (168)</bibl> und <bibl><ref target="#E0800005"/> (153)</bibl>: <quote>speziell</quote>.</note>
+                    
+                    <lb/><rs type="works" key="E0400112 E0400113">die<del rend="strikethrough">se</del><subst><del rend="overwritten">s</del><add place="across"> b</add></subst>eiden Stücke</rs>,
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (168)</bibl> und <bibl><ref target="#E0800005"/> (153)</bibl>: <quote>diese beiden Stücke</quote>.</note>
+                    
+                    deren düstere, ge
+                    <lb break="no"/>presste Klangfarbe <choice><orig>c</orig><reg>k</reg></choice>onstitutionell ist,
+                    <lb/>einen Satz nicht ertrügen, der dem Klangsinn –
+                    <lb/>i<choice><sic>m</sic><corr>n</corr></choice> <subst><del rend="overwritten">gew</del><add place="across">der</add></subst> üblichen Bedeutung – allzu sehr
+                    <lb/>schmeichelt. Das hoffe ich Ihnen am besten
+                    <lb/>zu bezeugen durch einige andere Klavierstücke,
+                    <lb/>die – ich weiß nicht wann<choice><orig>,</orig><reg> –</reg></choice> fertig <subst><del rend="overwritten"><gap reason="overwritten" atMost="3" unit="char"/></del><add place="across">we</add></subst>rden.
+                    
+                    <note type="commentary" resp="#E0300318">Erst <date when-iso="1911">1911</date> folgte mit den <rs key="E0400038">Sechs kleinen Klavierstücken op.&#8239;19</rs> das nächste abgeschlossene Klavierwerk. Die ersten fünf Stücke entstanden im Umfeld der Korrekturarbeiten der <rs key="E0800232">Harmonielehre</rs>, das letzte Stück unter dem Eindruck von <persName key="E0300047">Mahlers</persName> Tod; das Werk unterscheidet sich im Klaviersatz deutlich von den <rs key="E0400019">Drei Stücken op.&#8239;11</rs> (<bibl><ref target="#E0800001"/>, S.&#8239;126 f.</bibl>), aus deren Umkreis zwar einige Fragmente überliefert sind, die aber zumeist, soweit bestimmbar, Skizzen und Entwürfe der <rs key="E0400019">Stücke op.&#8239;11</rs> darstellen und nicht auf ein weiteres unfertiges Stück hindeuten (<bibl><ref target="#E0800033"/>, S.&#8239;104–119</bibl>). Von den hier angekündigten Klavierstücken wurde demnach nur noch <rs key="E0400114">Nr.&#8239;3</rs> der <rs key="E0400019">Stücke op.&#8239;11</rs> fertiggestellt, und zwar am <date when-iso="1909-08-07">7. August 1909</date> (<bibl><ref target="#E0800001"/>, S.&#8239;108</bibl>).</note>
+                    
+                </p>
+                
+                <p rend="indent-first">Ich hoffe nun, dass Sie mir bald wieder
+                    <lb/>Nachricht geben. Insbesondere bin ich
+                    
+                    <pb n="2"/>
+                    
+                    sehr begierig zu erfahren, ob Ihnen <rs type="works" key="E0400112 E0400113">die
+                        <lb/>Stücke</rs> gefallen und was <subst><del rend="overwritten">S</del><add place="across">s</add></subst>ie
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (168)</bibl> und <bibl><ref target="#E0800005"/> (154)</bibl> explizit ohne die korrigierende Überschreibung von <q>S</q> durch <q>ſ</q> (<quote>Sie [!]</quote>).</note>
+                    
+                    Ihnen sagen.
+                    <lb/>Vielleicht ist es Ihnen möglich<reg>,</reg> mir von Ihrer
+                    <lb/>Reise aus zu schreiben.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> begab sich am <date when-iso="1909-08-02">2. August 1909</date> (<bibl><ref target="#E0800020"/>, S.&#8239;27</bibl>) auf eine Reise nach <placeName key="E0500086">Florenz</placeName> und <placeName key="E0500085">Mailand</placeName> (<bibl><ref target="#E0800019"/>, S.&#8239;190</bibl>). Diese Reise hat im bisherigen Briefwechsel keine Erwähnung gefunden, darüber hinaus handelte es sich nicht um eine Tournee, sondern um eine zehntägige Ferienreise (<bibl><ref target="#E0800020"/>, S.&#8239;125</bibl>). Es ist nicht ersichtlich, wie <persName key="E0300023">Schönberg</persName> darüber informiert sein konnte.</note>
+                </p>
+                
+                <closer>
+                    <salute rend="indent-first">Einstweilen begrüße ich Sie aufs
+                        <lb/>herzlichste und ergebenste</salute>
+                    <signed rend="inline">Ihr <persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" resp="#schoenberg_addr_st1" place="left">
+                    <stamp rend="align(center) majuscule">
+                        <address>
+                            <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                            <addrLine rend="small"><delSpan rend="verticalStrike" spanTo="#delAddr01"/>– – – <placeName key="E0500002">Wien</placeName> – – –</addrLine>
+                            <addrLine rend="small"><placeName key="E0500077">IX. Liechtensteinstraße 68/70</placeName><anchor xml:id="delAddr02"/></addrLine>
+                        </address>
+                    </stamp>
+                </note>
+                
+                <note type="address" place="left" resp="#major_hand">
+                    <add xml:id="addAddr02">
+                        <address rend="align(right)">
+                            <addrLine>derzeit <placeName key="E0500040">Steinakirchen am Forst</placeName></addrLine>
+                            <addrLine><choice><abbr><placeName key="E0500081">Nied. Oesterr</placeName></abbr><expan><placeName key="E0500081">Niederösterreich</placeName></expan></choice></addrLine>
+                        </address>
+                    </add>
+                </note>
+                <substJoin target="#delAddr02 #addAddr02"/>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß <persName key="E0300017">Busoni</persName></stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

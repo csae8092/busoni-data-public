@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800201">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liszt / Howard 1997</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300013" role="cmp">
+                     <forename>Ferenc</forename>
+                     <surname>Liszt</surname>
+                  </author>
+                  <editor>
+                     <forename>Leslie</forename>
+                     <surname>Howard</surname>
+                  </editor>
+                  <title level="m">Fantasie über Themen aus den Opern von <persName key="E0300010">Wolfgang Amadeus Mozart</persName> <title key="E0400354">Die Hochzeit des Figaro</title> und <title key="E0400002">Don Giovanni</title></title>
+                  <title level="m" type="sub">für Klavier</title>
+                  <edition>Ergänzt und herausgegeben von Leslie Howard</edition>
+                  <imprint>
+                     <date when-iso="1997"/>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Editio Musica Budapest</publisher>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

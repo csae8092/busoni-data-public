@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600122">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Haslinger</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-09-15" who="#E0300361">title und desc geändert, idno/GND ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="publisher">
+               <idno type="GND">4023604-3</idno>
+               <idno type="GND">4138394-1</idno>
+               <orgName>Haslinger</orgName>
+               <desc>
+                  <placeName key=" E0500002">Wiener</placeName> Musikverlag; <date from-iso="1826">ab 1826</date> allein geführt durch <persName key="E0300468">Tobias Haslinger</persName> (war bereits <date from-iso="1815">seit 1815</date> Teilhaber), Verlag firmierte fortan unter seinem Namen; nach seinem Tod <date when-iso="1842">1842</date> Weiterführung der Verlagsgeschäfte durch seine Witwe und den Sohn <persName key="E0300469">Carl Haslinger</persName>, nach dem Tod der Witwe <date when-iso="1848">1848</date> zeichnete der <rs key="E0300469">Sohn</rs> allein verantwortlich unter dem Firmennamen <q>Carl Haslinger Quondam Tobias</q>; der Katalog umfasste u.&#8239;a. Werke von <persName key="E0300001">Ludwig van Beethoven</persName> und <persName key="E0300002">Franz Schubert</persName>; <date when-iso="1875">1875</date> an <persName key="E0300297">Robert Lienau</persName> / <orgName key="E0600065">Schlesinger</orgName> <placeName key="E0500029">Berlin</placeName> verkauft.
+               </desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

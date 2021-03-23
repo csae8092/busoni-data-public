@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100077">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Heinrich Schenker (vmtl. Jena, 11. Februar 1900)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Heinrich Schenker (prob. Jena, 11 February 1900)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-RIVu">University of California, Riverside, Special Collections and Archives</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-07"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">Vereinigte Staaten von Amerika</country>
+                        <settlement>Riverside</settlement>
+                        <institution key="US-RIVu">University of California, Special Collections and Archives</institution>
+                        <collection>Oswald Jonas memorial collection</collection>
+                        <idno>Box 9, Folder 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> entschuldigt sich für das Ausbleiben einer Antwort auf die vorangegangenen Briefe <persName key="E0300024">Schenkers</persName> unter Verweis auf kürzliche Ereignisse; bekundet seine Begeisterung für die <title key="E0400016">Syrischen Tänze</title>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1900-02-11"/></docDate>
+                            <incipit>Gewiss hat mir Ihre <choice><abbr>freundl.</abbr><expan>freundliche</expan></choice> Mitt<orig>h</orig>eilung<del rend="strikethrough">e</del> eine große Freude gemacht;</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio" cert="high">2 Blatt</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Blattzahl und Seitenfolge ohne Autopsie nicht eindeutig bestimmbar.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="minor_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand mit schwarzem Bleistift, evtl. Hand Heinrich Schenkers.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde am <origDate when-iso="1900-02-11">11. Februar 1900</origDate> vermutlich in <origPlace key="E0500321" cert="high">Jena</origPlace> verfasst, wo <persName key="E0300017">Busoni</persName> am <date when-iso="1900-02-12">12. Februar</date> ein Konzert gab (<bibl><ref target="#E0800082"/>, Sp. 2</bibl>).</origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800079"/>, S.&#8239;82</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100077">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1900-02-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500321" cert="high">Jena</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100076"/>
+                    <ref type="repliedBy" target="#D0100078"/>
+                    <ref type="previous" target="#D0100076"/>
+                    <ref type="next" target="#D0100078"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-05-28" who="#E0300318">Datei erstellt, Transkription und Ausarbeitung begonnen.</change>
+            <change when-iso="2018-07-16" who="#E0300318">Bearbeitung abgeschlossen; Status auf "proposed" gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <salute>Verehrtester.</salute>
+                </opener>
+                
+                <p>Gewiss hat mir Ihre <lb/><choice><abbr>freundl.</abbr><expan>freundliche</expan></choice> Mitt<orig>h</orig>eilung<del rend="strikethrough">e</del>
+                    <lb/>eine große Freude
+                    <lb/>gemacht;
+                    
+                    <note type="commentary" resp="#E0300318">Vermutlich das durch <persName key="E0300024">Schenker</persName> im <ref type="E010003" target="#D0100076">letzten Brief</ref> übermittelte Lob <persName key="E0300017">Busonis</persName> durch <persName key="E0300014">Eduard Hanslick</persName>.</note>
+                    
+                    eine ebenso
+                    <lb/>große bereiteten mir
+                    <lb/>die <title key="E0400016" rend="underline"><choice><orig>s</orig><reg>S</reg></choice>yrischen</title> (warum
+                    <lb/>diese Verkappung)
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300024">Schenker</persName> erwog, auch unter Einfluss <persName key="E0300017">Busonis</persName> (vgl. den Brief vom <ref type="E010003" target="#D0100082"><date when-iso="1903-09-03">3. September 1903</date></ref>), verschiedene Titel für <rs key="E0400016">das Werk</rs>. Siehe dazu die Kommentierung des Briefes vom <ref type="E010003" target="#D0100083"><date when-iso="1903-09-09">9. September 1903</date></ref>.</note>
+                    
+                    <lb/><title key="E0400016">T<choice><orig>ae</orig><reg>ä</reg></choice>nze</title>, die ich oft, mit
+                    <lb/>guten Musikern und
+                    <lb/><choice><orig>C</orig><reg>K</reg></choice>lavierspielern,
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300024">Schenker</persName> notierte, dass <persName key="E0300017">Busoni</persName> die <title key="E0400016">Syrischen Tänze</title> zuvor mit <persName key="E0300054">Schnabel</persName> gespielt hatte (<bibl><ref type="ext" target="http://www.schenkerdocumentsonline.org/documents/correspondence/OJ-5-18-33.html">Brief von <persName key="E0300024">Schenker</persName> an <persName key="E0300252">Jonas</persName> vom <date when-iso="1933-12-21">21. Dezember 1933</date></ref></bibl>).</note>
+                    
+                    und
+                    <lb/>immer mit Erfolg<reg>,</reg>
+                    <lb/>durchspielte.</p>
+                <p rend="indent-first"><seg rend="stroke-left double black"><rs key="E0400016">Diese Stücke</rs> sind
+                    <lb/>genial.
+                    <note type="commentary" resp="#E0300318">Ob die hier am linken Rand angebrachte doppelte Anstreichung durch <persName key="E0300024">Schenker</persName> selbst vorgenommen wurde, konnte nicht geklärt werden. Vgl. u.&#8239;a. die Briefe vom <ref type="E010003" target="#D0100054"><date when-iso="1897-06">Juni 1897</date></ref> und <ref type="E010003" target="#D0100066"><date when-iso="1898-02">Februar 1898</date></ref>.</note>
+                </seg>
+                </p>
+                
+                <pb n="2"/>
+                
+                <p>Die großen Aufgaben<reg>,</reg>
+                    <lb/>die ich mir in letzter
+                    <lb/>Zeit gestellt (sie sind
+                    <lb/>aus den Programmen
+                    <lb/>ersichtlich),
+                    
+                    <note type="commentary" resp="#E0300318"><date when-iso="1899">1899</date> hatte eine intensive Konzerttätigkeit <persName key="E0300017">Busoni</persName> durch Europa geführt; zwischen Ende <date from-iso="1899-10">Oktober</date> und Anfang <date to-iso="1899-12">Dezember</date> gab er nachweislich elf Konzerte in <placeName key="E0500140">England</placeName>, davon die meisten in <placeName key="E0500047">London</placeName> (vgl. <bibl>Programmbücher des Jahres 1899, <idno>D-B, Mus.Nachl. F. Busoni E 1899</idno></bibl>). Zudem hatte <persName key="E0300017">Busoni</persName> gerade eine Konzertreihe (<date when-iso="1900-01-23">23.</date> und <date when-iso="1900-01-31">31. Januar</date> sowie <date when-iso="1900-02-07">7. Februar 1900</date>) im <placeName key="E0500074">Beethovensaal</placeName> abgeschlossen (<bibl><ref target="#E0800109"/></bibl>). Vgl. auch die Kommentierung des <ref type="E010003" target="#D0100076">vorherigen</ref> sowie des <ref type="E010003" target="#D0100078">folgenden</ref> Briefes.</note>
+                    
+                    die Geburt
+                    <lb/><rs key="E0300153">eines Knaben</rs>,
+                    
+                    <note type="commentary" resp="#E0300318">Am <date when-iso="1900-02-01">1. Februar 1900</date> war in <placeName key="E0500029">Berlin</placeName> mit <persName key="E0300153">Rafaello Busoni</persName> der zweite Sohn <persName key="E0300017">Ferruccio</persName> und <persName key="E0300059">Gerda Busonis</persName> zur Welt gekommen.</note>
+                    
+                    der
+                    <lb/>Verlust meines
+                    <lb/>besten Freundes
+                    <lb/><persName key="E0300223">Nováček</persName> durch den
+                    <lb/>Tod,
+                    
+                    <note type="commentary" resp="#E0300318">Der Geiger <persName key="E0300223">Ottokar Nováček</persName> war am <date when-iso="1900-02-03">3. Februar 1900</date> in <placeName key="E0500031">New York</placeName> verstorben. <persName key="E0300017">Busoni</persName> hatte <persName key="E0300223">Nováček</persName> <date when-iso="1889">1889</date> in <placeName key="E0500007">Leipzig</placeName> kennengelernt; er zählte fortan zu den engsten Vertrauten <persName key="E0300017">Busonis</persName> (<bibl><ref target="#E0800019"/>, S.&#8239;81&#8239;f.</bibl>) und war dessen häufiger Gast in <placeName key="E0500029">Berlin</placeName> (<bibl><ref target="#E0800019"/>, S.&#8239;99</bibl>). <persName key="E0300017">Busoni</persName> widmete <persName key="E0300223">Nováček</persName> die <title key="E0400268">Sonate in e-Moll für Violine und Klavier</title>.</note>
+                    
+                    das <choice><orig>A</orig><reg>a</reg></choice>lles
+                    <lb/>beinahe zugleich
+                    <lb/>auf mich nieder
+                    <lb break="no" rend="after:-"/>geregnet, vielmehr
+                    <lb/><choice><orig>=</orig><reg>-</reg></choice>geblitzt, hat
+                    <lb/>meinen Kopf in
+                    <lb/>arge Verwirrung
+                    <lb/>gebracht. Deshalb
+                    <lb/>die Verspätung.</p>
+                    
+                    <pb n="3"/>
+                    
+                    <p>Haben Sie allerbesten
+                    <lb/>Dank und freund
+                    <lb break="no"/>schaftlichsten Gruß.</p>
+                <closer>
+                    <salute rend="indent">Ihr Sie hochsch<choice><orig>ae</orig><reg>ä</reg></choice>tzender</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F<reg>.</reg> Busoni</persName></signed>
+                    <dateline>
+                        <date when-iso="1900-02-11">11.2.<reg>1</reg>900.</date>
+                    </dateline>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

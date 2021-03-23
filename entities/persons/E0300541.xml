@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300541">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Graf Antonio Ladislao Rozwadowski</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-02-25" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <persName type="reg">
+                        <surname>Rozwadowski</surname>,
+                        <forename>Antonio</forename>
+                        <forename>Ladislao</forename>
+                    </persName>
+                    <persName type="role">
+                        <roleName type="nobility">Graf</roleName>
+                    </persName>
+                    <sex value="m"/>
+                    <occupation>Diplomat</occupation>
+                    <occupation>Musikamateur</occupation>
+                    <event when-iso="1894/1906">
+                        <ab><placeName key="E0500013">italienischer</placeName> Konsul in <placeName key="E0500374">Chicago</placeName></ab>
+                    </event>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

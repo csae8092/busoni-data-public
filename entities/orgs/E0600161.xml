@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600161">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wessel &amp; Co.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-08-27" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="publisher">
+                    <idno type="GND">111330605X</idno>
+                    <orgName>Wessel &amp; Co.</orgName>
+                    <desc><date from-iso="1823">Ab 1823</date> in <placeName key="E0500047">London</placeName> agierender Musikverlag; firmierte zunächst unter dem Namen Wessel &amp; Stodart, <date from-iso="1839">ab 1839</date> unter Wessel &amp; Stapleton und vmtl. <date from-iso="1845" cert="high">ab 1845</date> unter Wessel &amp; Co.</desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

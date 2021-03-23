@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100422">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Paul Bekker (Berlin, 7. Mai 1924)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Paul Bekker (Berlin, 7 May 1924)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300372">
+                        <forename>Sophia</forename>
+                        <surname>Dörner</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 70</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 34 (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-551583</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> dankt für <persName key="E0300111">Bekkers</persName> <ref type="E010006" target="#D0100421">Geburtstagsbrief</ref>; versucht sich trotz Krankheit gedanklich weiterhin mit musikästhetischen Fragen auseinanderzusetzen.</summary>
+                        <msItem>
+                            <docDate resp="#major_hand"><date when-iso="1924-05-07"/></docDate>
+                            <incipit>indem ich Ihre Bände durchblättere, erinnere ich mich mit inniger Freude und herzlicher Dankbarkeit</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Die maschinelle Abschrift ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_typewriter" scribe="archivist" cert="high">Vmtl. Hand eines Archivars, der eine maschinelle Abschrift des Originals mit einer Schreibmaschine angefertigt hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_black" scope="minor" medium="black_ink" scribe="archivist">Hand des Archivars, der eine Korrektur mit schwarzer Tinte in lateinischer Schrift vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace key="E0500029">Berlin</origPlace> am <origDate when-iso="1924-05-07">7. Mai 1924</origDate> verfasst. Der Originalbrief befindet sich nicht im Bekker-Nachlass der Yale-University.</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100422">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1924-05-07" cert="medium"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100421"/>
+                    <ref type="repliedBy" target="#D0100423"/>
+                    <ref type="previous" target="#D0100421"/>
+                    <ref type="next" target="#D0100423"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-03-16" who="#E0300372">Transkription, Auszeichnungen, status unfinished.</change>
+            <change when-iso="2018-03-25" who="#E0300372">Korrekturen, Kommentare, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/875220428/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED9700000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED9700000002"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1" facs="D0100422_1.jpg"/>
+                
+                <note type="stamp" place="top-left" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <note type="shelfmark" resp="#archive" place="top-right">
+                    <del rend="strikethrough right-of align(center)" xml:id="del">Mus.ep. F. Busoni 34
+                        <lb rend="align(right)"/>(Busoni-Nachl. <handShift new="#archive_red"/>B I<handShift new="#archive"/>)</del>
+                    <lb/><add place="left" xml:id="add">Mus.Nachl. F. Busoni B I, 70</add>
+                </note>
+                
+                <substJoin target="#add #del"/>              
+                
+                <opener>
+                    <dateline rend="right align(right)">
+                        <date when-iso="1924-05-07">7<reg>.</reg> Mai 1924</date></dateline>
+                    
+                    
+                    <salute rend="align(center)">Verehrtester,</salute>
+                </opener>
+                
+                
+                <p rend="indent-first space-above">indem ich Ihre Bände durchblättere, erinnere
+                    <lb/>ich mich mit <del rend="overwritten">ei</del><add hand="archive_black">in</add>niger Freude und herzlicher Dankbarkeit <ref type="E010006" target="#D0100421">Ihres lieben
+                    <lb/>Geburtstagsbriefes</ref>, für den mich erkenntlich zu zeigen mir auf der
+                <lb/>Seele lag seit dem Augenblick, da ich ihn las.</p>
+                <p rend="indent-first">Mein sich hinschleppendes Leiden
+                    
+                    <note type="commentary" resp="#E0300372">
+                        <persName key="E0300017">Busoni</persName> war bereits <date when-iso="1922">1922</date> gesundheitlich angeschlagen. Im <date when-iso="1924-05">Mai 1924</date> kam 
+                        eine Sepsis hinzu, die durch ein unbehandeltes Nierenleiden verursacht wurde <bibl>(vgl. <ref target="#E0800016"/>, S.&#8239;51&#8239;f.).</bibl>
+                    </note>
+                    
+                    hat mich an
+                    <lb/><choice><orig>M</orig><reg>m</reg></choice>anchem gehindert, das ich gern ausgerichtet hätte!</p>
+                <p rend="indent-first">Nehmen Sie meine besten Gefühle entgegen!</p>
+                <p rend="indent-first">Auch vom Krankenstuhl aus bestrebe ich mich
+                    <lb/><soCalled rend="dq-du">anzuregen</soCalled>; seit meiner Rückkehr
+                    <note type="commentary" resp="#E0300372">
+                        Gemeint ist vermutlich die Rückkehr im <date when-iso="1923-11">November 1923</date> von <persName key="E0300017">Busoni</persName> sechswöchigem Aufenthalt in <placeName key="E0500012">Paris</placeName>, 
+                        wohin er gemeinsam mit <persName key="E0300059">Gerda</persName> zu Erholungszwecken gereist war <bibl>(vgl. <ref target="#E0800016"/>, S.&#8239;52</bibl>).  
+                    </note> spiele ich <persName key="E0300010">Mozart</persName> gegen <persName key="E0300006">Wagner</persName>
+                    <lb/>aus.
+                    
+                    <note type="commentary" resp="#E0300372">
+                        In <persName key="E0300017">Busonis</persName> letztem veröffentlichten Aufsatz <title key="E0800179" rend="dq-du">Vom Wesen der Musik</title>
+                        wird <persName key="E0300010">Mozart</persName> als <soCalled rend="dq-du">Halbgott</soCalled> bezeichnet, der dem eigentlichen <q rend="dq-du">Wesen der Musik</q> im Vergleich zu anderen Komponisten am nächsten gekommen sei. 
+                        Die Ouvertüre zu <persName key="E0300006">Wagners</persName> <title key="E0400357">Rienzi</title> führt <persName key="E0300017">Busoni</persName> hingegen als Negativbeispiel an, 
+                        um zu verdeutlichen, was vom eigentlichen <q rend="dq-du">Wesen der Musik</q> weit entfernt sei <bibl>(vgl. <ref target="#E0800179"/>, S.&#8239;7 und 12)</bibl>.
+                    </note>
+                    
+                    Hätte <persName key="E0300090">Nietzsche</persName> in dem <quote rend="dq-du"><title key="E0400355">Fall <persName key="E0300006">Wagner</persName></title></quote> sich darauf besonnen,
+                    
+                    <note type="commentary" resp="#E0300372">
+                        In <title key="E0400355">Der Fall Wagner</title> setzt sich <persName key="E0300090">Nietzsche</persName> mit seinem einstigen Idol <persName key="E0300006">Wagner</persName> kritisch auseinander. 
+                        <persName key="E0300017">Busoni</persName> kritisiert, <persName key="E0300090">Nietzsche</persName> hebe dabei <persName key="E0300010">Mozart</persName> nicht als Entgegenstellung zu <persName key="E0300006">Wagner</persName> hervor, 
+                        sondern beziehe sich auf eine Aussage <persName key="E0300006">Wagners</persName>, die <persName key="E0300010">Mozarts</persName> Musikverständnis Frivolität zuschreibt <bibl>(vgl. <ref target="#E0800181"/>, S.&#8239;101&#8239;f.)</bibl>.</note>
+                    
+                <lb/>so stünde <choice><orig>A</orig><reg>a</reg></choice>lles ein wenig anders, auch in der <soCalled rend="dq-du">neuen Musik.</soCalled></p>
+                
+                
+                <closer>
+                    <salute rend="indent-first align(center)">Achtungsvollste <choice><orig>Grüsse</orig><reg>Grüße</reg></choice></salute>
+                    <signed rend="align(right)">Ihr ergebener
+                        <lb/><persName key="E0300017">Busoni</persName></signed>
+                    
+                    <note type="annotation" place="bottom-left" resp="#archive">
+                        [Nicht im Bekker-Nachl. der Yale University]
+                    </note>
+                </closer>
+                
+                <pb n="2" facs="D0100422_2.jpg"/>
+                
+                <note type="stamp" resp="#sbb_st_blue" place="bottom-center">
+                    <stamp resp="#sbb_st_blue">Nachlaß Busoni</stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

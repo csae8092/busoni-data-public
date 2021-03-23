@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300434">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Elizabeth Codman</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2018-10-18" who="#E0300361">Korrektur falsche Personenzuordnung, Franziska Freund -&gt; Mary Elizabeth Codman</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName type="reg">
+                  <surname>Codman</surname>,
+                  <forename>Mary</forename>
+                  <forename>Elizabeth</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Mary</forename>
+                  <forename>Elizabeth</forename>
+                  <surname>Belknap</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1839-09-26"/>
+                  <placeName key="E0500031">New York</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1929-08-09"/>
+                  <placeName key="E0500534">Kleinlaufenburg</placeName>
+               </death>
+               <sex value="f"/>
+               <note>bei <bibl><ref target="#E0800023">Busoni/Weindel 2015</ref></bibl> fälschlich Verweis auf <persName key="E0300531">Franziska Freund</persName> als Ehefrau von <persName key="E0300208">Robert Freund</persName></note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100329">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Spiez, 27. August 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Spiez, 27 August 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300485">
+                        <forename>Kim</forename>
+                        <surname>Nocka</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4286</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 27 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-724191</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Ludwig Rubiner</persName> kritisiert in seinem Brief an <persName key="E0300017">Busoni</persName> die Romantik und ihre Anhänger und vergleicht die Novelle mit einem literarischen Familienblatt. Er versucht einen Unterschied zwischen Künstler und Schöpfer darzustellen, wobei er dem Begriff des Künstlers einen negativen Beigeschmack gibt. </summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-08-27"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1918-08-27"/></docDate> 
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1918-08-27"/></docDate> 
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1918-08-27"/></docDate>
+                            <incipit>Heute Ihren lieben Brief erhalten.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">8 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink"
+                                scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig
+                                Rubiner, Brieftext in schwarzer Tinte, in lateinischer
+                                Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil"
+                                scribe="archivist">Hand des Archivars, der die Signaturen mit
+                                Bleistift eingetragen und eine Foliierung vorgenommen
+                                hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen"
+                                scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb
+                                des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink"
+                                scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink"
+                                scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink"
+                                scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="9"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs">
+                                    <placeName key="E0500452">Spiez</placeName>
+                                    <date when-iso="1918-08-27">27.VIII.18.</date>
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine> 
+                                <addrLine><persName key="E0300017">Prof. Ferruccio Busoni</persName></addrLine>
+                                <addrLine><placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine><placeName key="E0500189">Scheuchzerstrasse 36</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="10"/>
+                            
+                            <note type="shelfmark" place="top-center" resp="#archive_sig">
+                                <subst>
+                                    <add place="top-center"><handShift new="#archive_sig"/><idno type="D-B">Mus.Nachl. F. Busoni </idno>
+                                        <idno type="D-B">B II, 4286-Berl.</idno></add>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue"> Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp> 
+                                        Mus. ep. L. Rubiner 27</del>
+                                </subst>                    
+                            </note>
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_rec">
+                                    <seg rend="inline"><placeName key="E0500132">Zürich</placeName>
+                                        <date when-iso="1918-08-27">27.VIII.18.</date></seg>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="annotation" place="bottom-center" rend="large" resp="#recipient">27. aug 1918</note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500452">Spiez</origPlace>
+                            <origDate when-iso="1918-08-27"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/edition/letters/E010005/D0100329.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-08-27"/>
+                    <placeName ref="http://www.geonames.org/2658536" key="E0500452">Spiez</placeName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132"><hi rend="underline">Zürich VI</hi></placeName>
+                        <placeName ref="http://www.geonames.org/" key="E0500189">Scheuchzerstrasse 36</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100328"/>
+                    <ref type="next" target="#D0100330"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-12" who="#E0300485">status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/87359410X/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000010"/>
+        <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6600000011"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive_sig">
+                    <subst>
+                        <del rend="strikethrough"><idno type="D-B.olim">Mus.ep. L. Rubiner 27</idno>
+                            (Busoni-Nachl. <handShift new="#archive_red"/>B II)</del>
+                    </subst>
+                </note>
+                <note type="pagination" resp="#archive" place="top-right"> [1]</note>
+                <opener>
+                    <hi rend="top-left"> <hi rend="align left"><placeName key="E0500452">Spiez</placeName></hi></hi>
+                    <address>
+                        <addrLine>
+                            <hi rend="top-right"><seg rend="align (right)"><placeName key="E0500567">Hôtel Belvedère</placeName></seg></hi></addrLine></address>
+                    <hi rend="align(right)"><date when-iso="1918-08-27">Dienstag, 27. August 1918</date></hi>
+                    <dateline>
+                <note type="shelfmark" resp="#archive" place="margin-left" rend="rotate(-90)">
+                    <subst>
+                        <add><idno type="D.B"> Mus.Nach. F. Busoni B II, 4286</idno></add>
+                    </subst>
+                </note></dateline>
+                    <lb/><salute>Lieber <persName key="E0300017">Herr Busoni</persName>!</salute></opener>
+               
+                <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out" >Berlin</hi></placeName>
+                    </stamp>
+                </note>
+              
+                <p>Heute Ihren lieben Brief erhalten. 
+                    <lb/>Ich würde im höchsten Grade 
+                    <lb/>Bedenken tragen, Wesen wie 
+                    <lb/><persName key="E0300124">Goethe</persName> oder <persName key="E0300215">Dante</persName> <hi rend="dq-du">Künstler</hi> 
+                    <lb/>zu nennen. Denn bei solchen 
+                    <lb/>Charakteren ist die <hi rend="dq-du">Kunst</hi> 
+                    <lb/>die selbstverständliche Voraus
+                    <lb break="no"/>setzung, so selbstverständlich wie 
+                    <lb/>für den Redner Grammatik, 
+                    <lb/>Vokabular und Volubilität seiner Sprache – d.h. Vorbedin
+                    <lb break="no" rend="after:="/>gung. Bei solchen grossen 
+                    <lb/>Charakteren, die man doch 
+                    <lb/>wohl Schöpfer – oder ähnlich – 
+                    <lb/>nennen würde, braucht man 
+                    <lb/>eher nicht mehr über ihre 
+                    
+                    <pb n="2"/>
+                    
+                    Gestaltungsfähigkeit zu disku-
+                    <lb break="no"/>tieren, weil die Gestaltung von 
+                    <lb/>Ideen eine <hi rend="underline" n="2">Arbeit</hi>(!) ist, der 
+                    <lb/>sie sich wesentlich u. von (anderen) vornerein? 
+                    <lb/>immerwährend und unmerkbar
+                    <lb/>unterziehen. Sondern man kann 
+                    <lb/>schon wieder mit ihnen über 
+                    <lb/>das Niveau, das Zutreffende und das Umfassende ihrer 
+                    <lb/>Ideen in Beziehung treten. </p>
+                <p rend="indent">Dagegen ist der <hi rend="dq-du">Künstler</hi></p> 
+                    <p>(im aller, allerbesten Fall) ein 
+                    <lb/>Wesen, das glücklich ist, wenn 
+                    <lb/>es zufällig auch sogar einige 
+                    <lb/>Ideen erschafft, das aber 
+                    <lb/>gar nicht in seinen Ideen 
+                    <lb/>lebt, sich nicht mit ihnen 
+                    <lb/>identifiziert, ihnen nichts 
+                    <lb/>opfert, nichts für sie tut, und 
+                    <lb/>sie bloss als – ach endlich! – 
+                    <lb/>gefundenes Thema benutzt; 
+                    
+                    <pb n="3"/>
+                    
+                    ein Wesen, dem es immer 
+                    <lb/>lediglich auf die Frage der 
+                    <lb/>Gestaltung selbst ankommt, 
+                        <lb/>das den <hi rend="dq-du">Schwung</hi> begrüsst, 
+                    <lb/>unabhängig davon, wohin er 
+                    <lb/>schwingt. Mit einem Wort:
+                    <lb/>der Gestaltungsquatscher. Ein 
+                    <lb/>äusserst hochstehendes Beispiel: 
+                        <lb/><persName key="E0300499">Hölderlin</persName>. Unglaublich liebens
+                    <lb break="no" rend="after:="/>werte (aber dennoch in Wahr
+                        <lb break="no" rend="after:="/>heit lächerliche Typen): <persName key="E0300381">Victor 
+                            <lb/>Hugo</persName> u. <persName key="E0300172">Verdi</persName>.</p> 
+                
+                <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out" >Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                    <p>so dass also für mich der Begriff 
+                        <lb/><hi rend="dq-du">Künstler</hi> ein Schanden-Name 
+                        <lb/>ist. Ich habe das die Jahre 
+                        <lb/>hindurch; immer wieder geschrieben 
+                        <lb/>und gedruckt. Und die besten 
+                        <lb/>meiner Generation wissen es heute 
+                        <lb/>auch.</p> 
+                <p><hi rend="dq-du">wohlmeinender Tendenz</hi>
+                    <lb/>etc. hat die ganze Frage nichts zu 
+                    <lb/>tun, auch das Schöpferische nicht. 
+                    <lb/>Sondern nur damit: Arbeitest 
+                    
+                    <pb n="4"/>
+                    
+                    du nur, um zu reden, gewisser
+                    <lb break="no" rend="after:="/>massen als liebenswerte Gebens
+                    <lb break="no" rend="after:="/>äusserung? Oder arbeitest du, 
+                    <lb/>um die wirklichen grossen 
+                    <lb/>Geheimnisse der Welt in 
+                    <lb/>Formen, die Menschen-Sinnen 
+                    <lb/>zugänglich sind, zu gestalten? 
+                    <lb/>Den zweiten Fall nenne ich einen 
+                    <lb/>Schöpfer.</p> 
+                <p>Damit es nicht bei der blassen 
+                    <lb/>Terminologie bleibe, so zitiere 
+                    <lb/>ich einen der allerherrlichsten 
+                    <lb/>Sprüche <persName key="E0300124">Goethes</persName>. (Als ich Schüler 
+                    <lb/>war, zitierten meine Oberlehrer 
+                    <lb/>mit feierlichem <unclear reason="illegible">Fettkinn</unclear> <persName key="E0300124">Goethe</persName>; 
+                    <lb/>als ich Student war meine 
+                    <lb/>betrügerischesten Commilitonen. 
+                    <lb/><persName key="E0300124">Goethe</persName> war um jene Zeit <hi rend="dq-du">die 
+                    <lb/>grosse <unclear reason="illegible">Made</unclear></hi>. Die flachsten 
+                    <lb/>aller Universitätsprofessoren 
+                    <lb/>hielten Vorlesungen über <del rend="strikethrough">Goe</del> 
+                    <lb/><persName key="E0300124">Goethe</persName>; die carrieresüchtigsten. 
+                    <lb/>beriefen sich auf ihn. Und
+                    
+                    <pb n="5"/>
+                    
+                    mit einer genug neuen Ausnahme 
+                    <lb/>– der höchstbedeutenden 
+                    <lb/>Bücher von <persName key="E0300500">Gundolf</persName> – gehören 
+                    <lb/>gerade die <persName key="E0300124">Goethe</persName>biographien und <persName key="E0300124">Goethe</persName>schriften zur aller- 
+                    <lb break="no"/>erbärmlichsten und schmalzigsten 
+                    <lb/>Literatur. 
+                    
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out" >Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb/>Wenn also ich mich aufraffe, 
+                    <lb/><persName key="E0300124">Goethe</persName> zu nennen oder gar 
+                    <lb/>zu zitieren, dann muss sein 
+                    <lb/>Wort schon ganz besonderes 
+                    <lb/>tief in mein Leben hineingeklungen 
+                    <lb/>sein!)</p> 
+                <p>Aber dieser westöstliche <persName key="E0300124">Goethe</persName> 
+                    <lb/>überhebt mich jeder weiteren 
+                    <lb/>Diskursive. Er sagt alles, 
+                    <lb/>was man <hi rend="underline">tun</hi> muss: 
+                    <lb/><hi rend="dq-du">Sei´s Ergreifen, sei es Raffen, 
+                    <lb/>wenn nur sich fasst und hält: 
+                        <lb/>Allah
+                        
+                        <note type="commentary" resp="#E0300485">Allah ist das arabische Wort für Gott. </note>
+                        
+                        <hi rend="underline">braucht nicht mehr</hi> zu 
+                    <lb/><hi rend="underline">schaffen</hi> 
+                    <lb/><hi rend="underline">Wir erschaffen seine Welt</hi></hi> 
+                    
+                    <pb n="6"/>
+                    
+                    Dies ist wahrhaft wunderbar. 
+                    <lb/>Auch die Ablehnung der <hi rend="dq-du">Natur</hi>
+                    <lb/>(Allah braucht nicht mehr zu 
+                    <lb/>schaffen), und die letzte Zeile, 
+                    <lb/>die ausdrückt, dass der Schaffende 
+                    <lb/>durch sein Schaffen nach dem 
+                    <lb/>höchsten Sinn des Weltgeschehens 
+                    <lb/><del rend="strikethrough">hiel</del> <hi rend="underline">hilft</hi>! Also unfatalistisch! 
+                    <lb/>Wollend <hi rend="underline">und tuend! – Wie schön!!!</hi> 
+                    <lb/>Dagegen ist ja der 
+                    <lb/>Romantiker der typische 
+                    <lb/>Künstler. Der Ausdruck 
+                    
+                    <lb/><hi rend="dq-du">l’art pour l’art</hi> ist viel 
+                    
+                    <note type="commentary" resp="#E0300485">Französischer Ausdruck für Kunst für die Kunst. 
+                        Gemeint ist hier das künstlerische Schaffen, im negativem Sinne, welches ohne Hintergedanken und ohne einen bestimmten Zweck entsteht.
+                        Somit kann die Kunst sich nie auf eine neue höhere Ebene weiterentwickeln.  </note>
+                    
+                    <lb/>zu naiv, denn es kommt 
+                    <lb/>ihm auch nicht einmal auf 
+                    <lb/>den Kreis der Kunst an 
+                    <lb/>(viel weniger noch auf den 
+                    <lb/>Weltkreis wie einem Schöpfer) 
+                    <lb/>sondern nur auf seine spezi
+                    <lb break="no" rend="after:="/>fische Arbeit, auf sein spezifi
+                    <lb break="no" rend="after:="/>sches Werke. Daher ist also 
+                    
+                    <pb n="7"/>
+                    
+                    das, was er macht, immer nur 
+                    <lb/>feinere, vielleicht sogar beste, 
+                    <lb/>Unterhaltung.</p> 
+                <p>Eine Erfahrung ist aber, dass 
+                    <lb/>bei jedem grossen Schöpfer
+                    <lb break="no" rend="after:="/>tum jene <gap rend="strikethrough"></gap>Atmosphäre 
+                    <lb/>der blassen Grammatik des 
+                    <lb/>Schaffens, aber Kunst, sich aus
+                    <lb break="no" rend="after:="/>breitet. Das also bei der Arbeit 
+                    <lb/>an grossen Werken gewisser
+                    <lb break="no" rend="after:="/>massen Kunst-Abfälle und 
+                    <lb/>=Spähne umherfliegen. 
+                    <lb/>Eine solche Atmosphäre 
+                    <lb/>herrscht bei Ihnen, wie es 
+                    <lb/>auch ganz natürlich ist. 
+                    <lb/>Schwache Köpfe treten ein, 
+                    <lb/>und halten diese Atmosphäre 
+                    <lb/>schon für  das Letzte und Er
+                    <lb break="no" rend="after:="/>zielenswerte, weil sie diese 
+                    <lb/>Luft nicht erst selbst sich 
+                
+                    <pb n="8"/>
+                    
+                    bereifen meinen, sondern sie schon 
+                    <lb/>vorfinden u. von ihr ernährt werden. 
+                    <lb/>In diesem Sinne ist <persName key="E0300192">Goetzens</persName> 
+                    <lb/>Novelle in Ihrem Zimmer ent-
+                    <lb/>standen. Ich habe aber auch 
+                    <lb/><persName key="E0300382">Eichendorf</persName> noch falsch genannnt. 
+                    <lb/>Sie stammt von <hi rend="underline"><persName key="E0300501">Fouqué</persName></hi> ab, 
+                    <lb/>das ist es, und sie ist eine 
+                    <lb/>reine Künstlerproduktion. Ihres 
+                    <lb/>Inhaltes wegen wird die Novelle 
+                    <lb/>auch wohl nicht bekannt werden, 
+                    <lb/>denn ich finde sie hat keinen. 
+                    <lb/>Sondern ihrer unterhaltendenden 
+                    <lb/>hemmungslosen Phantastik auf 
+                    <lb/>dem Niveau des sauberen gehaltenen 
+                    <lb/><del rend="strikethrough">F</del>lit. Familienblattes. Ersatz 
+                    <lb/>für einen guten Reiseroman. 
+                    <lb/>Alles andere ist <del rend="strikethrough">von</del>in <persName key="E0300192">Goetz</persName> medi
+                    <lb break="no" rend="after:="/>umistisch, d.h. unbewusst eingeströmt, 
+                    <lb/>was ich auch kenne, aber nicht 
+                    <lb/>billige. Sehr dagegen billigt es das 
+                    <lb/>Publikum. Vielleicht gelingt es 
+                    <lb/>einem vermögenden Mann zu finden, 
+                    <lb/>der <unclear reason="illegible">bis</unclear> zur Fertigstellung <persName key="E0300192">Goetzes</persName> das
+                    <lb/>nackte Leben schenkt. – Ach, aber 
+                    <lb/>Welten trennen mich. – Dieser ganze 
+                    <lb/>Brief eigentlich nur geschrieben wegen 
+                    <lb/>der schönen <persName key="E0300124">Goetheschen</persName> Verse, und um 
+                    <lb/><hi rend="underline">Sie zu umarmen!</hi></p>
+                <closer><signed>Ihr <persName key="E0300126">Ludwig Rubiner</persName></signed>
+                    </closer>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

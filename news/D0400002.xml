@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0400002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="de">Updates an der WebApp</title>
+            <title xml:lang="en">Updates for the WebApp</title>
+            <author key="E0300315">Jakob Schmidt</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date when="2020-08-23T00:00:00"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">News</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when-iso="2020-08-23" who="#E0300315">Neuigkeit verfasst.</change>
+         <change when-iso="2020-08-31" who="#E0300314">redigiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="news">
+      <body>
+         <div xml:lang="de">
+            <p>Nach einiger Zeit ohne weitere Entwicklung haben wir kürzlich einige Neuerungen an der WebApp freigeschaltet. Auffällig ist vor allem das überarbeitete Design, das neben einer erfreulicheren Optik hoffentlich auch etwas mehr Übersicht bringt. Dazu gehört auch eine etwas verbesserte Nutzbarkeit mit mobilen Endgeräten, wobei hier sicherlich noch Entwicklungsbedarf bleibt.</p>
+            <p>Auf der technischen Seite ist die wichtigste Neuerung die Umstellung der Faksimilie-Anzeige auf die Darstellung via <ref type="ext" target="https://iiif.io">IIIF-Standard</ref>. Dabei werden die Bild-Metadaten entweder direkt von der bereitstellenden Quelle (insb. Staatsbibliothek zu Berlin · Preußischer Kulturbesitz) oder einen von Projektseite betriebenen <ref target="https://robcast.github.io/digilib/index.html" type="ext">Digilib-Imageserver</ref> bereitgestellt.</p>
+         </div>
+         <div xml:lang="en">
+            <p>After some time without further development we recently released some new features of the WebApp. You may have noticed the renewed design, which besides the eye candy hopefully also provides a little more overview. This also includes a slightly improved usability with mobile devices, although there is still need for further development.</p>
+            <p>As for the technical part, the most important innovation is the facsimile display via <ref type="ext" target="https://iiif.io">IIIF-Standard</ref>. The image metadata is now either taken directly from the source (mostly Berlin State Library) or generated on the fly by our <ref target="https://robcast.github.io/digilib/index.html" type="ext">Digilib-Imageserver</ref>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

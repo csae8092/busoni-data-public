@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0101509">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hugo Leichtentritt an Ferruccio Busoni (Berlin, 29. März 1916)</title>
+                <title xml:lang="en">Letter by Hugo Leichtentritt to Ferruccio Busoni (Berlin, 29 March 1916)</title>
+                <author key="E0300093">Hugo Leichtentritt</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300327">
+                        <forename>Juliane</forename>
+                        <surname>Imme</surname>
+                    </persName>
+                </respStmt>
+                <!-- ab Verfügbarkeit des Digitalisats der Staatsbibliothek:
+                    <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                    </respStmt>
+                -->
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <!-- <date when-iso="2022-01"/> als publiziert zu deklarieren erst nach Ablauf der urheberrechtlichen Schutzfrist-->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010009">Briefwechsel Ferruccio Busoni – Hugo Leichtentritt</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2769</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Leichtentritt 12 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-639584</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300093">Leichtentritt</persName> gratuliert <persName key="E0300017">Busoni</persName> zu seinem 50. Geburtstag; schickt das erste Kapitel seiner <ref target="#E0800114"><persName key="E0300017">Busoni</persName>-Biographie</ref> und bittet um Anmerkungen; übersendet außerdem seine <title key="E0800302">Geschichte der Motette</title> und die <title key="E0800301">Formenlehre</title>; bringt seine Bewunderung für das <title key="E0400399">Indianische Tagebuch</title> zum Ausdruck; äußert sich zur Bedeutung des Klanges in der Musik; hat das Libretto seiner Oper <title key="E0400446">Esther</title> abgeschlossen; will die Arbeit am <title key="E0400444">Geigenkonzert</title> fortsetzen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-03-29"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-03-29"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1916-04-01"/></docDate>
+                            <incipit>Der <date when-iso="1916-04-01"><choice><orig>erste</orig><reg>1.</reg></choice> April</date> ist im Anzuge</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive_fol">Foliierung durch das Archiv, mit Bleistift oben rechts auf den Vorderseiten.</foliation>
+                                <collation>Seitenfolge: 1, 3, 2, 4 (3 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300093">Hand des Absenders Hugo Leichtentritt, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive_sig" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Beistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_fol" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border align(center)">
+                                    <placeName rend="majuscule" key="E0500029">Berlin W</placeName>
+                                    <lb/><date when-iso="1916-03-29">29.3.16.7-8N</date>
+                                    <lb/>* 50 a
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border align(center)">
+                                    <placeName rend="majuscule" key="E0500029">Berlin W</placeName>
+                                    <lb/><date when-iso="1916-03-29">29.3.16.7-8N</date>
+                                    <lb/>* 50 a
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine rend="align(left)">Herrn</addrLine>
+                                <addrLine rend="align(center) latin"><persName key="E0300017">Prof. F. Busoni</persName>.</addrLine>
+                                
+                                <note type="stamp" place="center" resp="#dsb_st_red">
+                                    <stamp rend="round border align(center) small">
+                                        Deutsche
+                                        <lb/>Staatsbibliothek
+                                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                    </stamp>
+                                </note>
+                                
+                                <addrLine rend="align(left) latin underline"><placeName key="E0500092">Schweiz</placeName>.</addrLine>
+                                <addrLine rend="right align(center) latin underline"><placeName key="E0500132">Zürich</placeName>.</addrLine>
+                                <addrLine rend="right align(center) latin"><placeName key="E0500189">Scheuchzer<choice><orig> S</orig><reg>s</reg></choice>tr. 36</placeName>.</addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <address rend="align(center)">
+                                <addrLine>
+                                    Abs. <persName key="E0300093" rend="latin">Dr. H Leichtentritt</persName>.
+                                    <placeName key="E0500029" rend="latin">Berlin</placeName> W. 57.
+                                </addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border align(center) rotate(45)">
+                                    <placeName key="E0500132" rend="majuscule">Zürich</placeName>
+                                    <lb/><date when-iso="1916-04-01">-1.IV.16 XII</date>
+                                    <lb/><supplied reason="low-ink"><hi rend="majuscule">Brf. Exp.</hi></supplied>
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="center" rend="align(center)" resp="#archive_sig" xml:id="addSignature">
+                                <add place="above" rend="align(center)">Mus.Nachl. F. Busoni B II, 2769-Beil.</add>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive_sig" xml:id="delSignature">
+                                <del rend="strikethrough align(center)">
+                                    Mus.ep. H. Leichtentritt 12
+                                    <lb/><handShift new="#sbb_st_blue"/>Nachlaß Busoni <handShift new="#archive_red"/>B II
+                                </del>
+                            </note>
+                            
+                            <substJoin target="#delSignature #addSignature"/>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1916-03-29"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0101509">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116878363" key="E0300093">Leichtentritt, Hugo</persName>
+                    <date when="1916-03-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <!-- Zu überarbeiten, wenn Busoni-Briefe aus der LOC vorliegen -->
+                <correspContext>
+                    <!--<ref type="replyTo" target="#..."/>
+                    <ref type="repliedBy" target="#..."/>-->
+                    <ref type="previous" target="#D0101508"/>
+                    <ref type="next" target="#D0101513"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2020-03-05" who="#E0300327">Erstellung der Datei und erstmalige Bearbeitung; status="unfinished".</change>
+            <change when-iso="2020-09-15" who="#E0300327">Kommentierung abgeschlossen; status="proposed".</change>
+            <change when-iso="2020-11-14" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive_sig">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. H. Leichtentritt 12 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive_sig"/>)</del>
+                        <add place="margin-left" rend="rotate(-90)">Mus.Nachl. F. Busoni B II, 2769</add>
+                    </subst>
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#archive_fol">[1]</note>
+                
+                <opener>
+                    <dateline rend="right align(center) latin">
+                        <address>
+                            <addrLine>
+                                <placeName key="E0500634">Berlin W.<reg>,</reg> Winterfeldt<choice><orig> S</orig><reg>s</reg></choice>tr. 25<hi rend="sup underline" n="2">a</hi></placeName>
+                            </addrLine>
+                        </address>
+                        <date when-iso="1916-03-29">
+                            <choice><abbr>d.</abbr><expan>den</expan></choice> 29. M<choice><orig>ae</orig><reg>ä</reg></choice>rz 1916.
+                        </date>
+                    </dateline>
+                    <salute rend="align(left)">Sehr verehrter Meister <persName key="E0300017" rend="latin">Busoni</persName>!</salute>
+                </opener>
+                
+                <p rend="indent-first">
+                    Der <date when-iso="1916-04-01"><choice><orig>erste</orig><reg>1.</reg></choice> April</date> ist im Anzuge<reg>,</reg> und
+                    <lb/>es ist hohe Zeit, da<choice><orig>ß</orig><reg>ss</reg></choice> dieser Brief abgeht, wenn
+                    <lb/>er <subst><del rend="overwritten">Euch</del><add place="across">Sie</add></subst> noch rechtzeitig erreichen soll. Zu
+                    <lb/><date when-iso="1916-04-01">Ihrem <choice><orig>fünfzigsten</orig><reg>50.</reg></choice> Geburtstag</date> nehmen Sie meine
+                    <lb/>herzlichsten Glückwünsche entgegen. Ich hatte beab
+                    <lb break="no"/>sichtigt<reg>,</reg> Ihnen als ein kleines Zeichen meiner
+                    <lb/>Verehrung <del rend="strikethrough">I</del><rs key="E0800114">meine Schrift über Sie</rs> zu überreichen;
+                    <lb/>Umstände, die mir nicht zur Last fallen, haben
+                    <lb/>dies leider verhindert, und so wird Ihnen nur
+                    <lb/>das erste Kapitel, das Ihren Lebensgang in
+                    <lb/>großer Kürze beschreibt, zugehen. Die beiden
+                    <lb/>folgenden Kapitel werden den Pianisten und
+                    <lb/>den Komponisten behandeln. Etwaige Anmerkungen
+                    <lb/>von Ihnen zu meinem Versuche der Biographie<del rend="strikethrough">,</del>
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive_fol">[2]</note>
+                    
+                    werden mir sehr willkommen sein, weil ich gerade
+                    <lb/>in diesem Kapitel durchaus auf das Material
+                    <lb/>angewiesen war, das mir zufällig zuflo<choice><orig>ß</orig><reg>ss</reg></choice>, und
+                    <lb/>ohne <persName key="E0300351" rend="latin">Rita<orig>’</orig>s</persName> Hilfe hätte ich nicht einmal dies
+                    <lb/>kleine Kapitel fertiggebracht. Ich hoffe<reg>,</reg> in den
+                    <lb/>beiden anderen Abschnitten mehr des Eigenen
+                    <lb/>zu geben. Gleichzeitig habe ich auch <orgName key="E0600002" rend="latin">Breitkopf
+                        <lb/>&amp; Härtel</orgName> gebeten, Ihnen meine Bücher über
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small rotate(90)">
+                            Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb/>die <title key="E0800302">Geschichte der Mot<subst><del rend="overwritten strikethrough">t</del><add place="across">e</add></subst>tte</title><orig>,</orig> und die <title key="E0800301">Formenlehre</title>
+                    <lb/>zu übersenden. Ob Sie als ein nicht historischer
+                    <lb/>Geist sich für die Motette interessieren werden,
+                    <lb/>weiß ich nicht; immerhin aber wünschte ich<reg>,</reg>
+                    <lb/>Sie mit einer jener Arbeiten bekannt
+                    <lb/>zu machen, die mich ein Jahrzehnt meines
+                    <lb/>Lebens in Anspruch genommen haben.
+                    
+                    <note type="commentary" resp="#E0300327">Für die <title key="E0800302">Geschichte der Motette</title> hat <persName key="E0300093">Leichtentritt</persName> über 600 Manuskripte von Motetten analysiert (vgl. <bibl><ref target="#E0800312"/>, S. 503</bibl>). Nach eigenen Angaben flossen vier Jahre intensive Arbeit in die deutsche Ausgabe (vgl. <bibl><ref target="#E0800277"/>, S. 162 f.</bibl>).</note>
+                    
+                    Ich
+                    <lb/>glaube jedenfalls, da<choice><orig>ß</orig><reg>ss</reg></choice> man dem <rs key="E0800302">Buch</rs> einen
+                    <lb/>wissenschaftlichen Wert nicht wird abstreiten
+                    <lb/>können, für mich persönlich hat es auch einen
+                    <lb/>künstlerischen gehabt, weil es mich in eine
+                    
+                    <pb n="3"/>
+                    
+                    Welt hoher, edler und reiner Kunst für Jahre verpflanzt hat<reg>,</reg>
+                    <lb/>und davon ist schon etwas hängen geblieben, wennschon ich seitdem
+                    <lb/>in einem anderen Garten Blüten zu treiben mich ernstlich bestrebe.
+                    <lb/>Die <title key="E0800301" rend="dq-du">Formenlehre</title> bitte ich Sie als ein pädagogisches Nachschlagebuch
+                    <lb/>für die angehenden Musiker zu betrachten. Sie will keine Gesetze
+                    <lb/>aufstellen und Vorschriften geben, sondern nur zeigen<reg>,</reg> was die
+                    <lb/>Meister get<orig>h</orig>an haben und warum sie im einzelnen Falle so
+                    <lb/>und nicht anders gehandelt haben. Die Folgerungen möge jeder
+                    <lb/>Benutzer selbst ziehen, je nach seinem Verstande.
+                    
+                    <note type="commentary" resp="#E0300327">Auf die <title key="E0800301">Musikalische Formenlehre</title> hat <persName key="E0300017">Busoni</persName> offensichtlich skeptisch reagiert: <q>das normative Denken, das ihm in dem Buch begegnete, muß ihn […] befremdet haben</q> (<bibl><ref target="#E0800311"/>, S. 29</bibl>). Anlässlich der geplanten Neuauflage schreibt <persName key="E0300017">Busoni</persName> am <date when-iso="1918-09-21">21. September 1918</date>: <q>Haben Sie an Ihrer <title key="E0800301">Formenlehre</title> Neues angebracht, oder erscheint das Buch unveraendert? Darüber hätte ich mich gerne mit Ihnen ausgesprochen. Mich will es mehr und mehr bedenken, dass die musikalischen Formen fortwährend verschiebbar und nach Inhalt und Motiv gestaltet sein <hi>wollen</hi>; wie ein Gebäude nach dem gegebenen Zweck und Terrain. Erinnere ich mich doch, dass <persName key="E0300167">Schopenhauer</persName> einmal schreibt, der Kopf eines Hundes waere langgestreckt u. deshalb schön, weil auch der Körper horizontal gebildet sei. Eine Formen<hi>lehre</hi> bedeutet mir nur eine <hi>Geschichte</hi> der Form, eine Aufzählung vorhandener Beispiele u. Typen. — Ueber jeder Seite sollte die Warnung stehen: So wie hier dieser Meister zu seiner Idee seine Form fand, so sollt Ihr zu Euerer Idee die Eurige suchen.</q> Und am <date when-iso="1919-01-05">5. Januar 1919</date> heißt es: <q>Wenn Sie <rs key="E0800301">Ihr Buch</rs> etwa benennen möchten: <soCalled>Erläuterung der musikalischen Formen bis zum Eintritt des XX Jahrhunderts</soCalled>, — so verstünde ich ein solches Werk. Eine Anweisung zum Komponieren halte ich für unrichtig</q> (zitiert nach <bibl><ref target="#E0800311"/>, S. 29</bibl>).</note>
+                    
+                    Soeben lernte
+                    <lb/>ich Ihr <title key="E0400439">indianisches Tagebuch</title> kennen, das mich lebhaft fesselt, weil
+                    <lb/>mein auf delikate Klangreize gestimmtes Ohr dort die Fülle des
+                    <lb/>Schönen findet. Die neue Harmonik hat hier schon den Weg
+                    <lb/>zum holden Wohllaut gewonnen, den ich bei <persName key="E0300023" rend="latin">Schönberg</persName> und
+                    
+                    <pb n="4"/>
+                    
+                    Genossen so schmerzlich vermisse. Immer nur Herbheit
+                    <lb/>und Zerrissenheit verstimmt, ich bin noch immer
+                    <lb/>altmodisch genug<reg>,</reg> mich am schönen Klang zu
+                    <lb/>erfreuen: <choice><orig>ü</orig><reg>Ü</reg></choice>berhaupt erlebe ich den Klang mehr
+                    <lb/>und mehr als die schwingende Seele der Musik.
+                    <lb/>Wie sehr wünschte ich, es möge mir vergönnt
+                    <lb/><subst><del rend="overwritten"><gap atLeast="1" unit="char" reason="overwritten"/></del><add place="across">se</add></subst>in, mit Ihnen persönlich mich über solche Pro
+                    <lb break="no"/>bleme des Näheren zu unterhalten, die mir
+                    <lb/>sehr stark am Herzen liegen. Hoffentlich kommt
+                    <lb/>auch diese Zeit bald! Meine <rs key="E0400446">Operndichtung</rs> habe ich
+                    <lb/>vollendet, das <title key="E0400444">Geigenkonzert</title> hoffe ich auch
+                    <lb/>jetzt wieder in Angriff zu nehmen und dem
+                    <lb/>wohlverdienten Ende zuführen zu können. Möge
+                    <lb/>Ihnen im neuen Jahrzehnt Ihres Lebens alles Gute
+                    
+                    <note type="stamp" place="margin-left" resp="#sbb_st_blue">
+                        <stamp rend="align(center) rotate(90)">Nachlaß Busoni</stamp>
+                    </note>
+                    
+                    <lb/>beschieden sein, mögen wir uns alle Ihrer Kunst
+                    <lb/>noch mehr wie früher erfreuen dürfen.
+                    
+                </p>
+                <p>Ich begrüße Sie, Ihre Angehörigen, und auch <persName key="E0300351" rend="latin">Rita</persName> herzlichst.</p>
+                
+                <closer>
+                    <salute>In steter Verehrung.</salute>
+                    <salute rend="inline">Ihr sehr ergebener</salute>
+                    <signed rend="latin align(right)"><persName key="E0300093">H. Leichtentritt</persName>.</signed>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

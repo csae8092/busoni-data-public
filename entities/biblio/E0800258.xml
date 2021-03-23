@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800258">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Müller 1987</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-06" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <editor>
+                            <forename>Fritz</forename>
+                            <surname>Müller</surname>
+                        </editor>
+                        <title level="m"><persName key="E0300288">Friedrich Hegar</persName>. Sein Leben und Wirken in Briefen</title>
+                        <title level="m" type="sub">Ein halbes Jahrhundert <placeName key="E0500132">Zürcher</placeName> Musikleben. <date when-iso="1865/1926">1865–1926</date></title>
+                        <idno type="DNB">900174838</idno>
+                        <imprint>
+                            <pubPlace>Zürich</pubPlace>
+                            <publisher>Atlantis Musikbuch-Verlag</publisher>
+                            <date when-iso="1987"/>
+                        </imprint>
+                    </monogr>
+                    <note>bearbeitet und herausgegeben im Auftrag der Allgemeinen Musikgesellschaft <placeName key="E0500132">Zürich</placeName></note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Universal-Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="publisher">
+               <idno type="GND">2045143-X</idno>
+               <orgName>Universal-Edition</orgName>
+               <desc><date when-iso="1901">1901</date> gegründeter <placeName key="E0500002">Wiener</placeName> Musikverlag; seit <date when-iso="1908">1908</date> unter Leitung von <persName key="E0300039">Emil Hertzka</persName>, welcher <date when-iso="1909">1909</date> u. a. Verträge mit <persName key="E0300047">Mahler</persName> und <persName key="E0300023">Schönberg</persName> abschloss (<bibl><ref target="#E0800021"/>, S. 592</bibl>).</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100022">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Arnold Schönberg (Berlin, 18. Juli 1910)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Arnold Schönberg (Berlin, 18 July 1910)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300322">
+                        <forename>Jupp</forename>
+                        <surname>Wegner</surname>
+                    </persName>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="A-Was">Arnold-Schönberg-Center, Wien</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2015-11"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>Washington, D. C.</settlement>
+                        <institution key="US-Wc">The Library of Congress</institution>
+                        <repository>Music Division</repository>
+                        <collection>Arnold Schoenberg Collection</collection>
+                        <altIdentifier>
+                            <country key="AT">Österreich</country>
+                            <settlement>Wien</settlement>
+                            <institution key="A-Was">Arnold-Schönberg-Center</institution>
+                            <idno>19519</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> sagt erneute Durchsicht seiner <rs key="E0400032">Bearbeitung</rs> von <persName key="E0300023">Schönbergs</persName> <title key="E0400113">Klavierstück op. 11 Nr. 2</title> zu; wiederholt seine Kritik an dessen Klaviersatz sowie an einer Passage aus <persName key="E0300023">Schönbergs</persName> Vorwort-Entwurf; begrüßt separate Publikation der <rs key="E0400032">Bearbeitung</rs>; übersendet seine <title key="E0400018">Fantasia contrappuntistica</title>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1910-07-18"/></docDate>
+                            <incipit>Ich werde <rs key="E0400113">Ihr ?<pc>=</pc>Stück</rs> noch einmal durchnehmen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Zunächst die Recto-Seiten im Hochformat beschrieben, sodann die Verso-Seiten im Querformat; Lesereihenfolge der Bogen-Seiten demnach: 1, 3, 2, 4.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift </handNote>
+                            <handNote xml:id="lc_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte).</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1910-07-18"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 185</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 183 f. (Brief), S. 97–100 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 406 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100022">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1910-07-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100021"/>
+                    <ref type="repliedBy" target="#D0100023"/>
+                    <ref type="previous" target="#D0100021"/>
+                    <ref type="next" target="#D0100023"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt, status unfinished</change>
+            <change when-iso="2018-02-06" who="#E0300314">Codierung von Jupp Wegner durchgesehen, korrigiert, ergänzt; status proposed</change>
+            <change when-iso="2019-11-30" who="#E0300361">korrekturgelesen und ergänzt (Transkription, Lesefassung, editorische Abweichungen)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="http://www.schoenberg.at/scans/DVD043/19519_1.jpg"/>
+        <graphic n="2" url="http://www.schoenberg.at/scans/DVD043/19519_2.jpg"/>
+        <graphic n="3" url="http://www.schoenberg.at/scans/DVD043/19519_2.jpg"/>
+        <graphic n="4" url="http://www.schoenberg.at/scans/DVD043/19519_1.jpg"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="stamp" place="top-left" resp="#lc_st_red">
+                    <stamp rend="round majuscule small">* The * Library * of * Congress *</stamp>
+                </note>
+                
+                <opener>
+                    <byline>
+                        <fw place="top-right" rend="tiny">
+                            <address rend="align(left)">
+                                <addrLine><placeName key="E0500029">Berlin</placeName> W.30,</addrLine>
+                                <addrLine><placeName key="E0500072">Viktoria Luise-Platz 11</placeName> III.</addrLine>
+                            </address>
+                        </fw>
+                    </byline>
+                    <dateline rend="align(right)">
+                        <date when-iso="1910-07-18">18. Juli
+                            <lb/>1910</date>
+                    </dateline>                    
+                </opener>
+                <p rend="indent-first"><seg type="opener" subtype="salute">Geehrtester.</seg> 
+                    Ich
+                    <lb/>werde <rs key="E0400113">Ihr ?<pc>=</pc>Stück</rs>
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314 #E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl>, <bibl><ref target="#E0800005"/> (183)</bibl> und <bibl><ref target="#E0800060"/> (406)</bibl>: <q>2. Stück</q> bzw. <q>2nd piece</q>.
+                    </note>
+                    
+                    <lb/>noch einmal durch
+                    <lb break="no"/>nehmen <choice><abbr>u.</abbr><expan>und</expan></choice> Ihren
+                    <lb/>Wünschen entgegen
+                    <lb break="no"/>kommen. Ich respek
+                    <lb break="no"/>tiere
+                    Sie gewiss.
+                </p>
+                <p rend="indent-first">
+                    Nein, ich bin nicht
+                    <lb/>böse; über Ihre Rand
+                    <lb break="no" rend="after:="/>bemerkungen
+                    
+                    <note type="commentary" resp="#E0300313">
+                        <persName key="E0300023">Schönberg</persName> hat in der Reinschrift von <persName key="E0300017">Busonis</persName> <title key="E0400032">Konzertmäßiger 
+                            Interpretation</title> des <title key="E0400113">Klavierstücks op. 11 Nr. 2</title> mehr als zehn Stellen mit Bemerkungen versehen. In den meisten Fällen 
+                        hat <persName key="E0300017">Busoni</persName> die entsprechenden Stellen tatsächlich noch einmal verändert.
+                    </note>
+                    
+                    mu<choice><orig>ß</orig><reg>ss</reg></choice>te
+                    <lb/>ich vor Lachen eine
+                    <lb/>T<orig>h</orig>rä<subst><del rend="overwritten">ne</del><add place="across"><orig>h</orig>n</add></subst>e
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl> und <bibl><ref target="#E0800005"/> (183)</bibl>: <q>Thräne</q>.
+                    </note>
+                    
+                    zerdrücken und
+                    <lb/>mich dazu schnäuzen!
+                </p>
+                
+                <pb n="2"/>
+                <p>
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314 #E0300361">
+                        Bei <bibl><ref target="#E0800004"/> (185)</bibl>, <bibl><ref target="#E0800005"/> (183)</bibl> und <bibl><ref target="#E0800060"/> (406)</bibl> stehen die 
+                        Seiten 2 und 3 fälschlich in vertauschter Reihenfolge.
+                    </note>
+                    
+                    Bitte merken Sie sich’s
+                    <lb/>doch, dass ich <rs key="E0400113">Ihr Stück</rs>
+                    <lb/>so verstehe<reg>,</reg> wie Sie es
+                    <lb/>geschrieben haben<reg>,</reg> und
+                    <lb/>dass es mir – <hi rend="underline">weil</hi>
+                    <lb/>es mir nahe<orig> </orig>steht –
+                    <lb/>darum zu t<orig>h</orig>un war<reg>,</reg>
+                    <lb/>es <choice><orig>A</orig><reg>a</reg></choice>nderen verstehen zu
+                    <lb/>machen.
+                </p>
+                <p rend="indent-first">
+                    Ihre Ausdrucksweise
+                    <lb/>ist neu, nicht aber Ihr
+                    <lb/>Klaviersatz,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl> und <bibl><ref target="#E0800005"/> (183)</bibl>: <q>Claviersatz</q>.
+                    </note>
+                    
+                    der ist nur
+                    <lb/>ärmer.
+                    
+                    <note type="commentary" resp="#E0300313">
+                        Vgl. bereits den <ref type="E010001" target="#D0100013" n="2">Brief vom 20. August 1909</ref>, in dem <persName key="E0300017">Busoni</persName> gegen 
+                        <persName key="E0300023">Schönbergs</persName> Klaviersatz einwendet, er sei <q>ein unnützer Verzicht auf schon Errungenes</q>.
+                    </note>
+                    
+                    Ich glaube,
+                    <lb/>dass Sie z. B. das Orchester
+                    <lb/>ganz
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl>: <q>gans</q>.
+                    </note>
+                    
+                    anders in der
+                    <lb/>Hand haben.
+                </p>
+                
+                <pb n="3"/>
+                <p>
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314 #E0300361">
+                        Bei <bibl><ref target="#E0800004"/> (185)</bibl>, <bibl><ref target="#E0800005"/> (183)</bibl> und <bibl><ref target="#E0800060"/> (406)</bibl> stehen die 
+                        Seiten 2 und 3 fälschlich in vertauschter Reihenfolge.
+                    </note>                 
+                    
+                    <rs key="E0400113">Das Original</rs> ist noch nicht
+                    <lb/>gekommen. Warten wir also
+                    <lb/>noch ein wenig. –
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl>, <bibl><ref target="#E0800005"/> (183)</bibl> und <bibl><ref target="#E0800060"/> (406)</bibl>: ohne Gedankenstrich.
+                    </note>
+                    
+                    Die
+                    <lb/>Idee mit der besonderen
+                    <lb/>(getrennten) Veröffentlichung
+                    <lb/>ist richtiger.
+                    
+                    <note type="commentary" resp="#E0300313">
+                        Erst Anfang <date when-iso="1910-09">September 1910</date> stand endgültig fest, dass <persName key="E0300017">Busonis</persName> 
+                        <title key="E0400032">Konzertmäßige Interpretation</title> von <rs key="E0400113">Opus 11 Nr. 2</rs> separat und ohne ein Vorwort 
+                        <persName key="E0300023">Schönbergs</persName> bei der <orgName key="E0600004">Universal-Edition</orgName> erscheinen sollte.
+                    </note>
+                    
+                    – In dem
+                    <lb/>Absatz <hi rend="underline">4<orig>.</orig></hi>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl>, <bibl><ref target="#E0800005"/> (183)</bibl> und <bibl><ref target="#E0800060"/> (406)</bibl>: ohne Punkt.
+                    </note>
+                    
+                    Ihres
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl>: <q>ihres</q>.
+                    </note>
+                    
+                    Vorwortes
+                    <lb/>hei<choice><orig>ss</orig><reg>ß</reg></choice>t es: <q>ich habe nichts
+                        <lb/>dagegen, dass wenn einem
+                        <lb/><hi rend="underline">eine Stelle nicht klar</hi> ist …</q>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl>, <bibl><ref target="#E0800005"/> (183)</bibl> und <bibl><ref target="#E0800060"/> (406)</bibl>: <q>ist</q> bzw. <q>is</q> 
+                        ebenfalls hervorgehoben; <bibl><ref target="#E0800060"/> (406)</bibl> dito für: <q>if […] somebody</q>.
+                    </note>
+                    
+                    <pb n="4"/>
+                    
+                    Das liest sich so: dem
+                    <lb/>Bearbeiter waren
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">
+                        <bibl><ref target="#E0800004"/> (185)</bibl> und <bibl><ref target="#E0800005"/> (183)</bibl> fälschlich: <q>wären</q>.
+                    </note>
+                    
+                    einige
+                    <lb/>Stellen nicht klar <choice><orig><seg rend="spaced-out">......</seg></orig><reg>…</reg></choice>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl> und <bibl><ref target="#E0800005"/> (183)</bibl>: mit nur vier Punkten, <bibl><ref target="#E0800060"/> (407)</bibl>:
+                        mit drei Punkten; <bibl><ref target="#E0800060"/></bibl>: letzte Textpassage in einfachen Anführungszeichen.
+                    </note>
+                    
+                    <lb/>Das ist <hi rend="underline">dem Publikum
+                        <lb/>gegenüber</hi>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                        <bibl><ref target="#E0800004"/> (185)</bibl> <q>gegen über</q>; <bibl><ref target="#E0800004"/></bibl> und <bibl><ref target="#E0800005"/> (183)</bibl>: 
+                        Hervorhebung für dieses Wort unberücksichtigt.
+                    </note>
+                    
+                    unmöglich.
+                    <lb/>Brieflich können Sie es mir
+                    <lb/>meinetwegen schreiben, obwohl
+                    <lb/>ich es – wie gesagt – nicht
+                    <lb/>verdient zu haben glaubte.
+                    <lb/>Ich sende Ihnen <rs key="E0400018">meine
+                        <lb/>letzte Arbeit</rs>. <seg type="closer" subtype="salute">Ihr freundlichst grüßender</seg></p>
+                
+                <closer>
+                    <signed rend="align(right)"><persName key="E0300017">F<reg>.</reg>
+                        
+                        <note type="commentary" subtype="ed_diff_minor" resp="#E0300361">
+                            <bibl><ref target="#E0800004"/> (185)</bibl> und <bibl><ref target="#E0800005"/> (184)</bibl>: <q>FBusoni</q> ohne Leerzeichen.
+                        </note>
+                        
+                        Busoni</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

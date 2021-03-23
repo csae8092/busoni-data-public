@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liszt / Vianna da Motta 1916</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300013">
+                     <forename>Franz</forename>
+                     <surname>Liszt</surname>
+                  </author>
+                  <title level="m" key="E0400434">Tagebuch eines Wanderers</title>
+                  <editor key="E0300232">
+                     <forename>José</forename>
+                     <surname>Vianna</surname>
+                     <surname>da Motta</surname>
+                  </editor>
+                  <idno type="PPN">333176863</idno>
+                  <imprint>
+                     <date when-iso="1916"/>
+                     <pubPlace>Leipzig</pubPlace>
+                     <pubPlace>Berlin</pubPlace>
+                     <pubPlace>Brüssel</pubPlace>
+                     <pubPlace>London</pubPlace>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                     </publisher>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s"><persName key="E0300013">Franz Liszts</persName> musikalische Werke</title>
+                  <idno type="PPN">33314113X</idno>
+                  <idno type="BVB">BV007835438</idno>
+                  <editor>
+                     <orgName><persName key="E0300013">Franz-Liszt</persName>-Stiftung</orgName>
+                  </editor>
+                  <biblScope unit="series">II</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+               </series>
+               <ref type="ext" subtype="mdz" target="#bsb00016994">Digitalisat in der Digitalen Bibliothek des Münchner Digitalisierungs-Zentrums.</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

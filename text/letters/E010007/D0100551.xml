@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100551">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Budapest, 11. Mai 1913)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Budapest, 11 May 1913)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300418">
+                        <forename>Marlene</forename>
+                        <surname>Everling</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1727</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 38 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-590259</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300208">Freund</persName> bedauert, <persName key="E0300017">Busoni</persName>s Zyklus in <placeName key="E0500085">Mailand</placeName> nicht beigewohnt zu haben und erfragt, ob sich <persName key="E0300017">Busoni</persName> für <placeName key="E0500368">Bologna</placeName> entschieden habe.</summary>
+                        <msItem>
+                            <docDate><date when-iso="--05-11"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1913-05-11"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1913"/></docDate>
+                            <incipit>Ihr gestern erhaltenes Programmbuch macht das Bedauern nur noch reger</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Seitenfolge: 1, 4 (4 im Querformat)</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <lb/><date when-iso="1913-05-11">913 Mai 11</date>
+                                </stamp>
+                            </note>
+                            
+                            
+                            <address>
+                                <addrLine>Illustrissimo</addrLine>
+                                <addrLine>Maëstro
+                                    <lb/><persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="first-right"><placeName key="E0500518">88, Corso Magenta</placeName></addrLine>
+                                <addrLine rend="first-right underline"><placeName key="E0500085">Milano</placeName></addrLine>
+                            </address>
+                            
+                            
+                            <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                            
+                            <pb n="6"/>
+                            
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300208">Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500469">Mérleg utcza 4</placeName></addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    
+                                    <add rend="bottom-center">Mus.Nachl. F. Busoni B II, 1727-Beil.</add>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue" rend="below">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                        <lb/>Mus.ep. R. Freund 38
+                                    </del> 
+                                </subst>                    
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500188">Budapest</origPlace>
+                            <origDate when-iso="1913-05-11"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100551">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1913-05-11"/>
+                    <placeName ref="http://www.geonames.org/3054643" key="E0500188">Budapest</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100552"/>
+                    <ref type="previous" target="#D0100553"/>
+                    <ref type="next" target="#D0100552"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-04-02" who="#E0300418">Ersttranskription, Meta-Daten, status unfinished.</change>
+            <change when-iso="2018-04-06" who="#E0300418">Korrekturen, Kommentare, status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013725816/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1200000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1200000004"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1200000002"/>
+        <graphic n="4" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1200000003"/>
+        <graphic n="5" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1200000006"/>
+        <graphic n="6" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1200000005"/>        
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="annotation" place="top-right" resp="#archive">[1]</note>
+                
+                <note type="shelfmark" resp="#archive" place="margin-left">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. R.Freund 38 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                    <add place="below">Mus.Nachl. F. Busoni B II, 1727</add>
+                </note>
+                
+                <opener>
+                    <dateline>
+                        <address>
+                            <addrLine rend="align(right)"><placeName key="E0500188"><choice><orig>Bpest</orig><reg>Budapest</reg></choice></placeName>
+                                <date when-iso="1913-05-11">11/5 <handShift new="#archive"/>(1913)</date></addrLine>
+                        </address>
+                    </dateline>
+                </opener>
+                
+                <p rend="align (left) space-above">
+                    <seg type="opener" subtype="salute">Lieber Freund!</seg> Ihr gestern
+                    <lb/>erhaltenes Progra<choice><abbr>m̅</abbr><expan>mm</expan></choice>buch
+                    <lb/>macht das Bedauern nur
+                    <lb/>noch reger<reg>,</reg> Ihren
+                    <lb/><choice><orig>C</orig><reg>Z</reg></choice>yklus nicht gehört
+                    <lb/>zu haben. Hätte ich nur 
+                    <lb/>wenigstens dem <choice><orig>6 ten</orig><reg>sechsten</reg></choice> <choice><orig>u.</orig><reg>und</reg></choice>
+                    <lb/><choice><orig>8 ten</orig><reg>achten</reg></choice> <choice><orig>Concert</orig><reg>Konzert</reg></choice> beiwohnen
+                    <lb/>kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>en! –</p> <note type="commentary" resp="#E0300418">Das Programmbuch zu <persName key="E0300017">Busoni</persName>s, in <placeName key="E0500085">Mailand</placeName> statt gefundenem, Zyklus weist auf 8 Konzerttermine hin. 
+                        Im Verlaufe der Abende wurde, von <persName key="E0300012">Bach</persName>, im ersten Konzert, bis <persName key="E0300017">Busoni</persName>, im letzten Konzert, die Entwicklung der Klaviermusik abgezeichnet. Zum erwähnten sechsten Konzert, am <date when-iso="1913-05-05">05.Mai 1913</date>, spielte <persName key="E0300017">Busoni</persName> Werke von <persName key="E0300013">Liszt</persName>, zum achten Konzert, am <date when-iso="1913-05-12">12.Mai</date>, eigene Werke.</note><!-- Busoni-Nachlass E, 1913,10 -->
+                <p>Begierig bin ich zu
+                    <note type="stamp" place="bottom-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <pb n="2"/>
+                    
+                    <note type="stamp" place="top-right" rend="rotate(90)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <lb/>erfahren<reg>,</reg> ob Sie sich für <placeName key="E0500368">Bologna</placeName>
+                    <lb/>entschlie<choice><orig>ss</orig><reg>ß</reg></choice>en. – </p>
+                <p>Mit den herzlichsten Grü<choice><orig>ss</orig><reg>ß</reg></choice>en von
+                    <lb/>uns Allen für <persName key="E0300059">Frau Busoni</persName> <choice><orig>u.</orig><reg>und</reg></choice>
+                    <lb/>Sie, bin ich Ihr alter </p>
+                
+                <closer rend="align(center)">
+                    <salute>treu ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300208">Robert Freund</persName></signed>
+                </closer>
+                
+                <note type="annotation" place="bottom-right" resp="#archive">[2r]</note>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300418">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300418">[Seite 3 des Bogens]</note>
+                
+                <note type="annotation" place="top-right" resp="#archive">[2]</note>
+            
+            </div>
+        </body>
+    </text>
+</TEI>

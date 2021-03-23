@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>von Hase 1919</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2018-11-30" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <forename>Oscar</forename>
+                            <nameLink>von</nameLink>
+                            <surname>Hase</surname>
+                        </author>
+                        <title level="m"><orgName key="E0600002">Breitkopf &amp; Härtel</orgName></title>
+                        <title level="m" type="sub">Gedenkschrift und Arbeitsbericht</title>
+                        <idno type="DNB">560553455</idno>
+                        <imprint>
+                            <pubPlace>Leipzig</pubPlace>
+                            <publisher>Breitkopf &amp; Härtel</publisher>
+                            <date when-iso="1919">1919</date>
+                        </imprint>
+                        <extent>2 Bde.</extent>
+                        <biblScope unit="volume" n="2">
+                            <title level="m">Bd. 2: 1828–1918</title>
+                            <idno type="DNB">366127454</idno>
+                        </biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

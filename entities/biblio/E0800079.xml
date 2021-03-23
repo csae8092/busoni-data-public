@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800079">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Federhofer 1985</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Hellmut</forename>
+                     <surname>Federhofer</surname>
+                  </author>
+                  <title level="m"><persName key="E0300024">Heinrich Schenker</persName></title>
+                  <title level="m" type="sub">Nach Tagebüchern und Briefen in der Oswald Jonas Memorial Collection, University of California, Riverside</title>
+                  <idno type="DNB">860250725</idno>
+                  <imprint>
+                     <pubPlace>Hildesheim</pubPlace>
+                     <pubPlace>Zürich</pubPlace>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>Georg Olms Verlag</publisher>
+                     <date when-iso="1985"/>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Studien zur Musikwissenschaft</title>
+                  <biblScope unit="volume">3</biblScope>
+               </series>
+               <note>Teilveröffentlichung der Briefe <persName key="E0300017">Busonis</persName> an <persName key="E0300024">Schenker</persName> mit knapper Charakterisierung des Briefwechsels und seiner Hauptgegenstände. Ohne die Gegenbriefe <persName key="E0300024">Schenkers</persName> und ohne diplomatischen Anspruch; nur bedeutendere Abweichungen werden in <ref type="E010003" target="#https://busoni-nachlass.org/edition/letters/E010003/index">unserer Edition</ref> berichtet.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

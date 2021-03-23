@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600164">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ricordi</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-15" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="publisher">
+                    <idno type="GND">1215936-0</idno>
+                    <orgName>Ricordi</orgName>
+                    <desc>
+                        <date when-iso="1808">1808</date> von <persName key="E0300587">Giovanni Ricordi</persName> in <placeName key="E0500085">Mailand</placeName> gegründeter Musikverlag; zum Katalog gehören u.&#8239;a. Werke von <persName key="E0300172">Giuseppe Verdi</persName> und <persName key="E0300082">Gioachino Rossini</persName>.
+                    </desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

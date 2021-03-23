@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300189">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gian Bundi</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">10401699X</idno>
+               <persName type="reg">
+                  <surname>Bundi</surname>,
+                  <forename>Gian</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1872-10-26"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1936-12-26"/>
+                  <placeName key="E0500186">Bern</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikschriftsteller</occupation>
+               <occupation>Librettist</occupation>
+               <occupation>Musikkritiker</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Märchensammler</occupation>
+               <occupation>Übersetzer</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

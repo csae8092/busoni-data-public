@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100517">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (Berlin, 16. November 1904)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (Berlin, 16 November 1904)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 534</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 37 (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-561387</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> bedauert außerordentlich, dass <persName key="E0300208">Freund</persName> bei der 
+                            <date when-iso="1904-11-10">Premiere</date> seines <title key="E0400014">Klavierkonzertes</title> nicht zugegen war;
+                            verweist auf die schlimmen Kritiken in diesem Zusammenhang; verteidigt das <rs key="E0400014">Werk</rs> jedoch als eines, das er
+                            <q>in jeder Note verantworten</q> kann und das <q>sich halten</q> wird; will die Partitur evtl. in die <placeName key="E0500092">Schweiz</placeName>
+                            mitbringen und freut sich auf <persName key="E0300208">Freunds</persName> wohlwollenderes Urteil; begrüßt die Möglichkeit
+                            eines Klavier-Abends in <placeName key="E0500132">Zürich</placeName>.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1904-11-16"/>16. Nv. 04</docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1904" cert="high"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1903-02-03"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1903-02-04"/></docDate>
+                            <incipit>Ich habe unaussprechlich bedauert, dass Sie am <date when-iso="1904-11-10" cert="high">10.</date> nicht zugegen sein konnten</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Briefpapier im Querformat (aufgeklappter Bogen); Vorderseite in zwei Spalten beschrieben, Rückseite vacat.</collation>
+                                <condition>Der Brief ist gut erhalten; Umschlag mit Aufriss oben (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen, eine Foliierung vorgenommen und das korrekte Entstehungsjahr des Briefes auf dem Umschlag ergänzt hat
+                            </handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat
+                            </handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">
+                                unbekannte Hand, die auf der Umschlagrückseite das Briefdatum (<q>16 Nov.</q>) notiert hat
+                            </handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)
+                            </handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">
+                                Bibliotheksstempel (blaue Tinte)
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100517_6.jpg"/>
+                            <note type="stamp" place="left" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border align(center) small">
+                                    <hi rend="majuscule"><placeName key="E0500029">Berlin</placeName>.W.</hi>
+                                    <lb/><date when-iso="1903-02-03">–3.2.03</date>. 5–6V.
+                                    <lb/>★ 50 b
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border align(center) small">
+                                    <hi rend="majuscule"><placeName key="E0500029">Berlin</placeName>.W.</hi>
+                                    <lb/><date when-iso="1903-02-03">–3.2.03</date>. 5–6V.
+                                    <note type="dating" place="inline" resp="#archive">   <date xml:id="arch_date" when-iso="1904" cert="high">04</date></note>
+                                    <lb/>★ 50 b
+                                </stamp>
+                            </note>
+                            
+                            <note type="commentary" resp="#E0300361">
+                                Dieser Umschlag mit einem Poststempel vom <date when-iso="1903-02-03">03.02.1903</date> kann nicht zum vorliegenden Brief gehören, welcher auf den 
+                                <date when-iso="1904-11-16">16.11.1904</date> datiert ist. Offensichtlich wurde der Umschlag bereits vor Übergabe des Korrespondenzstückes an die 
+                                Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName> vertauscht. Im <persName type="persons" key="E0300420 E0300208">Freund</persName>-Nachlass 
+                                der Zentralbibliothek <placeName key="E0500132">Zürich</placeName> befindet sich ein Schreiben mit Umschlag, der – genau wie dieser Brief – einen Aufdruck vom 
+                                <placeName key="E0500573">Hotel Kaiserhof</placeName> bzw. vom <placeName key="E0500576">Romanischen Café</placeName> in <placeName key="E0500029">Berlin</placeName> 
+                                trägt und per Poststempel auf den <date when-iso="1904-11-16">16.11.1904</date> datiert ist, was allerdings auch in diesem Fall nicht mit dem Inhalt des 
+                                zugeordneten, undatierten Briefes korrespondiert. (vgl. Anm. zum Poststempel in <persName key="E0300017">Busonis</persName> 
+                                <ref type="E010007" target="#D0100577" n="5">Brief vom <date when-iso="1903-02-03" cert="high">03.02.1903</date></ref>)
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300208">Robert Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500598">Schönleinstr<choice><orig>. ii.</orig><reg>aße 11</reg></choice></placeName>
+                                    
+                                    <note type="commentary" resp="#E0300361">
+                                        Die korrekte Anschrift lautet: <placeName key="E0500598">Schönleinstraße 11</placeName>. (vgl. die entsprechende Mitteilung in
+                                        <persName key="E0300208">Freunds</persName> <ref type="E010007" target="#D0100514" n="2">Brief vom <date when-iso="1901-10-12">12.10.1901</date></ref>)
+                                    </note>
+                                    
+                                    <note type="stamp" place="inline" resp="#dsb_st_red">
+                                        <stamp rend="round border align(center) tiny">Deutsche
+                                            <lb/>Staatsbibliothek
+                                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                        </stamp>
+                                    </note>
+                                </addrLine>
+                                <addrLine rend="align(center)"><hi rend="underline" n="2"><placeName key="E0500132">Zürich</placeName></hi></addrLine>
+                            </address>
+                            
+                            <pb n="6" facs="D0100517_5.jpg"/>
+                            <note type="stamp" place="left" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) small rotate(-45)">
+                                    <supplied reason="illegible"><placeName key="E0500132">Zürich</placeName> <gap reason="illegible" extent="1" unit="char"/></supplied>
+                                    <lb/><date when-iso="1903-02-04">–4.II.03</date>.
+                                    <subst>
+                                        <del rend="overwritten"><gap reason="illegible" extent="2" unit="char"/></del>
+                                        <add place="across"><note type="dating" place="across" resp="#archive"><date sameAs="#arch_date" when-iso="1904" cert="high">04</date></note></add>
+                                    </subst>
+                                    <lb/>Brief<gap reason="illegible" atLeast="3" unit="char"/> III
+                                </stamp>
+                            </note>
+                            
+                            <note type="dating" place="right-of" resp="#archive">
+                                <lb/><lb/><date sameAs="#arch_date" when-iso="1904" cert="high">1904</date>
+                            </note>
+                            <note type="dating" place="below" rend="align(center)" resp="#unknown_hand">
+                                <date when-iso="1904-11-16">16 Nov.</date>
+                            </note>
+                            <note type="shelfmark" place="below" rend="align(center)" resp="#archive">
+                                <del xml:id="delSig" rend="strikethrough">Mus.ep. F. Busoni 37
+                                    <lb/><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B I</stamp>
+                                </del>
+                            </note>
+                            <note type="annotation" place="below" rend="align(center) small" resp="#archive">m. 2 Marken</note>
+                            <note type="shelfmark" place="below" resp="#archive"><add xml:id="addSig">Mus.Nachl. F. Busoni B I, 534–Beil.</add></note>
+                            <substJoin target="#delSig #addSig"/>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1904-11-16"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800060"/>, S.&#8239;72</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100517">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1904-11-16"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1904-11-18" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100516"/>
+                    <ref type="repliedBy" target="#D0100523"/>
+                    <ref type="previous" target="#D0100516"/>
+                    <ref type="next" target="#D0100523"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-08-04" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-03-06" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1012130630/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021BD100000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021BD100000003"/>
+        <graphic n="3" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021BD100000004"/>
+        <graphic n="4" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021BD100000002"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100517_1.jpg"/>
+                <note type="foliation" place="top-left" resp="#archive">[1]</note>
+                <note type="shelfmark" place="top-right" resp="#archive">
+                    <subst>
+                        <add>Mus.Nachl. F. Busoni B I, 534   </add>
+                        <del rend="strikethrough">Mus.ep. F. Busoni 37
+                            <lb/>(Busoni-Nachl. <handShift new="#archive_red"/>B I<handShift new="#archive"/>)</del>
+                    </subst>                    
+                </note>
+                <fw place="top-center" rend="caps large bold">
+                    <orgName key="E0600130"><placeName key="E0500029">Berliner</placeName> Hôtel-Gesellschaft</orgName>
+                </fw>
+                
+                <fw place="left" rend="align(center) tiny">
+                    <placeName key="E0500573">Hôtel <hi rend="majuscule"><q>Der Kaiserhof</q></hi></placeName>
+                    <lb/>am <placeName key="E0500578">Wilhelmsplatz</placeName>
+                    <figure>
+                        <figDesc><hi rend="small">Ansicht: Hôtel <q><placeName key="E0500573">Der Kaiserhof</placeName></q></hi></figDesc>
+                    </figure>
+                </fw>
+                <fw place="margin-right" rend="align(center) tiny">
+                    <hi rend="majuscule"><placeName key="E0500581">Kurhaus</placeName></hi> zu
+                    <lb/><hi rend="majuscule"><placeName key="E0500580">Heringsdorf</placeName></hi>
+                    <figure>
+                        <figDesc><hi rend="small">Ansicht: <placeName key="E0500581">Kurhaus</placeName>, <placeName key="E0500580">Heringsdorf</placeName></hi></figDesc>
+                    </figure>
+                    <lb/>
+                </fw>
+                
+                <fw place="below center" rend="align(center) tiny">
+                    <lb/><hi rend="majuscule">Wein
+                        <lb break="no"/>grosshandlung
+                        <lb/><hi rend="bold"><placeName key="E0500573">Der Kaiserhof</placeName></hi>
+                        <lb/>Stadtküche</hi>
+                    <milestone unit="section" style="—"/>
+                </fw>
+                <fw place="margin-left" rend="align(center) majuscule tiny">
+                    Telephon <placeName key="E0500573">Hôtel Kaiserhof</placeName>:
+                    <lb/>Amt I. 1261.
+                </fw>
+                <fw place="margin-right" rend="align(center) majuscule tiny">
+                    Telephon Weingrosshandlung &amp; Stadtküche:
+                    <lb/>Amt I. 1348.
+                </fw>
+                <fw place="center" rend="align(center) tiny">
+                    <placeName key="E0500576">Romanisches Café</placeName> und Conditorei
+                    <lb/><hi rend="majuscule spaced-out">Kaiserhof</hi>
+                    <lb/><hi rend="majuscule">Amt IX. 9306.</hi>
+                </fw>
+                
+               <note type="stamp" place="left" rend="indent-2" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) tiny">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <opener>
+                    <dateline rend="margin-right space-above">
+                        <fw place="inline"><seg rend="italic"><placeName key="E0500029">Berlin</placeName> W. 8., den </seg></fw>
+                        <seg rend="inline"><date when-iso="1904-11-16"><choice><abbr>16. Nv. 04</abbr><expan>16. November 1904</expan></choice></date></seg>
+                        <lb/><fw place="below" rend="align(left) tiny">am <placeName key="E0500578">Wilhelmsplatz</placeName></fw>
+                    </dateline>
+                    <salute rend="space-above">Sehr verehrter Freund.</salute>
+                </opener>
+                
+                <p>Ich habe unaussprechlich
+                    <lb/>bedauert, dass Sie am <date when-iso="1904-11-10" cert="high">10.</date> nicht
+                    <lb/>zugegen sein konnten – waren
+                    <lb/>Sie einer der Wenigen doch, der
+                    <lb/>Gezählten, auf die ich mich
+                    <lb/>verlassen konnte, als Künstler
+                    <lb/>und als Individuum.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Am <date when-iso="1904-11-10">10. November 1904</date> fand das 4. Konzert in der von <persName key="E0300017">Busoni</persName>
+                        initiierten Reihe der <orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabende</orgName> (Novitäten-Konzerte) statt. Unter der Leitung von <persName key="E0300509">Karl Muck</persName>
+                        kamen im ersten Teil des Programms <persName key="E0300010">Mozarts</persName> Ouvertüre zur <title key="E0400387">Entführung aus dem Serail</title>
+                        (mit einem Konzertschluss von <persName key="E0300017">Busoni</persName>) und der dritte Satz (Hymnus) aus <persName key="E0300223">Ottokar Nováčeks</persName>
+                        <title key="E0400039">Streichquartetts op. 13</title> in einer Version für volles Streichorchester zur Aufführung. (bei <bibl><ref target="#E0800253">Weindel 2004a</ref>, S. 30</bibl> 
+                        fälschlich: letzter Satz) Höhepunkt des Abends war die Uraufführung von <persName key="E0300017">Busonis</persName> <title key="E0400014">Konzert für Klavier, Orchester und Männerchor op. 39</title>, mit dem <rs key="E0300017">Komponisten</rs> selbst am Klavier und unter 
+                        Mitwirkung der Herren des <orgName key="E0600103">Chores der Kaiser-Wilhelm-Gedächtniskirche</orgName>. (<bibl><ref target="#E0800253">Weindel 2004a</ref>, S. 30 f.</bibl>)
+                        Der Abend wurde seitens der Kritiker – wie auch die vorangegangenen Novitäten-Konzerte – wenig wohlwollend aufgenommen. (s. a. nachfolgende Anm.)
+                    </note>
+                    
+                </p>
+                <p rend="indent-first">Nun werden Sie – bis ich
+                    <lb/>im Stande sein werde<reg>,</reg> Ihnen
+                    <lb/>meine Partitur zu schicken –
+                    <lb/>sich auf die <ref target="#E0800252">Auslassungen</ref>
+                    <lb/>des<reg>,</reg> von Ihnen allerdings
+                    <lb/>geschätzten<reg>,</reg> <persName key="E0300032">Dr<reg>.</reg> Schmidt</persName>
+                    <lb/>stützen müssen – der das
+                    <lb/>Schlimmste gedruckt hat, das
+                    <lb/>bei dieser Gelegenheit an Schli<choice><abbr>m̅</abbr><expan>mm</expan></choice>e<choice><sic>n</sic><corr>m</corr></choice>
+                    <lb/>erschien.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist eine <ref target="#E0800252">Konzertrezension</ref> von <persName key="E0300032">Leopold Schmidt</persName>, die am 
+                        <date when-iso="1904-11-11">Tag nach der Uraufführung</date> von <persName key="E0300017">Busonis</persName> <title key="E0400014">Klavierkonzert</title> 
+                        im <orgName key="E0600050"><placeName key="E0500029">Berliner</placeName> Tageblatt</orgName> abgedruckt wurde. <q>Dem Ganzen gegenüber konnte ich eine peinliche Empfindung nicht loswerden</q>, 
+                        schreibt <persName key="E0300032">Schmidt</persName> im letzten Absatz, und dann: <q>Es mutet an wie die musikalische Pose eines Mannes, der um jeden Preis 
+                            bedeutend und neu sein will, der seine Herrschaft der Mittel mißbraucht, weil er uns im Grunde nichts zu sagen hat.</q> Das Zugeständnis, dass 
+                        <persName key="E0300017">Busonis</persName> <rs key="E0400014">Werk</rs> das <q>Resultat einer jahrelangen ernsten Arbeit</q> ist, konnte 
+                        <persName key="E0300017">Busoni</persName> offensichtlich kaum trösten. Ebenso wenig wie die Feststellung, dass der Abend dank eines <q>ergebenen Anhängerkreis[es]</q> 
+                        einen <q>stürmischen Erfolg erlebte</q>. (<bibl><ref target="#E0800252"/></bibl>)
+                        <lb/><lb/>Die Kritik stößt sich im Wesentlichen an allem Neuem in <persName key="E0300017">Busonis</persName> <rs key="E0400014">Konzert</rs>, an Abweichungen von 
+                        Form- und Gattungskonventionen. <persName key="E0300032">Schmidt</persName> moniert u. a. die äußere Form in fünf Sätzen. <q>Das Konzert ist von Alters her 
+                            dreisätzig gewesen, erst <persName key="E0300009">Brahms</persName> (er aus Reichtum der Gedanken!) und andere Moderne nach ihm haben einen zweiten Mittelsatz 
+                            eingeschoben. Warum diese Neuerung nicht durch einen fünften Satz überbieten?</q> (<bibl><ref target="#E0800252">ebd.</ref></bibl>) Hier schreibt offenkundig 
+                        ein Konservativer gegen die Musik der Zukunft an. Ohne die Kritik bereits gelesen zu haben, hat <persName key="E0300208">Freund</persName> dies wohl geahnt, denn in seiner 
+                        <ref type="E010007" target="#D0100523" n="2">Antwort</ref> fordert er <persName key="E0300017">Busoni</persName> dazu auf, sich von der <q>Handwerker-Zunft</q> 
+                        nicht entmutigen zu lassen. Auch die Parallen, die sich durch den Einsatz eines Chores im letzten Satz zu <persName key="E0300001">Beethovens</persName> 
+                        <title key="E0400001">9. Symphonie</title> ergeben, können <persName key="E0300032">Schmidt</persName> nicht überzeugen – ganz im Gegenteil. Er bemängelt, dass das, 
+                        was bei <persName key="E0300001">Beethoven</persName> <q>aus der Idee der ganzen Schöpfung heraus motiviert</q> war, bei <persName key="E0300017">Busoni</persName> 
+                        mit Blick auf die <rs key="E0400014">Gesamtkomposition</rs> nicht funktioniert. So lässt sich etwa keine <q>innere Beziehung</q> zwischen dem Text des abschließenden 
+                        Chor-Satzes und dem zweiten Satz <q><foreign xml:lang="it">All’Italiana</foreign></q> erkennen. Auch das Klavier hat entgegen der Konvention kaum noch eine 
+                        erkennbare solistische Funktion  und wird <q>im allgemeinen Wogenschwall nicht selten verschlungen</q>. –
+                        <lb/><lb/><persName key="E0300031">Egon Petris</persName> einführende Worte im Programmheft zu einer Aufführung des <title key="E0400014">Klavierkonzertes</title> in 
+                        <placeName key="E0500097">Basel</placeName> <date when-iso="1910">1910</date> (Näheres zum Anlass vgl. Anm. zu <persName key="E0300017">Busonis</persName> 
+                        <ref type="E010007" target="#D0100576">Brief vom <date when-iso="1910-09-01" cert="high">01.09.1910</date></ref>) klingen, obwohl <date when-iso="1910">sechs Jahre 
+                            nach der Uraufführung</date> verfasst, wie eine direkte Reaktion auf <persName key="E0300032">Schmidts</persName> Worte und scheinen all seinen Kritikpunkten 
+                        bereits im Vorfeld der Aufführung begegnen zu wollen. <q>Das vorliegende <rs key="E0400014">Werk</rs> ist kein <q>Klavier-Konzert</q> im üblichen, traditionellen 
+                            Sinne</q>, macht <persName key="E0300031">Petri</persName> gleich zu Beginn klar. Und weiter: <q>Was man früher unter dieser Bezeichnung verstand und was auch 
+                                heute noch, trotz <persName key="E0300013">Liszt</persName>’s bahnbrechender Neuerungen, der […] Hörer von einem neuen Klavier-Konzerte erwartet, ist ein 
+                                Gebilde aus 3 oder 4 Sätzen […] das alles zerfallend in <q>Soli</q> und <q>Tutti</q>, sozusagen in <q>Figur</q> und <q>Staffage</q>.</q> Er verteidigt den 
+                        Chor-Einsatz – <q>für diejenigen […] die überall Autoritäten nötig haben</q> – mit der Überlegung, dass <q>der Schritt von einer Symphonie mit Chor zu einem 
+                            Klavier-Konzert mit Chor nur eine Analogie der Entwicklung dieses Klavier-Konzertes selbst darstellt, das sich (schon seit <persName key="E0300001">Beethoven</persName>) 
+                            der symphonischen Gestalt in Form und Inhalt mehr und mehr genähert hat.</q> <persName key="E0300031">Petri</persName> verweist auf die Einheit in der 
+                        Gesamtkonzeption des <rs key="E0400014">Werkes</rs>, indem er deren quasi spiegelsymetrischen Aufbau erläutert. Dabei steht der 3. Satz im Zentrum, um den sich der 
+                        2. und 4. Satz als <q>Sätze der Phantastik und des frohen Genusses harmonisch gruppieren</q>. Der 1. Satz ist ein einleitender Prolog, weshalb der 5. und letzte 
+                        Satz analog als Epilog dient, erweitert um die Worte eines <rs key="E0300479">Dichters</rs>, um dem Bedürfnis nach einem <q>greifbarere[m] und klareren Ausdruck</q> 
+                        Rechnung zu tragen. Verbindende Elemente zwischen <hi rend="italic">allen</hi> Sätzen sind Harmonik (<q>die Akkordfolge Dur–Moll bei feststehender Terz</q>) und 
+                        Rhythmus (<q>in verschiedenen Umwandlungen […] Wechsel von langen und kurzen Werten ein und derselben Note</q>). <persName key="E0300031">Petri</persName> resümiert: 
+                        <q>Allen […] enttäuschten Erwartungen liegt der Fehler zugrunde, an ein neues Werk mit fertigen Theorien heranzugehen, und von ihm dasselbe zu verlangen, was man 
+                            bereits von bekannten Stücken her gewohnt ist.</q> Und weiter: <q>Schlagen wir lieber den einzig richtigen Weg ein, dem Komponisten ein vorurteilsfreies Gehör zu 
+                                geben […]</q> (vgl. Einführungstext von <persName key="E0300031">Egon Petri</persName>, Programm zum Extra-Konzert der <orgName key="E0600021">Allgemeinen 
+                                    Musikgesellschaft <placeName key="E0500097">Basel</placeName></orgName> am <date when-iso="1910-10-04">04.10.1910</date>; D–B, Mus.Nachl. F. Busoni, E: 1910, 15)
+                        <lb/><lb/>Für eine zusammenfassende Darstellung zur schlechten Presseresonanz und <persName key="E0300017">Busonis</persName> Umgang mit der Kritik im Kontext der 
+                        <orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabende</orgName> vgl. <bibl><ref target="#E0800008"/></bibl>, 
+                        inbes. S.&#160;102&#160;ff. mit Bezug auf die Uraufführung von <persName key="E0300017">Busonis</persName> <title key="E0400014">Klavierkonzert</title>.
+                    </note>
+                    
+                </p>
+                
+                <pb n="2" facs="D0100517_3.jpg"/>
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                <p>Die Kritik ist wie eine Strand
+                    <lb break="no"/>welle, scheint’s mir, die den
+                    <lb/>Menschen um<add place="above" rend="small">zu</add>werfen vermag;
+                    <lb/>aber die Welle zerschellt und
+                    <lb/>der Mensch richtet sich wieder auf.</p>
+                <p rend="indent-first">Ich habe das Bedürfnis<orig>s</orig> – gegenüber
+                    <lb/>allem dem<reg>,</reg> was Sie über mein
+                    <lb/><rs key="E0400014"><choice><orig>Conc</orig><reg>Konz</reg></choice>ert</rs> mehr oder weniger
+                    <lb/>direkt zu hören bekommen
+                    <lb/>müssen – <metamark function="insertion" target="#add_izv">×</metamark><add xml:id="add_izv" place="above" rend="small">Ihnen zu versichern,</add> dass ich ein Werk
+                    <lb/>geschaffen habe, das ich in jeder
+                    <lb/>Note verantworten kann und
+                    <lb/>das sich, so<orig> </orig>viel als menschliche
+                    <lb/>Arbeit hält, sich halten wird.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Die Ansicht, dass das <title key="E0400014">Klavierkonzert</title> eine <q>Arbeit von bleibendem Wert</q> ist – eine Eigenschaft, die <persName key="E0300017">Busoni</persName> 
+                        zu diesem Zeitpunkt sonst nur seiner <title key="E0400268">2. Violinsonate</title> zuschrieb –, vertritt er vehement auch in seinen Verhandlungen mit 
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> im Hinblick auf den Erstdruck. (<bibl><ref target="#E0800050"/>, Bd. 1, Br. 226 vom 
+                            <date when-iso="1905-06-23">23.06.1905</date>, S. 142</bibl>)
+                    </note>
+                    
+                </p>
+                <p rend="indent-first">Ich freue mich sehr auf
+                    <lb/>den Augenblick, wo ich es Ihnen
+                    <lb/>werde zeigen können; wei<choice><orig>ss</orig><reg>ß</reg></choice>
+                    <lb/>ich doch, dass Sie mit dem
+                    <lb/>Glei<del rend="overwritten">g</del><add place="across">c</add>hgewicht und der Klarheit
+                    <lb/>Ihres Urt<orig>h</orig>eils <choice><abbr>u.</abbr><expan>und</expan></choice> mit Ihrem
+                    <lb/>menschlichen Wohlwollen
+                    <lb/>an dasselbe herantreten, <del rend="strikethrough">werden,</del>
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> dass Sie sich an <choice><orig>M</orig><reg>m</reg></choice>anchem
+                    <lb/>darin erfreuen werden. –
+                    <lb/>Vielleicht bringe ich es Ihnen
+                    <lb/>nach der <placeName key="E0500092">Schweiz</placeName> mit. –</p>
+                <p><seg rend="indent">(Ein <choice><orig>C</orig><reg>K</reg></choice>lavier<choice><orig>A</orig><reg>a</reg></choice>bend in <placeName key="E0500132">Zürich</placeName> w<choice><orig>ae</orig><reg>ä</reg></choice>re</seg>
+                    <lb/>mir sehr erwünscht:
+                    
+                    <note type="commentary" resp="#E0300361">Vgl. hierfür die nachfolgenden Briefe.</note>
+                    
+                    für Ihren
+                    <lb/>gütigen Vorschlag danke ich herzlich.)
+                
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300361">
+                        Bei <bibl><ref target="#E0800060"/>, Br. 48, S. 72</bibl> fehlt dieser letzte Satz.
+                    </note>
+                
+                </p>
+                
+                <closer rend="margin-left align(right) rotate(90)">
+                    <salute>Ihr sehr freundschaftlich
+                        <lb/>ergebener
+                    </salute>
+                    <signed><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                </closer>
+                
+                <pb n="3" facs="D0100517_4.jpg"/>
+                <note type="objdesc" rend="space-below" resp="#E0300361">[Rückseite von Textseite 2]</note>
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) tiny">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                <note type="stamp" place="center" rend="small" resp="#sbb_st_blue">Nachlaß Busoni</note>
+                
+                <pb n="4" facs="D0100517_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 1, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

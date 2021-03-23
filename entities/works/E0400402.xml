@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400402">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reinecke, Carl: Ouvertüre zu Klein's Trauerspiel "Zenobia"</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-18" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300538">Carl Reinecke</author>
+                        <title level="m">Ouvertüre zu <persName key="E0300539">Klein</persName>'s Trauerspiel <q>Zenobia</q></title>
+                        <idno type="op">193</idno>
+                        <idno type="DNB">40025199X</idno>
+                        <idno type="BVB">BV007866184</idno>
+                        <imprint>
+                            <date when-iso="1887" type="firstprint"/>
+                            <publisher><orgName key="E0600002">Breitkopf &amp; Härtel</orgName></publisher>
+                            <pubPlace key="E0500007">Leipzig</pubPlace>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300273">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guido Alberto Fano</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-19" who="#E0300372">Status reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">13494349X</idno>
+               <idno type="VIAF">19807538</idno>
+               <idno type="ISNI">0000000079715404</idno>
+               <persName type="reg">
+                  <surname>Fano</surname>,
+                  <forename>Guido</forename>
+                  <forename>Alberto</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1875-05-18"/>
+                  <placeName key="E0500370">Padua</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1961-08-14"/>
+                  <placeName key="E0500372">Tauriano di Spilimbergo</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Pianist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Komponist</occupation>
+               <affiliation when-iso="1899/1905">Klavierlehrer am <orgName key="E0600138">Liceo musicale (<placeName key="E0500368">Bologna</placeName>)</orgName></affiliation>
+               <affiliation when-iso="1905/1912">Direktor des <orgName key="E0600141">Konservatoriums in <placeName key="E0500369">Parma</placeName></orgName></affiliation>
+               <affiliation when-iso="1912/1916">Direktor des <orgName key="E0600140">Konservatoriums in <placeName key="E0500510">Neapel</placeName></orgName></affiliation>
+               <affiliation when-iso="1916/1922">Direktor des <orgName key="E0600142">Konservatoriums in <placeName key="E0500585">Palermo</placeName></orgName></affiliation>
+               <affiliation when-iso="1922/1938">Professor am <orgName key="E0600137">Konservatorium in <placeName key="E0500085">Mailand</placeName></orgName></affiliation>
+               <affiliation when-iso="1945/1927">Professor am <orgName key="E0600137">Konservatorium in <placeName key="E0500085">Mailand</placeName></orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

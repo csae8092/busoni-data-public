@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100032">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Berlin, 28. Juli 1912)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Berlin, 28 July 1912)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300320">
+                        <forename>Clemens</forename>
+                        <surname>Gubsch</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2015-11"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4561</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 22 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno type="kalliope">DE-611-HS-736452</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> versichert, seine Informationen und Vorschläge bezüglich einer Konservatoriumsgründung beruhten ausschließlich auf dem Gespräch mit <persName key="E0300028">Clark</persName>; wirft <persName key="E0300017">Busoni</persName> <q>Grobheit</q> vor.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1912-07-28"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1912-07-29"/></docDate>
+                            <incipit>Sie tun mir und meiner Fantasie unrecht.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung mit Bleistift unten rechts auf den Vorderseiten durch das Archiv.</foliation>
+                                <collation>Seitenfolge: fol. 1r, 2v und 3r</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="9"/>
+                            
+                            <note type="stamp" resp="#post" place="top-right">
+                                <stamp rend="round border align(center) majuscule" xml:id="post_abs">
+                                    <placeName key="E0500057">Carlshagen</placeName>
+                                    <lb/><seg rend="minuscule">auf</seg> Usedom
+                                    <lb/><date when-iso="1912-07-29"/>29<supplied reason="low-ink">.</supplied>7<supplied reason="low-ink">.</supplied>12<supplied reason="low-ink">.</supplied>
+                                    <lb/>*10<supplied reason="low-ink">·</supplied>11V.*
+                                </stamp>
+                            </note>
+                            
+                            <address rend="latin">
+                                <addrLine><seg rend="kurrent">Herrn</seg> <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent-2"><placeName key="E0500029">Berlin</placeName> W.30</addrLine>
+                                <addrLine rend="indent"><placeName key="E0500072">Viktoria<choice><orig> </orig><reg>-</reg></choice>Luise<choice><orig>p</orig><reg>-P</reg></choice>latz <choice><orig>1&#775;1&#775;</orig><reg>11</reg></choice></placeName></addrLine>
+                            </address>
+                            
+                            <pb n="10"/>
+                            
+                            <note type="shelfmark" place="top-center" resp="#archive">
+                                <add place="below">Mus.Nachl. F. Busoni B II, 4561-Beil.</add>
+                            </note>
+                            
+                            <stamp resp="#schoenberg_addr_st1" rend="small">
+                                <address rend="align(center)">
+                                    <addrLine><persName key="E0300023">Arnold Schönberg</persName>, <placeName key="E0500029">Berlin</placeName>-<placeName key="E0500056">Zehlendorf</placeName>-Wannseebahn</addrLine>
+                                    <addrLine><placeName key="E0500449">Machnower Chaussee</placeName>, <placeName key="E0500058">Villa Lepcke</placeName>.</addrLine>
+                                </address>
+                            </stamp>
+                            
+                            <address rend="align(center)">
+                                <addrLine>zz. <hi rend="underline"><placeName key="E0500057">Carlshagen</placeName> auf Usedom</hi></addrLine>
+                                <addrLine>Villa Concordia</addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="bottom" resp="#archive" rend="space-above">
+                                <del rend="left strikethrough"><stamp resp="#sbb_st_blue">Nachlaß Busoni<lb/><handShift new="#arch_red"/>B II</stamp></del>
+                                    <del rend="right strikethrough">Mus.ep. A. Schönberg 22</del>
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500057">Carlshagen</origPlace>
+                            <origDate when-iso="1912-07-28"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800280"/>, S. 29 f.</bibl>
+                            <bibl><ref target="#E0800004"/>, S. 192 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 197 f. (Brief), S. 120 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 417 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100032">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1912-07-28"/>
+                    <placeName ref="http://www.geonames.org/2892865" key="E0500057">Carlshagen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100031"/>
+                    <ref type="repliedBy" target="#D0100033"/>
+                    <ref type="previous" target="#D0100031"/>
+                    <ref type="next" target="#D0100033"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2015-12-28" who="#E0300314">Revisionselement hinzugefügt, status todo</change>
+            <change when-iso="2019-11-21" who="#E0300314">Layoutelemente der vorliegenden Transkription (Clemens Gubsch) durchgesehen, status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839142099/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000004"/>
+        <graphic n="3" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000005"/>
+        <graphic n="4" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000002"/>
+        <graphic n="5" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000003"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4100000010"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                
+                <opener>
+                    <dateline rend="top-right">
+                        <date when-iso="1912-07-28">28/7.1912</date>
+                    </dateline>
+                    <byline>
+                        <stamp resp="#schoenberg_addr_st1" rend="small">
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName>, <placeName key="E0500029">Berlin</placeName>-<placeName key="E0500056">Zehlendorf</placeName>-Wannseebahn</addrLine>
+                                <addrLine><placeName key="E0500449">Machnower Chaussee</placeName>, <placeName key="E0500058">Villa Lepcke</placeName>.</addrLine>
+                            </address>
+                        </stamp>
+                        
+                        <note type="shelfmark" place="top-left" resp="#archive" rend="rotate(-90)">
+                            <del xml:id="del_sig" rend="strikethrough">Mus.ep. A. Schönberg 22 (Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#archive"/>)</del>
+                        </note>
+                        <address>
+                            <addrLine rend="latin">zz. <placeName key="E0500057">Carlshagen</placeName> auf Usedom, Villa Concordia</addrLine>
+                        </address>
+                    </byline>
+                </opener>
+                
+                <p rend="indent-first space-above"><seg type="opener" subtype="salute">Sehr verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> Sie tun mir
+                    <lb/>und meiner Fantasie unrecht. Ich will nicht be
+                    <lb break="no"/>streiten, da<choice><orig>ß</orig><reg>ss</reg></choice> sie sich schon gelegentlich für einen
+                    <lb/>Gegenstand entzündet hat, dessen tatsächlicher Wert
+                    <lb/>nur ihr Werk war. Vielleicht hat sie das, da sie
+                    <lb/>es ja von den Kunstwerken an deren Entstehen ich
+                    <lb/>ihr mitzuwirken gestattete, vielleicht hat sie, da sie
+                    <lb/>das von daher gewöhnt war, es immer nur so getan: selbst
+                    <lb/>die Gegenstände, ihren Wert und das <choice><orig>feuer</orig><reg>Feuer</reg></choice> ge
+                    <lb break="no"/>schaffen, aber hier liegt die Sache noch etwas
+                    <lb/>nüchterner.
+                </p>
+                
+                <p rend="indent-first">Nämlich: <persName key="E0300028">Clark</persName> hat mir das, was ich Ihnen
+                    <lb/>schrieb, als Ihre Absicht mitgeteilt. Weiter nichts.
+                    <lb/>Ich habe gar nichts dazu getan! Wirklich
+                    <lb/>nichts! Denn die Dinge zu denen ich
+                    <lb/>etwas tue (oder gar dazutue, wobei also
+                    <lb/>schon etwas dagewesen sein mu<choice><orig>ß</orig><reg>ss</reg></choice>) sind von
+                    <lb/>vornherein weiter! Sie verzeihen: aber ich
+                    <lb/>kann meiner Fantasie unmöglich unrecht
+                    <lb/>tun lassen. Denn meine Fantasie, das
+                    <lb/>bin ich selbst, <subst><del rend="overwritten">bi</del><add place="across">de</add></subst>n<add place="inspace">n</add><!-- Unsicher bezüglich des Tags für das zweite "n"--> ich bin selbst nur ein
+                    <lb/>Geschöpf dieser Fantasie. Und niemand
+                    
+                    <note type="shelfmark" place="bottom-left" resp="#archive" rend="rotate(-90)">
+                        <add xml:id="add_sig" place="bottom-left">Mus.Nachl. F. Busoni B II, 4561</add>
+                    </note>
+                    
+                    <substJoin target="#del_sig #add_sig"/>
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    <pb n="2"/>
+                    
+                    lä<choice><orig>ß</orig><reg>ss</reg></choice>t seine Eltern beleidigen.
+                </p>
+                
+                <p rend="indent-first">Setzen Sie, verehrter <persName key="E0300017">Herr Busoni</persName>, wirklich
+                    <lb/>voraus, dass meine Fantasie sich ein Verhält
+                    <lb break="no"/>nis zu Ihnen an einem Unterrichtsinstitute, an
+                    <lb/>dem Sie Meisterkurse halten, während ich die
+                    <lb/>Gesamtleitung habe, <add place="above">sich</add> nur so <del rend="strikethrough"><gap reason="strikethrough" atMost="8" unit="char"/></del>sollte
+                    <lb/>denken können, da<choice><orig>ß</orig><reg>ss</reg></choice> einer der Vorgesetzte
+                    <lb/>des Andern sein mü<choice><orig>ß</orig><reg>ss</reg></choice>te? Steht nicht der, 
+                    <lb/>der Meisterkurse hält, von vornherein außer
+                    <lb break="no"/>halb dieser Gesamtleitung? Ist aber nicht
+                    <lb/>einer der 10 Monate in <placeName key="E0500029">Berlin</placeName> bleibt eher
+                    <lb/>in der Lage die Gesamtleitung zu übernehmen, 
+                    <lb/>als einer der „<q source="#D0100031">8 Monate von <placeName key="E0500029">Berlin</placeName> fern ist <!-- bessere auszeichnung des Briefzitats?-->
+                        <lb/>und außerdem außerordentlich tätig</q>“?
+                </p>
+                
+                <p rend="indent-first">Ich will nicht weiter polemisieren. Vielleicht
+                    <lb/>ist nur Schuld, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie etwas Unverbindliches
+                    <lb/>gesagt haben, was man mir als etwas Verbindliches
+                    <lb/>mitgeteilt hat. Sie sagem mir ja manches an
+                    <lb break="no"/>dre Verbindliche in Ihrem <ref type="E010001" target="#D0100031">Brief</ref> und halten damit
+                    <lb/>sorgfältig die Grobheit ein, die Sie mir eigent
+                    <lb break="no"/>lich sagen wollen. Sie müssen mir also erlau
+                    <lb break="no"/>ben auch das für unverbindlich zu nehmen.
+                    <lb/>Ich wünsche immer Klarheit und da stören mich
+                    <lb/>solche Einpackungen. Sie erlauben, da<choice><orig>ß</orig><reg>ss</reg></choice> ich das
+                    <lb/>verbindliche Packmaterial, in das Sie die Grob
+                    <lb break="no"/>heit einhüllen, dort aufbewahre, wo ich sonst
+                    <lb/><add place="below" resp="#major_hand">(ich bin, wie man Ihnen bestätigen kann, ein leiden
+                        <lb break="no"/></add>
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    <pb n="3"/>
+                    
+                    <note type="shelfmark" place="top-left" resp="#archive">B II,<lb/>4561</note>
+                    
+                    Packmaterial aufbewahre, den wirklichen
+                    <lb/>Inhalt, aber, die eingehüllte Grobheit, dort,
+                    <lb/>wo ich mir derartiges merke. Und Sie
+                    <lb/>erlauben, da<choice><orig>ß</orig><reg>ss</reg></choice> ich den Inhalt Ihres <ref type="E010001" target="#D0100031">Briefes</ref>
+                    <lb/>hier kurz anmerke: die Zurückweisung
+                    <lb/>meiner Anmaßung, da<choice><orig>ß</orig><reg>ss</reg></choice> ich Ihr Vorgesetzter
+                    <lb/>sein will, als Ausflu<choice><orig>ß</orig><reg>ss</reg></choice> meiner lebhaften
+                    <lb/>Fantasie!
+                </p>
+                
+                <closer>
+                    <salute rend="indent-first">In hochachtungsvoller Ergebenheit Ihr</salute>
+                    <signed rend="inline space-below"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-right" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[3]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 2 des 1. Bogens (Rückseite von Textseite 1), vacat]</note>
+                
+                <pb n="5"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 3 des 1. Bogens (Rückseite von Textseite 2)]</note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 2 des 2. Bogens (Rückseite von Textseite 3), vacat]</note>
+                
+                <pb n="7"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 3 des 2. Bogens]</note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[4]</note>
+                
+                <pb n="8"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 4 des 2. Bogens, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

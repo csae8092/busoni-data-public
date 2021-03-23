@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100212">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (4. Juni 1918, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (4 June 1918, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docDate><date when-iso="1918-06-04"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1918-06-04"/></docDate>
+                            <incipit>Ihr schöner Brief, Muster altruistischer Gesinnung</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift Nummerierung und Foliierung vorgenommen und das Datum auf die erste Seite übertragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1918-06-04"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;39</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100212">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1918-06-04"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <!-- DIESER BRIEF IST DIE ANTWORT AUF -->
+                    <!--<ref type="replyTo" target="#D0100..."/>-->
+                    <!-- ZU DIESEM BRIEF IST DER FOLGENDE DIE ANTWORT -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>-->
+                    <ref type="previous" target="#D0100211"/>
+                    <ref type="next" target="#D0100246"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">69.</note>
+                
+                <note type="dating" resp="#archive" place="right" xml:id="arch_date">4. Juni 1918</note>
+                
+                <opener>
+                    <salute>Lieber und Verehrter,</salute>
+                </opener>
+
+                <p>Ihr schöner Brief,
+                <lb/>Muster altruistischer Gesinnung,
+                <lb/>belohnte mich reich für
+                <lb/>meine Bestrebungen. Waere
+                <lb/>jeder Musikkritiker so gütig,
+                <lb/>jeder Konservatoriumsdirektor
+                <lb/>so behende und federnd,
+                <lb/>nur beide also gebildet und
+                <lb/>gottbegnadet, als wie Sie sich
+                <lb/>wieder einmal erweisen, dann
+                <lb/>w<choice><orig>ae</orig><reg>ä</reg></choice>re der Beruf des ausübenden
+                <lb/>Musikers ein Privilegium.</p>
+                
+                <p>Haben Sie Dank. Und
+                <lb/>trotzdem wage ich, noch mehr
+                <lb/>zu fordern. Meinen Verlegern
+                    <lb/><orgName key="E0600002">Br. &amp; H.</orgName>, die nun wirklich seit
+                
+                    <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                
+                <lb/>35 Jahren, Allem trotzend,
+                <lb/>stets zu mir gestanden, w<choice><orig>ae</orig><reg>ä</reg></choice>re
+                <lb/>natürlich der Abdruck Ihres
+                <lb/>Briefes eine willkommene
+                <lb/>Gabe: würden Sie solches
+                <lb/>gestatten wollen? – Wenn Sie
+                <lb/>irgend welche Abneigung
+                <lb/>dagegen empfinden, dann sagen –
+                <lb/>Sie’s un-umwunden; es wird
+                <lb/>diese Ablehnung nichts
+                <lb/>Schmälern an der
+                <lb/>Dankbarkeit <choice><abbr>u.</abbr><expan>und</expan></choice> Verehrung </p>
+
+                <closer><salute>Ihres
+                mehr und mehr ergebenen</salute>
+                    <dateline>4. Juni 1918</dateline> <signed><persName key="E0300017">F. Busoni</persName></signed></closer>
+                
+                <postscript>
+                    <p>Durch ihre Worte angeregt habe ich heute aus der KlavierÜbung
+                gearbeitet <choice><abbr>u.</abbr><expan>und</expan></choice> bin um ein gutes Stück weiter gekommen. Vor allem
+                steht der Plan für weitere 6 Übungen fest, die die beiden folgenden
+                Hefte ausfüllen werden. (Vorläufig halte ich mich an diesen
+                zwölf Kapiteln). Drei breitere Exempel führte ich ganz aus.
+                Erzählte ich Ihnen etwa, dass ich ein Klarinetten-Konzert
+                machte? – Vom Faust sind zwei Bilder in Partitur fertig. –
+                Hörten Sie von dem Abend auf zween Klavieren in Ihrer Stadt?</p>
+                    <closer><salute>Nochmals:</salute> <signed><persName key="E0300017">F. B.</persName></signed></closer>
+                </postscript>
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+
+                <pb n="4"/>
+
+            <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

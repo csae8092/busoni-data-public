@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300166">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Shakespeare</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118613723</idno>
+               <idno type="VIAF">96994048</idno>
+               <persName type="reg">
+                  <surname>Shakespeare</surname>,
+                  <forename>William</forename>
+               </persName>
+               <birth>
+                  <date calendar="Julian" type="baptism" when-iso="1564-04-26"/>
+                  <placeName key="E0500225">Stratford-upon-Avon</placeName>
+               </birth>
+               <death>
+                  <date calendar="Julian" when-iso="1616-04-23"/>
+                  <date calendar="Gregorian" when-iso="1616-05-03"/>
+                  <placeName key="E0500225">Stratford-upon-Avon</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

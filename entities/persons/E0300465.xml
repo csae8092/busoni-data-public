@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300465">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Gustav Vollmoeller</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-20" who="#E0300361">korrekturgelesen und ergänzt; status="reviewed"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118805681</idno>
+               <idno type="VIAF">24746271</idno>
+               <idno type="ISNI">0000000110228584</idno>
+               <persName type="reg">
+                  <surname>Vollmoeller</surname>,
+                  <forename>Karl</forename>
+                  <forename>Gustav</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Karl</forename>
+                  <forename>Gustav</forename>
+                  <surname>Vollmöller</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1878-05-07"/>
+                  <placeName key="E0500181">Stuttgart</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1948-10-18"/>
+                  <placeName key="E0500037">Los Angeles</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <occupation>Archäologe</occupation>
+               <occupation>Autorennfahrer</occupation>
+               <occupation>Flugzeugkonstrukteur</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300534">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Emerich Freund</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-02-10" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <persName type="reg">
+                        <surname>Freund</surname>,
+                        <forename>Emerich</forename>
+                    </persName>
+                    <persName type="nick">
+                        <addName>Imre</addName>
+                    </persName>
+                    <!-- <birth>
+                        <date when-iso="…"/>
+                        <placeName key="E05.....">…</placeName>
+                    </birth> -->
+                    <death>
+                        <date when-iso="1875-08-05"/>
+                        <placeName key="E0500188">Budapest</placeName>
+                    </death>
+                    <sex value="m"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300607">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gottlieb Kutschka</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <persName type="reg">
+                        <surname>Kutschka</surname>,
+                        <forename>Gottlieb</forename>
+                    </persName>
+                    <sex value="m"/>
+                    <occupation>Bratschist</occupation>
+                    <note>Österreichischer Bratschist; fiel im ersten Weltkrieg in serbischer Kriegsgefangenschaft. (Vgl. <ref target="#E0800277"/>, S.338, <ref type="ext" target="https://digi.landesbibliothek.at/viewer/image/AC08513816_Verlustliste_Nr_0587/31/LOG_0021/"/>)</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

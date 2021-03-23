@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100136">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Basel, 16. November 1916)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Basel, 16 November 1916)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300324">
+                        <forename>Thea</forename>
+                        <forename>Olivia</forename>
+                        <surname>Beger</surname>
+                    </persName>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2255</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 47 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621969</idno>
+                        </altIdentifier>   
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> zitiert <persName key="E0300157">Elisabeth Speiser-Sarasins</persName> Deutung der Handschrift <persName key="E0300017">Busonis</persName>; bestätigt <placeName key="E0500097">Basler</placeName> Konzertprogramme; kann wegen Diabetes-Kur in <placeName key="E0500190">Solothurn</placeName> <persName key="E0300017">Busonis</persName> zweiten <placeName key="E0500132">Zürcher</placeName> Klavierabend nicht besuchen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-11-16"/></docDate>
+                            <incipit>Das kleine Episödchen mit <persName key="E0300157">Frau Dr. Speiser-Sarasin</persName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent> 
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc> 
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125"> Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift. </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Datierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="unknown" scope="minor" medium="red_pen" scribe="unknown">unbekannte Hand, welche die Briefnummer mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097">Basel</origPlace>
+                            <origDate when-iso="1916-11-16"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-11-16"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100196"/>
+                    <ref type="repliedBy" target="#D0100197"/>
+                    <ref type="previous" target="#D0100196"/>
+                    <ref type="next" target="#D0100197"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-02-26" who="#E0300324">Bearbeitung übernommmen; status="unfinished"</change>
+            <change when-iso="2017-03-03" who="#E0300324">status="proposed"</change>
+            <change when-iso="2017-03-05" who="#E0300314">korrekturgelesen, status="candidate"</change>
+            <change when-iso="2017-11-24" who="#E0300314">Auszeichnungen ergänzt</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873382811/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EACD00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EACD00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EACD00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EACD00000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. H. Huber 47 (Busoni-Nachl. B II)</del>
+                        <add place="below" rend="indent">Mus.Nachl. F. Busoni B II, 2273</add>
+                    </subst>                    
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <note type="numbering" place="right" resp="#unknown">13</note>
+                
+                <fw place="left" rend="align(center)">
+                    <orgName key="E0600020">Musikschule<lb/><hi rend="small">und</hi><lb/>Konservatorium<lb/><hi rend="bold"><placeName key="E0500097">Basel</placeName>.</hi></orgName>
+                    <milestone unit="section" style="–"/>
+                </fw>
+                
+                <opener>
+                    <dateline rend="right-of">
+                        <date when-iso="1916-11-16">16<choice><orig> <abbr>Nov.</abbr></orig><reg>. <expan>November</expan></reg></choice> 1916</date>
+                    </dateline>
+                    <salute>Lieber <choice><abbr>&amp;</abbr><expan>und</expan></choice> Verehrter!</salute>
+                </opener>
+                
+                <p rend="indent-first">
+                    Das kleine Episödchen mit 
+                    <lb/><persName key="E0300157">Frau Dr. Speiser-Sarasin</persName> würde 
+                    <lb/>ich ohne Bedenken begraben,
+                    <lb/>wenn Sie nicht in einer plötzlichen 
+                    <lb/>Anwandlung von romanischer Liebens
+                    <lb break="no"/>würdigkeit aus dem Gabentempel 
+                    <lb/>Ihres großen Besitzt<orig>h</orig>ums eine
+                    <lb/>Bagatelle schenken wollten. <choice><orig>Ue</orig><reg>Ü</reg></choice>brigens
+                    <lb/>ist diese Dame eine große Graphologin
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> hat mir die Geheimnisse Ihrer
+                    <lb/>Schrift entziffert:
+                </p>
+                
+                <p>
+                    <quote source="#E0300157" rend="dq-du">harmonische Künstlernatur, feiner<reg>,</reg>
+                    <lb/>regelmäßiger Rhyt<reg>h</reg>mus, ausgebildeter 
+                    <lb/>ästhetischer Si<choice><abbr>n̅</abbr><expan>nn</expan></choice>, geistvoll im Erfassen
+                    <lb/>seines Berufs <choice><abbr>&amp;</abbr><expan>und</expan></choice> seiner eigenen Produktionen; 
+                    <lb/>ausgeprägte Si<choice><abbr>n̅</abbr><expan>nn</expan></choice>lichkeit (!), dadurch
+                    <lb/>Macht im Leben, ein Doppelmensch! Sein 
+                    <lb/>get<orig>h</orig>eiltes B<orig>.</orig> mit dem F zusa<choice><abbr>m̅</abbr><expan>mm</expan></choice>enhängend 
+                    <lb/>verrät eine starke Kompositionsgabe, 
+                    <lb/>die zurücklaufenden Endungen sind 
+                    <lb/>Beweise seiner Heimlichkeiten!</quote> –
+                </p>
+                
+                <p rend="align(right)">
+                    <foreign xml:lang="fr">Que voulez-vous de plus!!</foreign>
+                    
+                    <note type="commentary" resp="#E0300324">Frz.: Was wollen Sie mehr?</note>
+                </p>
+                    
+                    <pb n="2"/>
+                    
+                <p rend="align(center)">
+                    <foreign xml:lang="la">Mundi res severa?</foreign>
+                    
+                    <note type="commentary" resp="#E0300314">Lat.: der Ernst der Welt; Anspielung auf die im Kunstkontext geläufige, von <persName key="E0300158">Seneca</persName> entlehnte Devise <q xml:lang="la">res severa verum gaudium</q> <bibl>(vgl. <ref target="#E0800024"/>)</bibl>.</note>
+                </p>
+                
+                <p>
+                    Als Daten schlage ich Ihnen vor: 
+                    
+                    <note type="commentary" resp="#E0300324">Planungen für Abonnementkonzerte in <placeName key="E0500097">Basel</placeName>.</note>
+                    
+                    <lb/>den <date when-iso="1917-01-24">17.</date><reg>,</reg>
+                    <date when-iso="1917-01-24/1917-01-31"><choice><orig>24–31</orig><reg>24.–31.</reg></choice> Januar</date>
+                    <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <date when-iso="1917-02-07">7<reg>.</reg> Februar</date>.
+                    <lb/>Wir dürfen nicht zu nahe am <date when-iso="1917-01-01">Neujahr</date>
+                    <lb/>anfangen.
+                </p>
+                
+                <list style="decimal">
+                    <head rend="indent"><add place="above">Als Progra<choice><abbr>m̅</abbr><expan>mm</expan></choice>:</add>
+                        
+                        <note type="commentary" resp="#E0300324">Der endgültige Programmentwurf befindet sich im <ref type="E010002" target="#1916-11-22-bh">Brief vom 22.11.1916</ref>.</note>
+                    </head>
+                    
+                    <item>
+                        <list>
+                            <item>
+                                <persName key="E0300012">Bach</persName> – <persName key="E0300001">Beethoven</persName> <rs key="E0400152">op<reg>.</reg> 111</rs></item>
+                            <item>
+                                <persName key="E0300159">Weber</persName> <choice><abbr>&amp;</abbr><expan>und</expan></choice> <persName key="E0300002">Schubert</persName>-<persName key="E0300013">Liszt</persName><orig>.</orig>
+                            </item>
+                        </list>
+                        oder nur <persName key="E0300012">Bach</persName> – <persName key="E0300001">Beethoven</persName> 
+                        <lb/>(aber die <rs key="E0400291">Sonate</rs> von <persName key="E0300159">Weber</persName> hätte ich 
+                        <lb/>zu gern!)
+                    </item>
+                    <item>
+                        <list>
+                            <item>
+                                <persName key="E0300015">César Franck</persName>
+                            </item>
+                            <item>
+                                <persName key="E0300137">Chopin</persName>-<rs key="E0400125">Etüden</rs>
+                                
+                                <note type="commentary" resp="#E0300314">Vgl. <persName key="E0300017">Busonis</persName> Nennung von <persName key="E0300137">Chopins</persName> <title key="E0400125">Etüden op.&#8239;10</title> im <ref type="E010002" target="#1916-11-16-bh">vorherigen Brief</ref>.</note>
+                            </item>
+                            <item>
+                                <persName key="E0300009">Brahms</persName><orig>.</orig>
+                                
+                                <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                                    <stamp rend="round border align(center) small">Deutsche
+                                        <lb/>Staatsbibliothek
+                                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                                </note>
+                            </item>
+                            
+                        </list>
+                    </item>
+                    <item rend="no_dot">
+                        <persName key="E0300013">Liszt</persName>-Etüden <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                        <lb/><rs key="E0400154">Don<choice><orig> </orig><reg>-</reg></choice>Juan-Paraphrase</rs>
+                    </item>
+                    <item rend="no_dot"><hi rend="underline"><title key="E0400131">Italie</title></hi> (<hi rend="underline" n="2">ausgezeichnet</hi>)
+                        <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> <rs key="E0400155">Paganini-Etüden</rs><orig>.</orig>
+                    </item>
+                </list>
+                
+                <p>
+                    <choice><orig>Ue</orig><reg>Ü</reg></choice>brigens behandeln Sie
+                    <lb/>uns in dieser Beziehung 
+                    <lb/>ganz autoritär. Sie dürfen <choice><abbr>&amp;</abbr><expan>und</expan></choice> sollen
+                    <lb/>frei schalten <choice><abbr>&amp;</abbr><expan>und</expan></choice> walten!
+                </p>          
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                
+                <p rend="indent-first">
+                    <choice><orig>Ue</orig><reg>Ü</reg></choice>brigens bewundere ich
+                    <lb/>wieder Ihre absolute, reine Schaffens
+                    <lb break="no"/>kraft:
+                    
+                    <note type="commentary" resp="#E0300324">Kurz zuvor hatte <persName key="E0300017">Busoni</persName> begonnen, seine <rs key="E0400033">Turandot-Orchester-Suite</rs> zu einer <rs key="E0400153">Oper</rs> umzuarbeiten.</note>
+                    
+                    nebst den pianistischen Großt<orig>h</orig>aten
+                    <lb/>diese geistige Mächtigkeit. Aber 
+                    <lb/><persName key="E0300157">Frau Speiser</persName> <subst><del rend="strikethrough">sieht</del><add place="above">liest</add></subst> ja alles die<choice><orig>ß</orig><reg>s</reg></choice> aus 
+                    <lb/>Ihren Schriftzügen! –
+                </p>
+                <p rend="indent-first">
+                    Meine enorme Schult<orig>h</orig>ätigkeit
+                    <lb/>zwingt mich leider<reg>,</reg> mit meiner 
+                    <lb/>mich verfolgenden Diabetis
+                    <lb/>zu einem Spezialisten nach
+                    <lb/><placeName key="E0500190">Solothurn</placeName> zu gehen: Dieser
+                    <lb/>Spezialist heißt: Ruhe <choice><abbr>&amp;</abbr><expan>und</expan></choice> Freiheit. 
+                    <lb/>Ich reise <date when-iso="1916-11-20">Montags</date> für <hi rend="latin">circa</hi> 
+                    <lb/><choice><orig>8</orig><reg>acht</reg></choice> Tage in dieses reizende 
+                    <lb/>mittelalterliche Nest mit 
+                    <lb/>französischer <choice><orig>C</orig><reg>K</reg></choice>ultur als Unterlage
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> mit <rs key="E0500261">italianischer Kathedrale</rs> 
+                    <lb/>als Beigabe. Adresse <placeName key="E0500212">Hôtel 
+                        <lb/>Krone!</placeName> (ausgezeichnet!) 
+                </p>   
+                <p>Sie sehen mich also am <date when-iso="1916-11-21">21<choice><orig> </orig><reg>. </reg></choice> <choice><abbr>Nov.</abbr><expan>November</expan></choice></date>
+                    
+                    <lb/>nicht; hoffentlich ka<choice><abbr>n̅</abbr><expan>nn</expan></choice> ich 
+                    <lb/>hinter meinem Glase Neuenburger 
+                    
+                    <note type="commentary" resp="#E0300324">Wein aus dem <placeName key="E0500092">Schweizer</placeName> <placeName key="E0500201">Kanton Neuenburg</placeName>.</note>
+                    
+                    <lb/>den Gedanken meines
+                    
+                    <pb n="4"/>
+                    
+                    dadurch entstehenden künstlerischen 
+                    <lb/>Verlustes vergessen! Dafür 
+                    <lb/>erscheine ich aber am <date when-iso="1916-12-05">5<reg>.</reg> Dezember</date>! 
+                    
+                </p>
+                <closer> 
+                    <salute rend="align(center)"><foreign xml:lang="it">Addio mio caro</foreign>
+                        <lb/>Ihr</salute>
+                    <signed rend="align(right)"><persName key="E0300125" rend="latin">Hans Huber</persName></signed>
+                </closer> 
+                
+            </div>
+        </body>
+    </text>
+</TEI>

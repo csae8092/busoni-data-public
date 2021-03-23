@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300270">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Michael von Zadora</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-27" who="#E0300361">korrekturgelesen und ergänzt; status="reviewed"</change>
+         <change when-iso="2020-02-02" who="#E0300361">Anmerkung zur Meisterklasse am Lemberger Konservatorium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">134675096</idno>
+               <idno type="VIAF">100922803</idno>
+               <idno type="ISNI">0000000120315948</idno>
+               <persName type="reg">
+                  <surname>Zadora</surname>,
+                  <forename>Michael</forename>
+                  <nameLink>von</nameLink>
+               </persName>
+               <persName type="birth">
+                  <forename>Michał</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Zadora</surname>
+               </persName>
+               <persName type="pseud">
+                  <forename>Pietro</forename>
+                  <surname>Amadis</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1882-06-14"/>
+                  <placeName key="E0500031">New York</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1946-06-30"/>
+                  <placeName key="E0500031">New York</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <affiliation when-iso="1912/1913">
+                  Leiter einer Meisterklasse für Klavierspiel am <orgName key="E0600143"><placeName key="E0500349">Lemberger</placeName> Konservatorium</orgName>
+               </affiliation>
+               <affiliation when-iso="1913/1914">Lehrer am <orgName key="E0600144">Institute of Musical Art (<placeName key="E0500031">New York</placeName>)</orgName></affiliation>
+               <note>Für <persName key="E0300270">Zadoras</persName> Lehrtätigkeit in <placeName key="E0500349">Lemberg</placeName> nennen die gängigen Musiklexika unterschiedliche, offenbar sämtlich unzutreffende Zeitangaben (<ref type="ext" target="https://doi.org/10.1093/gmo/9781561592630.article.30783">Grove online</ref>, <ref type="ext" target="https://archive.org/stream/RiemannMusiklexikon11tea1929#page/n2059/mode/2up">Riemann Musiklexikon 1929</ref>). Der von uns angegebene Zeitraum <date when-iso="1912/1913">1912/13</date> ergibt sich aus der zeitgenössischen Presse (<bibl>New York Tribune vom <date when-iso="1913-09-21">21. September 1913</date>, Rubrik <soCalled>Musical Notes &amp; Comment</soCalled>, S.&#160;5</bibl>; <bibl><orgName key="E0600148">Neue Zeitschrift für Musik</orgName> 79 (1912), Nr. 31, <date when-iso="1912-08-01">1. August 1912</date>, Rubrik <soCalled>Kreuz und Quer. <placeName key="E0500029">Berlin</placeName></soCalled>, S.&#160;445, <ref type="ext" target="https://archive.org/details/NeueZeitschriftFrMusik1912Jg079/page/n451/mode/2up/search/zadora">Digitalisat</ref></bibl>; <bibl><orgName key="E0600067">Signale für die musikalische Welt</orgName> 71 (1913), Nr.&#160;10, <date when-iso="1913-03-05">5. März 1913</date>, S.&#160;386, <ref type="ext" subtype="anno" target="#smw #1913 #408">Digitalisat</ref></bibl>).</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

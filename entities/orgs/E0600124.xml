@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600124">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>J. Schuberth &amp; Co.</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="publisher">
+               <idno type="GND">5330993-5</idno>
+               <orgName>J. Schuberth &amp; Co.</orgName>
+               <desc>Musikverlag; <date when-iso="1826">1826</date> in <placeName key="E0500005">Hamburg</placeName> von <persName key="E0300474">Julius Schuberth</persName> gegründet; Zweigstellen in <placeName key="E0500007">Leipzig</placeName> (<date from-iso="1832">ab 1832</date>) und <placeName key="E0500031">New York</placeName> (<date from-iso="1850">ab 1850</date>); <date when-iso="1892">1892</date> Verkauf an Felix Siegel</desc>
+               <!-- Verkaufsdatum tbc. (evtl. auch 1891), E Siegel verifizieren und ergänzen -->
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

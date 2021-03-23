@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300216">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>August Wilhelm Schlegel</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118607960</idno>
+               <idno type="VIAF">59123443</idno>
+               <idno type="ISNI">0000000110276033</idno>
+               <persName type="reg">
+                  <surname>Schlegel</surname>,
+                  <forename>August</forename>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1767-09-05"/>
+                  <placeName key="E0500051">Hannover</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1845-05-12"/>
+                  <placeName key="E0500001">Bonn</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <occupation>Literaturwissenschaftler</occupation>
+               <occupation>Altphilologe</occupation>
+               <occupation>Orientalist</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

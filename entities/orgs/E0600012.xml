@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stern’sches Konservatorium der Musik</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="conservatory">
+               <idno type="GND">45352-3</idno>
+               <orgName>Stern’sches Konservatorium der Musik</orgName>
+               <desc><date when-iso="1850">1850</date> von <persName key="E0300064">Julius Stern</persName>, <persName key="E0300065">Theodor Kullak</persName> und <persName key="E0300066">Adolf Bernhard Marx</persName> gegründes Privatkonservatorium für Musik, welches sich unter Leitung von <persName key="E0300063">Gustav Hollaender</persName> ab <date when-iso="1894">1894</date> zur wichtigsten Musikschule <placeName key="E0500029">Berlins</placeName> entwickelte. <persName key="E0300023">Schönberg</persName> unterrichtete hier von <date from-iso="1902">1902</date> bis <date to-iso="1903">1903</date> Harmonielehre und hielt eine Vortragsreihe zwischen dem <date from-iso="1911-11-20">20. November 1911</date> und <date to-iso="1912-01-29">29. Januar 1912</date> ab (<bibl><ref target="#E0800026"/>, S. 73 ff.</bibl>).</desc>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Bernburger Straße 21–22</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <district key="E0500467">Kreuzberg</district>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500029">Berlin</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="DE"/>
+                  <geo>52.5051 13.3774</geo>
+               </location>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

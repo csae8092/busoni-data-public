@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300397">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ludwig Karpath</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118536931</idno>
+               <idno type="VIAF">74037565</idno>
+               <idno type="ISNI">0000000084098551</idno>
+               <persName type="reg">
+                  <surname>Karpath</surname>,
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1866-04-27"/>
+                  <placeName key="E0500062">Budapest</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1936-09-08"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikkritiker</occupation>
+               <occupation>Redakteur</occupation>
+               <occupation>Politiker</occupation>
+               <affiliation>Kritiker beim <orgName key="E0600059">Neuen Wiener Tagblatt</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

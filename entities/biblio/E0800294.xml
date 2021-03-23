@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800294">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leichtentritt 1917</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-02-22" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300093">
+                            <forename>Hugo</forename>
+                            <surname>Leichtentritt</surname>
+                        </author>
+                        <title level="a">Ferruccio Busoni as a Composer</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600154">The Musical Quarterly</orgName></title>
+                        <idno type="DNB">974794120</idno>
+                        <imprint><date when-iso="1917"/></imprint>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="no">1</biblScope>
+                        <biblScope unit="page">69-97</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

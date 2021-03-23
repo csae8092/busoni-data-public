@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800296">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>N. N. 1915a</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-02-23" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <title level="a">Noten am Rande</title>
+                  <title level="a" type="sub">Fremde Künstler und der Deutsche Krieg</title>
+               </analytic>
+               <monogr>
+                  <title level="j"><orgName key="E0600148"> Neue Zeitschrift für Musik</orgName></title>
+                  <imprint>
+                     <date when-iso="1915-06-17"/>
+                  </imprint>
+                  <biblScope unit="volume">82</biblScope>
+                  <biblScope unit="no">24</biblScope>
+                  <biblScope unit="page">215</biblScope>
+               </monogr>
+               <ref type="ext" target="https://archive.org/details/NeueZeitschriftFrMusik1915Jg082/page/n221/mode/2up">Digitalisat im Internet Archive</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100601">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Gerda Busoni (London, 20. November 1919)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Gerda Busoni (London, 20 November 1919)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2020-02"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010008">Briefwechsel Ferruccio Busoni – Gerda Busoni</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>N.Mus.Nachl. 4,994</idno>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-2965058</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> hat <q>die Graphophon<pc>=</pc>Mühsal</q> seiner ersten Aufnahmen für <orgName  key="E0600153">Columbia</orgName> in <placeName key="E0500047">London</placeName> absolviert; schildert die Zumutungen des Aufnahmebetriebs; hat bei einer Lunch-Einladung <persName key="E0300553">Edward Dents</persName> den Wunsch <persName key="E0300559">Alfred Cortots</persName> nach einer ausführlichen Unterhaltung zurückgewiesen; erwartet bei Orchesterproben am Folgetag <persName key="E0300554">Frederick Delius</persName> zu treffen; missbilligt eine <q>Kriegswucher</q>-Hausvermietung durch <persName key="E0300425">Maud Allan</persName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-11-20"/></docDate>
+                            <incipit>das mystische Zeichen oben bedeutet 35</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">4 Blatt</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung durch den Verfasser, mit Tinte oben rechts auf den Vorderseiten von Blatt 2 bis 4.</foliation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signatur mit Bleistift eingetragen hat</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500047">London</origPlace>
+                            <origDate when-iso="1919-11-20"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl type="part"><ref target="#E0800190"/>, S. 364</bibl>
+                            <bibl><ref target="#E0800023"/>, S. 713 f. (Brief), S. 1114 f. (Kommentar)</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100601">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1919-11-20"/>
+                    <placeName ref="http://www.geonames.org/2643743" key="E0500047">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117183482" key="E0300059">Busoni, Gerda</persName>
+                </correspAction>
+                <!--<correspContext>
+                    <ref type="repliedBy" target="#D01006.."/>
+                    <ref type="next" target="#D01006.."/>
+                    </correspContext>-->
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2020-02-08" who="#E0300314">angelegt; status unfinished</change>
+            <change when-iso="2020-02-19" who="#E0300314">status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/847197522/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000003"/>
+        <graphic n="3" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000005"/>
+        <graphic n="4" corresp="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000007"/>
+        <graphic n="5" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000002"/>
+        <graphic n="6" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000004"/>
+        <graphic n="7" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000006"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001C53D00000008"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="shelfmark" place="top" resp="#archive">N.Mus.Nachl. 4,994</note>
+                
+                <opener>
+                    <dateline rend="align(right) space-below">Den 20<reg>.</reg> Nov. 1919</dateline>
+                    <dateline rend="align(right)">London, <graphic rend="inline" height="43px" url="D0100601_ex_1.png"/>
+                    </dateline>                    
+                </opener>
+                
+                <p rend="indent-first"><seg type="opener" subtype="salute">Liebe <rs key="E0300059">Frau <subst><del rend="overwritten">G</del><add place="across">D</add></subst>erduMein</rs>,</seg>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713): <q>DerdiMein</q>.</note>
+                    
+                    das
+                    <lb/>mystische Zeichen oben bedeutet
+                    <lb/>35; es steht,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (713) ohne Komma.</note>
+                    
+                    i<subst><del rend="strikethrough-part">m</del><add place="remainder">n</add></subst> der Zeichnung,
+                    <lb/>so zwischen Magie und Spielkarte.
+                    <lb/>Es bedeutet überdies, dass ich
+                    <lb/>mich frei <del rend="strikethrough"><gap reason="strikethrough" extent="2" unit="char"/></del> und müde fühle;
+                    <lb/>in einem Zustand, wo man
+                    <lb/>auf dem Papier solche Spielereien
+                    <lb/>unternimmt. Mit deutlicheren
+                    <lb/>Worten: ich habe die Graphophon<pc>=</pc>
+                    <lb break="no" rend="after:="/>Mühsal gestern zu Ende
+                    <lb/>gelitten, in <hi rend="underline">3<orig>,</orig>½ Stunden</hi>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (713) ohne Komma.</note>
+                    
+                    Spiel!
+                    
+                    <note type="commentary" resp="#E0300314">Bei seinen ersten akustischen Aufnahmen spielte <persName key="E0300017">Busoni</persName> am <date when-iso="1919-11-18/1919-11-19">18./19. November 1919</date> für die britische <orgName key="E0600153">Columbia Graphophone Company</orgName> in <placeName key="E0500047">London</placeName> Werke von <persName key="E0300013">Liszt</persName>, <persName key="E0300012">J.&#8239;S. Bach</persName>, <persName key="E0300137">Chopin</persName>, <persName key="E0300010">Mozart</persName>, <persName key="E0300001">Beethoven</persName>, <persName key="E0300159">Weber</persName> und <persName key="E0300558">Gounod</persName>/<persName key="E0300013">Liszt</persName> ein <bibl>(vgl. die detaillierte Diskographie bei <ref target="#E0800289"/>, S.&#8239;127–139)</bibl>. <persName key="E0300017">Busoni</persName> war mit den Aufnahmen nicht zufrieden, sie blieben unveröffentlicht; die Matrizen (76699–76710) sind offenbar verloren.</note>
+                    
+                    <lb/>Ich bin ziemlich wie zerschlagen,
+                    <lb/>aber es ist vorbei. Es hat
+                    <lb/>mich gedrückt seit dem <choice><orig>I.</orig><reg>ersten</reg></choice>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713): <q>1.</q>.</note>
+                    
+                    Tag;
+                    <lb/>Als
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713) <q>als</q>.</note>
+                    
+                    ob ich eine Operation erwartete.
+                    <lb/>Stupid und anstrengend.
+                    <lb/>Ein Beispiel: man wünscht den
+                    <lb/><title key="E0400442">Faust<reg>-</reg>Walzer</title> (der gute <choice><orig>10</orig><reg>zehn</reg></choice> Minuten
+                    <lb/>dauert) – <hi rend="underline">aber nur vier Minuten
+                        <lb/>lang</hi>!
+                    
+                    <note type="commentary" resp="#E0300314">Bis zur Einführung der Langspielplatte (<soCalled>Long Play</soCalled>, LP) im Jahr <date when-iso="1948">1948</date> betrug die Spieldauer einer Schallplattenseite etwa 4–5 Minuten.</note>
+                    
+                    <orig>– </orig>Da hei<choice><orig>ss</orig><reg>ß</reg></choice>t es also rasch
+                    <lb/>zusammenstreichen, flicken,
+                    <lb/>improv<orig>v</orig>isieren; so dass
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713): <q>daß</q>.</note>
+                    
+                    es doch
+                    <lb/>einen Sinn behält;
+                    
+                    <note type="commentary" resp="#E0300314">In <persName key="E0300017">Busonis</persName> zweiter Aufnahmesitzung, die er mit einer weitgehend identischen Stückauswahl wiederum für <orgName key="E0600153">Columbia</orgName> in <placeName key="E0500047">London</placeName> absolvierte (<date when-iso="1922-02-27">27. Februar 1922</date>), stand der <title key="E0400442">Faust-Walzer</title> nicht mehr auf dem Programm.</note>
+                    
+                    auf das
+                    <lb/>Pedal achten (weil es schlecht
+                    <lb/>klingt)<reg>,</reg>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (713) mit folgendem Komma.</note>
+                    
+                    an gewisse Noten denken,
+                    <lb/>die stärker oder schwächer
+                    
+                    <pb n="2"/>
+                    
+                    – dieser Höllen<choice><orig> M</orig><reg>m</reg></choice>aschine
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713): <q>Höllenmaschine</q>.</note>
+                    
+                    zu gefallen
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713): <q>Gefallen</q>.</note>
+                    
+                    –
+                    <lb/>angeschlagen werden müssen; sich
+                    <lb/>nicht gehen lassen – wegen der
+                    <lb/>Korrektheit – und dabei die
+                    <lb/>ganze Zeit bewusst sein, dass
+                    <lb/>jeder Ton für ewig stehen bleibt<orig> –</orig>:
+                    <lb/><choice><orig>w</orig><reg>W</reg></choice>ie kann Inspiration, Freiheit,
+                    <lb/>Schwung, Poesie zu Stande kommen?
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (713) mit Ausrufe- statt Fragezeichen.</note>
+                    
+                    
+                    <lb/>Genug, dass ich <date when-iso="1919-11-19">gestern</date> für <choice><orig>9</orig><reg>neun</reg></choice>
+                    <lb/>Stücke<del rend="strikethrough">n</del> von <add place="above">je</add> <choice><orig>4</orig><reg>vier</reg></choice> Minuten (also
+                    <lb/>im Ganzen einer halben Stunde)
+                    <lb/>drei und ein<orig> </orig>halb Stunden gearbeitet!
+                    <lb/><orig>– </orig>Ein <choice><orig>P</orig><reg>p</reg></choice>aar von diesen Stücken
+                    <lb/>spielte ich vier<reg>-</reg><orig>,</orig> und auch fünf<choice>
+                        <orig>,
+                            
+                            <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (713) ohne Komma.</note>
+                            
+                            <lb/></orig>
+                        <reg><lb break="no"/></reg>
+                    </choice>mal:
+                    <choice><orig>d</orig><reg>D</reg></choice>as rasche Denken war
+                    <lb/>dabei das stark <choice><orig>a</orig><reg>A</reg></choice>nstrengende.
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713): <q>Anstrengende</q>.</note>
+                    
+                    <lb/>Aber schlie<choice><orig>ss</orig><reg>ß</reg></choice>lich spürten es auch
+                    <lb/>meine Arme – und dann gab’s
+                    <lb/>noch
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (713) ergänzt stillschweigend: <q>eine</q>.</note>
+                    
+                    fotografische Aufnahme,
+                    <lb/>und das Unterschreiben der
+                    <lb/>Platten – endlich – abget<orig>h</orig>an!</p>
+                <p><orig>– </orig>Bevor ich hinging<reg>,</reg> hatte
+                    <lb/>ich einer Lunch-Einladung
+                    <lb/><persName key="E0300553"><hi rend="underline">Dent</hi>’s</persName> gefolgt, die in einem
+                    <lb/><soCalled rend="dq-uu"><hi rend="underline">spanischen</hi></soCalled> Restaurant (einer
+                    <lb/>englischen Spelunke)<orig> –</orig> statt
+                    <lb break="no"/>fand; er, <persName key="E0300553">Dent</persName>, war umge
+                    <lb break="no"/>ben von rosenwangigen Jüng
+                    <lb break="no"/>lingen, und dazu war auch
+                    <lb/><seg rend="align(center)"><persName key="E0300559">Cortot</persName> (<placeName key="E0500012">Pariser</placeName> Polizei<choice><orig> </orig><reg>-</reg></choice>Chef)</seg>
+                    
+                    <pb n="3"/>
+                    
+                    anwesend, der mir recht mis<reg>s</reg>
+                    <lb break="no"/>fiel – (ich kann mir nicht helfen,
+                    <lb/>ich möchte nicht unwohlwollend
+                    <lb/>sein) – ja, ziemlich wenig gefiel.
+                    <lb/>Vier Jahre macht er diese schöne
+                    <lb/>Profession, die kommenden und
+                    <lb/>gehenden Künstler zu kontrollieren:
+                    
+                    <note type="commentary" resp="#E0300314"><persName key="E0300559">Alfred Cortot</persName> war seit <date when-iso="1916">1916</date> für den französischen Staat mit der Überwachung von Künstlern zwecks Abwehr linker Tendenzen sowie mit entsprechenden Ein- und Ausreisekontrollen befasst <bibl>(<ref target="#E0800288"/>, S.&#8239;32&#8239;f., 121–123)</bibl>.</note>
+                    
+                    <lb/><choice><orig>i</orig><reg>I</reg></choice>ch – natürlich – (hatte mich
+                    <lb/>schon vorher darauf gefreut) –
+                    <lb/>habe ihn <soCalled rend="dq-du">auf den Kopf</soCalled> gefragt,
+                    <lb/>ob es wahr wäre, und er musste
+                    <lb/>es zugeben. <orig>– </orig>Ich war überhaupt
+                    <lb/>in der <soCalled rend="dq-uu"><title key="E0400133">Arlecchino</title></soCalled>-Laune, und
+                    <lb/>als ich ankam<reg>,</reg> war mein <choice><orig>E</orig><reg>e</reg></choice>rstes:
+                    <lb/><q rend="dq-du">Where are the <choice><orig>L</orig><reg>l</reg></choice>adies?</q> <orig>– </orig><persName key="E0300559">Cortot</persName>
+                    <lb/>wollte mit mir über Musik di
+                    <lb break="no"/>skutieren; ich merkte, es ginge
+                    <lb/>nicht<reg>,</reg> <choice><abbr>u.</abbr><reg>und</reg></choice> sagte: <q rend="dq-uu" xml:lang="fr">Monsieur, pour
+                        <lb/>nous entendre il faudrait
+                        <lb/>d’abord que nous nous approchions
+                        <lb/>davantage; vous arrivez d’une
+                        <lb/>certaine direction, moi je pars
+                        <lb/>d’une direction opposée: c’est
+                        <lb/>impossible, qu’au premier
+                        <lb/>moment ou nous nous touchons,
+                        <lb/>nous soyons en état de
+                        <lb/>discuter ensemble.</q>
+                    
+                    <note type="commentary" resp="#E0300314">Frz.: <q>Mein Herr, damit wir uns verstehen, müssten wir uns zunächst noch mehr einander annähern; Sie kommen aus einer gewissen Richtung, ich aus einer entgegengesetzten: da ist es unmöglich, dass wir im ersten Augenblick, da wir zusammenstoßen, miteinander zu diskutieren imstande wären.</q></note>
+                    
+                    <orig>– </orig>Er steckt
+                    <lb/>in <choice><orig>A</orig><reg>a</reg></choice>llem Offi<choice><orig>c</orig><reg>z</reg></choice>iellen, Aktuellen,
+                    <lb/><choice><orig>e</orig><reg>E</reg></choice>x<choice><orig>c</orig></choice><reg>k</reg>lusiv<pc>=</pc>französischen
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (714): <q>Französischen</q>.</note>
+                    
+                    – und ich <choice><orig>....</orig><reg>…</reg></choice></p>
+                
+                <pb n="4"/>
+                
+                <p>Morgen <choice><orig>o</orig><reg>O</reg></choice>rchester<choice><orig> P</orig><reg>p</reg></choice>robe.
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><ref target="#E0800023"/> (714): <q>OrchesterProbe</q>.</note>
+                    
+                    Über
+                    <lb break="no"/>morgen Probe und Konzert
+                    <lb/>(letzteres am Nachmittag<choice><orig>.)</orig><reg>).</reg></choice>
+                    
+                    <!--<note type="commentary" resp="#E0300314">22. November 1919, Queen’s Hall: englische EA Sarabande et Cortège, dirigiert von Busoni; Mozart KV 491, Busoni spielt, Dirigent Henry Wood; Programm Busoni-Nachlaß E 1919, 10B  Kindermann 408f.</note>-->
+                    
+                    <lb/><persName key="E0300554">Delius</persName> ist <add place="above">wieder</add> hier und wird
+                    <lb/>anwesend sein – auch <persName key="E0300561">Ursula</persName>
+                    <lb/>meldet sich heute an.<orig> –</orig></p>
+                <p><orig>– </orig>Ich lege Dir einen Brief
+                    <lb/>für <orgName key="E0600002">Br. &amp; H.</orgName> bei,
+                    
+                    <note type="commentary" resp="#E0300314">Der Brief ist nicht erhalten; Gegenstand der Antwort von <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> auf den vorherigen Brief <persName key="E0300017">Busonis</persName> ist die Empfehlung, eine vom <orgName key="E0600115">Harmonie-Verlag</orgName> geforderte hohe Ablösesumme nicht zu leisten, die dieser für einen Verlagswechsel der Oper <title key="E0400138">Die Brautwahl</title> zu <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> verlangt hatte <bibl>(<ref target="#E0800050"/>, S.&#8239;415&#8239;f.)</bibl> – und damit de facto auch die Ablehnung einer solchen Übernahme durch <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>.</note>
+                    
+                    denn ich
+                    <lb/>hatte auf meinen ersten,
+                    <lb/>direkt geposteten,
+                    
+                    <note type="commentary" resp="#E0300314">Wahrscheinlich ist dieser ebenfalls nicht überlieferte Brief identisch mit jenem, der <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> spätestens am <date when-iso="1919-12-10">10. Dezember 1919</date> erreichte (<q>Mit ausserordentlicher Verspätung erhielten wir Ihren freundlichen Brief aus <placeName key="E0500047">London</placeName> vom <date when-iso="1919-11-07">7. November</date></q>; <bibl><ref target="#E0800050"/>, S.&#8239;415</bibl>).</note>
+                    
+                    keine
+                    <lb/>Antwort. Auch, damit du
+                    <lb/>ihn lies<subst><del rend="overwritten">t</del><add place="across">e</add></subst><add place="inline">st</add><orig>,</orig> und dann weiter
+                    <lb/>schickest.<orig> –</orig></p>
+                <p><orig>– </orig>Von <persName key="E0300555">Weiss</persName>, <persName key="E0300556">Ticciati</persName>
+                    <lb/>und <persName key="E0300184">Lochbrunner</persName> hatte ich
+                    <lb/>kein einziges Zeichen. Aber
+                    <lb/>gestern – zu meinem Erstaunen –
+                    <lb/>schrieb mir <persName key="E0300560">Cosomati</persName> einen
+                    <lb/>Gru<choice><orig>ss</orig><reg>ß</reg></choice> aus – <placeName key="E0500002">Wien</placeName>. <q rend="dq-du" xml:lang="it"><placeName key="E0500002">Vienna</placeName>
+                        <lb/>è triste, triste, triste!</q>
+                    
+                    <note type="commentary" resp="#E0300314">Ital.: <q><placeName key="E0500002">Wien</placeName> ist trübe, trübe, trübe!</q></note>
+                    
+                    <orig> –</orig></p>
+                <p><orig>– </orig>Ich küsse Euch Lieben.</p>
+                <p><orig>– </orig>Ach: <q rend="dq-uu">An <persName key="E0300557">Anna Wi<choice><orig>m̅</orig><reg>mm</reg></choice>ler</persName>
+                    <lb/>zur Erinnerung an die Kriegsjahre
+                    <lb/>in <placeName key="E0500132">Zürich</placeName>.</q> (<soCalled rend="dq-uu">Kriegsjahre</soCalled><reg>,</reg> weil
+                    <lb/>sie das <hi rend="underline">Datum</hi> anzeigen.)</p>
+                
+                <closer>
+                    <salute>Es umarmt Dich innigst</salute>
+                    <signed rend="align(right)"><rs key="E0300017">FerroMann</rs></signed>
+                </closer>
+                
+                <postscript>
+                    <p rend="small"><persName key="E0300425">Maudi</persName> hat ihr Haus auf <add place="above">ein</add> Jahr zu 1<reg>.</reg>500 Guineas (fast
+                        <lb/>40<choice><orig> tausend</orig><reg>.000</reg></choice> <choice><orig>f</orig><reg>F</reg></choice>rancs) vermiet<orig>h</orig>et. Darüber
+                        
+                        <cb type="margin-left"/>
+                        
+                        hatte ich mit ihr eine kleine Szene. Ich konnte nicht ertragen, dass sie
+                        <lb/>sagte: <q rend="none"><choice><orig>m</orig><reg>M</reg></choice>an muss heute von den Zuständen profitieren.</q> – <q rend="none">Also, anstatt
+                            <lb/>zu helfen u. zu erleichtern, trägst Du dazu bei, es noch zu verschlimmern!</q>
+                        <lb/>(So sind sie <choice><orig>A</orig><reg>a</reg></choice>lle, <choice><orig>A</orig><reg>a</reg></choice>lle. Sie profitiert bei dieser Sache etwa 700 <choice><orig>prozent</orig><reg>%</reg></choice>.
+                        
+                        <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (714) mit Doppelpunkt statt Punkt.</note>
+                        
+                        <lb/><seg rend="align(right)">Das nennt man doch:
+                            
+                            <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <ref target="#E0800023"/> (714) ohne den Doppelpunkt.</note>
+                            
+                            Kriegswucher.)</seg></p>
+                </postscript>
+                
+                <pb n="5"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 1, vacat]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 2, vacat]</note>
+                
+                <pb n="7"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 3, vacat]</note>
+                
+                <pb n="8"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 4, vacat]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

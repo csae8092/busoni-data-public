@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300526">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adolf Hamm</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-02-09" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">133489582</idno>
+                    <idno type="VIAF">55338138</idno>
+                    <idno type="ISNI">0000000038815898</idno>
+                    <persName type="reg">
+                        <surname>Hamm</surname>,
+                        <forename>Adolf</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1882-03-09"/>
+                        <placeName key="E0500603">Wickersheim</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1938-10-15"/>
+                        <placeName key="E0500097">Basel</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Organist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

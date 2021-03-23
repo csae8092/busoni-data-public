@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300477">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carl Loewe</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118573934</idno>
+               <idno type="VIAF">32183840</idno>
+               <idno type="ISNI">0000000121269007</idno>
+               <persName type="reg">
+                  <surname>Loewe</surname>,
+                  <forename>Carl</forename>
+               </persName>
+               <persName type="birth">
+                  <surname>Loewe</surname>,
+                  <forename>Johann</forename>
+                  <forename>Carl</forename>
+                  <forename>Gottfried</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1796-11-30"/>
+                  <placeName key="E0500542">Löbejün</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1869-04-20"/>
+                  <placeName key="E0500541">Kiel</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

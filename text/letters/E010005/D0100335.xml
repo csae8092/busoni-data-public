@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100335">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Postkarte von Ludwig Rubiner an Ferruccio Busoni (Berlin, 11. April 1919)</title>
+                <title xml:lang="en">Postcard by Ludwig Rubiner to Ferruccio Busoni (Berlin, 11 April 1919)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300378">
+                        <forename>Elizaveta</forename>
+                        <surname>Willert</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4291</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 32 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-724511</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Rubiner</persName> schlägt eine Änderung im Text von <persName key="E0300017">Busonis</persName> Libretto zur <title key="E0400218">Doktor Faust</title>; Er bewundert vor allem die Änderungen in der Musik; <persName key="E0300126">Rubiner</persName> selbst arbeitet an einem Stück.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-04-11"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1919-04-11"/></docDate> 
+                            <incipit>Sachen Ihre Karte — ich antworte auf</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Postkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Die Rückseite der Postkarte ist vollständig beschrieben, die Vorderseite auf der linken Seite neben der Adresse und den Poststempeln; Der Brief beginnt auf der Vorderseite, was als Seite N2 eigescannt wurde.</collation>
+                                <condition>Die Postkarte ist gut erhalten</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die auf der Umschlagrückseite mit Bleistift das Zeichen <q> ZU </q> notiert hat.</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                     </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1919-04-11"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100335">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1919-04-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/.2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100334"/>
+                    <ref type="next" target="#D0100336"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-03-26" who="#E0300378">in Bearbeitung
+                status="unfinished"</change>  <change when-iso="2018-04-01" who="#E0300378">status="proposed"</change> 	
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873594517/manifest">
+        <graphic n="1" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6B00000002"/>
+        <graphic n="2" corresp="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB6B00000001"/>
+    </facsimile>
+    <text type="postcard">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+               
+                <opener>
+                   <dateline rend="right">
+                        <date when-iso="1919-04-11">11. April 1919</date>
+                    </dateline> 
+                    <address rend="inline">
+                        <addrLine><placeName key="E0500029">Berlin</placeName> W.30.</addrLine>
+                        <lb/><addrLine><placeName key="E0500072">Viktoria Luiseplatz 11</placeName>.</addrLine>
+                    </address>
+                    
+                                      
+                    <salute rend="no-indent-first">Lieber, Verehrter!<lb/></salute>
+                </opener>
+                <p rend=" no-indent-first"> Sachen Ihre Karte <note type="commentary" resp="#E0300378" >Die Postkarte ist nicht vorhanden</note> - ich antworte auf einer
+                    <lb/>Karte, weil das schneller geht: es gi<orig>e</orig>bt immer
+                    <lb/>noch <choice><orig>C</orig><reg>Z</reg></choice>ensur! (Meinen Brief hatten Sie bei
+                    <lb/>Absenden Ihrer Karte offensichtlich noch
+                    <lb/>nicht empfangen)<note type="commentary" resp="#E0300378">Der Brief ist nicht vorhanden</note>. - Ich finde Ihre Ände
+                    <lb break="no" rend="after:="/>rung der Verse <note type="commentary" resp="#E0300378">Es geht um die Oper <title key="E0400218">Doktor Faust</title> von <persName key="E0300017">Busoni</persName>.</note> <hi rend="underline">ausgezeichnet!</hi> Darf ich
+                    <lb/>noch eine Variante vorschlagen:
+                    <lb/><q rend="dq-du">Sie wachsen fort, ins Mystische gelenkt,
+                        <lb/>zu Höchst geschleudert und zu Tiefst versenkt.</q> <note type="commentary" resp="#E0300378">Vgl.  mit dem Libretto zu <title key="E0400218">Doktor Faust</title> (<bibl><ref target="#E0800136"/>,
+                           <hi rend="dq-du">Vor dem Vorhang. Der Dichter an die Zuschauer</hi> ,S. 1—6ff.</bibl>)</note>
+                    <lb/><gap atLeast="3" reason="strikethrough" unit="word"></gap> Wirklich schön gefunden erachte ich die
+                    <lb/>Genauigkeit: <q rend="dq-du"> Zu Höchst geschleudert und zu Tiefst
+                        
+                        <pb n="2"/>
+                        <cb type="postcard"/>
+                        
+                        versenkt.</q> -
+                    <lb/>Dass <title key="E0400358">Sarabande <choice><abbr>u.</abbr><expan>und</expan></choice> Cortége</title>
+                    <lb/>mit höchsten Ehren bedacht
+                    <lb/>wurden, ist mir — ohne Cortege
+                    <lb/>zu kennen —nach Sarabande
+                    <lb/>selbstverständlich. An Ihrem
+                    <lb/>1. April <note type="commentary" resp="#E0300378">Der 1. April ist der Geburtstagstag von
+                        <persName key="E0300017">Ferruccio Busoni</persName>; Anscheinend hatte <persName key="E0300126">Rubiner</persName>
+                        eine Einladung zu einem Konzert bekommen und war dort. Im Brief vom 30. März wird geschrieben,
+                        dass <persName key="E0300126">Rubiner</persName>  <ref type="E010001" target="#1919-03-30-bs">Zürich beneidet</ref> und <ref type="E010001" target="#1919-03-30-bs ">
+                            […] [die Aufführung] noch ganz im Ohr ha[t]</ref>. Über das Programm des Konzertes siehe dazu <ref type="E010005" target="#D0100333">den Brief</ref>von <persName key="E0300017">Busoni</persName> an <persName key="E0300126">Rubiner</persName>.</note> nahm ich vollen
+                    <lb/>Herzens teil — schon in den
+                    <lb/>Tagen vorher, mein Brief
+                    <lb/>sagt es Ihnen <note type="commentary" resp="#E0300378">Der Brief ist nicht vorhanden</note>. Die Kritik,
+                    <lb/>die Sie mir sandten, erhielt
+                    <lb/>ich noch nicht! — Mein Stück <note type="commentary" resp="#E0300378">An der Stelle geht es um das Drama <title key="E0400316">Die Gewaltlosen.</title> von <persName key="E0300126">Rubiner</persName> </note>
+                    <lb/>arbeite ich  bis zu diesem Moment
+                    <lb/>um — ins Klare!</p>
+                
+                     <closer> <salute>In dem Empfindungen der Umarmung
+                    <lb/>zu Ihnen Ihr</salute>
+                    
+                   
+                         <signed rend="indent"><persName key="E0300126">Ludwig Rubiner</persName>.</signed></closer> 
+                
+                
+       
+                            <cb type="postcard"/>    
+                
+                <fw place="center" rend="small">
+                    PO <gap unit="char" extent="unknow" reason="paste-over"></gap>
+                </fw>
+                             <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500029">Berlin</placeName>
+                                    <lb/><date when-iso="1919-04-11">11.4.19 <supplied reason="incomplete">1</supplied> 9</date>
+                                    <lb/>30
+                                </stamp>
+                            </note> 
+                
+                  <note type="stamp" place="top-center" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) rotate(-90)">                                    
+                                    <gap reason="incomplete" atLeast="1" unit="word"/>
+                                    <lb/> <gap reason="incomplete" atLeast="3" unit="char"></gap>
+                                </stamp>
+                            </note>
+                
+                <note type="address" resp="#major_hand" place="right">
+                    <address rend="align(center)">
+                                <addrLine>Herrn</addrLine>
+                                <addrLine rend="indent"><persName key="E0300017">Prof. Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent align(center)"><placeName key="E0500132">Zürich</placeName> VI</addrLine>
+                                <addrLine rend="indent align(center)"><placeName key="E0500189">Scheuchzerstr.36</placeName>.</addrLine></address>
+                            </note>
+                            
+                            
+                            
+                            <note type="stamp" place="bottom" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                                             
+                            
+                            
+                            <note type="shelfmark" place="margin-left" resp="#archive">
+                                <del rend="strikethrough">Mus.ep. L. Rubiner 35
+                                    <lb/>(Busoni-Nachl.  <handShift
+                                        new="#archive_red"/>B II)</del>
+                                <add place="inline">Mus.Nachl.
+                                    <lb/>F. Busoni B II, 
+                                    <lb/>4291</add>
+                            </note>
+                            
+                            <note type="annotation" place="above" resp="#unknown_hand"
+                                >ZU</note>      
+                
+                
+              
+            </div>
+        </body>
+    </text>
+    
+   
+</TEI>

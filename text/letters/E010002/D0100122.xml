@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100122">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Briefkarte von Hans Huber an Ferruccio Busoni (Mitte März 1916, vmtl. Basel)</title>
+                <title xml:lang="en">Correspondence card by Hans Huber to Ferruccio Busoni (mid-March 1916, prob. Basel)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2254</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 27 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621636</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> kann wegen Proben zur Uraufführung seiner Oper <title key="E0400156">Die schöne Bellinda</title> in <placeName key="E0500186">Bern</placeName> nicht wie vereinbart zu einem <placeName key="E0500132">Zürcher</placeName> Konzert <persName key="E0300017">Busonis</persName> kommen; erkundigt sich nach <persName key="E0300017">Busonis</persName> <placeName key="E0500020">Rom</placeName>-Reise.</summary>
+                        <msItem>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1916"/></docDate>
+                            <incipit>Man weiß nichts mehr von Ihnen!</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Briefkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Die Karte wurde in zwei Hälften gerissen und mit klarem Klebeband wieder zusammengefügt (ohne Textverlust); ansonsten gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Datierung mit Bleistift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="arch_black" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der eine erste Signatur mit Bleistift eingetragen hat</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="archivist_2" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die neue Signatur mit Bleistift eingetragen hat</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097" cert="high">Basel</origPlace>
+                            <origDate when-iso="1916-03"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100122">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-03"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097" cert="high">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100121"/>
+                    <ref type="previous" target="#D0100121"/>
+                    <ref type="next" target="#D0100123"/>  
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc> 
+        <revisionDesc status="candidate">
+            <change when-iso="2016-01-10" who="#E0300318">Datei erstellt, Erstkodierung.</change>
+            <change when-iso="2016-04-30" who="#E0300318">Kodierung abgeschlossen, Status auf proposed gesetzt.</change>
+            <change when-iso="2016-06-22" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873368940/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB000000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB000000002"/>
+    </facsimile>
+    <text type="cor_card">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/> 
+                
+                <fw place="top-center" rend="italic">
+                    <orgName key="E0600020">Musikschule und Konservatorium <placeName key="E0500097">Basel</placeName></orgName>.
+                    <milestone unit="section" style="–"/>
+                </fw>
+                
+                <note type="dating" place="right" resp="#archive" xml:id="arch_date"><date when-iso="1916">[1916]</date></note>
+                
+                <p><seg type="opener" subtype="salute">Mein Lieber!</seg> 
+                    Man weiß nichts
+                    <lb/>mehr von Ihnen! – Morgen wäre ich
+                    <lb/>gern nach <placeName key="E0500132">Zürich</placeName> geko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en;
+                    
+                    <note type="commentary" resp="#E0300318">Da <persName key="E0300129">Volkmar Andreae</persName> zum Militärdienst eingezogen wurde, bot er <persName key="E0300017">Busoni</persName> an, für ihn die Abonnementkonzerte Nr.&#8239;3–6 in der laufenden Saison der <orgName key="E0600024">Tonhalle-Gesellschaft</orgName> zu leiten, was <persName key="E0300017">Busoni</persName> annahm (<bibl><ref target="#E0800058"/>, S. 11</bibl>). Die Konzerte sollten im <date when-iso="1916-02/1916-04">Februar, März und April</date> in <placeName key="E0500132">Zürich</placeName> stattfinden (<bibl><ref target="#E0800058"/>, S. 49</bibl>); hier sind offenbar die Konzerte am <date when-iso="1916-03-13/1916-03-14">13./14. März</date> gemeint. Das Abonnementkonzerts vom <date when-iso="1916-02-22">22. Februar</date>, für das <persName key="E0300125">Huber</persName> sein Kommen angekündigt hatte (<ref type="E010002" target="#D0100120">Brief vom <date when-iso="1916-02-16">16. Februar</date></ref>), scheidet wegen der einen größeren Abstand indizierenden Wendung <q>Man weiß nichts mehr von Ihnen!</q> und <persName key="E0300017">Busonis</persName> offenbar inzwischen beendeter <placeName key="E0500013">Italien</placeName>-Reise (vgl. den Briefschluss) wohl aus.</note>
+                    
+                    allein es
+                    <lb/>ist mir wegen der Proben in <placeName key="E0500186" rend="latin">Bern</placeName> zu
+                    <lb/><rs key="E0400156">meiner Oper</rs> nicht möglich! –
+                </p>
+                
+                <p>
+                    Zu der Premiere
+                    
+                    <note type="commentary" resp="#E0300318">Die Uraufführung von <persName key="E0300125">Hubers</persName> Oper <title key="E0400156">Die schöne Bellinda</title> ging am <date when-iso="1916-04-02">2. April 1916</date> am <orgName key="E0600033">Stadttheater <placeName key="E0500186">Bern</placeName></orgName> über die Bühne (<bibl><ref target="#E0800059"/>, S. 123</bibl>).</note>
+                    
+                    lade ich Sie lieber nicht
+                    <lb/>ein; zuerst will ich sicher sein, wie die
+                    <lb/>Partitur überhaupt klingt, da<choice><abbr>n̅</abbr><expan>nn</expan></choice> – we<choice><abbr>n̅</abbr><expan>nn</expan></choice>
+                    <lb/>es meine Selbstkritik erlaubt – rufe ich
+                    <lb/>Sie zu einer folgenden Aufführung. Wollen Sie?</p>
+                
+                <note xml:id="del_sig" type="shelfmark" place="bottom-left" rend="rotate(-90)" resp="#arch_black">
+                    <del rend="strikethrough">Mus.ep. H. Huber 27 (Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#arch_black"/>)</del>
+                </note>
+                
+                <note xml:id="add_sig" type="shelfmark" place="bottom-right" resp="#archivist_2">
+                    <add place="bottom-right">Mus.Nachl. F. Busoni B II, 2254</add>
+                </note>
+                
+                <substJoin target="#del_sig #add_sig"/>
+                
+                <pb n="2"/>
+                
+                <p>Und <placeName key="E0500020">Rom</placeName> <choice><abbr>&amp;</abbr><expan>und</expan></choice> das schöne <placeName key="E0500013">Italien</placeName>?
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> hatte am <date when-iso="1916-03-03">3.</date> und <date when-iso="1916-03-03">5. März</date> Konzertverpflichtungen in <placeName key="E0500020">Rom</placeName> mit <orgName key="E0600034">Santa Caecilia</orgName>. Im Rahmen des dortigen zweiten Konzerts brachte er sein <title key="E0400233">Rondò Arlecchinesco für Orchester</title> zur Uraufführung (<bibl><ref target="#E0800060"/>, S. 232</bibl>), reiste jedoch direkt wieder zurück und traf am <date when-iso="1916-03-06">6. März</date> wieder in <placeName key="E0500132">Zürich</placeName> ein (<bibl><ref target="#E0800038"/>, S. 253 f.</bibl>).</note>
+                
+                </p>
+                
+                <closer rend="indent-first">
+                    <salute>Mit den allerherzlichsten Grüßen
+                    <lb/>an Sie <choice><abbr>&amp;</abbr><expan>und</expan></choice> Ihr <unclear reason="illegible" cert="high">Haus</unclear></salute>
+                    <signed rend="align(right)">Ihr <persName key="E0300125">Hans Huber</persName></signed>    
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

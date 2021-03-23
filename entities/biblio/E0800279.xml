@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800279">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Busoni 1911</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-22" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author key="E0800017">
+                            <forename>Ferruccio</forename>
+                            <surname>Busoni</surname>
+                        </author>
+                        <title level="m">Zum 100. Geburtstage <persName key="E0300013">Franz Liszts</persName>: sechs Klavier-Abende</title>
+                        <title level="m" type="sub"><placeName key="E0500074">Beethoven-Saal</placeName>, <date when-iso="1911-10-31">31. Oktober</date>, <date when-iso="1911-11-07">7.</date>, <date when-iso="1911-11-14">14.</date>, <date when-iso="1911-11-21">21.</date>, <date when-iso="1911-11-28">28. November</date>, <date when-iso="1911-12-12">12. Dezember 1911</date>, abends 8 Uhr</title>
+                        <idno type="PPN">635575922</idno>
+                        <imprint>
+                            <pubPlace>Berlin</pubPlace>
+                            <publisher>Lange</publisher>
+                            <date when-iso="1911"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

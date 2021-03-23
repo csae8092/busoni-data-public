@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300458">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peter Tschaikowski</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118638157</idno>
+               <idno type="VIAF">99258155</idno>
+               <idno type="ISNI">0000000121449518</idno>
+               <persName type="reg">
+                  <surname>Tschaikowski</surname>,
+                  <forename>Peter</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Pjotr</forename>
+                  <forename>Iljitsch</forename>
+                  <surname>Tschaikowski</surname>
+               </persName>
+               <birth>
+                  <date calendar="Gregorian" when-iso="1840-05-07"/>
+                  <date calendar="Julian" when-iso="1840-04-25"/>
+                  <placeName key="E0500523">Kamsko-Wotkinski Sawod</placeName>
+               </birth>
+               <death>
+                  <date calendar="Gregorian" when-iso="1893-11-06"/>
+                  <date calendar="Julian" when-iso="1893-10-25"/>
+                  <placeName key="E0500116">Sankt Petersburg</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

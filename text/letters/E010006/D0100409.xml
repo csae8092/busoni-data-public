@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100409"><!-- korrekturgelesen, header ok -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Paul Bekker an Ferruccio Busoni (Frankfurt am Main, 1. Juni 1920)</title>
+                <title xml:lang="en">Letter by Paul Bekker to Ferruccio Busoni (Frankfurt am Main, 1 June 1920)</title>
+                <author key="E0300111">Paul Bekker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300416">
+                        <forename>Angelina</forename>
+                        <surname>Smyschlajew</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 263</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. P. Bekker 381 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-573037</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300111">Bekker</persName> retourniert auf <persName key="E0300017">Busonis</persName> Wunsch dessen <q><placeName key="E0500027">Bayreuther</placeName> Brief</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-06-01"/></docDate>
+                            <incipit>der angekündigte Brief ist noch nicht eingetroffen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300111">
+                                Hand des Absenders Paul Bekker, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="sbb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></origPlace>
+                            <origDate when-iso="1920-06-01"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100409">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                    <date when="1920-06-01"/>
+                    <placeName ref="http://www.geonames.org/2925533" key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100407"/>
+                    <ref type="previous" target="#D0100408"/>
+                    <ref type="next" target="#D0100410"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Kommentare ausstehend, status todo.</change>
+            <change when-iso="2018-03-26" who="#E0300416">status=unfinished</change>
+            <change when-iso="2018-04-03" who="#E0300416">proposed</change>
+            <change when-iso="2018-06-06" who="#E0300314">status zurückgesetzt auf unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/875172636/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7B00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7B00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7B00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7B00000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive" rend="align(right)">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. P. Bekker 381 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 263 </add>          
+                    </subst>
+                </note>
+                
+                <fw place="left" rend="fraktur small align(center)">
+                    <orgName key="E0600070"><seg rend="bold"><placeName key="E0500153">Frankfurter</placeName> Zeitung</seg>
+                        <lb/><seg rend="tiny">und</seg>
+                        <lb/><seg rend="small">Handelsblatt</seg></orgName>.
+                    <lb/><seg rend="small">—</seg>
+                    <lb/><seg rend="small">═</seg> <seg rend="spaced-out">Redaktion</seg>.<seg rend="small">*) ═</seg>
+                    <lb/><seg rend="small">—</seg>
+                    <lb/><seg rend="tiny">Telegramm–Adresse</seg>
+                    <lb/><seg rend="small">Zeitung <placeName key="E0500153">Frankfurt<placeName key="E0500655">main</placeName></placeName>.</seg>
+                    <lb/><seg rend="small">—</seg>
+                </fw>
+                
+                <opener>
+                    <dateline rend="margin-right">
+                        <choice>
+                            <orig><fw place="inline small"><placeName key="E0500153">Frankfurt a. M.</placeName>,</fw>
+                                <date when-iso="1920-06-01">1/VI <fw place="inline small">19</fw>20</date></orig>
+                            <reg><placeName key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></placeName>, <date when-iso="1920-06-01">1. Juni 1920</date></reg>
+                        </choice>
+                    </dateline>
+                    <salute rend="indent space-below">Sehr verehrter Herr Dr<reg>.</reg> <persName key="E0300017">Busoni</persName>,</salute>
+                </opener>
+                
+                <p>der angekündigte Brief ist noch
+                    <lb/>nicht eingetroffen,
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist der in <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100407">Telegramm vom <date when-iso="1920-05-28">28. Mai 1920</date></ref> angekündigte Brief. Laut Poststempel müsste dieser noch am selben Tag, also am <date when-iso="1920-06-01">1. Juni 1920</date>, bei <persName key="E0300111">Bekker</persName> eingegangen sein. Allerdings war er an die neue Wohnadresse in <placeName key="E0500462">Hofheim</placeName> adressiert gewesen, <persName key="E0300111">Bekker</persName> konnte den Brief also vmtl. erst am Abend oder noch später in Empfang nehmen (vgl. <ref type="E010006" target="#D0100408" n="5">ebd.</ref>).
+                    </note>
+                    
+                    ich hoffe aber<reg>,</reg>
+                    <lb/><ref type="E010006" target="#D0100407">Ihrem Telegra<choice><abbr>m̅</abbr><expan>mm</expan></choice></ref> entnehmen zu 
+                    <lb/>dürfen, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie <ref type="E010006" target="#D0100406">meinen Brief</ref>
+                    <lb/>nicht unfreundlich aufgeno<choice><abbr>m̅</abbr><expan>mm</expan></choice>en 
+                    <lb/>haben<reg>,</reg> <choice><abbr>u</abbr><expan>und</expan></choice> sende anbei das
+                    <lb/><choice><abbr>Mskrpt</abbr><expan>Manuskript</expan></choice>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Von <persName key="E0300017">Busonis</persName> <q><placeName key="E0500027">Bayreuther</placeName> Brief</q>, welcher seinem <ref type="E010006" target="#D0100405">Schreiben vom <date when-iso="1920-05-14">14. Mai 1920</date></ref> beigefügt war und um dessen Rücksendung er gebeten hatte.
+                    </note>
+                    
+                    zurück.</p>
+                
+                <closer rend="space-below">
+                    <salute rend="indent">Mit vielen Grüßen</salute>
+                    <signed rend="indent-2-first">Ihr sehr ergebener 
+                        <lb/><seg rend="align(center)"><persName key="E0300111">Paul Bekker</persName></seg></signed>
+                </closer>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_red">
+                    <stamp rend="round border align(center) majuscule tiny">Preussischer
+                        <lb/>Staats-
+                        <lb/>bibliothek
+                        <lb/>zu <placeName key="E0500029">Berlin</placeName>
+                        <lb/>Kulturbesitz
+                    </stamp>
+                </note>
+                
+                <fw place="bottom" rend="fraktur tiny indent-first space-above">
+                    *) Für die Redaktion bestimmte Briefe und Sendungen wolle man <hi rend="spaced-out">nicht</hi>
+                    <lb/>an die Person eines Redakteurs, sondern stets <hi rend="bold">an die Redaktion der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName>
+                        <lb/>Zeitung</orgName></hi> adressieren.
+                </fw>
+                
+                <pb n="2"/>
+                <note type="objdesc" resp="#E0300314">[Seite 2 des Bogens, vacat]</note>
+                
+                <pb n="3"/>
+                <note type="objdesc" resp="#E0300314">[Seite 3 des Bogens, vacat]</note>
+                
+                <pb n="4"/>
+                <note type="objdesc" resp="#E0300314">[Seite 4 des Bogens, vacat]</note>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

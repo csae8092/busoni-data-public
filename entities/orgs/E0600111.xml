@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600111">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Melos</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="journal">
+               <idno type="ZDB">011189738</idno>
+               <orgName>Melos</orgName>
+               <desc>Von <date from-iso="1920" to-iso="1988">1920 bis 1988</date> in <placeName key="E0500029">Berlin</placeName> zunächst halbmonatlich, später monatlich erschienene Musikzeitschrift. <date when-iso="1922/1924">Zwischen 1922 und 1924</date> eingestellt; <date from-iso="1926">ab 1926</date> an den Schott-Verlag angegliedert; <date when-iso="1975/1979">zwischen 1975 und 1979</date> unter dem Titel <title>Melos/NZ für Musik</title> mit der <title>Neuen Zeitschrift für Musik</title> zusammengelegt.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

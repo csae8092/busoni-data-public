@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100196">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (16. November 1916, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (16 November 1916, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> skizziert für vier <placeName key="E0500097">Basler</placeName> Klavierabende Programmabweichungen und -ergänzungen gegenüber den drei <placeName key="E0500132">Zürcher</placeName> Programmen; bittet um weitere Vorschläge und Nennung möglicher Daten; plant <placeName key="E0500013">Italien</placeName>-Reise; hat <title key="E0400153">Turandot</title> innerhalb eines Monats entworfen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-11-16"/></docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1916-11-16"/></docDate>
+                            <incipit>ich erwartete die in Aussicht gestellte Einladung</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300125">Hand des Empfängers Hans Huber, der auf der Rückseite von Blatt 2 mögliche Konzerttermine notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Nummerierung innerhalb des Briefwechsels eingetragen und das Datum auf die erste Seite übertragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1916-11-16"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;21&#8239;f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100196">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-11-16"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-11-16"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100237"/>
+                    <ref type="repliedBy" target="#D0100136"/>
+                    <ref type="previous" target="#D0100237"/>
+                    <ref type="next" target="#D0100136"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-23" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">28.</note>
+                
+                <note type="dating" resp="#archive" place="right" xml:id="arch_date"><date when-iso="1916-11-16">16. Nov. 1916</date></note>
+                
+                <opener>
+                    <salute>Mein verehrtester Freund,</salute>
+                </opener>
+                
+                <p>ich erwartete die in Aussicht
+                    <lb/>gestellte Einladung; da sie nun
+                    <lb/>nicht erfolgt ist, so besinne ich
+                    <lb/>mich, dass Sie zuerst auf meinen
+                    <lb/>Brief rechneten.</p>
+                
+                <p rend="indent-first">Die Programme würde
+                    <lb/>ich ungefähr so gestalten<orig>,</orig>
+                    <lb/>als wie in <placeName key="E0500132">Zürich</placeName>; anstatt
+                    <lb/>der <persName key="E0300001">Beethoven</persName>’schen <rs key="E0400267">109</rs> würde
+                    <lb/>ich für <placeName key="E0500097">Basel</placeName> die <rs key="E0400152">111</rs> wählen,
+                    <lb/>dafür zwei <persName key="E0300002">Schubert</persName><pc>=</pc><persName key="E0300013">Liszt</persName>
+                    <lb/>ausmerzen. Anstatt der
+                    <lb/><persName key="E0300137">Chopin</persName><choice><orig> </orig><reg>-</reg></choice>Gruppe des <choice><orig>2.</orig><reg>zweiten</reg></choice> Abends<orig>,</orig>
+                    <lb/>die <title key="E0400125">12 Etüden op.&#8239;10</title>, die Sie
+                    <lb/>sich gewünscht hatten. <subst><del rend="strikethrough">Als</del><add place="inline">Für den</add></subst>
+                    <lb/>vierten Abend könnten Sie
+                    <lb/>weitere Wünsche äu<choice><orig>ss</orig><reg>ß</reg></choice>ern,
+                    <lb/>der dritte bliebe mit den
+                    <lb/><rs key="E0400155">12 gro<choice><orig>ss</orig><reg>ß</reg></choice>en <persName key="E0300013">Liszt</persName>-Etüden</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> der
+                    <lb/><seg rend="align(right)"><rs key="E0400154">Don<choice><orig> </orig><reg>-</reg></choice>Juan-Paraphrase</rs>.</seg>
+                    
+                    <pb n="2"/>
+                    
+                    <note type="numbering" place="top-right" resp="#archive">29.</note>
+                    
+                    <title key="E0400131">Italie</title> (komplett, mit <title key="E0400290">Venezia
+                        <lb/>e Napoli</title>) <choice><abbr>u.</abbr><expan>und</expan></choice> <rs key="E0400155">Paganini<choice><orig> Etu</orig><reg>-Etü</reg></choice>den</rs>
+                    <lb/>(ebenfalls vollständig) wäre
+                    <lb/>eine interessante Folge.</p>
+                
+                <p>Schlagen Sie noch mehr vor.</p>
+                
+                <p>Aber ich möchte Sie bitten,
+                    <lb/>eine Entscheidung betreffs
+                    <lb/>der <hi rend="underline">Daten</hi> zu treffen, da
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>nderes von diesen für mich
+                    <lb/>abhängt:</p>
+                
+                <p rend="indent-first">Zunächst eine <soCalled rend="dq-uu">italiänische Reise</soCalled>,
+                    <lb/>sodann die womögliche Vollendung
+                    <lb/><rs key="E0400153">eines Bühnenwerkes</rs>, das dem
+                    <lb/><title key="E0400133" rend="dq-uu">Arlecchino</title> zugestellt werden soll.</p>
+                
+                <p rend="indent-first">Von <rs key="E0400153">dieser zweiten Oper</rs> habe
+                    <lb/>ich im Verlaufe eines Monates
+                    <lb/>den ganzen Text fertiggestellt <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>die Musik im Ganzen geplant.</p>
+                
+                <p rend="indent-first">Dafür bin ich jetzt ein
+                    <lb/>wenig müde.</p>
+                
+                <closer>
+                    <salute rend="indent-first">Darum schlie<choice><orig>ss</orig><reg>ß</reg></choice>e ich kurz<reg>,</reg>
+                    <lb/>aber nicht weniger herzlich <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>verehrungsvoll als Ihr treuer</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline rend="align(center)"><date when-iso="1916-11-16">16. <choice><abbr>N.</abbr><expan>November</expan></choice> 1916</date></dateline>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2]</note>
+                
+                <note type="annotation" resp="#recipient" place="margin-left" rend="rotate(-90)">Mittwoch <date when-iso="1917-01-17">17</date> · <date when-iso="1917-01-24">24</date> · <date when-iso="1917-01-31">31</date> · <date when-iso="1917-02-07">7 Febr.</date></note>
+                
+                <note type="commentary" resp="#E0300314"><persName key="E0300125">Huber</persName> notiert hier die im <ref type="E010002" target="#D0100136">Antwortbrief</ref> sodann vorgeschlagenen Konzertdaten.</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

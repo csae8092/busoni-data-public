@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800274">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Giglberger / Gertsch (Hg.) 2008</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-03-01" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <author key="E0300013">
+                            <forename>Franz</forename>
+                            <surname>Liszt</surname>
+                        </author>
+                        <editor>
+                            <forename>Veronika</forename>
+                            <surname>Giglberger</surname>
+                        </editor>
+                        <editor>
+                            <forename>Norbert</forename>
+                            <surname>Gertsch</surname>
+                        </editor>
+                        <title level="m"><title key="E0400368">Mephisto-Walzer</title></title>
+                        <title level="m" type="sub">(Der Tanz in der Dorfschenke). Episode aus <persName key="E0300540">Lenaus</persName> <q><title key="E0400381">Faust</title></q></title>
+                        <edition>Urtext-Ausgabe</edition>
+                        <idno type="DNB">993174809</idno>
+                        <imprint>
+                            <pubPlace>München</pubPlace>
+                            <publisher>G. Henle Verlag</publisher>
+                            <date when-iso="2008"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

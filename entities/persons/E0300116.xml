@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300116">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>WilhelmII.</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118551256</idno>
+               <persName type="reg">
+                  <forename>Wilhelm</forename>
+                  <genName>II.</genName>
+               </persName>
+               <persName type="birth">
+                  <forename>Friedrich</forename>
+                  <forename>Wilhelm</forename>
+                  <forename>Viktor</forename>
+                  <forename>Albert</forename>
+                  <nameLink type="dynasty">von</nameLink>
+                  <addName type="dynasty">Preußen</addName>
+               </persName>
+               <persName type="role" when-iso="1888/1918">
+                  <roleName type="nobility">Deutscher Kaiser</roleName>
+               </persName>
+               <persName type="role" when-iso="1888/1918">
+                  <roleName type="nobility">König von Preußen</roleName>
+               </persName>
+               <birth>
+                  <date when-iso="1859-01-27"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1941-06-04"/>
+                  <placeName key="E0500174">Doorn</placeName>
+               </death>
+               <sex value="m"/>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

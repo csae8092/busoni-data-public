@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300595">
+    <teiHeader>
+           <fileDesc>
+            <titleStmt>
+                <title>August Wilhelm Ambros</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+        </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">116297506</idno>
+                    <idno type="VIAF">83655824</idno>
+                    <idno type="ISNI">0000000109199886</idno>
+                    <persName type="reg">
+                        <surname>Ambros</surname>,
+                        <forename>August</forename>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <persName type="alt">
+                        <forename>August</forename>
+                        <forename>Vilém</forename>
+                        <surname>Ambros</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1816-11-11"/>
+                        <placeName key="E0500668">Mýto (Tachau)</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1876-06-28"/>
+                        <placeName key="E0500002">Wien</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Musikwissenschaftler</occupation>
+                    <occupation>Komponist</occupation>
+                    <occupation>Jurist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

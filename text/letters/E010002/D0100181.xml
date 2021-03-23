@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100181">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (vmtl. Zürich, 9. April 1918)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (prob. Zurich, 9 April 1918)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> betrachtet seine Erwähnung in <persName key="E0300201">Albert Schweitzers</persName> <rs key="E0800230"><persName key="E0300012">Bach</persName>-Monographie</rs> als Ehrenrettung; weist auf die <rs key="E0800075">Besprechung</rs> seiner Opern <title key="E0400133" rend="dq-du">Arlecchino</title> und <title key="E0400153" rend="dq-du">Turandot</title> durch <persName key="E0300204">Stefan Zweig</persName> hin; erinnert sich an seinen Kreis der <orgName key="E0600032" rend="dq-du">Leskowiter</orgName> in <placeName key="E0500270">Helsinki</placeName>; legt sein Verhältnis zu <persName key="E0300196">August Strindberg</persName> dar.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-04-09"/></docDate>
+                            <incipit>Dank für Brief u. die Mühe mit meinen Bearbeitungssachen.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive_1" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der eine Nummerierung innerhalb der Korrespondenz mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_2" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1918-04-09"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;37</bibl>
+                            <bibl><ref target="#E0800060"/>, S.&#8239;271</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100181">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1918-04-09" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <!--<ref type="repliedBy" target="#1918-04-16-hb"/>-->
+                    <ref type="previous" target="#D0100180"/>
+                    <ref type="next" target="#D0100245"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-04-06" who="#E0300318">Erstkodierung duchgeführt, Kommentierung sowie Ausarbeitung ausstehend.</change>
+            <change when-iso="2017-04-30" who="#E0300318">Kodierung abgeschlossen, Status auf proposed gesetzt.</change>
+            <change when-iso="2017-06-19" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive_1">66.</note>
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <date when-iso="1918-04-09">9. April 1918</date>.
+                    </dateline>
+                    <salute rend="indent">Lieber, Verehrter,</salute>
+                </opener>
+                <p>Dank für Brief <choice><abbr>u.</abbr><expan>und</expan></choice> die Mühe mit meinen
+                    <lb/>Bearbeitungs<choice><orig>S</orig><reg>s</reg></choice>achen.
+                    
+                    <note type="commentary" resp="#E0300318">Möglicherweise ist der erste Teil der <title key="E0400166">Klavierübung</title> gemeint, welche <persName key="E0300017">Busoni</persName> <persName key="E0300125">Huber</persName> und dem <orgName key="E0600020">Konservatorium <placeName key="E0500097">Basel</placeName></orgName> widmete (<bibl><ref target="#E0800058"/>, S.&#8239;62</bibl>). Vgl. auch den <ref type="E010002" target="#1918-05-24">Brief vom <date when-iso="1918-05-24">24. Mai</date></ref>.</note>
+                    
+                    <persName key="E0300201" rend="underline">Schweitzer</persName> in seinem 
+                    <lb/><rs key="E0800230" rend="dq-du">Bach</rs> rettet sehr warm meine Ehre.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busonis</persName> <persName key="E0300012">Bach</persName>-Interpretationen wurden, ebenso wie seine Bearbeitungen, zumeist heftig kritisiert (<bibl><ref target="#E0800016"/>, S. 73</bibl>), da <persName key="E0300017">Busoni</persName> sich für eine modernisierende Interpretation (<bibl><ref target="#E0800077"/>, S. 13</bibl>) bzw. eine entsprechende Übertragung dieser Werke einsetzte (<bibl><ref target="#E0800016"/>, S. 66</bibl>). <persName key="E0300201">Schweitzer</persName>, diesem Verständnis nahestehend (<bibl><ref target="#E0800016"/>, S. 122</bibl>), hebt <persName key="E0300017">Busoni</persName> in seiner <rs key="E0800230"><persName key="E0300012">Bach</persName>-Monographie</rs> mehrfach lobend hevor; so betont er <persName key="E0300017">Busonis</persName> Qualitäten als Bearbeiter von Orgelwerken (<bibl><ref target="#E0800055"/>, S. 295</bibl>), als <persName key="E0300012">Bach</persName>-Interpret generell (<bibl><ref target="#E0800055"/>, S. 329</bibl>) sowie besonders als Herausgeber der <persName key="E0300012">Bach</persName>’schen Klavierwerke (<bibl><ref target="#E0800055"/>, S. 354</bibl>).</note>
+                    
+                    <!-- Erstausgabe schon 1908, zitiert wird die von 1928 – bezieht sich Busoni 1918 auf eine bestimmte Auflage? -->
+                    
+                    <lb/>– Der junge <persName key="E0300202">Hirt<sic>h</sic></persName> erfreute mich gestern
+                    <lb/>mit seinem tüchtigen Klavier<choice><orig>S</orig><reg>s</reg></choice>piel.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300125">Huber</persName> hatte <persName key="E0300202">Franz Josef Hirt</persName> in seinem <ref type="E010002" target="#D0100177">Brief vom <date when-iso="1918-01-16">16. Januar 1918</date></ref> erwähnt und um die Empfehlung eines Lehrers gebeten.</note>
+                    –
+                    <lb/>– Die <orgName key="E0600035">Neue <choice><abbr>Fr.</abbr><expan>Freie</expan></choice> Presse</orgName> brachte am <date when-iso="1918-04-05">5. April</date>
+                    <lb/>ein ganzes <choice><sic>seiner</sic><corr>ihrer</corr></choice> berühmten Feuilletons
+                    <lb/>über meine beiden kleinen Opern.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300204">Stefan Zweigs</persName> euphorische <rs key="E0800075">Besprechung</rs> der Opern <title key="E0400133">Arlecchino</title> und <title key="E0400153">Turandot</title>, die bereits am <date when-iso="1917-05-11">11. Mai 1917</date> in <placeName key="E0500132">Zürich</placeName> mit großem Erfolg uraufgeführt worden waren (<bibl><ref target="#E0800016"/>, S. 42</bibl>). <persName key="E0300204">Zweig</persName> war seit <date when-iso="1911">1911</date> mit <persName key="E0300017">Busoni</persName> persönlich bekannt (<bibl><ref target="#E0800060"/>, S. 125</bibl>).</note>
+                    
+                    <lb/>– Ich schlug im <rs key="E0800231" rend="underline">Paul</rs> nach, den ich
+                    <lb/>zufällig hier habe, und las, da<choice><orig>ß</orig><reg>ss</reg></choice> <persName key="E0300196">Strindberg</persName>
+                    <lb/>auf ein mir unbekanntes Stück<reg>,</reg> <title key="E0400228" rend="dq-du">das Band</title><reg>,</reg>
+                    <lb/>anspielt, das er sich als Oper denkt, <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>mich dabei nennt.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300195">Adolf Paul</persName> erwähnt in <title key="E0800231"><persName key="E0300196">Strindberg</persName>-Erinnerungen und -Briefe</title> <persName key="E0300017">Busoni</persName> als möglichen Kandidaten für die Aufführung oder Bearbeitung des Einakters <title key="E0400228">Das Band</title>, und zwar im Rahmen eines von <persName key="E0300196">Strindberg</persName> an ihn (<persName key="E0300195">Paul</persName>) gerichteten Briefes vom <date when-iso="1894-07-07">7. Juli 1894</date>. Dort schreibt <persName key="E0300196">Strindberg</persName>: <quote>Was sagst Du zu dem <title key="E0400228">Band</title> als Opera? <persName key="E0300017">Busoni</persName> kann es französisch lesen, bei – ? – <rs key="E0600036">Unter den Linden!</rs></quote> (<bibl><ref target="#E0800054"/>, S. 209</bibl>). Wie <persName key="E0300017">Busonis</persName> Erstaunen zeigt, kam eine solche Zusammenarbeit nie zustande.</note>
+                    
+                    <persName key="E0300195">Adolf Paul</persName> ist ein
+                    <lb/>Ex-Schüler von mir aus <placeName key="E0500270">Helsingfors</placeName> <date when-iso="1889">1889</date>
+                    <lb/>(älter als sein Lehrer)<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> er schloss sich
+                    <lb/>in <placeName key="E0500029"><hi rend="underline">Berlin</hi></placeName> <persName key="E0300196" rend="underline"><choice><abbr>Str.</abbr><expan>Strindberg</expan></choice></persName> an. <persName key="E0300196">Strindberg</persName> selbst be
+                    <lb break="no"/>gegnete ich persönlich niemals; leider, –
+                    <lb/>– – vielleicht zum Glück.
+                    
+                    <note type="commentary" resp="#E0300318">Wiewohl <persName key="E0300017">Busoni</persName> <persName key="E0300196">Strindberg</persName> sehr schätzte, stand er dessen <cit><quote source="#E0800016">dunklen, psychopathischen Seiten</quote> <bibl>(<ref target="#E0800016"/>, S. 139)</bibl></cit> nicht uneingeschränkt positiv gegenüber (<bibl><ref target="#E0800016"/>, S. 139 f.</bibl>).</note>
+                    
+                    – <persName key="E0300195"><choice><abbr>A.</abbr><expan>Adolf</expan></choice> Paul</persName> ist Schwede,
+                    <lb/>nicht Finnländer. Wir bildeten mit
+                    <lb/>dem <soCalled rend="dq-uu">Schüler</soCalled> <persName key="E0300177">Sibelius</persName> <choice><abbr>u.</abbr><expan>und</expan></choice> den Brüdern
+                    <lb/>J<choice><orig>ae</orig><reg>ä</reg></choice>rnefelt
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300199">Eero</persName> und <persName key="E0300200">Armas Järnefelt</persName>.</note>
+                    
+                    ein anregendes <foreign xml:lang="la">Coenaculum</foreign>.
+                    
+                    <note type="commentary" resp="#E0300318">Lat.: (im oberen Stockwerk gelegenes) Speisezimmer; hier im Sinne von gesellschaftlichem Beisammensein.</note>
+                    
+                    <lb/>Nach meinem Neufundländer Hund
+                    <lb/>Lesko<orig>,</orig> nannten wir uns die <orgName key="E0600032" rend="dq-du">Leskowiter</orgName>.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> hatte <date when-iso="1888">1888</date> eine Position als Klavierlehrer am <orgName key="E0600031">Musikinstitut Helsinki</orgName> angetreten, wo sich um ihn zügig ein fester Freundeskreis bildete, bestehend aus <persName key="E0300177">Jean Sibelius</persName>, <persName key="E0300200">Armas</persName> und <persName key="E0300199">Eero Järnefelt</persName> sowie <persName key="E0300195">Adolf Paul</persName>. Neben ihrem recht aktiven Nachtleben disktutierte die Gruppe Themen u. a. aus Malerei oder Literatur sowie aktuelle gesellschaftliche Entwicklungen. Der bei den Treffen meist anwesende Hund <persName key="E0300017">Busonis</persName> avancierte zum Namenspaten der Gruppe. Die einzelnen Sätze der <title key="E0400227" rend="dq-du">Geharnischten Suite</title> sind jeweils einem dieser Freunde gewidmet: <title>Vorspiel</title> (<persName key="E0300177">Sibelius</persName>), <title>Kriegstanz</title> (<persName key="E0300195">Paul</persName>), <title>Grabdenkmal</title> (<persName key="E0300200">Armas Järnefelt</persName>) und <title>Ansturm</title> (<persName key="E0300199">Eero Järnefelt</persName>) (<bibl><ref target="#E0800057"/>, S. 57 ff.</bibl>).</note>
+                </p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#archive_2">(2)</note>
+                
+                <p rend="indent-first"><persName key="E0300196">Strindberg</persName> hat in meinem Empfinden
+                    <lb/>bereits drei Perioden durchgemacht: stie<choice><orig>ss</orig><reg>ß</reg></choice> mich
+                    <lb/>erst ab, feuerte mich zur Begeisterung an, <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> nun beginne ich seine Schwächen peinlicher
+                    <lb/>zu empfinden. – Aber mit seinem
+                    <lb/>einzigen <title key="E0400236" rend="dq-du">Traumspiel</title> <choice><abbr>u.</abbr><expan>und</expan></choice> den <title key="E0400436" rend="dq-du">Kammerspielen</title>
+                    
+                    <note type="commentary" resp="#E0300318">Unter der Gattungsbezeichnung <title key="E0400436">Kammerspiele</title> verfasste <persName key="E0300195">Strindberg</persName> zwischen <date when-iso="1907/1909">1907 und 1909</date> einen Zyklus von Werken: <title key="E0400237">Wetterleuchten</title>, <title key="E0400238">Die Brandstätte</title>, <title key="E0400239">Gespenstersonate</title>, <title key="E0400240">Der Scheiterhaufen</title>, <title key="E0400241">Fröhliche Weihnacht</title> sowie die Fragment gebliebene <title key="E0400242">Toten-Insel</title>. 20 weitere Werke sollten folgen. <persName key="E0300195">Strindbergs</persName> Absicht war es, die intime Gattung der Kammermusik auf dramatische Werke zu übertragen, etwa durch Konzentrierung ihrer Motivik und Ausgestaltung (<bibl><ref target="#E0800074"/>, S. 87 f.</bibl>).</note>
+                    
+                    <lb/>hat er nach <persName key="E0300197">Schiller</persName>, und nach <persName key="E0300198">Ibsen</persName>, wieder
+                    <lb/>einmal dem Theater eine neue Physiognomie
+                    <lb/>gegeben, was ich von <choice><orig>A</orig><reg>a</reg></choice>nderen nicht zu
+                    <lb/>behaupten wü<choice><orig>ß</orig><reg>ss</reg></choice>te. – Unsympathisch ist
+                    <lb/>mir sein Verweilen <choice><abbr>u.</abbr><expan>und</expan></choice> Bohren in 
+                    <lb/><soCalled rend="dq-du" xml:lang="fr">les petites misères</soCalled>
+                    
+                    <note type="commentary" resp="#E0300318">Frz.: <mentioned rend="dq-du">den kleinen Nöten</mentioned>.</note>
+                    
+                    des Alltäglichen und
+                    <lb/>eine gewisse künstlerische Nachlässigkeit
+                    <lb/>in Form <choice><abbr>u.</abbr><expan>und</expan></choice> Ausdruck <subst><del rend="overwritten">.</del><add place="across">(</add></subst>letzteres soll im
+                    <lb/><choice><sic>S</sic><corr>s</corr></choice>chwedischen <choice><sic>o</sic><corr>O</corr></choice>riginal minder fühlbar sein<choice><orig>.)</orig><reg>).</reg></choice>
+                    <lb/>Wie bei <persName key="E0300175">Voltaire</persName> <choice><abbr>u.</abbr><expan>und</expan></choice> bei <persName key="E0300169">Heine</persName> erkenne
+                    <lb/>ich in ihm eine gro<choice><orig>ss</orig><reg>ß</reg></choice>e Sehnsucht nach
+                    <lb/>Liebe, Güte <choice><abbr>u.</abbr><expan>und</expan></choice> Schönheit <choice><abbr>u.</abbr><expan>und</expan></choice> ein<add place="below">en</add> Ingrimm,
+                    <lb/>diese bei den Menschen immer wieder
+                    <lb/>vermissen zu müssen. – Mehr kann ich
+                    <lb/>Ihnen nicht sagen<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> dieses haben Sie gewiss
+                    <lb/>selbst schon gedacht.
+                </p>
+                
+                <closer>
+                    <salute rend="indent-first">Ich grüße Sie allerherzlichst
+<lb/><choice><abbr>u.</abbr><expan>und</expan></choice> verehrungsvoll als Ihr treu ergebener
+                    </salute>
+                    <signed rend="align(right)">
+                        <persName key="E0300017">F. Busoni</persName>
+                    </signed>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300318">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300318">[Rückseite von Textseite 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

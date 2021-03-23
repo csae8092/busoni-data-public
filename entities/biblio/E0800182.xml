@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800182">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Muck 1982</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300444">
+                     <forename>Peter</forename>
+                     <surname>Muck</surname>
+                  </author>
+                  <title level="m">Einhundert Jahre <placeName key="E0500029">Berliner</placeName> Philharmonisches Orchester</title>
+                  <idno type="DNB">550691642</idno>
+                  <imprint>
+                     <pubPlace>Tutzing</pubPlace>
+                     <publisher>Hans Schneider</publisher>
+                     <date when-iso="1982"/>
+                  </imprint>
+                  <extent>3 Bde.</extent>
+                  <biblScope unit="volume" n="1">
+                     <title level="m">Band 1</title>
+                     <idno type="DNB">820741884</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="2">
+                     <title level="m">Band 2</title>
+                     <idno type="DNB">820741892</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="3">
+                     <title level="m">Band 3</title>
+                     <idno type="DNB">820741906</idno>
+                  </biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

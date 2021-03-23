@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adolf Bernhard Marx</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119065290</idno>
+               <persName type="reg">
+                  <surname>Marx</surname>,
+                  <forename>Adolf</forename>
+                  <forename>Bernhard</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1795-05-15"/>
+                  <placeName key="E0500105">Halle (Saale)</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1866-05-17"/>
+                  <placeName key="E0500029">Berlin</placeName>
+               </death>
+               <sex value="m"/>
+               <affiliation>Mitbegründer des <orgName key="E0600012">Stern’schen Konservatoriums</orgName></affiliation>
+               <occupation>Musiker</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+               <occupation>Musiklehrer</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

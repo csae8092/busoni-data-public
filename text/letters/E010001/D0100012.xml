@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100012">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Steinakirchen am Forst, vmtl. nicht nach 13. August 1909)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Steinakirchen am Forst, prob. not after 13 August 1909)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno type="D-B">Mus.Nachl. F. Busoni B II, 4549</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 6 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno type="kalliope">DE-611-HS-736298</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> verteidigt seinen Klavierstil als Abwendung vom <q rend="dq-du"><choice><orig>C</orig><reg>K</reg></choice>lavier<hi rend="underline">auszug</hi><pc>=</pc>Stil</q>; erklärt die Unausführbarkeiten seiner Klaviernotation zugleich durch ihren suggestiven Sinn und als Vorwegnahme von instrumentenbaulichen Entwicklungen; kündigt Fertigstellung eines <rs key="E0400114">dritten Klavierstücks</rs> an bzw. vermeldet sie, legt es bei; erläutert sein Streben nach <q>Befreiung von allen Formen</q>, von motivischer und harmonischer <q>Logik</q> sowie vom Pathos; nennt Kürze und realistischen Empfindungsausdruck als ästhetische Leitprinzipien; bittet <persName key="E0300017">Busoni</persName> um Vermittlung eines Verlegers.</summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs">
+                                <choice><unclear reason="incomplete" cert="high"><date notAfter-iso="1909-08-13"/></unclear>
+                                    <unclear reason="incomplete" cert="low"><date notAfter-iso="1909-08-18"/></unclear></choice>
+                            </docDate>
+                            <docDate>
+                                <seg>Der Poststempel (Absender) ist unvollständig, die Ziffernformung deutet aber eher auf den <date when-iso="1909-08-13">13.</date> als den <date when-iso="1909-08-18">18. August 1909</date> hin. Der erste Teil des Briefs entstand offenbar noch vor Fertigstellung von <rs key="E0400114">op.&#8239;11 Nr.&#8239;3</rs> (<date when-iso="1909-08-07">7. August 1909</date>), das Postscriptum danach; möglicherweise hat <persName key="E0300023">Schönberg</persName> den Versand mit Blick auf die zehntägige Abwesenheit <persName key="E0300017">Busonis</persName> aufgeschoben. <persName key="E0300017">Busonis</persName> <ref type="E010001" target="#D0100013">Antwort vom <date when-iso="1909-08-20">20. August</date></ref> schließt eine Datierung auf den <date when-iso="1909-08-18">18. August</date> allerdings nicht aus.</seg>
+                            </docDate>
+                            <incipit>vor <choice><orig>A</orig><reg>a</reg></choice>llem: Sie t<orig>h</orig>un mir sicher Unrecht.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">4 Bogen</measure>
+                                    <measure type="pages">15 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#major_hand">Foliierung mit Tinte oben rechts auf ersten Seite jedes Bogens durch den Verfasser.</foliation>
+                                <condition>Der Brief ist gut erhalten; Briefumschlag auf der Vorderseite rechts unvollständig (infolge Aufriss), ohne Textverlust.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="pencil2" scope="minor" medium="pencil" scribe="archivist2">Hand des Archivars, der mit Bleistift die erste Signatur durchgestichen und durch eine neue ersetzt hat</handNote>
+                            <handNote xml:id="pencil3" scope="minor" medium="pencil" scribe="archivist3">Hand des Archivars, der mit Bleistift eine Datierung auf Seite 12 vermerkt hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="17"/>
+                            
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine rend="indent"><persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="align(center)"><placeName key="E0500029">Berlin</placeName> W30</addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500072">Viktoria-Luise-Platz 11</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="18"/>
+                            
+                            <note type="annotation" resp="#major_hand" place="left">Absender:</note>
+                            
+                            <note type="stamp" place="right-of" resp="#schoenberg_addr_st1">
+                                <stamp rend="align(center) majuscule">
+                                    <address>
+                                        <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                        
+                                        <addrLine rend="small"><delSpan rend="crossedout" spanTo="#delAddr01"/>– – – <placeName key="E0500002">Wien</placeName> – – –</addrLine>
+                                        <addrLine rend="small"><placeName key="E0500077">IX. Liechtensteinstraße 68/70</placeName><anchor xml:id="delAddr01"/></addrLine>
+                                    </address>
+                                </stamp>
+                            </note>
+                            <add xml:id="addAddr01">
+                                <address>
+                                    <addrLine rend="align(right) space-below">derzeit <placeName key="E0500040">Steinakirchen am Forst</placeName></addrLine>
+                                </address>
+                            </add>
+                            
+                            <substJoin target="#delAddr01 #addAddr01"/>
+                            
+                            <stamp xml:id="post_abs" resp="#post" rend="align(center) majuscule rotate(135)">
+                                <placeName key="E0500040">Steinak<supplied reason="incomplete">irchen</supplied></placeName>
+                                <lb/><date when-iso="1909-08-13" cert="high"><choice><unclear reason="incomplete" cert="high">13</unclear><unclear reason="incomplete" cert="low">18</unclear></choice> VIII 0<supplied reason="incomplete">9</supplied></date>
+                                <lb/><placeName key="E0500040"><seg rend="minuscule">am</seg> Forst</placeName>
+                            </stamp>
+                            
+                            <note type="shelfmark" place="bottom-center" rend="align(center) space-above" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">Mus.ep. A. Schönberg 10
+                                        <lb/><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II<handShift new="#archive"/></stamp></del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4549-Beil.</add>
+                                </subst>
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace key="E0500040">Steinakirchen am Forst</origPlace> in mindestens zwei Etappen verfasst und vmtl. am <origDate when-iso="1909-08-13" cert="high">13.</origDate> (<origDate when-iso="1909-08-18" cert="low">18. August 1909</origDate>?) (Poststempel) abgesendet.</origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 169–172</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 155–161 (Brief), S. 71–75 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 387–390</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100012">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1909-08-13" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2764556" key="E0500040">Steinakirchen am Forst</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100011"/>
+                    <ref type="repliedBy" target="#D0100013"/>
+                    <ref type="previous" target="#D0100011"/>
+                    <ref type="next" target="#D0100013"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt; status="unfinished".</change>
+            <change when-iso="2016-03-31" who="#E0300317">status="proposed"</change>
+            <change when-iso="2016-11-02" who="#E0300314">Umfangreiches Redigat und Änderungen bei den Tags, status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839137745/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000010"/>
+        <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000011"/>
+        <graphic n="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000012"/>
+        <graphic n="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000013"/>
+        <graphic n="14" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000014"/>
+        <graphic n="15" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000015"/>
+        <graphic n="16" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000016"/>
+        <graphic n="17" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000017"/>
+        <graphic n="18" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2D00000018"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <note type="shelfmark" place="top" resp="#archive">
+                        <del rend="strikethrough" xml:id="delSig">Mus.ep. A. Schönberg 10 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                    </note>
+                    
+                    <note type="foliation" place="top-right" resp="#major_hand" rend="circle">1.</note>
+                    
+                    <byline>
+                        <stamp rend="align(left) majuscule" resp="#schoenberg_addr_st1">
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                <addrLine rend="small"><delSpan rend="crossedout" spanTo="#delAddr02"/>– – – <placeName key="E0500002">Wien</placeName> – – –</addrLine>
+                                <addrLine rend="small"><placeName key="E0500077">IX. Liechtensteinstraße 68/70</placeName><anchor xml:id="delAddr02"/></addrLine>
+                            </address>
+                        </stamp>
+                        <add xml:id="addAddr02">
+                            <address>
+                                <addrLine><placeName key="E0500040">Steinakirchen am Forst</placeName>, <placeName key="E0500081"><choice><abbr>N. Oesterr</abbr><expan>Niederösterreich</expan></choice></placeName></addrLine>
+                            </address>
+                        </add>
+                        
+                        <substJoin target="#delAddr02 #addAddr02"/>
+                    </byline>
+                    
+                    <note type="stamp" place="center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                </opener>
+                <p rend="indent-first"><seg type="opener" subtype="salute">Sehr verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> vor <choice><orig>A</orig><reg>a</reg></choice>llem:   
+                    <lb/>Sie t<orig>h</orig>un mir sicher <subst><del rend="overwritten">u</del><add place="across">U</add></subst>nrecht. Aber es scheint,
+                    <lb/>dass man einander in der einen oder der
+                    <lb/>anderen Hinsicht Unrecht t<orig>h</orig>uen
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (169)</bibl> und <bibl><ref target="#E0800005"/> (155)</bibl>: <q>thun</q></note>
+                    
+                    muss, wenn
+                    <lb/>man auch dazu veranlagt ist<reg>,</reg> einander in
+                    <lb/>mancher anderer Beziehung sehr gut zu erkennen.
+                    <lb/>Es scheint<reg>,</reg> als ob die Bezirke zweier Individua
+                    <lb break="no"/>litäten etwa so gelagert wären wie ex<choice><orig>c</orig><reg>z</reg></choice>entrische
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (169)</bibl> und <bibl><ref target="#E0800005"/> (156)</bibl>: <q>exentrische</q></note>
+                    
+                    <lb/>Kreise<reg>,</reg><add place="above"> die sich t<orig>h</orig>eilweise decken.</add><orig>.</orig> Mehr oder weniger große<orig>,</orig> Flächent<orig>h</orig>eile
+                    <lb/>fallen zusamm<supplied>en</supplied><reg>,</reg>
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (169)</bibl> und <bibl><ref target="#E0800005"/> (156)</bibl> interpretieren den abschließenden Aufstrich als Gedankenstrich.</note>
+                    
+                    aber einander gegenüber liegen
+                    <lb/>Segmente, die entgegengesetzt sind. Ich nehme
+                    <lb/>das für eine natürliche Sache, die so
+                    <lb/>sein muss, und halte es deswegen auch
+                    <lb/>für gut.</p>
+                
+                <p rend="indent-first">Und selbstverständlich ist dieses Diver
+                    <lb break="no"/>gieren absolut nicht imstande<reg>,</reg> mein
+                    <lb/>Vertrauen zu erschüttern. Im Gegen
+                    <lb break="no"/>t<orig>h</orig>eil, dieses hat sich vermehrt, seit ich
+                    
+                    <note type="shelfmark" place="bottom" resp="#archive">
+                        <add place="bottom" xml:id="addSig">Mus.Nachl. F. Busoni B II, 4549</add>
+                    </note>
+                    
+                    <substJoin target="#delSig #addSig"/>
+                    
+                    <pb n="2"/>
+                    
+                    in persönliche Berührung mit Ihnen gekommen
+                    <lb/>bin. Das Gefühl, das ich von Ihrer Wesens
+                    <lb break="no"/>art schon früher hatte, hat sich bestätigt.
+                    <lb/>Und ich bin mir jetzt darüber ziemlich klar.
+                    <lb/>Ich erkenne als einen mir unendlich wert
+                    <lb break="no"/>vollen Zug Ihres
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (169)</bibl>: <q>ihres</q>.</note>
+                    
+                    Wesens: das Streben<reg>,</reg> recht
+                    <lb/>zu t<orig>h</orig>un! Und dieses Streben setze ich
+                    <lb/>über das Recht<choice><orig><pc>=</pc>Th</orig><reg>t</reg></choice>un, so<reg> </reg>wie ich das
+                    <lb/><hi rend="underline">Streben</hi> nach Wahrheit <hi rend="underline">über</hi> die Wahrheit
+                    <lb/>stelle.</p>
+                
+                <p rend="indent-first">Deshalb, wenn Sie mir auch sachlich
+                    <lb/>unrecht t<orig>h</orig>un, menschlich könnte mir
+                    <lb/>Weniges mehr Freude machen, als, <hi rend="underline">wie</hi>
+                    <lb/>Sie es t<orig>h</orig>un.</p>
+                
+                <p rend="indent-first">Aber, wie gesagt: sachlich<reg>,</reg> glaube ich,
+                    <lb/>haben Sie<choice><unclear cert="high"/>
+                        <unclear cert="low"> –</unclear>
+                        <unclear cert="low">,</unclear></choice>
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (169)</bibl> und <bibl><ref target="#E0800060"/> (387)</bibl> ohne Interpunktionszeichen, <bibl><ref target="#E0800005"/> (156)</bibl> mit Komma.</note>
+                    
+                    nicht recht.</p>
+                
+                <p rend="indent-first">Ich hoffe, dass Sie es erkennen werden.
+                    <lb/>Ich bin ja allerdings kein Klavierspieler.
+                    
+                    <note type="commentary" resp="#E0300317"><persName key="E0300023">Schönbergs</persName> musikalische Ausbildung begann im Alter von acht Jahren mit Geigenspiel; wenig später kam das Cello hinzu. Bei seinem drei Jahre älteren Freund und einzig bedeutenden Lehrer <persName key="E0300046">Alexander Zemlinsky</persName> erhielt er Kompositionsunterricht. <persName key="E0300046">Zemlinsky</persName> ließ ihn zur Übung auch Klavierauszüge erstellen, womit sich <persName key="E0300023">Schönberg</persName> einen kleinen Verdienst erwirtschaften und die Spiel- und Funktionsweise des Klaviers studieren konnte. So erstellte er unter anderem Klavierauszüge zu <persName key="E0300046">Zemlinskys</persName> <title key="E0400046">Sarema</title> (<date when-iso="1897">1897</date>), <persName key="E0300082">Gioachino Rossinis</persName> <title key="E0400044">Il barbiere di Siviglia</title> (<date when-iso="1903">1903</date>) und <persName key="E0300002">Franz Schuberts</persName> <title key="E0400045">Rosamunde</title>“ (<date when-iso="1904">1904</date>); vgl. <bibl><ref target="#E0800032"/>, S. 30 ff.</bibl>, <bibl><ref target="#E0800030"/>, S. 16</bibl> und <bibl><ref target="#E0800001"/>, S. 10</bibl>.</note>
+                    
+                    <lb/>Aber nichts<orig> </orig>destoweniger habe ich mir
+                    <lb/>eingebildet<reg>,</reg> in <rs type="works" key="E0400112 E0400113">diesen Stücken</rs> <add place="above">und einigen Liedern</add>
+                    
+                    <note type="commentary" resp="#E0300313">Gemeint sind wohl die <title key="E0400110">Lieder op. 14</title> (komponiert <date when-iso="1907-12/1908-02">Ende 1907 bis Anfang 1908</date>) sowie die <title key="E0400111">George-Lieder op. 15</title> (komponiert zwischen <date when-iso="1908-03/1909-03">März 1908 und März 1909</date>).</note>
+                    
+                    den Grund
+                    <lb/>zu einem modernen Klavierst<choice><orig>y</orig><reg>i</reg></choice>l gelegt
+                    <lb/>zu haben. Es mag das anmaßend klingen,                    
+                    
+                    <pb n="3"/>
+                    
+                    aber, da ich es geglaubt habe, kann nichts
+                    <lb/>mich hindern<reg>,</reg> es auch zu sagen. Und ich
+                    <lb/>bin wirklich mit großer Bewusstheit
+                    <lb/>an diese Probleme herangegangen, habe
+                    <lb/>viel über <add place="above">den</add> früheren Klavierst<choice><orig>y</orig><reg>i</reg></choice>l und die
+                    <lb/>Bedürfnisse meine<subst><del rend="overwritten">s</del><add place="across">r</add></subst> Ausdrucksbestrebungen
+                    <lb/>nachgedacht<reg>,</reg> und da ist mir manches klar
+                    <lb/>geworden. Gewiss: <subst><del rend="overwritten">in</del><add place="across">auf</add></subst> eine<subst><del rend="overwritten">m</del><add place="across">n</add></subst> Wurf
+                    <lb/>gelingt sowas nicht restlos. Und: wenn
+                    <lb/>die Vorzüge meines Klavierstils vielleicht
+                    <lb/>auch mehr in dem bestehen, was ich
+                    <lb/><hi rend="underline">nicht</hi> mache, als in dem<reg>,</reg> was ich Neues
+                    <lb/>bringe, so scheint mir doch, als
+                    <lb/>ob eines deutlich gewonnen wäre:
+                    <lb/><choice><orig>i</orig><reg>I</reg></choice>ch glaube, von jenem Stil, den ich
+                    <lb/>nenne den <soCalled rend="dq-du"><choice><orig>C</orig><reg>K</reg></choice>lavier<hi rend="underline">auszug</hi><pc>=</pc>Stil</soCalled><reg>,</reg>
+                    <lb/>habe ich mich deutlich genug abgewen
+                    <lb break="no"/>det.</p>
+                
+                <p rend="indent-first">Es ist ja kein Zweifel, dass der
+                    <lb/><choice><orig>C</orig><reg>K</reg></choice>lavierstil einer Zeit eine gewisse
+                    <lb/>Ähnlichkeit mit <subst><del rend="strikethrough">dem</del><add place="above">ihrem</add></subst> Orchesterstil hat.
+                    <lb/>Das sieht man sogar, finde ich, bei
+                    
+                    <pb n="4"/>
+                    
+                    <persName key="E0300010">Mozart</persName> und <persName key="E0300001">Beethoven</persName>. Alle, denen
+                    <lb/>der Ausdruck das <choice><orig>w</orig><reg>W</reg></choice>ichtigste war, haben
+                    <lb/>für <hi rend="underline"><choice><orig>C</orig><reg>K</reg></choice>lavier</hi> <hi rend="underline">komponiert</hi>, indem sie
+                    <lb/><hi rend="underline" n="3">komponiert</hi> haben, unter Berücksichtigung
+                    <lb/>der Erfordernisse, der Bedürfnisse des
+                    <lb/>Instrumentes. Das Komponieren steht im
+                    <lb/>Vordergrund; d<subst><del rend="overwritten">ie</del><add place="across">as</add></subst> Instrument wird
+                    <lb/>berücksichtigt. Nicht umgekehrt.</p>
+                
+                <p rend="indent-first">In diesem Sinne, meine ich, könnte
+                    <lb/>man Beziehungen zwischen einem moder
+                    <lb break="no"/>nen Orchestersatz und <add place="inline">m</add>einem
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (170)</bibl>, <bibl><ref target="#E0800005"/> (157)</bibl> und <bibl><ref target="#E0800060"/> (387)</bibl> fälschlich: <q>einem</q> (bzw. <q>modern piano writing</q>).</note>
+                    
+                    modernen
+                    <lb/>Klaviersatz finden. Aber sonst in keinem,
+                    <lb/>hoffe ich. Wenigstens war das<orig>,</orig>
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (157)</bibl> ohne Komma.</note>
+                    
+                    sozusagen
+                    
+                    <lb/>mein Programm: weg mit dem
+                    <lb/><choice><orig>Clavier<pc>=</pc>a</orig><reg>Klaviera</reg></choice>uszugstil; weg mit dem Klavier
+                    <lb break="no"/>satz<reg>,</reg> der, das Ausdrucksver<subst><del rend="overwritten"><gap reason="overwritten" extent="1" unit="char"/></del><add place="across">m</add></subst>ögen und
+                    <lb/>die Bewegungsmöglichkeit des Klavieres
+                    <lb/>überschreitend, nichts anderes ist<orig>,</orig> als
+                    <lb/>eine mehr oder weniger gute <choice><orig>Ue</orig><reg>Ü</reg></choice>bertragung
+                    <lb/>von Orchestermusik.</p>
+                
+                <p rend="indent-first">Dagegen scheint mir nun auch Ihr
+                    
+                    <pb n="5"/>
+                    
+                    <note type="foliation" place="top-right" resp="#major_hand" rend="circle">2</note>
+                    
+                    <note type="shelfmark" place="top" resp="#archive">B II, 4549</note>
+                    
+                    Einwand nicht berechtigt, den <subst><del rend="overwritten">s</del><add place="across">S</add></subst>ie gegen
+                    <lb/>die Bezeichnung &lt; &gt; über liegende
+                    <lb/>A<choice><orig>cc</orig><reg>kk</reg></choice>orde machen.
+                    
+                    <note type="commentary" resp="#E0300317"><title key="E0400019">Drei Klavierstücke op. 11</title>, <rs key="E0400113">Nr. 2</rs>, Takt 11 f.: <notatedMusic place="inline"><ptr target="nb/D0100012_13_kex_1.xml"/> <graphic width="337px" height="150px" url="D0100012_13_kex_1.png"/> <desc><persName key="E0300023">Arnold Schönberg</persName>, <title key="E0400019">Drei Klavierstücke op. 11</title>, <rs key="E0400113">Nr. 2</rs>, Takt 11 f.</desc> </notatedMusic></note>
+                    
+                </p>
+                
+                <p rend="indent-first">Diese Bezeichnung habe ich sogar
+                    <lb/>erst nachträglich eingefü<subst><del rend="overwritten">h</del><add place="across">g</add></subst>t und verwende
+                    <lb/>sie seither immer mehr
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (157)</bibl>: <q>noch</q>.</note>
+                    
+                    in einem ganz
+                    <lb/>bestimmten Sinn. Selbstverständlich
+                    <lb/>habe ich mir nicht eingebildet, dass
+                    <lb/>man diese A<choice><orig>cc</orig><reg>kk</reg></choice>orde an<pc>=</pc> und abschwellen
+                    <lb/>lassen kann. Ebenso<reg> </reg>wenig, wie ich
+                    <lb/><del rend="strikethrough">das</del> bei anderen Gelegenheiten<reg>,</reg>
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl> mit folgendem Komma.</note>
+                    
+                    wo ich
+                    <lb/>
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/1909-08-13-bs-nb1.xml"/>
+                        <graphic width="101px" height="53px" url="D0100012_5_ex_1.png"/>
+                        <desc><persName key="E0300023">Arnold Schönberg</persName>, Ausschnitt aus einer nicht ermittelten Komposition</desc>
+                    </notatedMusic>
+                    
+                    geschrieben habe (das ist
+                    <lb/>zwar ein anderer Fall)<reg>,</reg> a<subst><del rend="none">u</del><add place="transformed">n</add><del rend="strikethrough">f</del></subst> die Ausführbarkeit
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (157)</bibl> fälschlich: <q>Aufführbarkeit</q>.</note>
+                    
+                    <lb/>dieses <choice><orig>cresc</orig><reg><choice><abbr>Cresc.</abbr><expan>Crescendos</expan></choice></reg></choice> geglaubt habe.</p>
+                
+                <p rend="indent-first">Die erste Bezeichnung habe ich von
+                    <lb/><rs key="E0300009">Brahms</rs> entnommen. Es scheint<reg>,</reg> er
+                    <lb/>verwendet sie nicht so wie ich.
+                    <lb/>Ich meine in diesen Fällen immer
+                    
+                    <pb n="6"/>
+                    
+                    ein sehr ausdrucksvolles, aber sehr
+                    <lb/>weiches
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800004"/> (170)</bibl>, <bibl><ref target="#E0800005"/> (157)</bibl> und <bibl><ref target="#E0800060"/> (388)</bibl> fälschlich: <q>aber weiches</q> (bzw. <q>but soft</q>).</note>
+                    
+                    <hi rend="latin underline">Marcato</hi>, <choice><unclear cert="high">forzato</unclear><unclear cert="low">sforzato</unclear></choice>.
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (157)</bibl>: <q>sforzato</q>.</note>
+                    
+                    Etwa
+                    <lb/>zu vergleichen mit dieser Porta
+                    <lb break="no"/>mento<pc>=</pc>Bezeichnung
+                    
+                    <notatedMusic place="inline">
+                        <ptr target="nb/1909-08-13-bs-nb2.xml"/>
+                        <graphic width="62px" height="38px" url="D0100012_5_ex_2.png"/>
+                        <desc>Portamentobezeichnung in Notenschrift</desc>
+                    </notatedMusic>
+                    
+                    <lb/>oder Ähnlichem. Ich verwende sie
+                    <lb/>in letzter Zeit immer in diesem
+                    <lb/>Sinne. Manchmal (bei Streichern
+                    <lb/>oder Bläsern) auch statt: <q rend="dq-du">espress<reg>.</reg></q>
+                </p>
+                
+                <p rend="indent-first">Und die zweite Bezeichnung
+                    <lb/>ist natürlich auch nicht wirklich
+                    <lb/>zu nehmen. Es soll das blo<subst><del rend="overwritten">ſs</del><add place="across">ß</add></subst>
+                    <lb/>ein Bild sein für die Richtung,
+                    <lb/>die die Linie nimmt. Oder
+                    <lb/>für den Intensitäts<orig><pc>=</pc></orig>grad. Mehr
+                    <lb/>eine Anregung zum Verständnis
+                    <lb/>der Linie<orig>,</orig> als eine Vortragsbezeichnung.
+                    <lb/>Und dann habe ich bei diesen Bezeich
+                    <lb break="no"/>nungen noch den einen Hinterge
+                    <lb break="no"/>danken: Das Klavier wird sicher
+                    
+                    <pb n="7"/>
+                    
+                    in nicht allzu langer Zeit imstande sein<reg>,</reg>
+                    <lb/>all das auszuführen, was <add place="above">uns an</add> ihm heute
+                    <lb/>fehlt. Es ist zum Staunen, dass
+                    <lb/>es das heute noch nicht kann. Und
+                    <lb/>nur die Pietät, richtiger: der
+                    
+                    <note resp="#E0300317" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (158)</bibl> fälschlich ohne <q>der</q>.</note>
+                    
+                    <lb/><choice><orig>C</orig><reg>K</reg></choice>onservatismus,
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (158)</bibl> fälschlich: <q>Conservativismus</q>.</note>
+                    
+                    noch richtiger aber:
+                    <lb/>die Indolenz der Musiker bringt
+                    <lb/>es mit sich, dass a<subst><del rend="overwritten">n</del><add rend="across">m</add></subst> <del rend="strikethrough">die</del> Klavier
+                    <lb/>seit mehr als hundert Jahren keine
+                    <lb/>nennenswerte Verbesserung geschehen
+                    <lb/>ist. Wäre das Klavier ein wichtiges
+                    <lb/>Instrument etwa der Baumwollen
+                    <lb break="no"/>industrie, so wäre es längst vollko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en.
+                    <lb/>Ich denke aber, das wird es doch werden.</p>
+                
+                <p rend="indent-first">Und da sollte man doch so be
+                    <lb break="no"/>zeichnen, wie man sich es heute
+                    <lb/>nur scheinbar hoffnungslos wünschen
+                    <lb/>kann, dass es eigentlich klingen
+                    <lb/>sollte.</p>
+                
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <pb n="8"/>
+                
+                <p rend="indent-first">Nun muss ich Ihnen zum Schlusse noch
+                    <lb/>sagen, dass ich mich unendlich gefreut
+                    <lb/>habe, dass Ihnen <rs key="E0400113">das eine Stück</rs> schon
+                    <lb/>gefällt. Und ich hoffe bestimmt, dass
+                    <lb/>Ihnen auch <rs key="E0400112">das andere</rs> später gefallen wird.
+                    <lb/>Mir hat auch anfangs <rs key="E0400113">das 12/8</rs> (das als zweites
+                    <lb/>komponiert ist<orig>,</orig>) besser gefallen<orig>,</orig> als <rs key="E0400111">das
+                        <lb/>erste</rs>. Aber neulich habe ich <rs key="E0400112">das erste</rs> wieder
+                    <lb/>angesehen: Ich glaube fast, was mir
+                    <lb/>an Freiheit und Buntheit des Ausdruckes,
+                    <lb/>an ungebund<supplied reason="omitted">en</supplied>er,
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl> und <bibl><ref target="#E0800005"/> (158)</bibl>: <q>ungebundener</q>.</note>
+                    
+                    durch keine <soCalled rend="dq-du">Logik</soCalled>
+                    <lb/>verhinderter Beweglichkeit der Form
+                    <lb/>vorgeschwebt hat, kommt im <rs key="E0400112"><subst><del rend="strikethrough"><gap extent="1" unit="char" reason="strikethrough"/></del><add place="across">e</add></subst>rsten</rs>
+                    <lb/>noch viel mehr heraus, als im <rs key="E0400113">zweiten</rs>.</p>
+                
+                <p rend="indent-first">Erreicht habe ich, was ich mir vor
+                    <lb break="no"/>stelle,
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (170)</bibl>, <bibl><ref target="#E0800005"/> (158)</bibl> und <bibl><ref target="#E0800060"/> (388)</bibl>: <q>vorstellte</q> (bzw. <q>had visualized</q>.</note>
+                    
+                    <del rend="strikethrough"><gap atLeast="2" unit="char" reason="strikethrough"/></del> in <rs type="works" key="E0400112 E0400113">beiden</rs> nicht. Vielleicht,
+                    <lb/>sogar sicher noch nicht in <rs key="E0400114">dem dritten</rs>,
+                    <lb/>das dieser Tage fertig wird. Einige
+                    
+                    <pb n="9"/>
+                    
+                    <note type="shelfmark" place="top" rend="align(left)" resp="#archive">B II, 4549</note>
+                    
+                    <note type="foliation" place="top-right" rend="circle" resp="#major_hand">3</note>
+                    
+                    <rs key="E0400020" corresp="#E0400013">Orchesterstücke</rs>, die ich in der allerletzten
+                    <lb/>Zeit geschrieben, haben mich in einiger
+                    <lb/>Hinsicht näher, in anderer aber wieder
+                    <lb/>weitab geführt<choice><orig>, von dem</orig><reg> von dem,</reg></choice> was ich
+                    <lb/>schon für erreicht hielt.
+                    
+                    <note type="commentary" resp="#E0300317">Im Sommer <date when-iso="1909">1909</date> vollendete <persName key="E0300023">Schönberg</persName> die <title key="E0400013">Fünf Orchesterstücke op.&#8239;16</title>. Dieses Werk gilt als eines der Hauptwerke von <persName key="E0300023">Schönbergs</persName> Atonalität. <persName key="E0300023">Schönberg</persName> nahm <date when-iso="1909">1909</date> auch mit <persName key="E0300022">Richard Strauss</persName> Kontakt auf, konnte ihn aber nicht für die Aufführung der <rs key="E0400013">Orchesterstücke</rs> mit dem <orgName key="E0600007"><placeName key="E0500029">Berliner</placeName> Philharmonischen Orchester</orgName> gewinnen. Erst <date when-iso="1912">1912</date> wurde das <rs key="E0400013">Werk</rs> schließlich aufgeführt (vgl. die Briefe von <persName key="E0300023">Schönberg</persName> an <persName key="E0300022">Richard Strauss</persName> vom <ref type="ext" subtype="asc-l" target="#6583"><date when-iso="1909-07-14">14. Juli 1909</date></ref> und <ref type="ext" subtype="asc-l" target="#6584"><date when-iso="1909-07-28">28. Juli 1909</date></ref>).</note>
+                    
+                </p>
+                
+                <p rend="indent-first">Greifbar ist es vielleicht noch
+                    <lb/>nicht. Vielleicht brauche ich noch
+                    <lb/>lange, u<subst><del rend="transformed">n</del><del rend="overwritten">d</del><add place="across">m</add></subst> die Musik zu schreiben,
+                    <lb/>zu der es mich drängt, die mir
+                    <lb/>seit mehreren Jahren vorschwebt und
+                    <lb/>die ich vorläufig nicht fassen kann.</p>
+                
+                <p rend="indent-first">Ich schreibe darüber so ausführlich,
+                    <lb/>weil ich bekennen will (angeregt durch
+                    <lb/>Ihre Anmerkung: meine Musik gi<orig>e</orig>nge
+                    <lb/>Ihnen nahe, weil Sie Ähnliches als die
+                    <lb/>Aufgabe
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (171)</bibl> und <bibl><ref target="#E0800005"/> (159)</bibl>: <q>Aufgaben</q>.</note>
+                    
+                    unserer nächsten Entwicklung
+                    <lb/>ansehen)<reg>,</reg> um was es sich mir handelt.</p>
+                
+                <p rend="indent-first">Ich strebe an: <choice><orig>V</orig><reg>v</reg></choice>ollständige
+                    
+                    <pb n="10"/>
+                    
+                    Befreiung von allen Formen.
+                    <lb/><seg rend="indent-2"><choice><orig>v</orig><reg>V</reg></choice>on allen <subst><del rend="overwritten">Z</del><add place="across">S</add></subst>ymbolen
+                        <lb/>des Zusammenhangs und
+                        <lb/>der Logik<reg>.</reg></seg>
+                    <lb/><seg rend="align(center)"><choice><orig>a</orig><reg>A</reg></choice>lso:</seg>
+                    <lb/><seg rend="indent-2">weg von der <soCalled rend="dq-du">motivischen Arbeit</soCalled><reg>.</reg></seg></p>
+                
+                <p rend="indent">Weg von der Harmonie<del rend="strikethrough">n</del>
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (171)</bibl> und <bibl><ref target="#E0800005"/> (159)</bibl> mit folgendem Komma.</note>
+                    
+                    als
+                    <lb/><choice><orig>C</orig><reg>Z</reg></choice>ement oder Baustein einer
+                    <lb/>Architektur.
+                    <lb/><seg rend="indent-2">Harmonie ist <hi rend="underline"><subst><del rend="overwritten">a</del><add place="across">A</add></subst>usdruck</hi>
+                        <lb/>und nichts anderes als das.</seg>
+                </p>
+                
+                <!-- Ästhetische Nähe zu Busoni: Überwindung des Formdiktats, Reform des Tonsystems -->
+                
+                <p rend="align(center)">Dann:</p>
+                
+                <p rend="indent">Weg vom Pathos!</p>
+                
+                <p rend="indent-first">Weg von den 24<reg>-</reg>pfündigen
+                    <lb/>Dauermusiken; von den gebauten
+                    <lb/>und konstruierten T<orig>h</orig>ürmen, Felsen
+                    <lb/>und sonstige<choice><orig>n</orig><reg>m</reg></choice> gigantische<subst><del rend="transformed">n</del><add place="transformed"><choice><orig>m</orig><reg>n</reg></choice></add></subst> Kram.</p>
+                
+                <p rend="indent-first">Meine Musik muss
+                    <lb/><seg rend="indent-2"><hi rend="underline">kurz</hi> sein.</seg>
+                    <lb/>Knapp! <choice><orig>i</orig><reg>I</reg></choice>n zwei Noten: nicht
+                    
+                    <pb n="11"/>
+                    
+                    bauen, sondern <soCalled rend="dq-du"><hi rend="underline" n="2">ausdrücken</hi></soCalled>!!</p>
+                
+                <p rend="indent-first">Und das Resultat, das ich
+                    <lb/>erhoffe:</p>
+                
+                <p rend="indent-first">keine st<choice><orig>y</orig><reg>i</reg></choice>lisierten und sterilisierten
+                    <lb/>Dauergefühle.</p>
+                
+                <p rend="indent">Das gi<orig>e</orig>bt<reg>’</reg>s im Menschen nicht:</p>
+                
+                <p rend="indent-first"><subst><del rend="overwritten"><gap reason="overwritten" extent="1" unit="char"/></del><add place="across">D</add></subst>em Menschen ist es <hi rend="underline">unmöglich</hi><reg>,</reg>
+                    <lb/>nur <hi rend="underline">ein</hi> Gefühl gleichzeitig zu haben.</p>
+                
+                <!-- Vgl. Entwurf: "ein armer, doch zufriedener Mensch" sowie Schönbergs Annotation: "Famos!"-->
+                
+                <p rend="indent-first">Man hat <hi rend="underline">tausende</hi> auf einmal.
+                    <lb/>Und diese tausend summieren
+                    <lb/>sich so<reg> </reg>wenig, als <choice><orig>Ae</orig><reg>Ä</reg></choice>pfel und Birnen
+                    <lb/>sich summieren. Sie gehen auseinander.</p>
+                
+                <p rend="indent-first">Und diese Buntheit, diese Viel
+                    <lb break="no"/>gestaltigkeit,
+                    diese <hi rend="underline">Unlogik</hi><reg>,</reg> die
+                    <lb/>unsere Empfindungen zeigen, diese
+                    <lb/>Unlogik, die die Asso<choice><orig>c</orig><reg>z</reg></choice>iationen auf
+                    <lb break="no"/>weisen,
+                    die irgend<orig> </orig>eine aufsteigende
+                    <lb/>Blutwelle, irgend<orig> </orig>eine Sinnes<add place="inline"><pc>=</pc></add> oder
+                    
+                    <pb n="12"/>
+                    
+                    Nerven<choice><orig><pc>=</pc>R</orig><reg>r</reg></choice>eaktion aufzeigt, möchte
+                    <lb/>ich in <del rend="strikethrough">M</del> meiner Musik haben.</p>
+                
+                <p rend="indent-first">Sie soll Ausdruck der Empfindung
+                    <lb/>sein, so wie die Empfindung
+                    <lb/>wirklich ist, die uns mit unserem
+                    <lb/><hi rend="underline">Unbewussten</hi> in Verbindung bringt<reg>,</reg>
+                    <lb/>und nicht ein Wechselbalg aus Empfindung
+                    <lb/>und <soCalled rend="dq-du">bewusster Logik</soCalled>.</p>
+                
+                <p rend="indent-first">Nun habe ich bekannt<reg>,</reg> und man
+                    <lb/>möge mich verbrennen.</p>
+                
+                <p rend="indent-first">Sie werden nicht zu denen ge
+                    <lb break="no"/>hören, die mich verbrennen; das
+                    <lb/>weiß ich.</p>
+                
+                <closer>
+                    <salute rend="indent-first"> Mit vielen hochachtungsvollen
+                        <lb/>Grüßen bin ich Ihr
+                        herzlichst ergebener</salute>
+                    <signed><persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="bottom-right" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="shelfmark" place="bottom-left" resp="#archive">Poststempel: <handShift resp="#pencil3"/><add place="above">13. od.</add> <handShift/>18.8.09 <handShift resp="#pencil3"/>(?)</note>
+                
+                <pb n="13"/>
+                
+                <note type="shelfmark" place="top" rend="align(left)" resp="#archive">B II, 4549</note>
+                <note type="foliation" place="top-right" rend="circle" resp="#major_hand">4</note>
+                
+                <postscript>
+                    
+                    <p rend="indent-first">Der vorliegende Brief blieb aus Versehen
+                        <lb/>einige Tage bei mir liegen. Inzwischen hatte
+                        <lb/>ich das <rs key="E0400114"><choice><orig>3<hi rend="sup underline">te</hi></orig><reg>dritte</reg></choice> Klavierstück</rs> (vorher habe
+                        
+                        <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (171)</bibl> und <bibl><ref target="#E0800005"/> (160)</bibl>: <q>hatte</q>.</note>
+                        
+                        ich <rs key="E0400115">ein
+                            <lb/>Orchesterstück</rs> geschrieben) fertig bekommen<orig>,</orig> und
+                        <lb/>benütze nun gleich die Gelegenheit, es Ihnen
+                        <lb/>zu senden. Ich bin sehr neugierig, wie Ihnen
+                        <lb/>dieses zusagen wird. Ich selbst habe vorläufig
+                        <lb/>noch kein Urteil darüber. Ich habe es, wie meist,
+                        <lb/>sehr rasch geschrieben<reg>,</reg> und da muss ich mich ge
+                        <lb break="no"/>wöhnlich erst selbst <del rend="strikethrough">mich</del> an meine Musik
+                        <lb/>gewöhnen.
+                        
+                        <note type="commentary" resp="#E0300317">Mit der Fertigstellung des <rs key="E0400114">dritten Klavierstückes</rs> beendet <persName key="E0300023">Schönberg</persName> eine Arbeit, die als Beginn der Atonalität bezeichnet werden kann. In den <title key="E0400019">Klavierstücken op. 11</title> lassen sich bereits erste Entwicklungen feststellen, die letztlich zu einer <q>Gleichberechtigung aller Töne und Klänge</q> (<bibl><ref target="#E0800032"/>, S. 81</bibl>) führten (<bibl><ref target="#E0800030"/>, S. 184</bibl> sowie <bibl><ref target="#E0800001"/>, S. 40 f.</bibl>).</note>
+                    </p>
+                    
+                    <p rend="indent-first">Ich möchte noch eine Sache berühren.
+                        <lb/>Sie schrieben einmal, ob ich einen Verleger
+                        <lb/>habe<reg>,</reg> und fragten mich ein anderes<choice><orig>m</orig><reg> M</reg></choice>al, ob
+                        <lb/>Sie etwas t<orig>h</orig>un könnten.
+                        
+                        <note type="commentary" resp="#E0300317">Vgl. die Briefe vom <ref type="E010001" target="#D0100007" n="3"><date when-iso="1909-07-16">16. Juli 1909</date></ref> und <ref type="E010001" target="#D0100009" n="4"><date when-iso="1909-07-26">26. Juli 1909</date></ref>.</note>
+                        
+                        Ja, das wäre
+                        <lb/>mir sehr recht; ich hätte es sehr nöt<orig>h</orig>ig, denn
+                        <lb/>mit meinem bisherigen Verleger
+                        
+                        <note type="commentary" resp="#E0300317"><persName key="E0300023">Schönberg</persName> war seit dem <date when-iso="1903-06-27">27. Juni 1903</date> beim <orgName key="E0600006">Dreililien-Verlag</orgName> unter Vertrag, der von <persName key="E0300044">Max Marschalk</persName> geleitet wurde. In den sieben Vertragsjahren erschienen hier die Liedersammlungen <rs key="E0400026">op. 1</rs>, <rs key="E0400027">op. 2</rs>, <rs key="E0400028">op. 3</rs> und <rs key="E0400030">op. 6</rs> sowie das Streichsextett <title key="E0400029">Verklärte Nacht op.&#8239;4</title> und das <title key="E0400031">Streichquartett Nr. 1 op. 7</title>. Da der <rs key="E0600006">Verlag</rs> aufgrund <q>finanzieller Bedenken</q> (<bibl><ref target="#E0800010"/>, S. 639</bibl>) bei anderen Werken mit der Herausgabe zögerte, u. a. der symphonischen Dichtung <title key="E0400012">Pelleas und Melisande</title>, war <persName key="E0300023">Schönberg</persName> auf der Suche nach einem neuen Verleger (<bibl><ref target="#E0800010"/>, S. 639 f.</bibl>).</note>
+                        
+                        ist ja
+                        <lb/>ohnehin nichts mehr für mich zu machen.
+                        <lb/>Dagegen häufen sich meine ungedruckten
+                        
+                        <note type="commentary" resp="#E0300317">Neben <title key="E0400012">Pelleas und Melisande</title> gehörten zu den bis dahin ungedruckten Werken auch die <title key="E0400025">Sechs Lieder für Gesang und Orchester op.&#8239;8</title> und die <title key="E0400023">Kammersymphonie für 15 Soloinstrumente op.&#8239;9</title>.</note>
+                        
+                        <pb n="14"/>
+                        
+                        und unaufgeführten Werke in unheimlicher
+                        <lb/>Weise. Obwohl ich nicht so viel schreibe, als
+                        <lb/>ich könnte, habe ich doch nicht weniger als
+                        <lb/><choice><orig>9</orig><reg>neun</reg></choice> fertige ungedruckte<choice><orig> größten th</orig><reg>,  größtent</reg></choice>eils umfang
+                        <lb break="no"/>reichere Werke liegen. Abgesehen<choice><orig>, von jenen</orig><reg> von jenen,</reg></choice>
+                        <lb/>die ich nicht veröffentlichen will<reg>,</reg> und einer
+                        <lb/>Menge solcher<reg>,</reg> die, gegenwärtig unfertig, mut
+                        <lb break="no"/>maßlich einmal vollendet werden, sind es
+                        <lb/>wie gesagt <choice><orig>9</orig><reg>neun</reg></choice> Werke im Umfang von
+                        <lb/>mehr als 400 Seiten.
+                        
+                        <note type="commentary" resp="#E0300313">Gemeint sind vermutlich u. a. die Symphonische Dichtung <title key="E0400012">Pelleas und Melisande op. 5</title> (erschienen im <date when-iso="1911-10">Oktober 1911</date>), die <title key="E0400023">Kammersymphonie op. 9</title> (erschienen im <date when-iso="1913-11">Januar 1913</date>) sowie die <title key="E0400025">Orchesterlieder op. 8</title> (erschienen im <date when-iso="1913-10">Oktober 1913</date>).</note>
+                        
+                        Da scheint mir doch,
+                        <lb/>als ob ich endlich wieder einmal was heraus
+                        <lb break="no"/>geben müsste. Insbesondere<orig>,</orig> da einiges
+                        <lb/>schon, im Verhältnis zu meine<subst><del rend="overwritten">r</del><add place="across">m</add></subst> jetzigen
+                        <lb/>Entwicklungs<choice><orig> S</orig><reg>s</reg></choice>tandpunkte<reg>,</reg> schon geradezu
+                        <lb/>veraltet ist.</p>
+                    
+                    <p rend="indent-first">Ich wäre Ihnen daher sehr dankbar,
+                        <lb/>wenn Sie Ihren Einfluss bei einem
+                        <lb/>Verleger geltend machen wollten.</p>
+                    
+                    <p rend="indent-first">Zunächst nun aber bin ich begierig auf
+                        <lb/>Ihr Urteil über <sic>über</sic> das neue Stück
+                        <lb/>und wie Sie sich zur Frage meines
+                        
+                        <pb n="15"/>
+                        
+                        Klavierstils nun stellen werden.</p>
+                    
+                    <p rend="indent-first">Ich empfehle mich Ihnen aufs herzlichste
+                        <lb/>und bin mit vollster Hochschätzung Ihr</p></postscript>
+                <closer>
+                    <salute rend="align(right)">ganz ergebener</salute>
+                    
+                    <signed rend="align(right)"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                
+                <pb n="16"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 4 des dritten Bogens, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

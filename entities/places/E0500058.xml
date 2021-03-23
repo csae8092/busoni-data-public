@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Villa Lepcke (Zehlendorf)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Villa Lepcke</placeName>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Machnower Chaussee / Ecke Dietloffstraße</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500056">Zehlendorf</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="DE"/>
+                  <geo>52.414734 13.244202</geo>
+               </location>
+               <desc>Villa des Kaufmanns <persName key="E0300036">Oscar Lepcke</persName> für sich und seinen Bruder, den Bildhauer <persName key="E0300035">Ferdinand Lepcke</persName>.</desc>
+               <event from-iso="1911-10-01" to-iso="1913-05"><ab>Wohnort <persName key="E0300023">Arnold Schönbergs</persName> (vgl. <bibl><ref target="#E0800001">Stuckenschmidt 1974</ref>, S. 135</bibl>).</ab></event>
+               <note><date when-iso="1945">1945</date> zerstört (vgl. <bibl><ref target="#E0800001"/>, S. 135</bibl>).</note>
+               <note>heutige Adresse: <placeName type="street">Zehlendorfer Damm / Ecke Gradnauerstaße</placeName>, <placeName key="E0500412">Kleinmachnow</placeName></note>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

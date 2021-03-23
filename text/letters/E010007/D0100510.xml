@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100510">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Kleinlaufenburg, 14. September 1900)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Kleinlaufenburg, 14 September 1900)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1697</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 8 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-588781</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300208">Freund</persName> hofft, dass es seiner Schwester <persName key="E0300420">Etelka</persName> vergönnt sein wird, als Pianistin 
+                            <q>Hervorragendes zu leisten</q>; bedauert, einen Besuch in <placeName key="E0500144">Weimar</placeName> nicht ermöglicht zu haben, hofft aber ebenfalls 
+                            auf ein Wiedersehen in <placeName key="E0500029">Berlin</placeName> im Winter; benennt <placeName key="E0500092">Schweizer</placeName> Nachwuchs-Pianisten, 
+                            die nach <placeName key="E0500029">Berlin</placeName> übersiedeln wollen; erkundigt sich nach dem Erscheinungstermin von <persName key="E0300017">Busonis</persName> 
+                            <rs key="E0400268">2. Violinsonate</rs> und seinem zweiten <bibl><ref target="#E0800255"><persName key="E0300013">Liszt</persName>–Artikel</ref></bibl>; 
+                            bringt seine Bewunderung ob <persName key="E0300017">Busonis</persName> enormer Schaffenskraft zum Ausdruck.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="--09-14"/>14/9</docDate>
+                            <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1900" cert="high"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1900-09-14"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1900-09-15"/></docDate>
+                            <incipit>Vielen Dank für Ihren Brief <choice><abbr>u.</abbr><expan>und</expan></choice> den willko<choice><abbr>m̅</abbr><expan>mm</expan></choice>enen Inhalt</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Seiten 1 und 4 sind beschrieben, davon Seite 4 im Querformat; Innenteil des Bogens (Seite 2 und 3) vacat.</collation>
+                                <condition>Der Brief ist gut erhalten; Umschlag mit seitlichem Aufriss, kleiner Ausriss am oberen Rand (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">
+                                Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen, eine Foliierung vorgenommen und das Briefdatum ergänzt hat
+                            </handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat
+                            </handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">
+                                unbekannte Hand (vmtl. Gerda Busoni oder Friedrich Schnapp), die auf der Umschlagrückseite die Zuordnung <q>Robert Freund</q> mit Bleistift vermerkt hat
+                            </handNote>
+                            <handNote xml:id="post_pen" scope="minor" medium="pencil" scribe="postoffice" cert="high">
+                                vmtl. Hand eines Postangestellten, der die Adresse ergänzt hat
+                            </handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)
+                            </handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">
+                                Bibliotheksstempel (blaue Tinte)
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100510_5.jpg"/>
+                            <note type="stamp" place="left" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500534">Kleinlaufenburg</placeName>
+                                    <lb/><date when-iso="1900-09-14">14/9
+                                        <lb/>00</date>
+                                    <lb/>* 12–1 N. *
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500534">K<supplied reason="low-ink">leinlau</supplied>fen<supplied reason="low-ink">burg</supplied></placeName>
+                                    <lb/><date when-iso="1900-09-14"><supplied reason="low-ink">14/9</supplied>
+                                        <lb/>00</date>
+                                    <lb/><supplied reason="low-ink">*</supplied> 12–1 N. *
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine rend="align(right)">Herrn <persName key="E0300017">Ferruccio B. Busoni</persName></addrLine>
+                                <addrLine rend="underline align(right)"><placeName key="E0500144">Weimar</placeName>
+                                    <lb/><add place="margin-right" resp="#post_pen">2 <subst><del rend="strikethrough"><gap reason="strikethrough" extent="1" unit="char"/></del><add place="inline"> <hi rend="sup">I</hi></add></subst></add>
+                                </addrLine>
+                            </address>
+                            <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) tiny">Deutsche
+                                    <lb/>S<supplied reason="low-ink">taats</supplied>bibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                            <pb n="6" facs="D0100510_6.jpg"/>
+                            <note type="annotation" place="top-center" rend="large space-below" resp="#unknown_hand">
+                                <persName key="E0300208">Robert Freund</persName>
+                            </note>
+                            <note type="stamp" place="margin-left" rend="rotate(180)" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border align(center) small">
+                                    <seg rend="majuscule"><placeName key="E0500144"><supplied reason="low-ink">Wei</supplied>mar</placeName></seg>
+                                    <lb/><date when-iso="1900-09-15">15.9.00</date>.3–4V.
+                                    <lb/>★ ★ b
+                                </stamp>
+                            </note>
+                            <lb/><lb/><note type="shelfmark" place="center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                                        Mus.ep. R. Freund 8</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 1697–Beil.</add> 
+                                </subst>                    
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500534">Kleinlaufenburg</origPlace>
+                            <origDate when-iso="1900-09-14" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="lh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Unterstrichen (_).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100510">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1900-09-14" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2880121" key="E0500534">Kleinlaufenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2812482" key="E0500144">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100573"/>
+                    <ref type="previous" target="#D0100573"/>
+                    <ref type="next" target="#D0100511"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-04-27" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-03-03" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/828148929/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A31700000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A31700000004"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A31700000002"/>
+        <graphic n="4" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A31700000003"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A31700000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A31700000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100510_1.jpg"/>
+                <note type="shelfmark" place="top-left" rend="space-below" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. R. Freund 8 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 1697</add>
+                    </subst>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <placeName key="E0500534">Kleinlaufenburg</placeName><reg>,</reg> <date when-iso="1900-09-14" cert="high"><choice><orig>14/9</orig><reg>14. September</reg></choice></date>
+                    </dateline>
+                    <note type="dating" place="top-center" resp="#archive">[<date xml:id="arch_date" when-iso="1900" cert="high">1900</date>]</note>
+                </opener>
+                
+                <p><seg type="opener" subtype="salute">Lieber Freund!</seg> Vielen Dank für
+                    <lb/>Ihren <ref type="E010007" target="#D0100573">Brief</ref> <choice><abbr>u.</abbr><expan>und</expan></choice> den willko<choice><abbr>m̅</abbr><expan>mm</expan></choice>enen
+                    <lb/>Inhalt. Nachdem <persName key="E0300420">Etel</persName> sich einmal
+                    <lb/>für die <soCalled rend="dq-uu"><foreign xml:lang="fr">Carrière</foreign></soCalled> entschlossen,
+                    <lb/>wünschte ich sehnlichst, dass
+                    <lb/>es ihr vergö<choice><abbr>n̅</abbr><expan>nn</expan></choice>t wäre<reg>,</reg> Hervor
+                    <lb break="no"/>ragendes zu leisten <choice><abbr>u.</abbr><expan>und</expan></choice> nicht
+                    <lb/>unter die <soCalled rend="dq-uu">guten</soCalled> Pianisti<choice><abbr>n̅</abbr><expan>nn</expan></choice>en
+                    <lb/>rangi<reg>e</reg>rt zu werden. –</p>
+                <p>Glauben Sie, dass es mir sehr
+                    <lb/>leid t<orig>h</orig>at<reg>,</reg> Sie nicht in <placeName key="E0500144"><choice><abbr>W.</abbr><expan>Weimar</expan></choice></placeName>
+                    <lb/>besuchen zu kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>en; aber es
+                    <lb/>ging nicht. Dagegen hoffe
+                    <lb/>ich sehr<reg>,</reg> Sie in <placeName key="E0500029">Berlin</placeName> zu
+                    <lb/>sehen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Während <persName key="E0300208">Freunds</persName> <placeName key="E0500029">Berlin</placeName>-Aufenthalt im Winter <date when-iso="1900/1901">1900/01</date>.
+                    </note>
+                    
+                    So viele Engagements
+                    <lb/>ich Ihnen auch wünsche,
+                    <lb/>bin ich doch Egoist genug<reg>,</reg>
+                    
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp xml:id="dsb_p1" rend="round border align(center) tiny">
+                            D<supplied reason="low-ink">e</supplied><supplied reason="ink-blot">uts</supplied><supplied reason="low-ink">che
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></supplied>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="2" facs="D0100510_4.jpg"/>
+                    <note type="stamp" place="bottom-right" rend="rotate(-90)" resp="#dsb_st_red">
+                        <stamp sameAs="#dsb_p1" rend="round border align(center) tiny">
+                            D<supplied reason="low-ink">e</supplied><supplied reason="ink-blot">uts</supplied><supplied reason="low-ink">che
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                            </supplied>
+                        </stamp>
+                    </note>
+                    
+                    auch ein paar Tage des Zusa<choice><abbr>m̅</abbr><expan>mm</expan></choice>enseins (im Laufe
+                    <lb/>des <choice><abbr>n.</abbr><expan>nächsten</expan></choice> Winters) für mich <del xml:id="del_1" rend="strikethrough">abfallen</del> zu <del xml:id="del_2" rend="overwritten">sehen</del><add xml:id="add_1" place="across">begehren</add>. Übrigens
+                    <substJoin target="#del_1 #del_2 #add_1"/>
+                    <lb/>emigri<reg>e</reg><supplied reason="omitted">r</supplied>t der <placeName key="E0500092">schweizerische</placeName> pianistische Nachwuchs nach
+                    <lb/><placeName key="E0500029">Berlin</placeName>. <persName key="E0300184">Lochbru<choice><abbr>n̅</abbr><expan>nn</expan></choice>er</persName>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300184">Ernst Lochbrunner</persName> hatte u. a. bei <persName key="E0300143">Eugen d’Albert</persName> studiert, bevor er 
+                        <date when-iso="1900">1900</date> nach <placeName key="E0500029">Berlin</placeName> umsiedelte und dort Schüler von <persName key="E0300017">Busoni</persName> wurde.
+                        Zu Beginn des Jahres hatte er <persName key="E0300017">Busoni</persName> am <date when-iso="1900-02-25">25.02.1900</date> in einem Konzert der 
+                        <orgName key="E0600021">Allgemeinen Musikgesellschaft <placeName key="E0500097">Basel</placeName></orgName> gehört. <q><rs key="E0500097">Hier</rs> 
+                            allgemeine Begeisterung</q>, schreibt <persName key="E0300017">Busoni</persName> kurz danach an <rs key="E0300059">seine Frau</rs>, <q>besonders unter den 
+                                jungen Pianisten. <persName key="E0300184">Lochbrunner</persName> kam aus <placeName key="E0500132">Zürich</placeName> und <persName key="E0300472">Hegner</persName> 
+                                war aus dem Häuschen.</q> (<bibl><ref target="#E0800023"/>, Bd. 1, Br. 172, S. 195</bibl>)
+                        <date when-iso="1901">1901</date> wurde <persName key="E0300184">Lochbrunner</persName> Lehrer am <orgName key="E0600012">Stern’schen Konservatorium</orgName> 
+                        in <placeName key="E0500029">Berlin</placeName> und wechselte zu <date when-iso="1914">Beginn des Ersten Weltkrieges</date> ans 
+                        <placeName key="E0500132">Zürcher</placeName> <rs key="E0600136">Konservatorium</rs>, wo er bis <date to-iso="1920">1920</date> tätig war. In 
+                        <placeName key="E0500132">Zürich</placeName> hat er sich mit <persName key="E0300017">Busoni</persName>, der ab Ende <date when-iso="1915/1920">1915 bis 1920</date> 
+                        ebenfalls dort weilte, <q>herzlichst angefreundet</q>. (Br. <persName key="E0300017">Busoni</persName> an <persName key="E0300031">Egon Petri</persName> vom 
+                        <date when-iso="1916-05-13">13.05.1916</date>, in: <bibl><ref target="#E0800038">Busoni/Weindel 1999a</ref>, Br. 245, S. 256</bibl>)
+                        Am <date when-iso="1917-12-18">18.12.1917</date> gaben beide in <placeName key="E0500132">Zürich</placeName> einen gemeinsamen Klavier-Abend auf zwei Klavieren.
+                        (<bibl><ref target="#E0800058"/>, Anm. 87/4, S. 128 f.</bibl>) <persName key="E0300184">Lochbrunner</persName> ist zudem 
+                        Widmungsträger der drei von <persName key="E0300017">Busoni</persName> bearbeiteten <persName key="E0300012">Bach</persName>-<title key="E0400359">Toccaten in 
+                            e-Moll, g-Moll und G-Dur</title> sowie der <title key="E0400350">Réminiscences de Don Juan</title> von <persName key="E0300013">Liszt</persName>.
+                        (vgl. <bibl><ref target="#E0800121"/>, S. 429/443</bibl>)
+                    </note>
+                    
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300472">Hegner</persName> (bei <rs key="E0600012">Stern</rs>)<reg>,</reg>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300472">Otto Hegner</persName> war bis <date to-iso="1904">1904</date> Lehrer am <orgName key="E0600012">Stern’schen Konservatorium 
+                            der Musik</orgName> in <placeName key="E0500029">Berlin</placeName>. (<bibl><ref target="#E0800063"/>, S. 126</bibl>)
+                    </note>
+                    
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300473">Niggli</persName><reg>,</reg> der
+                    <lb/>hofft sehr, dass Sie sich seiner annehmen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300473">Friedrich Niggli</persName> war ein ehemaliger Schüler <persName key="E0300208">Freunds</persName>. Dieser hatte 
+                        <persName key="E0300473">Niggli</persName> versprochen, <q>ihn an <persName key="E0300017">Busoni</persName> zu empfehlen</q>, was ursprünglich auf dem Umweg
+                        über <persName key="E0300420">Etelka</persName> und <persName key="E0300432">Irma</persName> während des ersten <placeName key="E0500144">Weimarer</placeName> 
+                        Meisterkurses geschehen sollte. <q>[…] <persName key="E0300473">Niggli</persName> wird diesen Winter in <placeName key="E0500029">Berlin</placeName> verleben u. 
+                            <persName key="E0300017">Busoni</persName> besuchen</q>, schreibt <persName key="E0300208">Freund</persName> an seine <rs type="persons" key="E0300420 E0300432">Schwestern</rs>, 
+                        und weiter: <q>Ich lasse <persName key="E0300017">Busoni</persName> bitten ihn freundlich aufzunehmen. Natürlich wird sich <persName key="E0300473">Niggli</persName> 
+                        auch als Schüler für nächsten Som̅er anmelden. Er möchte aber nicht blos Clavier bei <persName key="E0300017">Busoni</persName> studieren, sondern ihm auch 
+                        seine Compositionen unterbreiten damit sie <persName key="E0300017">Busoni</persName> critisirt. […] Vergeßt ja nicht diese Comission auszurichten […]</q>
+                        (Br. von <persName key="E0300208">Robert</persName> an <persName key="E0300420">Etelka</persName> und <persName key="E0300432">Irma Freund</persName>; 
+                        <placeName key="E0500534">Kleinlaufenburg</placeName>, <date when-iso="1900-09-04">04.09.1900</date>; CH-Zz, Ms. Z II 157.6.2) 
+                        <persName key="E0300208">Freunds</persName> Nachricht wurde offenbar nicht überbracht, sodass er an dieser Stelle einen erneuten Vermittlungsversuch auf direktem Wege 
+                        startet. <persName key="E0300017">Busonis</persName> Antwort ist nicht überliefert, aber <persName key="E0300473">Niggli</persName> war nie Schüler 
+                        bei ihm, weder für Klavier noch für Komposition. <persName key="E0300473">Niggli</persName> hatte in den Jahren zuvor (nach seinen Studien bei 
+                        <persName key="E0300208">Freund</persName> und <persName key="E0300288">Friedrich Hegar</persName> in <placeName key="E0500132">Zürich</placeName>) u. a. bei <persName key="E0300535">Josef Rheinberger</persName> 
+                        in <placeName key="E0500034">München</placeName> studiert, bei <persName key="E0300536">James Kwast</persName> in <placeName key="E0500153">Frankfurt/Main</placeName>, 
+                        in <placeName key="E0500020">Rom</placeName> bei <persName key="E0300537">Giovanni Sgambati</persName> sowie bei <persName key="E0300475">Gabriel Fauré</persName> 
+                        in <placeName key="E0500012">Paris</placeName>. <date when-iso="1900">1900</date> war <persName key="E0300473">Niggli</persName> nach <placeName key="E0500132">Zürich</placeName> 
+                        zurückgekehrt und gründete gemeinsam mit <persName key="E0300288">Hegar</persName>, <persName key="E0300125">Hans Huber</persName> und 
+                        <persName key="E0300132">Hermann Suter</persName> den <orgName key="E0600147"><placeName key="E0500092">Schweizerischen</placeName> Tonkünstlerverein</orgName>.
+                    </note>
+                    
+                    –</p>                
+                <p>Wa<choice><abbr>n̅</abbr><expan>nn</expan></choice> erscheint endlich Ihre <rs key="E0400268">Violinsonate</rs>? 
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Bereits zum zweiten Mal erkundigt sich <persName key="E0300208">Freund</persName> hier nach dem Erscheinungstermin von <persName key="E0300017">Busonis</persName> 
+                        <title key="E0400268">2. Violinsonate</title>. (vgl. <ref type="E010007" target="#D0100506" n="2">Br. vom <date when-iso="1899-02-28">28.02.1899</date></ref>)
+                        Die Uraufführung derselben fand am <date when-iso="1898-09-30">30.09.1898</date> in <placeName key="E0500270">Helsingfors</placeName> statt. 
+                        (<bibl><ref target="#E0800023"/>, Bd. 2, Anm. 112, S. 836</bibl>) Bereits <date when-iso="1898-07-16">gut zwei Monate 
+                            zuvor</date> hatte <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> die Inverlagnahme der <rs key="E0400268">Kompositon</rs> zugesichert. 
+                        (<bibl><ref target="#E0800050"/>, Bd. 1, Br. 106 ff., S. 72 ff.</bibl>) Aufgrund der völligen Überlastung von 
+                        <persName key="E0300017">Busoni</persName> zog sich die Vollendung der Reinschrift allerdings noch längere Zeit hin. Erst am <date when-iso="1900-11-08">08.11.1900</date>, 
+                        also nachdem der vorliegende Brief verfasst wurde, übersandte <persName key="E0300017">Busoni</persName> das druckfertige Manuskript an den <rs key="E0600002">Verlag</rs>. 
+                        Die Veröffentlichung erfolgte letztlich im Herbst <date when-iso="1901">1901</date>. (vgl. <bibl><ref target="#E0800050">ebd.</ref>, Br. 173+178, S. 112+118</bibl>) 
+                    </note>
+                    
+                    Und der
+                    <lb/>zweite <bibl><ref target="#E0800255"><persName key="E0300013">Liszt</persName>-Artikel</ref></bibl>?                    
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Der <bibl><ref target="#E0800255">Artikel</ref></bibl> war am <date when-iso="1900-08-31">31.08.1900</date> bereits erschienen. <q>Nachmittag [sic] den 2ten 
+                            <bibl><ref target="#E0800255"><persName key="E0300013">Liszt</persName>artikel</ref></bibl> geschrieben</q>, teilte <persName key="E0300017">Busoni</persName> 
+                        <rs key="E0300059">seiner Frau</rs> am <date when-iso="1900-08-20">20.08.1900</date> mit, <q>ich glaube schwungvoller als der erste. Ein dritter ist noch nöthig.</q> 
+                        (<bibl><ref target="#E0800023"/>, Bd. 1, Postkarte 178, S. 200</bibl>) Die Veröffentlichung anderthalb Wochen später erfolgte in der 
+                        <orgName key="E0600014">Allgemeinen Musikzeitung</orgName>, die <persName key="E0300208">Freund</persName> regelmäßig las und vmtl. sogar abonniert hatte. 
+                        (vgl. <ref type="E010007" target="#D0100523">Briefe vom <date when-iso="1904-11-18">18.11.1904</date></ref> und <ref type="E010007" target="#D0100555">
+                            <date when-iso="1916-04-04">04.04.1916</date></ref>) Das bedeutet, dass er <persName key="E0300017">Busonis</persName> zweiten 
+                        <bibl><ref target="#E0800255">Artikel</ref></bibl> über die von ihm geplanten <q>Ausgaben der <persName key="E0300013">Liszt</persName>schen Klavierwerke</q> 
+                        übersehen haben muss. Vorstellbar wäre es, der zweite Artikel ist nur halb so lang wie der erste.
+                    </note>
+                    
+                    Ihre Arbeitskraft ist
+                    <lb/>erstaunlich. Stunden, <choice><orig>c</orig><reg>k</reg></choice>ompositorische <choice><abbr>u.</abbr><expan>und</expan></choice> literarische
+                    <lb/>Beschäftigung <choice><abbr>u.</abbr><expan>und</expan></choice> endlich das Vorbereiten Ihrer
+                    <lb/>Progra<choice><abbr>m̅</abbr><expan>mm</expan></choice>e! Wo nehmen Sie nur die Zeit her? –</p>
+                
+                <closer>
+                    <salute>
+                        Empfehlen Sie mich bitte <rs key="E0300059">Ihrer Frau</rs> auf<orig>’</orig>s Beste
+                        <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> empfangen Sie die herzlichsten Grü<choice><orig>ss</orig><reg>ß</reg></choice>e
+                    </salute>
+                    <signed rend="align(center)">Ihres dankbar ergebenen
+                        <lb/><seg rend="align(right)"><persName key="E0300208">R. Freund</persName></seg>
+                    </signed>
+                </closer>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[2<hi rend="sup">v</hi>]</note>
+                
+                <pb n="3" facs="D0100510_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4" facs="D0100510_3.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 2]</note>
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

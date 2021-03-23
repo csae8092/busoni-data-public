@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100076">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Heinrich Schenker an Ferruccio Busoni (Wien, 7./8. Januar 1900)</title>
+                <title xml:lang="en">Letter by Heinrich Schenker to Ferruccio Busoni (Vienna, 7–8 January 1900)</title>
+                <author key="E0300024">Heinrich Schenker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-07"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4430</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Schenker 18 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-731343</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300024">Schenker</persName> übermittelt ein Lob <persName key="E0300014">Eduard Hanslicks</persName>; berichtet von einer verschobenen Aufführung der <title key="E0400016">Syrischen Tänze</title>; äußert Bedenken bezüglich eine bevorstehenden Konzerts <persName key="E0300254">Moriz Rosenthals</persName>; besucht ein Konzert von <persName key="E0300253">Nellie Melba</persName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1900-01-07"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1900-01-08"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1900-01-10"/></docDate>
+                            <docDate resp="#arch_black_3" sameAs="#archivist"><date when-iso="1900-01-07"/></docDate>
+                            <incipit>Ich lese soeben die Ankündigung Ihrer <choice><orig>3</orig><reg>drei</reg></choice> <choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>erte in <placeName key="E0500029">Berlin</placeName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300024">Hand des Absenders Heinrich Schenker, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_1" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die ursprüngliche Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_2" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die erneute Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_3" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der eine Datierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)"><placeName key="E0500002">Wien</placeName> 1/1
+                                    <lb/><hi rend="minuscule">d</hi> 1
+                                    <lb/><date when-iso="1900-01-08">8.1.00</date> 
+                                    <lb/>9-10 <gap reason="low-ink" extent="1" unit="char"/>
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine><persName key="E0300017">F. B. Busoni</persName></addrLine>
+                                <addrLine rend="align(center)">Komponist</addrLine>
+                                <addrLine rend="align(center)"><placeName key="E0500029">Berlin</placeName>. W.</addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500359">Tauen<reg>t</reg>zienstr. <choice><orig>1̇̇</orig><reg>1</reg></choice>0</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <address>
+                                <addrLine><persName key="E0300024">D<seg rend="sup">r</seg>H Schenker</persName></addrLine>
+                                <addrLine rend="align(center) indent-first-neg"><placeName key="E0500002">Wien</placeName>, <placeName key="E0500379">III/3</placeName> <placeName key="E0500380">Richardgass.
+                                    <lb/><choice><orig>1̇1̇</orig><reg>11</reg></choice></placeName></addrLine>
+                            </address>
+                            
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border align(center)">Bestellt<lb/>vom<lb/>Postamte 50<lb/><date when-iso="1900-01-10">10.1.00</date><lb/>* 7 V <gap reason="low-ink" atLeast="1" unit="char"/> <choice><unclear reason="low-ink" cert="high">8</unclear><unclear reason="low-ink" cert="low">9</unclear></choice> <gap reason="low-ink" atLeast="1" unit="char"/> V. * </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#arch_black_1">
+                                <del rend="strikethrough" resp="#arch_black_2">Mus. ep. H. Schenker 18
+                                    <lb/><stamp rend="inline" resp="#sbb_st_blue">Nachlaß Busoni</stamp><handShift new="#arch_red"/> B II</del>
+                            </note>
+                            <note type="dating" place="bottom-center" resp="#arch_black_2">
+                                <date when-iso="1900-01-07">7.1.1900</date><lb/>(m. 1 Marke)
+                            </note>
+                            <note type="shelfmark" place="bottom-center" resp="#arch_black_2">
+                                <add>Mus.Nachl. F. Busoni B II, 4430-
+                                    <lb/><seg rend="margin-right">Beil.</seg></add>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500002">Wien</origPlace>
+                            <origDate when-iso="1900-01-07/1900-01-08"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100076">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker,
+                        Heinrich</persName>
+                    <date when="1900-01-08"/>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni,
+                        Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                    <date notBefore="1900-01-10"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100077"/>
+                    <ref type="previous" target="#D0100064"/>
+                    <ref type="next" target="#D0100077"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-05-12" who="#E0300318">Datei als Platzhalter erstellt,
+                Transkription ausstehend.</change>
+            <change when-iso="2017-05-25" who="#E0300318">Transkription und Ausarbeitung begonnen.</change>
+            <change when-iso="2018-07-16" who="#E0300318">Bearbeitung abgeschlossen; Status auf "proposed" gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/875103030/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE500000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE500000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE500000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE500000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE500000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE500000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#arch_black_2">
+                    <del xml:id="delShelfmark01" rend="strikethrough"><handShift new="#arch_black_1"/>Mus.ep. H. Schenker 18<lb/>(Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#arch_black_1"/>)</del>
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <note type="shelfmark" resp="#arch_black_2">
+                    <add xml:id="addShelfmark01" place="margin-left" rend="rotate(-90)"><handShift new="#arch_black_2"/>Mus.Nachl. F. Busoni B II, 4430</add>
+                </note>
+                
+                <substJoin target="#delShelfmark01 #addShelfmark01"/>
+                
+                <opener>
+                    <dateline rend="top-right"><date when-iso="1900-01-07">1900. 7. Jänner</date></dateline>
+                    <salute rend="space-above">Verehrtester, bester Freund!</salute>
+                </opener>
+                <p rend="space-above">Ich lese soeben die Ankün
+                    <lb break="no"/>digung Ihrer <choice><orig>3</orig><reg>drei</reg></choice> <choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>erte in
+                    <lb/><placeName key="E0500029">Berlin</placeName>,
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> gab am <date when-iso="1900-01-23">23. Januar</date>, <date when-iso="1900-01-31">31. Januar</date> sowie <date when-iso="1900-02-07">7. Februar</date> Klavierabende in <placeName key="E0500029">Berlin</placeName> im <placeName key="E0500074">Beethoven-Saal</placeName> (<bibl><ref target="#E0800109"/></bibl>). Die erwähnte Ankündigung konnte nicht ermittelt werden.</note>
+                    
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> da drängt es
+                    <lb/>mich, Ihnen zu sagen, was
+                    <lb/>mir neulich <persName key="E0300014"><choice><abbr>Ed.</abbr><expan>Eduard</expan></choice> Hanslick</persName>
+                    <lb/>über Sie sagte, als ich mit
+                    <lb/>einem <rs key="E0300222">jungen Freund</rs>
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300024">Schenker</persName> selbst nannte später <persName key="E0300222">Moriz Violin</persName> als zweiten Pianisten (<bibl><ref type="ext" target="http://www.schenkerdocumentsonline.org/documents/correspondence/OJ-5-18-33.html">Brief von <persName key="E0300024">Schenker</persName> an <persName key="E0300252">Oswald Jonas</persName> vom <date when-iso="1933-12-21">21. Dezember 1933</date></ref></bibl>).</note>
+                    
+                    bei ihm
+                    <lb/>zu Hause meine <title key="E0400016" rend="dq-du"><choice><abbr>Sy.</abbr><expan>Syrischen</expan></choice> Tänze</title>
+                    <lb/>vorspielte. Er sagte
+                    <lb/>wörtlich: <q rend="dq-du" who="#E0300014"><persName key="E0300017">Busoni</persName> halte
+                        <lb/>ich heute für den <hi rend="underline">ersten</hi>
+                        <lb/>Pianisten <choice><abbr>u.</abbr><expan>und</expan></choice> Techniker.</q></p>
+                
+                <p rend="indent-first">Somit sti<choice><abbr>m̅</abbr><expan>mm</expan></choice>t auch der
+                    
+                    <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    <pb n="2"/>
+                    
+                    <hi rend="underline">scheinbar unbeabsichtigte</hi>
+                    <lb/>Griff in <persName key="E0300014">Hanslick<orig>’</orig>s</persName> <rs key="E0800084">Aufsatz</rs>
+                    <lb/>in der <orgName key="E0600044"><hi rend="underline">Deutschen Rundschau</hi></orgName>
+                    <lb/><placeName key="E0500029">Berlin</placeName>, <persName key="E0300243">Rodenberg</persName>-<orgName key="E0600045">Paetel</orgName>
+                    <lb/>(Seite 120!), worin er
+                    <lb/>Sie an erster Stelle
+                    <lb/>vor <persName key="E0300143">d’Albert</persName> na<choice><abbr>n̅</abbr><expan>nn</expan></choice>te.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300014">Hanslick</persName> nennt in <title rend="dq-du" key="E0800084">Ein Vierteljahrhundert Musik</title> u. a. die bedeutendsten Pianisten der letzten 25 Jahre. Dort heißt es: <quote>Unter den Klaviervirtuosen die Älteren: <persName key="E0300176">Rubinstein</persName>, und <persName key="E0300231">v. Bülow</persName>, <persName key="E0300247">Clara Schumann</persName>. Die Jüngeren <persName key="E0300017">Busoni</persName>, <persName key="E0300242">Stavenhagen</persName>, <persName key="E0300143">d’Albert</persName>, <persName key="E0300248">Emil Sauer</persName> […].</quote> (<bibl><ref target="#E0800084"/>, S. 120 f.</bibl>).</note>
+                    
+                    <lb/>Die List <rs key="E0300014">des Alten</rs> schob
+                    <lb/>da <persName key="E0300242">Stavenhagen</persName> zwischen
+                    <lb/>Sie <choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300143">d’Albert</persName> ein, um
+                    <lb/>von der Absicht den Leser
+                    <lb/>abzulenken!</p>
+                <p>Sollte Sie das <choice><orig>A</orig><reg>a</reg></choice>lles
+                    <lb/>nicht interessi<reg>e</reg>ren, so
+                    <lb/>verzeihen Sie, dass ich’s
+                    <lb/>Ihnen schrieb.</p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                
+                <p>Denken Sie, <date when-iso="1900-01-09">morgen</date> hätte
+                    <lb/>ich selbst im <placeName key="E0500312">Bösendorfer-
+                        <lb break="no"/>Saal</placeName> spielen sollen, <choice><abbr>u.</abbr><expan>und</expan></choice> zwar
+                    <lb/><choice><orig>4-</orig><reg>vier</reg></choice>händig mit einem tüchtigen
+                    <lb/><rs key="E0300222">Partner</rs>.
+                    
+                    <note type="commentary" resp="#E0300318">Das Konzert war für den <date when-iso="1900-01-09">9. Januar</date> angesetzt (<bibl><ref target="#E0800110"/></bibl>). Dieser Umstand spricht dafür, dass der Brief zwar am <date when-iso="1900-01-07">7. Januar</date> begonnen, jedoch erst am <date when-iso="1900-01-08">8.</date> abgeschlossen und verschickt wurde (vgl. hierzu auch den Poststempel).</note>
+                    
+                    Der private Erfolg
+                    <lb/>der <rs rend="dq-du" key="E0400016">Tänze</rs> rief mich
+                    <lb/>förmlich auf<orig>’</orig>s Podium.</p>
+                <p rend="indent-first">Sie gefallen allgemein, be
+                    <lb break="no"/>sonders wenn ich <choice><abbr>u.</abbr><expan>und</expan></choice> <rs key="E0300222">mein
+                        <lb/>Freund</rs> sie spielen. Das
+                    <lb/><choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>ert ist verschoben, weil
+                    <lb/><rs key="E0300256">der Sänger</rs> unwohl gewor
+                    <lb break="no"/>den; so spiele ich die
+                    <lb/>Sachen nächstens.
+                    
+                    <note type="commentary" resp="#E0300318">Das Konzert war wegen Heiserkeit des Sängers <persName key="E0300256">Eduard Gärtner</persName> zunächst ohne konkretes Datum verschoben worden (<bibl><ref target="#E0800104"/></bibl>), wurde schließlich jedoch am <date when-iso="1900-01-26">26. Januar</date> nachgeholt (<bibl><ref target="#E0800103"/>, S. 34</bibl>).</note>
+                    
+                    <lb/>Tausend Grü<choice><orig>ss</orig><reg>ß</reg></choice>e an Sie
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Ihre <choice><abbr>hochg.</abbr><expan>hochgeschätzte</expan></choice> <rs key="E0300059">Frau Gema<reg>h</reg>lin</rs>,
+                    <lb/>in Eile vor dem <choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>ert
+                    <lb/><persName key="E0300253"><hi rend="underline">Melba</hi></persName>
+                    
+                    <note type="commentary" resp="#E0300318">Das <placeName key="E0500002">Wiener</placeName> Debüt der berühmten australischen Sopranistin <persName key="E0300253">Nellie Melba</persName> fand am <date when-iso="1900-01-08">8. Januar</date> im <placeName key="E0500350">Wiener Musikverein</placeName> statt (<bibl><ref target="#E0800086"/></bibl>).</note>
+                    
+                </p>
+                
+                <closer rend="align(right)">
+                    <salute>Ihr treu ergeben<supplied reason="illegible">er</supplied></salute>
+                    <signed><persName key="E0300024">D<choice><orig><seg rend="sup">r</seg>H</orig><reg>r. H.</reg></choice> Schenker</persName></signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <postscript>
+                    <p rend="indent-first"><persName key="E0300254">Rosenthal</persName>
+                        
+                        <note type="commentary" resp="#E0300318"><persName key="E0300024">Schenker</persName> war mit <persName key="E0300254">Moriz Rosenthal</persName> bereits seit <date when-iso="1894">1894</date> bekannt und befreundet (<bibl><ref target="#E0800079"/>, S. 194 ff.</bibl>).</note>
+                        
+                        tritt <date when-iso="1900-01-13">Samstag</date>
+                        <lb/>seit langer Zeit zum <choice><orig>1<seg rend="underline sup">ten</seg></orig><reg>ersten</reg></choice> Mal
+                        <lb/>wieder hier auf:
+                        
+                        <note type="commentary" resp="#E0300318"><persName key="E0300254">Rosenthal</persName> spielte, von <persName key="E0300251">Gutmann</persName> vertreten, am <date when-iso="1900-01-13">13. Januar 1900</date> einen Klavierabend im <placeName key="E0500312">Bösendorfer-Saal</placeName> (<bibl><ref target="#E0800087"/></bibl>).</note>
+                        
+                        ein
+                        <lb/>bedenkliches Zeichen<subst><del rend="overwritten">,</del><add place="across"> a</add></subst>ber
+                        <lb/>für das <choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>ert ist es,
+                        <lb/>dass mir <persName key="E0300251">Gut<sic>t</sic>mann</persName>
+                        <lb/>noch vor <choice><orig>2</orig><reg>zwei</reg></choice> Wochen <choice><unclear reason="illegible" cert="high"><hi rend="underline"><choice><orig>2</orig><reg>zwei</reg></choice> Sitze</hi></unclear><unclear reason="illegible" cert="low"><hi rend="underline">2</hi> Sitze</unclear></choice>
+                        <lb/>schicken ko<choice><abbr>n̅</abbr><expan>nn</expan></choice>te!
+                        
+                        <note type="commentary" resp="#E0300318">Ein entsprechender Brief ist in der Oswald Memorial Collection nicht erhalten.</note>
+                        
+                    </p>
+                    <p rend="indent">Sie ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>en <date when-iso="1900-04">April</date>, höre
+                        <lb/>ich<subst><del rend="strikethrough">.</del><add place="inline">?</add></subst>
+                        
+                        <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> spielte am <date when-iso="1900-03-18">18. März</date> im <placeName key="E0500350">Wiener Musikverein</placeName> unter Leitung von <persName key="E0300047">Gustav Mahler</persName> <persName key="E0300159">Carl Maria v. Webers</persName> <title key="E0400273">Konzertstück f-Moll für Klavier und Orchester</title> sowie ein Kammermusik-Konzert am <date when-iso="1900-03-21">21. März</date> im <placeName key="E0500312">Bösendorfer-Saal</placeName> (<bibl><ref target="#E0800108"/></bibl>). Ein weiteres Konzert im <date when-iso="1900-04">April</date> in <placeName key="E0500002">Wien</placeName> geht aus den überlieferten Programmen nicht hervor; jedoch scheint <persName key="E0300017">Busoni</persName> dennoch, möglicherweise Anfang <date when-iso="1900-04">April</date>, einen Klavierabend in <placeName key="E0500002">Wien</placeName> gegeben zu haben (vgl. <bibl><ref target="#E0800152"/></bibl>).</note>
+                        
+                    </p>
+                    <p>Für die Worte <persName key="E0300014">Hanslicks</persName>
+                        <lb/>steht auch <rs key="E0300222">mein Freund</rs>
+                        <lb/>ein, der sie mit angehört
+                        <lb/>hat.
+                        
+                    </p>
+                    
+                    <note type="stamp" place="bottom-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    <note type="stamp" place="bottom-right" resp="#sbb_st_blue">
+                        <stamp>Nachlaß Busoni</stamp>
+                    </note>
+                </postscript>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

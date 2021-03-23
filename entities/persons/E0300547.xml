@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300547">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philipp Scharwenka</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-10-17" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">117110418</idno>
+                    <idno type="VIAF">101083271</idno>
+                    <idno type="ISNI">0000000122835701</idno>
+                    <persName type="reg">
+                        <surname>Scharwenka</surname>,
+                        <forename>Philipp</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Ludwig</forename>
+                        <forename>Philipp</forename>
+                        <surname>Scharwenka</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1847-02-16"/>
+                        <placeName key="E0500622">Samter</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1917-07-16"/>
+                        <placeName key="E0500623">Bad Nauheim</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Komponist</occupation>
+                    <occupation>Musikpädagoge</occupation>
+                    <affiliation from-iso="1893" notAfter-iso="1917">Dozent am <orgName key="E0600159">Klindworth-Scharwenka-Konservatorium</orgName></affiliation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

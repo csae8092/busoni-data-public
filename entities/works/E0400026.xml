@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schönberg, Arnold: 2 Gesänge für eine Baritonstimme und Klavier op. 1</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300023">Arnold Schönberg</author>
+                  <title level="m">2 Gesänge für eine Baritonstimme und Klavier</title>
+                  <idno type="op">1</idno>
+                  <idno type="GND">300139144</idno>
+                  <imprint>
+                     <date from-iso="1898-07-01" to-iso="1998-12-31" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1900-12-01" type="firstperf-part"/>
+                     <note>Nr. 1 <title level="m">Dank</title> (2. Vertonung)</note>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1898" type="firstperf-part"/>
+                     <note>Nr. 2 <title level="m">Abschied</title></note>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1903" type="firstprint"/>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schönberg, Arnold: 4 Lieder für eine Singstimme und Klavier op. 2</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300023">Arnold Schönberg</author>
+                  <title level="m">4 Lieder für eine Singstimme und Klavier</title>
+                  <idno type="op">2</idno>
+                  <idno type="GND">300201699</idno>
+                  <imprint>
+                     <date when-iso="1899-08-09" type="composed-part"/>
+                     <note>Nr. 1 <title level="m">Erwartung</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1899-09/1899-12" type="composed-part"/>
+                     <note>Nr. 2 <title level="m">Schenk mir deinen goldenen Kamm (Jesus bettelt)</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1899-11-16" type="composed-part"/>
+                     <note>Nr. 3 <title level="m">Erhebung</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1900" type="composed-part"/>
+                     <note>Nr. 4 <title level="m">Waldsonne</title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1904-02-11" type="firstperf-part"/>
+                     <note>Nr. 1, 2</note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1907-01-26" type="firstperf-part"/>
+                     <note>Nr. 3</note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1915-04-28" type="firstperf-part"/>
+                     <note>Nr. 4</note>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1903" type="firstprint"/>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

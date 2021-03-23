@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500583">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Herzogtum Sachsen-Weimar-Eisenach</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="region">
+               <placeName when-iso="1741/1815">Herzogtum Sachsen-Weimar-Eisenach</placeName>
+               <placeName when-iso="1815/1903">Großherzogtum Sachsen-Weimar-Eisenach</placeName>
+               <placeName when-iso="1903/1918">Großherzogtum Sachsen</placeName>
+               <placeName when-iso="1918/1920">Freistaat Sachsen-Weimar-Eisenach</placeName>
+               <location>
+                  <country key="DXDE" to-iso="1920"/>
+                  <geo>50.983333 11.166667</geo>
+               </location>
+               <desc><date when-iso="1741">1741</date> entstanden aus der Zusammenlegung der Herzogtümer von Sachsen-Eisenach und Sachsen-Weimar; <date when-iso="1809">1809</date> Zusammenschluss per Verfassung staatsrechtlich verankert; Hauptstadt <placeName key="E0500144">Weimar</placeName>; <date when-iso="1920">1920</date> Zusammenlegung mit anderen Freistaaten zum Land Thüringen.</desc>
+               <idno type="GND">4051194-7</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

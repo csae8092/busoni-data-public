@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100243">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Vitznau, 16. Juli 1917)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Vitznau, 16 July 1917)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2294</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 68 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-622118</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <!-- EXPLIZIT GENANNTES DATUM -->
+                            <docDate><!--<date when-iso="0000-00-00"/>--></docDate>
+                            <!-- POSTSTEMPEL AM ABSENDEORT -->
+                            <docDate resp="#post" sameAs="#post_abs"><!--<date when-iso="0000-00-00"/>--></docDate>
+                            <!-- POSTSTEMPEL VOM -->
+                            <docDate resp="#post" sameAs="#post_rec"><!--<date when-iso="0000-00-00"/>--></docDate>
+                            <incipit><!-- INCIPIT DES BRIEFS --></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio"><!-- X Bogen --></measure>
+                                    <measure type="pages"><!-- X beschriebene Seiten --></measure>
+                                </extent>
+                                <collation><!-- MGL. BESONDERHEITEN DER SEITENFOLGE. --></collation>
+                                <condition><!-- ZUSTAND --> Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc> <!-- BESCHREIBUNG DER "HÄNDE" -->
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf dem Umschlag die Zuordnung <q>Huber</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="3"/>
+                            
+                            <note type="stamp" resp="#post" place="right">
+                                <stamp rend="round border majuscule align(center)">
+                                    <placeName key="E0500200">VITZNAU</placeName> + 15.VII.17.XI–
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine><persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine><placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="4"/>
+                            
+                            <note type="annotation" place="…" resp="#recipient">Huber</note>
+                            
+                            <note type="stamp" resp="#post" place="right">
+                                <stamp rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> BRF.EXP. 16.VII.17.–5
+                                </stamp>
+                            </note>
+                            
+                            <note type="stamp" place="…" resp="#sbb_st_blue">
+                                <stamp>Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp>
+                            </note>
+
+                            <note type="shelfmark" place="…" resp="#archive">
+                                <del rend="strikethrough">Mus.ep. H. Huber 68</del>
+                            </note>
+
+                            <note type="shelfmark" place="…" resp="#archive">Mus.Nachl. F. Busoni B II, 2294-Beil.</note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500200">Vitznau</origPlace>
+                            <origDate when-iso="1917-07-16"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100243">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1917-07-16"/>
+                    <placeName ref="http://www.geonames.org/2658107" key="E0500200">Vitznau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <!-- (EMPFANGSORT- UND DATUM, NUR FALLS SERIÖS ERMITTELBAR, SONST WEGLASSEN)
+                        <placeName ref="http://www.geonames.org/ID_DES_ORTES" key="E05.....">ORT</placeName>
+                        <date when="0000-00-00"/> -->
+                </correspAction>
+                <!-- STELLUNG IM BRIEFWECHSEL -->
+                <correspContext>
+                    <!-- DIESER BRIEF IST DIE ANTWORT AUF -->
+                    <!--<ref type="replyTo" target="#D0100..."/>-->
+                    <!-- ZU DIESEM BRIEF IST DER FOLGENDE DIE ANTWORT -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>-->
+                    <ref type="previous" target="#D0100206"/>
+                    <ref type="next" target="#D0100207"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873449754/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAF200000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAF200000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAF200000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAF200000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="…" rend="…" resp="#archive">
+                    <del rend="strikethrough">Mus.ep. H. Huber 68 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <opener>
+                    <dateline rend="align(center)"><placeName key="E0500200">Vitznau</placeName> Montag</dateline>
+                    <fw><orgName key="E0600020">Musikschule und Konservatorium <placeName key="E0500097">Basel</placeName></orgName>.</fw>                    
+                </opener>
+                    <p rend="indent-first"><seg type="opener" subtype="salute">Lieber Freund!</seg> Nach dem kleinen triumphalen
+                    <lb/>Ende der Saison kam ein größerer katastrophaler
+                    <lb/>Anfang der Ferien. Mitten in den Examen überfiel
+                    <lb/>mich ein Anfall von erhöhter Diabetis Krisis, der mich
+                    <lb/>zwang im Bett zu liegen <choice><abbr>&amp;</abbr><expan>und</expan></choice> weder links noch rechts
+                    <lb/>denken zu dürfen. Vielmehr schwankte ich in den
+                    <lb/>Gedanken ins Jenseits ab <choice><abbr>&amp;</abbr><expan>und</expan></choice> skizzi<reg>e</reg>rte im […] Kampf
+                    <lb/>ums Dasein eine 8te Symphonie über mors et vita.
+                    <lb/>Jetzt befinde ich mich in <placeName key="E0500200">Vitznau</placeName>, soll Wochen, ja
+                    <lb/>Monatelang nichts t<orig>h</orig>un <choice><abbr>&amp;</abbr><expan>und</expan></choice> verzweifle fast vor solcher
+                    <lb/>Not<orig>h</orig> <choice><abbr>&amp;</abbr><expan>und</expan></choice> Pein! – Item ich will mich brav <choice><abbr>&amp;</abbr><expan>und</expan></choice> heldenhaft
+                    <lb/>aufführen <choice><abbr>&amp;</abbr><expan>und</expan></choice> gebe Ihnen bald wieder Nachrichten,
+                    <lb/>wie es geht <choice><abbr>&amp;</abbr><expan>und</expan></choice> steht! – T<orig>h</orig>eilen Sie mir
+                    
+                    <note type="shelfmark" place="…" resp="#archive">Mus.Nachl. F. Busoni B II, 2294</note>
+                    
+                    <pb n="2"/>
+                    
+                    einmal Ihre großen Zukunftsideen mit! –
+                    <lb/><choice><orig>Ue</orig><reg>Ü</reg></choice>brigens hätte eine Mors et Vita<pc>=</pc>Chorsymphonie
+                    <lb/>auch eine Linie:</p>
+                
+                <p>Paradies, Kain – Sindflut – Joseph – Moses – Davids Klage –
+                    <lb/>die 3 Jünglinge im Feuerofen – Jeremias mit den Improperien
+                    <lb/>(„Popule meus“ etc) – Oster Segnungen – <choice><abbr>&amp;</abbr><expan>und</expan></choice> Tod des Gerechten <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <lb/>des reumütigen Sünders – Auferstehung – <hi rend="underline">natürlich
+                        <lb/>mit dem lateinischen Urtext</hi>.</p>
+                
+                <p rend="indent-first">Da<choice><orig>ß</orig><reg>ss</reg></choice> ich Ihnen zu Ihrer Arbeit den größten
+                    <lb/>Mut<orig>h</orig> <choice><abbr>&amp;</abbr><expan>und</expan></choice> schrankenlose Arbeitskraft wünsche, brauche
+                    <lb/>ich kaum beizufügen – fortes fortuna adjuvat –
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> Sie gehören zu den Allerstärksten. Mit
+                    <lb/>herzlichen Grüßen</p>
+                    
+                    <closer rend="align(right)">
+                        <salute>Ihr treuergebener</salute>
+                        <signed><persName key="E0300125">Hans Huber</persName></signed>
+                    </closer>
+                    
+                    <note type="stamp" place="…" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+            </div>
+        </body>
+    </text>
+</TEI>

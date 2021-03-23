@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800303">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>N. N. 1916b</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-04-03" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <title level="a">Kunst. Wissenschaft. Literatur.</title>
+                  <title level="a" type="sub"><persName key="E0300083">Umberto Boccioni</persName> †</title>
+               </analytic>
+               <monogr>
+                  <title level="j"><orgName key="E0600055">Vossische Zeitung</orgName></title>
+                  <title level="j" type="sub">Königlich privilegierte <placeName key="E0500029">Berlinische</placeName> Zeitung von Staats- und gelehrten Sachen</title>
+                  <idno type="DNB">4188753-0</idno>
+                  <imprint>
+                     <date when-iso="1916-09-07"/>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                     <publisher>Ullstein</publisher>
+                  </imprint>
+                  <biblScope unit="no">458</biblScope>
+                  <biblScope unit="page">[4]</biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

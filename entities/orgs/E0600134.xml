@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600134">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kolisch-Quartett</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="ensemble">
+               <idno type="GND">7678958-5</idno>
+               <orgName>
+                  <persName key="E0300118">Kolisch</persName>-Quartett</orgName>
+               <desc>In <placeName key="E0500002">Wien</placeName> <date when-iso="1882">1921</date> von <persName key="E0300118">Rudolf Kolisch</persName> im Zusammenhang mit dem <orgName key="E0600027">Verein für musikalische Privataufführungen</orgName> gegründetes Streichquartett, mit fester Besetzung <date from-iso="1924">seit 1924</date> unter dem Namen <soCalled><placeName key="E0500002">Wiener</placeName> Streichquartett</soCalled>, <date from-iso="1927">seit 1927</date> nach dem Primarius benannt.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

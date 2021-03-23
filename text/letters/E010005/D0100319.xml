@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100319">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Muralto, 27.–29. März 1918)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Muralto, 27–29 March 1918)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300364">
+                        <forename>Wantana</forename>
+                        <surname>Tancharoenpol</surname>
+                    </persName>
+                    <persName key="E0300365">
+                        <forename>Zaher</forename>
+                        <surname>Alkaei</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4277</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 18 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723842</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Rubiner</persName> erinnert an seine bereits geäußerte Kritik an einem Aufsatz über <persName key="E0300143">Eugen d’Albert</persName>; lobt einen Programmheftbeitrag von <persName key="E0300192">Bruno Goetz</persName>; will im <date when-iso="1918-04">April</date> in <placeName key="E0500132">Zürich</placeName> <title key="E0400133">Arlecchino</title> und <title key="E0400153">Turandot</title> sehen; hält Schaffen im Angesicht des Krieges für gottlos und die Unfähigkeit dazu für einen Ausweis echten Künstlertums; sucht Trost in der Lektüre <persName key="E0300371">Manzonis</persName> und <persName key="E0300215">Dantes</persName>; gibt historische, mythologische und kabbalistische Antworten auf eine <q>Zahlenfrage</q> <persName key="E0300017">Busonis</persName> zum Zusammenfallen von dessen Geburtstag mit dem Ostersonntag; widerspricht <persName key="E0300017">Busonis</persName> Einschätzung, dessen soeben beendetes <title key="E0400330">Klarinetten-Concertino</title> sei <q>eine geringe Ausbeute […] für <date when-iso="1918">1918</date></q>; nennt <title key="E0400331">Der Zauberflöte zweiten Teil</title> <persName key="E0300124">Goethes</persName> bestes Drama, die Übersetzung <title key="E0400332">Leben des <persName key="E0300374">Benvenuto Cellini</persName></title> <persName key="E0300124">Goethes</persName> besten Roman; gibt genauere Auskunft über seinen Eindruck von <persName key="E0300125">Hans Huber</persName>; beklagt die Überlaufenheit <placeName key="E0500183">Locarnos</placeName>; kommt in <rs key="E0400316">seiner Arbeit</rs> nur langsam voran; beherzigt <persName key="E0300017">Busonis</persName> Rat, den Plan einer Operndichtung zu verschieben; hofft auf eine christliche Ablösung des Materialismus; lädt <persName key="E0300017">Busoni</persName> nach <placeName key="E0500183">Locarno</placeName> ein, auch zwecks Rheuma-Kur für <persName key="E0300059">Gerda Busoni</persName>; sendet ein Buch mit.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1918-03-27/1918-03-29"/></docDate>
+                            <docDate resp="#unknown_hand" sameAs="#unknown_date"><date when-iso="1918-03-27"/></docDate>
+                            <incipit>Zuerst will ich Ihnen noch schnell eine ganze Kleinigkeit sagen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">7 Bogen</measure>
+                                    <measure type="pages">26 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="major_hand_pag" scope="minor" medium="pen" scribe="author" scribeRef="#E0300126" cert="high">Vmtl. Hand des Absenders Ludwig Rubiner, der mit dunklem Stift eine Paginierung vorgenommen hat (S.&#8239;2–24)</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="unknown_hand_date" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die auf der letzten Seite mit Bleistift das Datum notiert hat</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500291">Muralto</origPlace>
+                            <origDate when-iso="1918-03-27/1918-03-29"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100319">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1918-03-29"/>
+                    <placeName ref="http://www.geonames.org/6692335" key="E0500291">Muralto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100318"/>
+                    <ref type="next" target="#D0100320"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-19" who="#E0300364 #E0300365">Vorlagen-Datei erstellt, Transkription ausstehend, status unfinished.</change>
+            <change when-iso="2018-02-12" who="#E0300364 #E0300365">status proposed.</change>
+            <change when-iso="2018-02-16" who="#E0300314">erste Durchsicht</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873587596/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000010"/>
+        <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000011"/>
+        <graphic n="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000012"/>
+        <graphic n="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000013"/>
+        <graphic n="14" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000014"/>
+        <graphic n="15" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000015"/>
+        <graphic n="16" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000016"/>
+        <graphic n="17" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000017"/>
+        <graphic n="19" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000019"/>
+        <graphic n="20" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000020"/>
+        <graphic n="21" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000021"/>
+        <graphic n="22" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000022"/>
+        <graphic n="23" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000023"/>
+        <graphic n="24" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000024"/>
+        <graphic n="25" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000025"/>
+        <graphic n="26" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000026"/>
+        <graphic n="27" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000027"/>
+        <graphic n="28" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5000000028"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="shelfmark" resp="#archive" place="top-left">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. L. Rubiner 18 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                <note type="foliation" resp="#archive" place="top-right">[1]</note>
+                <opener>
+                    <dateline>
+                        <seg rend="align(right)"><date when-iso="1918-03-27">27. März 1918</date>.</seg> 
+                        <address>
+                            <addrLine><placeName key="E0500291">Muralto</placeName> &#8211; <placeName key="E0500183">Locarno</placeName></addrLine>
+                            <addrLine rend="indent"><placeName key="E0500447">Villa Rossa</placeName>.</addrLine>
+                        </address>
+                    </dateline>
+                    
+                    <note type="shelfmark" resp="#archive" place="margin-left" rend="rotate(-90)">
+                        <add xml:id="addSig">Mus.Nachl. F. Busoni B II, 4277</add>
+                    </note >
+                    <substJoin target="#delSig #addSig"/>
+                    
+                    
+                    <note type="stamp" place="left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                        </stamp>
+                    </note>   
+                    <salute rend="indent">Lieber Verehrter!</salute>
+                </opener>
+                <p>Zuerst will ich Ihnen noch schnell
+                    <lb/>eine ganze Kleinigkeit sagen, die
+                    <lb/>sachlich unwichtig ist, die Ihnen aber
+                    <lb/>Spa<choice><orig>ss</orig><reg>ß</reg></choice> machen wird; gleich sagen,
+                    <lb/>sonst vergess<reg>e</reg> ich es, wie ich es schon
+                    <lb/>ein paar Mal verga<choice><orig>ss</orig><reg>ß</reg></choice>: Also das
+                    <lb/>Gedichtbuch <title key="E0800167" rend="dq-du">Kondor</title>,
+                    <!-- das wird das hier sein:
+                        Der Kondor. Verse von Ernst Blass, Max Brod, Arthur Drey, S. Friedlaender, Herbert Grossberger, Ferdinand Hardekopf, Georg Heym, Kurt Hiller, Arthur Kronfeld, Else Lasker-Schüler, Ludwig Rubiner, René Schickele, Franz Werfel, Paul Zech. Hrsg. v. Kurt Hiller. Heidelberg: Richard Weissbach, 1912
+                        
+                        (eine Recherche in Online-Bibliothekskatalogen hätte hier recht schnell zum Ziel geführt: Titelwort "Kondor", Zeitraum 1900-1918)
+                        
+                        in den Bibliographie-Index aufzunehmen!
+                    -->
+                    das Sie am 
+                    <lb/><orgName key="E0600100">Helmhaus</orgName><!-- Helmhaus Zürich als Organisation aufnehmen! --> für 3 <choice><abbr>frcs</abbr><expan>Francs</expan></choice> kauften (oder
+                    <lb/>gar für 2,50), ist heute vergriffen
+                    <lb/>und selten<orig>,</orig> und erzielte in <placeName key="E0500029">Berlin</placeName>
+                    <lb/>auf einer Versteigerung (durch <orgName key="E0600101">Perl</orgName>)<!-- Auktionshaus Max Perl als Organisation aufnehmen! -->
+                    <lb/>65 Mark. &#8211; Genau den Aufsatz<!-- ermittelbar? dann bibliographische Angabe in den Index aufnehmen und hier mit <rs key="E08.....">…</rs> referenzieren -->
+                    <lb/>über <persName key="E0300143">d’Albert</persName>,
+                    den Sie mir sandten,
+                    <lb/>hatte ich gelesen, er hatte mein Herz
+                    <lb/>nicht ganz gleichgültig gelassen, mich
+                    <lb/>mit Wut und Ekel erfüllt und
+                    <lb/>einen Niederschlag in einem Brief an<!-- haben wir diesen Brief? dann mit <ref type="E010005" target="#D01003..">…</ref> hier referenzieren -->
+                    <lb/>Sie gefunden. &#8211; Ich finde, dass der
+                    <lb/>Aufsatz von <persName key="E0300192">Goetz</persName> im Programmheft
+                    <!-- ermittelbar? dann bibliographische Angabe in den Index aufnehmen und hier mit <rs key="E08.....">…</rs> referenzieren -->
+                    <pb n="2"/>
+                    <note type="pagination" resp="#major_hand_pag" place="top-right">2</note>
+                    des Theaters eine ausgezeichnete
+                    <lb/>Arbeit <!-- zu kommentieren --> ist. Ich nehme an, dass
+                    <lb/>ich, wenn ich im <date when-iso="1918-04">April</date> in <placeName key="E0500132">Zürich</placeName>
+                    <lb/>bin, <rs type="works" key="E0400153 E0400133">die Opern</rs> hören werde, denn
+                    <lb/>nach allem, was ich höre, scheint
+                    <lb/>doch auch diesmal ein klarer
+                    <lb/>Erfolg dazusein, und es werden
+                    <lb/>wohl Repertoire-Opern werden.
+                    <lb/>Ein klein wenig <del rend="strikethrough"><add place="above">hatte ich</add></del> Angst, als ich las:
+                    <lb/><persName key="E0300370">Denzler</persName> und <persName key="E0300399">Conrad</persName> &#8211; hatte ich
+                    <lb/>ja, dass mir das strahlende
+                    <lb/>innere Abbild, da<subst><del rend="overwritten">ss</del><add place="across">s</add></subst> <hi rend="sup">der</hi> Klavierauszug
+                    <lb/>gefestigt hat, verschoben würde.
+                    <lb/>Jedoch scheint das nach Ihrem
+                    <lb/>eigenen Urteil, das Sie mir
+                    <lb/>schrieben, nicht der Fall zu sein.
+                    <lb/><persName key="E0300370">Denzler</persName>, jedenfalls, muss dann viel
+                    <lb/>gelernt<orig>,</orig> und <persName key="E0300399">Conrad</persName> seine
+                    <lb/>widerwärtige Routine beiseite
+                    <lb/>gelassen haben. Nur die drei
+                    <lb/>Schriftsteller, die Sie mir nennen,
+                    <lb/>sollen im Theater auf Ihrer Seite
+                    <lb/>gewesen sein? Das erscheint
+                    <lb/>mir ernstlich unmöglich! Der
+                    
+                    <pb n="3"/>
+                    <note type="pagination" resp="#major_hand_pag" place="top-right">3</note>
+                    inneren Leichtigkeit kann sich
+                    <lb/>niemand entziehen.</p>
+                <postscript>
+                    <opener>
+                        <dateline rend="indent">
+                            <date when-iso="1918-03-29"> Freitag, <choice><abbr>d.</abbr><expan>den</expan></choice> 29. März</date>.
+                        </dateline>
+                    </opener>
+                    <p>Ich musste gestern mitten im 
+                        <lb/>Brief aufhören; so furchtbar
+                        <lb/>liegt mir das Gemetzel, das im
+                        <lb/>Westen begonnen hat, in den <note type="commentary" resp="#E0300364 #E0300365">Deutsche Frühjahrsoffensive 1918</note>
+                        <lb/>Gliedern. <persName key="E0300001">Herr van Beethoven</persName>,
+                        <lb/>der mitten im Kanonendonner
+                        <lb/>komponiert hat, mag wohl der
+                        <lb/>vorzüglichste Modekomponist
+                        <lb/>des 19. Jahrhunderts gewesen sein:
+                        <lb/>Mit der Ewigkeit hat dieser Herr
+                        <lb/>nicht zu tun. <persName key="E0300215">Dante</persName> hätte nicht
+                        <lb/>während einer Schlächterei gedichtet,
+                        <lb/><persName key="E0300124">Goethe</persName> nicht, <persName key="E0300010">Mozart</persName> hätte niemals
+                        <lb/>das fertig bekommen, wie überhaupt
+                        <lb/>kein Mensch, der bei Gott steht.
+                        <lb/>Aber <persName key="E0300006">Wagner</persName> hätte es gewiss getan,
+                        <lb/>hätte während der Schlacht mit <!-- kein konkreter Bezug gemeint: "hätte"! -->
+                        <lb/>dem Füllfederhalter komponiert
+                        <lb/>und extra ein paar Maschinen
+                        <lb break="no"/>gewehrschüsse selbst abgegeben, nur
+                        
+                        <pb n="4"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">4</note>
+                        
+                        um seine Person ultra<persName key="E0300001">beethoven</persName>isch
+                        <lb/>zu machen. Es ist auch wohl
+                        <lb/>nicht <persName key="E0300006">Wagner</persName>, der nur Nachahmer
+                        <lb/><subst><del rend="overwritten">ist</del><add place="across">da</add></subst>rin ist, sondern <persName key="E0300001">Beethoven</persName>,
+                        <lb/>dem man das Vorbild des
+                        <lb/>romantisch s<choice><orig>c</orig><reg>k</reg></choice>rupellosen
+                        <lb/>Kompo-Onanisten verdankt.</p>
+                    <p rend="indent-first">Diese Tage hätte ich nie
+                        <lb/>überstanden, hätte ich nicht
+                        <lb/>für die Nacht <persName key="E0300371">Manzoni</persName>,
+                        <lb/>für den Tag <persName key="E0300215">Dante</persName> bei mir.
+                        <lb/>Ich habe mich am <rs key="E0400323">Paradiso</rs>
+                        <lb/>wahrhaft aufrechterhalten.
+                        <lb/>Und ich glaube, gerade das
+                        <lb/><rs key="E0400323">Paradiso</rs> war während des
+                        <lb/>ganzen 19. <choice><abbr>Jhdts.</abbr><expan>Jahrhunderts</expan></choice> als langweilig
+                        <lb/>verrufen, nur darum, weil es
+                        <lb/>voll von der ungeheuersten
+                        <lb/>Weisheit ist, die freilich den
+                        <lb/>Herren Naturwissenschaftlern
+                        <lb/>zu mühevoll ist. (Warum
+                        <lb/>ich <persName key="E0300091">Tolstoi</persName> liebe? Nicht wegen
+                        
+                        <pb n="5"/>
+                        <note type="shelfmark" place="top-left" resp="#archive">B II, 4277</note>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">5</note>
+                        seiner Fehler, sondern weil der
+                        <lb/>ebenso ursprünglich aus genau
+                        <lb/>denselben urchristlichen
+                        <lb/>Quellen geschöpft hat. <q rend="dq-du" xml:lang="it" source="#E0400323">L’amor
+                            <lb/>che muove il Sole e le altre stelle</q><reg>,</reg><note type="commentary" resp="#E0300364 #E0300365"><persName key="E0300215">Dante</persName>, <title key="E0400323">Divina commedia</title>, Schlussvers (Paradiso XXXIII,145): <q>die Liebe, die die Sonne und die anderen Sterne bewegt</q>.</note>
+                        <lb/>um nur das <subst><del rend="overwritten">e</del><add place="across">E</add></subst>infachste zu nennen.
+                        <lb/>Unbegreiflich ist mir, wie
+                        <lb/>ganze Generationen diese 
+                        <lb/>absolut helle, übernaturwissen
+                        <lb break="no"/>schaftliche Gotteserkenntnis
+                        <lb/>haben missverstehen, fälschen und
+                        <lb/>ins elegant Salonmä<choice><orig>ss</orig><reg>ß</reg></choice>ige haben
+                        <lb/>umbiegen können.) &#8211;</p>
+                    <p>Und bei der Gelegenheit <persName key="E0300215">Dante</persName> gleich
+                        <lb/>die Frage von dem Zusammen
+                        <lb break="no"/>treffen Ihres Geburtstages mit 
+                        <lb/>dem Ostersonntage. Habe ich die 
+                        <lb/>Frage nun einfach zu verstehen
+                        <lb/>oder mit einer geheimnisvolleren
+                        <lb/>Beziehung? Sie ist, wie Sie wissen,
+                        <lb/>eine astronomische Frage; unab
+                        <lb break="no"/>hängig von der Person könnte
+                        
+                        <pb n="6"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">6</note>
+                        
+                        sie hei<choice><orig>ss</orig><reg>ß</reg></choice>en <q rend="dq-du">Wie oft fällt der erste
+                            <lb/>Vollmond nach dem Frühlings
+                            <lb break="no"/><choice><orig>ae</orig><reg>ä</reg></choice>quino<choice><orig>c</orig><reg>k</reg></choice>tium (21. März) in die 
+                            <lb/>letzte Märzwoche?</q> (Da, wie Sie
+                        <lb/>ja wissen, der Ostersonntag der
+                        <lb/><choice><orig>1.</orig><reg>erste</reg></choice> Sonntag nach dem Vollmond ist,
+                        <lb/>der auf die <choice><orig>Frühlings-TagundNacht
+                            <lb break="no"/>gleiche</orig><reg>Frühlings-Tag-und-Nacht-Gleiche</reg></choice> folgt. Der Ostersonntag
+                        <lb/>verschiebt sich also, auch der
+                        <lb/>Pfingstsonntag; ich bin am
+                        <lb/><date when-iso="1881-06-12">12. Juni</date> geboren und habe 
+                        <lb/>zweimal im Leben Geburtstag
+                        <lb/>zu Pfingsten geha<subst><del rend="overwritten">lb</del><add place="across">b</add></subst>t.) Aber über
+                        <lb/>das Kalendermä<choice><orig>ss</orig><reg>ß</reg></choice>ige werden Sie 
+                        <lb/>ebenso gut <choice><orig>b</orig><reg>B</reg></choice>escheid wissen wie 
+                        <lb/>die von Ihnen Angefragten.<!-- Absatz? -->
+                        <lb/>Hätte ich nur <supplied reason="omitted">die</supplied> geringsten astrono
+                        <lb break="no"/>mischen Hilfsmittel bei der Hand,
+                        <lb/>so könnte ich doch leichtlich
+                        <lb/>finden, wann der 1.&#8239;April
+                        <lb/>wiederum auf den <choice><orig>1.</orig><reg>ersten</reg></choice> Sonntag 
+                        <lb/>nach Vollmond<reg>,</reg> der auf <choice><abbr>d.</abbr><expan>den</expan></choice> 21. März
+                        <lb/>folgt, treffen wird. &#8211; Sollte
+                        <lb/>nun aber Ihre Frage
+                        
+                        <pb n="7"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">7</note>
+                        etwa lauten: Wie steht das
+                        <lb/>Zusammentreffen in Verbindung
+                        <lb/>mit den Zahlen:</p>
+                    <p rend="indent-first"><hi rend="underline" n="2">11</hi>. 22. 33.
+                        <lb/>(11 + 22 = 33.
+                        <lb/>33 + 33 = 66.
+                        <lb/>1866.
+                        <lb/>Quersumme: 1 + 8 + 6 + 6 = 21, Quersumme 2 + 1 = 3
+                        <lb/>3 × 11 = <hi rend="underline" n="2">33</hi>
+                        <lb/>Quersumme von 33 = 6
+                        <lb/>Dazu Ihre Monatszahlen
+                        <lb/><seg rend="indent">1. IV<reg>.</reg></seg>
+                        <lb/>1 + 4 + 6 = <hi rend="underline" n="2">11</hi>)!!! 
+                        <lb/>so muss ich Ihnen sagen, dass ich
+                        <lb/>trotz Ihrer äu<choice><orig>ss</orig><reg>ß</reg></choice>ert interessanten
+                        <lb/>kabbalistischen Quersummen
+                        <lb/>ohne astronomische Hilfsmittel
+                        <lb/>nicht wei<choice><orig>ss</orig><reg>ß</reg></choice>, <del rend="strikethrough">wie</del> in welchem
+                        <lb/>Verhältnis Ihre Hauptzahlen
+                        <lb/>zum Mondumlauf stehen. Es
+                        
+                        <pb n="8"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">8</note>
+                        
+                        ist aber sicherlich eine Beziehung
+                        <lb/>da. Wenn ich in <placeName key="E0500132">Zürich</placeName> bin,
+                        <lb/>stürze ich mich in Ihr
+                        <lb/>Horoskopisches! Wollen Sie
+                        <lb/>aber, zur Steuer der Gewissen
+                        <lb break="no"/>haftigkeit, bemerken, dass meine
+                        <lb/>Arbeit mit den Quersummen,
+                        <lb/>durch die ich zu jenen verblüffen
+                        <lb break="no"/>den <subst><del rend="overwritten">b</del><add place="across">B</add></subst>estätigungen Ihrer Grund
+                        <lb break="no"/>zahlen gekommen bin, nicht
+                        <lb/>naturwissenschaftlicher Art sind,
+                        <lb/><choice><abbr>sond<supplied reason="omitted">.</supplied></abbr><expan>sondern</expan></choice> lediglich phantastisch<pc>=</pc>kabbalisti
+                        <lb break="no"/>scher. &#8211;</p>
+                    <p>Ich persönlich glaube, dass nur
+                        <lb/>ganz einfache Zahlenverhältnisse
+                        <lb/>eine tiefere Bedeutung haben.
+                        <lb/>Alle <hi rend="underline">Jahreszahlen</hi> sind aber
+                        <lb/>ungeheuer kompli<choice><orig>c</orig><reg>z</reg></choice>iert, das hei<choice><orig>ss</orig><reg>ß</reg></choice>t<reg>,</reg>
+                        <lb/>sie sind schon sehr willkürlich.
+                        <lb/>Denn wenn wir solche Vorgänge<orig>,</orig>
+                        <lb/>wie Umlauf der Erde um die
+                        <lb/>Sonne<orig>,</orig> und Umlauf des Mondes
+                        <lb/>um die Erde <choice><abbr>u.</abbr><expan>und</expan></choice> überdies noch
+                        
+                        <pb n="9"/>
+                        <note type="shelfmark" place="top-left" resp="#archive">
+                            <add><idno type="D.B">BII, 4277</idno></add>
+                        </note>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">9</note>
+                        um die Sonne, dazu noch die 
+                        <lb/>Stellung, die der Mond zum
+                        <lb/>Kreuz am Himmel (das die Frühlings<pc>=</pc>
+                        <lb break="no"/>Tag<pc>=</pc>und<choice><orig> Nachtg</orig><reg>-Nacht-G</reg></choice>leiche bildet) einnimmt,
+                        <lb/>betrachten, so erscheint uns 
+                        <lb/>eine Jahreszahl wie <q rend="dq-du"><date when-iso="1918">1918</date></q>
+                        <lb/>als etwas recht <choice><orig>w</orig><reg>W</reg></choice>irres und
+                        <lb/><choice><orig>w</orig><reg>W</reg></choice>illkürliches. Die Welt hat
+                        <lb/>nicht erst vor 1919 Jahren
+                        <lb/>angefangen, die Juden haben
+                        <lb/>eine höhere Jahreszahl, die Buddhisten
+                        <lb/>eine noch höhere, die Veden
+                        <lb/>rechnen nach Millionen Jahren,
+                        <lb/>und die Mohammedaner haben
+                        <lb/>eine viel niedrigere Zahl als das
+                        <lb/>heutige Europa. In Wirklichkeit
+                        <lb/>ist jede Jahreszahl ganz will
+                        <lb break="no"/>kürlich, es kommt nur darauf an,
+                        <lb/>auf welchem Turm man steht
+                        <lb/>und nach ihr blickt. Nicht ganz
+                        <lb/>so willkürlich sind die Zahlen
+                        <lb/>unserer Lebensjahre, denn sie
+                        
+                        <pb n="10"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">10</note>
+                        
+                        richten sich ja nach dem Umlauf
+                        <lb/>der Erde um die Sonne, sie sind
+                        <lb/>aber auch nicht wahrhaft genau,
+                        <lb/>sondern nur zur  Bequemlichkeit
+                        <lb/>abgerundet. Ist man aber
+                        <lb/>an einem kalendermä<choice><orig>ss</orig><reg>ß</reg></choice>ig so
+                        <lb/>auffallenden Tag geboren<orig>,</orig> wie Sie,
+                        <lb/>am 1.&#8239;April, <del rend="strikethrough">dazu</del> das hei<choice><orig>ss</orig><reg>ß</reg></choice>t
+                        <lb/>an dem berühmtesten der
+                        <lb/>merkwürdigen Tage der antiken
+                        <lb/>Mythologie (der in Urzeiten
+                        <lb/><hi rend="underline">wirklich</hi> der erste Ostertag war,<!-- stimmt das? -->
+                        <lb/>nicht, wie heute, nur durch gele
+                        <lb break="no"/>gentliche <choice><orig>C</orig><reg>K</reg></choice>ombination), so hat
+                        <lb/>man schon ein sehr
+                        <lb/>seltsames Prognostikon.
+                        <lb/>(Prognostikon bezieht sich 
+                        <lb/>bei Menschen von bewusstem
+                        <lb/>Willen ja stets auf den
+                        <lb/>Willen, denn das Können
+                        
+                        <pb n="11"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">11</note>
+                        
+                        wird vorausgesetzt.)</p>
+                    <p>Der 1.&#8239;April ist nämlich nicht
+                        <lb/>zufällig der Tag der Scherze
+                        <lb/>geworden;<!-- stimmt das? --> sondern nach
+                        <lb/>meiner heutigen Einsicht alter
+                        <lb/>Quellen und privater Erkenntnis
+                        <lb/>hat das einen tiefen, mytholo
+                        <lb break="no"/>gischen Sinn. Ich persönlich
+                        <lb/>vermute auch, dass der
+                        <lb/><choice><orig>erste </orig><reg>1.&#8239;</reg></choice>April<orig>,</orig> der Festtag für 
+                        <lb/>die antike <hi rend="underline">Komödie</hi>, das
+                        <lb/>Satyrspiel war<orig>;</orig> (der <del rend="strikethrough"><unclear>Dyoniso</unclear></del>
+                        <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                            <stamp rend="round border align(center) small">Deutsche
+                                <lb/>Staatsbibliothek
+                                <lb/><placeName key="E0500029">Berlin</placeName>
+                            </stamp>
+                        </note>
+                        <lb/>Dionysostag, d.&#8239;h. auch der 
+                        <lb/>Bockstag<choice><orig>,)</orig><reg>);</reg></choice> und, da in der
+                        <lb/>Götterlehre Zerfleischung und
+                        <lb/>Auferstehung dasselbe ist: <choice><orig>D</orig><reg>d</reg></choice>er
+                        <lb/>Tag des Lachens <hi rend="underline">und</hi> der Wiedergeburt.
+                        <lb/>Ostern hat es, als uraltes
+                        <lb/>Fest dieses Sinnes, schon lange
+                        
+                        <pb n="12"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">12</note>
+                        
+                        vor der Zeit Christi gegeben;
+                        <lb/>damals &#8211; und bis in die
+                        <lb/>ersten Jahrhunderte der christlichen
+                        <lb/>Kirche, fiel es mit dem <choice><orig>ersten
+                            <lb/></orig><reg>1.&#8239;</reg></choice>April zusammen, weil dies der
+                        <lb/><hi rend="underline">natürliche</hi> Erd<pc>=</pc>Mond<pc>=</pc>Sonnen
+                        <lb break="no"/>zusammenklang ist.<!-- stimmt das? --> Erst seit
+                        <lb/>dem gregorianischen Kalender
+                        <lb/>ist Ostern verschiebbar. Ginge
+                        <lb/>es also natürlich in der
+                        <lb/>Welt her, so müsste Ihr Geburts
+                        <lb break="no"/>tag in jedem Jahr auf den
+                        <lb/>Ostersonntag fallen. Dass es
+                        <lb/>das <hi rend="underline">nicht</hi> tut, ist Willkürlichkeit
+                        <lb/>der heutigen Zeitrechnung. Und
+                        <lb/>so ist überhaupt die ganze
+                        <lb/>Welt. Immerhin kann man
+                        <lb/>sich gratulieren, dass es einen
+                        <lb/>Menschen gi<orig>e</orig>bt, dessen Geburts
+                        <lb break="no"/>tag vom 1.&#8239;April wenigstens
+                        <lb/>einige Male im Leben auf den
+                        <lb/>Ostersonntag fällt, der also,
+                        <lb/>mit meinen Begriffen aus
+                        
+                        <pb n="13" break="no"/>
+                        <note type="shelfmark" place="top-left" resp="#archive">B II, 4277</note>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">13</note>
+                        gedrückt, in dieser wirren
+                        <lb/>und willkürlichen Welt wenigs
+                        <lb break="no"/>tens noch in der Tradition
+                        <lb/>steht, der <hi rend="underline">höchstes Lachen und
+                            <lb/>höchstes Wissen</hi> <hi rend="underline">dasselbe ist.</hi>
+                        <lb/>Und dies sind meine Gedanken 
+                        <lb/>zu Ihrem diesjährigen Geburts
+                        <lb break="no"/>tag, die Sie durch Ihre interessante 
+                        <lb/>Zahlenfrage angeregt haben.</p>
+                    <milestone unit="section" style="—" rend="align(center)"/>
+                    <p rend="indent-first"><persName key="E0300059">Frau Gerda</persName>, sagen Sie
+                        <lb/>mir, ist in ihrer Krankheit
+                        <lb/>ungeduldig. Lieber Verehrter &#8211;
+                        <lb/>die Erkrankung Ihrer lieben 
+                        <lb/><persName key="E0300059">Frau Gerda</persName> dauert schon lange,
+                        <lb/>und ich frage mich, ob sie nicht
+                        <lb/>am Ende die Krankheit ver
+                        <lb break="no"/>nachlässigt. Nämlich: vielleicht 
+                        <lb/>ist, umgekehrt, die Krankheit
+                        <lb/>mit der Patientin ungeduldig,
+                        
+                        <pb n="14"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">14</note>
+                        
+                        läuft auf kurze Zeit davon,
+                        <lb/>kommt wieder, macht neuerdings 
+                        <lb/>Miene zu verschwinden &#8211; und
+                        <lb/>bleibt im ganzen Gro<choice><orig>ss</orig><reg>ß</reg></choice>en. Habt
+                        <lb/>Ihr auch einen <hi rend="underline">sehr</hi> <hi rend="underline">sehr</hi> 
+                        <lb/>guten Arzt? Vielleicht wird  
+                        <lb/>das nun doch wichtig.
+                        <lb/>Ich wünsche <persName key="E0300059">Frau Gerda</persName>,
+                        <lb/>dass sie Ihre Erkrankung
+                        <lb/>wie einen Nebel, der am Abend 
+                        <lb/>dalag, los<orig> </orig>wird, bald, schnell,
+                        <lb/>im Hauch, in schönem, trockenem,
+                        <lb/>helle<choice><sic>n</sic><corr>m</corr></choice> Wetter. Und dass sie
+                        <lb/>zunächst schon über die
+                        <lb/>Ostertage nichts mehr davon
+                        <lb/>merke!</p>
+                    <milestone unit="section" style="—" rend="align(center)"/> 
+                    <p rend="indent-first">Die Nachricht von Ihrem
+                        <lb/><title key="E0400330">Klarinetten-Concertino</title> hat<!-- Werkeintrag von mir berichtigt/vervollständigt -->
+                        <lb/>mich ordentlich froh gemacht.
+                        <lb/>Ja, so etwas muss man 
+                        
+                        <pb n="15"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">15</note>
+                        machen, und gerade hinein,
+                        <lb/>mitten in die wichtigsten,
+                        <lb/>ernstesten Dinge. Dass dies
+                        <lb/>nun eine geringe Ausbeute 
+                        <lb/>sein soll für <date when-iso="1918">1918</date><reg>,</reg> kann ich
+                        <lb/>gar<reg> </reg>nicht mit Ihnen finden.
+                        <lb/>Im Gegenteil, da doch die
+                        <lb/>Ausbeute unmöglich nach 
+                        <lb/>dem Pfundgewicht des 
+                        <lb/>beschreibenen Papiers beurteilt 
+                        <lb/>werden kann, erscheint es 
+                        <lb/>nur als ein Zeichen von 
+                        <lb/>unbekümmertster, heiterster
+                        <lb/>Schöpferkraft, mitten unter
+                        <lb/>seinen Arbeiten eine solche 
+                        <lb/>zu unternehmen. Ein Beweis,
+                        <lb/>dass man nicht dekorativ 
+                        <lb/>arbeitet, sondern aus der 
+                        <lb/>wirklichen Ideen-Arbeit
+                        <lb/>herkommt. <milestone unit="section" style="—" rend="inline"/> </p> 
+                    
+                    <pb n="16"/>
+                    <note type="pagination" resp="#major_hand_pag" place="top-right">16</note>
+                    
+                    <p><title key="E0400331" rend="dq-du">Der Zauberflöte zwe<choice><orig>y</orig><reg>i</reg></choice>ten T<orig>h</orig>eil</title>
+                        <lb/>habe ich in meiner Jugend oft 
+                        <lb/>gelesen. Nehme ich meine ganze 
+                        <lb/>Erinnerung von <persName key="E0300124">Goethe</persName> zusam
+                        <lb break="no"/>men, so erscheint mir dies 
+                        <lb/>als das dichterisch und formal 
+                        <lb/>gelungenste und <hi rend="underline">edelste</hi> 
+                        <lb/>seiner ganzen dramatischen 
+                        <lb/>Produktion. Ich stell es &#8211; in 
+                        <lb/>meiner Erinnerung &#8211; höher als 
+                        <lb/><hi rend="underline" n="2">alle</hi> gro<choice><orig>ss</orig><reg>ß</reg></choice>en <soCalled rend="dq-du">Klassiker</soCalled>-Dramen
+                        <lb/><persName key="E0300124">Goethes</persName>. <rs key="E0400331">Dies kleine Werkchen</rs> ist 
+                        <lb/>gewiss auch gelungener als der <title key="E0400107">Faust</title>.
+                        <lb/>(Meiner Erinnerung nach könnte 
+                        <lb/>ich es aber nicht als Opernbuch 
+                        <lb/>bezeichnen, sondern eher als 
+                        <lb/><choice><orig>C</orig><reg>K</reg></choice>antate. Doch ist hier ein 
+                        <lb/>Erinnerungsirrtum nicht aus
+                        <lb break="no"/>geschlossen.) &#8211; Ich <subst><del rend="overwritten"><gap reason="overwritten" atLeast="1" unit="char"/></del><add place="across">w</add></subst>ürde es heute 
+                        <lb/>wohl mit dem grö<choice><orig>ss</orig><reg>ß</reg></choice>ten Nutzen 
+                        <lb/>lesen. (In <placeName key="E0500183">Locarno</placeName> nicht 
+                        <lb/>aufzutreiben. Ich werde
+                        
+                        <pb n="17"/>
+                        <note type="shelfmark" place="top-left" resp="#archive">B II, 4277</note>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">17</note>       
+                        <persName key="E0300192">Goetz</persName> bitten, mir <rs key="E0400331">diesen Band 
+                            <lb/><persName key="E0300124">Goethe</persName></rs> zu leihen. Ebenso <persName key="E0300084">Pfitzners</persName>
+                        <lb/>musiktheoretische Schriften.)<note type="commentary" resp="#E0300364 #E0300365">Wahrscheinlich <persName key="E0300084">Pfitzners</persName> <title key="E0800168">Vom musikalischen Drama</title>.<!-- in den Bibliographie-Index aufnehmen! -->
+                        </note> Ich 
+                        <lb/>erlaubte mir noch etwas Ketzerisches:
+                        <lb/>Für <persName key="E0300124">Goethes</persName> edelstes Pros<supplied reason="omitted">a</supplied>werk,
+                        <lb/>für <del rend="strikethrough">seine</del> den seiner Romane,
+                        <lb/>der am schönsten geschrieben ist,
+                        <lb/>halte ich <rs key="E0400332">seine Übersetzung</rs> 
+                        <lb/>des <title key="E0400342"><persName key="E0300374">Benvenuto Cellini</persName></title>. &#8212;</p><!-- das Originalwerk wird ja auch erwähnt, insofern dieses auch in den Werkindex aufnehmen! -->
+                    <milestone unit="section" style="—" rend="align(center)"/>
+                    <p><persName key="E0300125">Huber</persName> war vor einigen Tagen 
+                        <lb/>noch in der Arbeit an seinem 
+                        <lb/>offenen Brief fürs <orgName key="E0600089" rend="dq-du">Journal
+                            <lb/>de Genève</orgName>; er wird ihn jetzt
+                        <!-- ermittelbar? dann mit in Bibliographie-Index aufnehmen und mit <rs key="E08.....">…</rs> hier auszeichnen -->
+                        <!-- alle Ausgaben sind online; bitte ermitteln, ob der Huber-Brief erschienen ist -->
+                        <lb/>wohl, denk ich, abgeschickt <!-- Informationen aus dem Huber-Briefwechsel dazu? -->
+                        <lb/>haben. Er ist ein kluger, herzens
+                        <lb break="no"/>guter Mensch, höchstgebildet,
+                        <lb/>ungewöhnlich behend für einen
+                        <lb/>Schweizer, und er hätte alle 
+                        <lb/>Eigenschaften<reg>,</reg> um liebenswert 
+                        <lb/>zu sein, wäre er nicht so eine
+                        <lb/>Art bejahrter Schmetterling. Ich 
+                        <lb/>fürchte, dieser Mann wird nie 
+                        
+                        <pb n="18"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">18</note>
+                        
+                        wagen, etwas Eigenes zu schreiben.
+                        <lb/>Und dabei eben ein wirklich 
+                        <lb/>lieber Mensch, und es wäre
+                        <lb/>gut, wenn die Welt aus 
+                        <lb/>mehr solchen Menschen wie
+                        <lb/>er bestände. Ob wir uns
+                        <lb/>nahekommen können, wei<choice><orig>ss</orig><reg>ß</reg></choice>
+                        <lb/>ich bis heute nicht. So ungefähr
+                        <lb/>stelle ich mir <persName key="E0300130">Mendelssohn</persName> vor;
+                        <lb/>mit dem hätte ich auch nur 
+                        <lb/>kurze, freundliche Bildungs
+                        <lb break="no"/>gespräche gehabt &#8211; Herzensgüte
+                        <lb/>vorausgesetzt. Und zum Schluss
+                        <lb/>möchte man dann gern irgend<orig><lb/></orig>welche ganz unvermutete
+                        <lb/><choice><orig>C</orig><reg>K</reg></choice>apriolen machen, nur um 
+                        <lb/>zu zeigen, dass das Menschenleben 
+                        <lb/>nicht so ein fein geordneter
+                        <lb/>Patri<choice><orig>c</orig><reg>z</reg></choice>ier-Leihbibliothekskatalog
+                        <lb/>ist. <milestone unit="section" style="—" rend="inline"/></p>
+                    
+                    <p rend="indent-first">Es gab einen Tag in
+                        <lb/><placeName key="E0500183">Locarno</placeName>, da wimmelte
+                        
+                        <pb n="19"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">19</note>
+                        
+                        es hier von Menschen, darunter 
+                        <lb/>Bekannte, die nicht zur Arbeit   
+                        <lb/>anregen, denen ich dagegen
+                        <lb/>auf Schritt und Tritt begegnen
+                        <lb/>musste, wenn ich einmal
+                        <lb/>in eine <soCalled rend="dq-du">Tabagie</soCalled> gehen wollte.<!-- Erläuterung Tabagie? -->
+                        <lb/>Das hinderte mich sehr bedenklich
+                        <lb/>in der Arbeit. Ich telegraphierte
+                        <lb/><rs key="E0300340">meiner Frau</rs>; die kam<orig>,</orig> nach
+                        <lb/>grö<choice><orig>ss</orig><reg>ß</reg></choice>tem Widerstreben auf
+                        <lb/>einige Tage her, nahm die
+                        <lb/>ganze Bande auf sich, und
+                        <lb/>nachdem der erste <choice><orig>Chok</orig><reg>Schock</reg></choice>
+                        <lb/>vorüber war, hatte ich wieder
+                        <lb/>den Kopf frei. <add place="inline" rend="small">Nun ist <rs key="E0300340">meine Frau</rs>
+                            <lb/>wieder in <placeName key="E0500132">Zürich</placeName>.</add>  <milestone unit="section" style="—" rend="inline"/></p> 
+                    <p>Ich selbst stelle heute die 
+                        <lb/>höchsten Anforderungen an
+                        <lb/><rs key="E0400316">meine Arbeit</rs>. Sie geht
+                        <lb/>weiter. An den komischen 
+                        <lb/>Stellen am schwersten. Mit 
+                        <lb/>gro<choice><orig>ss</orig><reg>ß</reg></choice>er Bitterkeit erfüllt
+                        
+                        <pb n="20"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">20</note>
+                        
+                        mich, dass ich die Zeit zur Fertig
+                        <lb break="no"/>stellung zu kurz angesetzt hatte. Ich 
+                        <lb/>dachte<reg>,</reg> Ende <date when-iso="1918-03">März</date> mit <rs key="E0400316">dem Ganzen</rs>
+                        <lb/>fertig zu sein, und dabei bin
+                        <lb/>ich heute noch nicht mit dem 
+                        <lb/>II.&#8239;Akt fertig, wenn ich mich 
+                        <lb/>auch seinem Ende nähere. Ich 
+                        <lb/>bin aber so in der Arbeit , dass
+                        <lb/>ich einen Vortrag, den ich am
+                        <lb/><date when-iso="1918-04-06">6.&#8239;April</date> in <placeName key="E0500132">Zürich</placeName> halten sollte,
+                        <lb/>deswegen abgesagt habe. &#8211; Ich 
+                        <lb/>zittre eben heute nur vor dem
+                        <lb/>einen: <choice><orig>D</orig><reg>d</reg></choice>ass mir etwas passiert,
+                        <lb/>ehe ich fertig werde. &#8212;</p> 
+                    <p rend="indent-first">Ihren Rat, die Ausarbeitung 
+                        <lb/>der projektierten Operndichtung, <!-- ermittelbar? -->
+                        <lb/>von der ich Ihnen schrieb,
+                        <lb/>auf spätere Jahre aufzuschieben, 
+                        <lb/>nahm ich zuerst mit Verblüffung 
+                        <lb/>auf. Einige Tage später wurde 
+                        <lb/>mir aber klar, dass Sie völlig
+                        <lb/>recht hatten, dass Sie mir
+                        <lb/>geraten hatten aus tiefer
+                        <lb/>Kenntnis der menschlichen 
+                        
+                        <pb n="21"/>
+                        <note type="shelfmark" place="top-left" resp="#archive">B II, 4277</note>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">21</note>
+                        Natur heraus, und aus einer
+                        <lb/>ganz besonderen, ungewöhnlich
+                        <lb/>tiefen und genauen Kenntnis
+                        <lb/>meiner spe<choice><orig>c</orig><reg>z</reg></choice>iellen Geistesverfassung.
+                        <lb/>Es gi<orig>e</orig>bt nun wirklich in der
+                        <lb/>Welt keinen Menschen, der
+                        <lb/>mich so gut und genau kennt
+                        <lb/>wie Sie, und keinen einzigen,
+                        <lb/>der mir mit solcher Geduld,
+                        <lb/>solche<subst><del rend="overwritten">r</del><add place="across">m</add></subst> menschlichen Interesse 
+                        <lb/>und solcher Liebe Ratschläge 
+                        <lb/>gegeben hat wie Sie. Jedes Mal,
+                        <lb/>wenn ich Ihren Rat befolgte,
+                        <lb/>ist mir das gut ausgeschlagen.
+                        <lb/>So hat auch diesmal schon 
+                        <lb/>das Nachdenken über Ihre
+                        <lb/>Worte betr. der Operndichtung
+                        <lb/><del rend="strikethrough">mit</del> mich von irgendwoher 
+                        <lb/>mit einer gewissen Freude erfüllt,
+                        <lb/>die mir dann zu der Arbeit
+                        <lb/>an der momentan schwersten
+                        <lb/>Stelle <rs key="E0400316">meiner Arbeit</rs> ver
+                        
+                        <pb n="22" break="no"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">22</note>
+                        holfen hat. — <milestone unit="section" style="—" rend="inline"/></p>
+                    
+                    <p>Nun ist <placeName key="E0500183">Locarno</placeName> für
+                        <lb/>diese Tage des Andranges 
+                        <lb/>von Menschen wirklich 
+                        <lb/>etwas klein. Indessen
+                        <lb/>soll es üblich sein, dass bald
+                        <lb/>nach Ostern die meisten
+                        <lb/>Leute wieder verschwinden 
+                        <lb/>und mir die Kranken,
+                        <lb/>Ruhebedürftigen und Arbeits
+                        <lb break="no"/>lustigen übrig bleiben, also
+                        <lb/>die<reg>,</reg> von denen man nicht
+                        <lb/>viel sieht. &#8212; </p> 
+                    <note type="stamp" place="right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                        </stamp>
+                    </note>
+                    <p rend="indent-first"><q rend="dq-du">Der Mensch</q>, schrieben Sie
+                        <lb/>mir neulich, <q rend="dq-du">ist dumm 
+                            <lb/>und schlecht</q>. Nur, solange
+                        <lb/>die eine Partei oder die andere
+                        <lb/>siegt, mit brutaler, gemeiner
+                        <lb/>Blutgewalt, mit Gift und 
+                        
+                        <pb n="23"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">23</note>
+                        
+                        mit niederträchtiger List.
+                        <lb/><persName key="E0300215">Dante</persName> hat mich auch hier
+                        <lb/>aufgerichtet, und ich wei<choice><orig>ss</orig><reg>ß</reg></choice>
+                        <lb/>von ihm, was ich von mir 
+                        <lb/>schon lange wusste, dass
+                        <lb/>der Mensch von Gott abstammt,
+                        <lb/>und nicht von naturwissenschaftli
+                        <lb break="no"/>chen Zellen oder von Giftgasen.
+                        <lb/>Ich a<choice><orig>cc</orig><reg>kz</reg></choice>eptiere aber völlig 
+                        <lb/>Ihr Wort, mit einem kleinen 
+                        <lb/>Zusatz: Der Mensch ist <hi rend="underline">heute</hi>
+                        <lb/>dumm und schlecht. Folglich ist
+                        <lb/>er <hi rend="underline">verpflichtet</hi><reg>,</reg> morgen weise
+                        <lb/>und heilig zu werden. &#8211; Ich
+                        <lb/>glaube <hi rend="underline">nicht</hi> an eine <soCalled rend="dq-du">Entwicklung</soCalled>,
+                        <lb/>noch weniger an eine <soCalled rend="dq-du">Entwicklung
+                            <lb/>zum Bessern</soCalled> und erst recht 
+                        <lb/>nicht an einen <soCalled rend="dq-du">Fortschritt</soCalled>.
+                        <lb/>Ich glaube aber, dass es gute
+                        <lb/>und böse Zeiten gi<orig>e</orig>bt, materielle
+                        <lb/>und geistige Strömungen.
+                        
+                        <pb n="24"/>
+                        <note type="pagination" resp="#major_hand_pag" place="top-right">24</note>
+                        
+                        Auf den <hi rend="underline">Erfolg</hi>, à la <persName key="E0300400">Wertheim</persName><pc>=</pc>
+                        <lb break="no"/><persName key="E0300401">Rathenau</persName>, kommt es <hi rend="underline" n="2">gar nicht</hi> an!
+                        <lb/>Sondern nur auf das, was man
+                        <lb/>für <hi rend="underline" n="2">wahr</hi> erkannt hat. Z.&#8239;B.
+                        <lb/>ist es gut, dass sich einmal das 
+                        <lb/>Urchristentum gebildet hat; die 
+                        <lb/>heutige Zeit ist kein Beweis dagegen,
+                        <lb/>da wir ja keine Herzensverkäufer
+                        <lb/>sind, sondern beweist nur, dass sich
+                        <lb/>wieder eins wird bilden müssen.
+                        <lb/>Ebenso bin ich sicher, dass Christus 
+                        <lb/>wiederkommen muss, vielleicht sogar
+                        <lb/>in mehreren Gestalten und mehreren
+                        <lb/>Verkörperung<add place="below">en</add> gleichzeitig. &#8212; </p>
+                    <p>Genau so, wie man im vorigen Jahr
+                        <lb break="no"/>hundert <persName key="E0300215">Dante</persName>s <rs key="E0400323">Paradiso</rs> für lang
+                        <lb break="no"/>weilig und das sog. Böse für <soCalled rend="dq-du">interessant</soCalled>
+                        <lb/>gehalten hat, genau so wird man
+                        <lb/>bald alle diese Herrschaften vom
+                        <lb/>Bösen und der Materie als herzlich 
+                        <lb/>dumm und grausam langweilig erkennen<orig>,</orig>
+                        <lb/>und mit einem fröhlichen Oster<pc>=</pc>
+                        <lb break="no"/>Wiedergeburts<pc>=</pc>Gelächter aus dem Gedächt
+                        <lb break="no"/>nis der Welt lachen! <seg type="closer" subtype="salute">In Freundschaft
+                            <lb/>mit einer herzlichen Umarmung</seg></p>
+                    
+                    <closer>
+                        <signed>Ihr <persName key="E0300126">Ludwig Rubiner</persName>.</signed>
+                    </closer>
+                </postscript>
+                
+                <pb n="25"/>
+                <note type="shelfmark" place="top-left" resp="#archive" rend="indent">B II, 4277</note>
+                <note type="pagination" resp="#archive" place="top-right">[25]</note>
+                <postscript>
+                    <head rend="underline">Zusatz:</head>
+                    <note type="stamp" place="right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029">Berlin</placeName>
+                        </stamp>
+                    </note>
+                    <p>Ich wage kaum, Ihnen den
+                        <lb/>Vorschlag zu machen. Aber
+                        <lb/>es wäre Ihnen nicht 
+                        <lb/>nur wohl, sondern auch 
+                        <lb/>im höchsten Grade schön,
+                        <lb/>wenn Sie – zu einer Zeit,                    
+                        <lb/>wo der Schwarm sich
+                        <lb/>verlaufen hat – nach
+                        <lb/><placeName key="E0500183">Locarno</placeName> kämen. Für
+                        <lb/>Sie eine Erholung höchsten 
+                        <lb/>Grades, für andere eine
+                        <lb/>Freude. Und <persName key="E0300059">Frau Gerda</persName>
+                        <lb/>würde hier in dem gleich 
+                        <lb break="no"/>mä<choice><orig>ss</orig><reg>ß</reg></choice>igen Klima in wenigen 
+                        <lb/>Wochen Ihren Rheumatismus
+                        <lb/>los<orig> </orig>werden! Wär das nicht
+                        <lb/>vernünftig <hi rend="underline">und</hi> schön? <seg type="closer" subtype="signed">Ihr <persName key="E0300126">L.</persName></seg></p>
+                    
+                </postscript>
+                
+                <pb n="26"/>
+                
+                <postscript>
+                    <p>Noch eins. Dieses Buch<!-- ermittelbar? -->
+                        <lb/>lege ich dazu, in 
+                        <lb/>der Erwartung, dass es 
+                        <lb/>Ihnen einige weitere 
+                        <lb/>Stunden verschaffen
+                        <lb/>wird, so wie es sie mir
+                        <lb/>verschaffte. Der einzige 
+                        <lb/>Fall in der Literatur, in
+                        <lb/>der ich die <q rend="dq-du">Unwirklichkeit</q>
+                        <lb/>derb zupackend am Werk
+                        <lb/>sah.</p>
+                </postscript>
+                <pb n="27"/>
+                <note type="foliation" resp="#archive" place="top-right">[26]
+                    <note type="commentary" resp="#E0300314">Recte: [27] (irrtümlich Foliierung statt Paginierung).</note>
+                </note>
+                <note type="objdesc" resp="#E0300314">[Seite 3 des 7. Bogens]</note>
+                
+                <pb n="28"/>
+                <note type="objdesc" resp="#E0300314">[Seite 4 des 7. Bogens]</note>
+                <note type="dating" resp="#unknown_hand" place="center" rend="large align(center)" xml:id="unknown_date"> 
+                    <date when-iso="1918-03-27">27 März 1918</date>               
+                </note>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029">Berlin</placeName>
+                    </stamp>
+                </note>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

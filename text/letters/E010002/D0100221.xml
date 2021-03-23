@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100221">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (1. September 1920, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (1 September 1920, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> bedauert <persName key="E0300125">Hubers</persName> krankheitsbedingtes Schweigen; nimmt Abschied von der <placeName key="E0500092">Schweiz</placeName> und <persName key="E0300125">Huber</persName>; blickt dankbar auf dessen Hilfe für den Exilanten zurück.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-09-01"/></docDate>
+                            <incipit>ich gedenke Ihrer so oft – in Liebe und Verehrung</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der Nummerierung und Foliierung mit Bleistift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132" cert="high">Zürich</origPlace>
+                            <origDate when-iso="1920-09-01"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;45</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100221">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1920-09-01"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100253"/>
+                    <ref type="previous" target="#D0100220"/>
+                    <ref type="next" target="#D0100253"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-29" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">77.</note>
+                
+                <opener><salute rend="indent">Lieber <choice><orig>v</orig><reg>V</reg></choice>erehrter,</salute></opener>
+                
+                <p rend="indent-first">ich gedenke Ihrer so oft
+                    <lb/>– in Liebe und Verehrung – und
+                    <lb/>bewahre Ihre Briefe sorgsam auf;
+                    <lb/>es war ja eine Zeit, wenn ich
+                    <lb/>die ehrende Freude genoss, mit
+                    <lb/>Ihnen schriftlich zu verkehren.
+                    <lb/>– Die <choice><orig>Ae</orig><reg>Ä</reg></choice>nderungen in Ihrem
+                    <lb/>Leben, die böse Zeit Ihrer Krank
+                    <lb break="no"/>heit, haben es mit sich geführt,
+                    <lb/>dass Ihre Lust am Schreiben nach
+                    <lb break="no"/>lie<choice><orig>ss</orig><reg>ß</reg></choice>; ich kann es erklären, wenn
+                    <lb/>ich es auch bedauern muss; doch
+                    <lb/>bleibe ich für das Empfangene dankbar.
+                    <lb/>– Denn Sie haben mir damals<orig>,</orig>
+                    <lb/>– dem Fremden<orig>,</orig> – äu<choice><orig>ss</orig><reg>ß</reg></choice>erlich und inner
+                    <lb break="no"/>lich geholfen und es einzurichten
+                    <lb/>gewusst, dass ich mich rasch heimisch
+                    <lb/>fühlte in Ihrer <placeName key="E0500092">Schweiz</placeName>; und so,
+                    <lb/>dass auch die Schweizer mich so
+                    <lb/>empfanden. Diese Wohlt<orig>h</orig>at verdanke
+                    <lb/>ich Ihnen.</p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                
+                <p rend="indent-first">Ich habe Sie so wenig wieder
+                    <lb break="no"/>gesehen! – Wei<choice><orig>ss</orig><reg>ß</reg></choice> nicht einmal, wo
+                    <lb/>Sie gegenwärtig sind<reg>,</reg> und riski<reg>e</reg>re 
+                    <lb/>die Sendung nach <placeName key="E0500200">Vitznau</placeName>. – Sie
+                    <lb/>wissen vielleicht von mir mehr,
+                    <lb/>und dass ich nun die <placeName key="E0500092">Schweiz</placeName> ver
+                    <lb break="no"/>lasse. – Dieses lag zwar von Beginn
+                    <lb/>an im Plan, doch kommt es jetzt 
+                    <lb/>mit einer unerwarteten Gewaltsamkeit.
+                    <lb/>– Das Abschiednehmen fällt mir
+                    <lb/>schwer, zumal von so geliebten und
+                    <lb/>tief verehrten Menschen, wie Sie
+                    <lb/>einer (unter wenigen) sind!
+                    <lb/>– Leben Sie wohl – und dies im
+                    <lb/>buchstäblichsten Sinne – und gedenken
+                    <lb/>Sie gütig meiner. Und, so Gott
+                    <lb/>will, auf Wiedersehen.</p>
+                
+                <p rend="indent-first">Ihrer verehrten <rs key="E0300239">Frau</rs><reg>,</reg>
+                    <lb/>Ihrer lieben <persName key="E0300142">Elisabeth</persName> 
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>lles Herzlich<pc>=</pc>Achtungsvolle.</p>
+                
+                <p>– <persName key="E0300059">Frau Gerda</persName> ist bei mit
+                    <lb/>dem Herzen dabei.</p>
+                
+                <closer>
+                    <salute rend="align(center)">Ihr</salute>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                    <dateline><date when-iso="1920-09-01">1. <choice><abbr>Septbr.</abbr><expan>September</expan></choice> 1920</date>.</dateline>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

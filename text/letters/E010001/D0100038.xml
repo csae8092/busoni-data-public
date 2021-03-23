@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Arnold Schönberg (Zürich, 24. November 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Arnold Schönberg (Zurich, 24 November 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="A-Was">Arnold-Schönberg-Center, Wien</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>Washington, D. C.</settlement>
+                        <institution key="US-Wc">The Library of Congress</institution>
+                        <repository>Music Division</repository>
+                        <collection>Arnold Schoenberg Collection</collection>
+                        <altIdentifier>
+                            <country key="AT">Österreich</country>
+                            <settlement>Wien</settlement>
+                            <institution key="A-Was">Arnold-Schönberg-Center</institution>
+                            <idno>19523</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> berichtet von der ausgefallenen <placeName key="E0500132">Zürcher</placeName> Aufführung von <persName key="E0300023">Schönbergs</persName> <title key="E0400012">Pelleas und Melisande</title> sowie von seiner sehr positiven Aufnahme der <title key="E0800232">Harmonielehre</title> <persName key="E0300023">Schönbergs</persName>; erkundigt sich nach <persName key="E0300023">Schönbergs</persName> Schaffen und nach <persName key="E0300112">Alma Mahler</persName>; versteht es als notwendige Friedensvorbereitung, künstlerische Schöpfung der Zerstörung entgegenzusetzen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-11-24"/></docDate>
+                            <incipit><ref type="E010001" target="#D0100037">Ihr Brief</ref> war mir eine der erfreulichsten Überraschungen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Blatt</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="lc_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-11-24"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;195</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;201 f. (Brief), S.&#8239;131–133 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 420</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100038">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-11-24"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100037"/>
+                    <ref type="repliedBy" target="#D0100039"/>
+                    <ref type="previous" target="#D0100037"/>
+                    <ref type="next" target="#D0100039"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2016-03-15" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend</change>
+            <change when-iso="2019-11-21" who="#E0300314">Layoutelemente der vorliegenden Transkription durchgesehen, status unfinished</change>
+            <change when-iso="2020-02-03" who="#E0300550">Kommentare ergänzt, Korrekturlesung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="http://www.schoenberg.at/scans/DVD043/19523_1.jpg"/>
+        <graphic n="2" url="http://www.schoenberg.at/scans/DVD043/19523_2.jpg"/>
+        <graphic n="3" url="http://www.schoenberg.at/scans/DVD043/19523_3.jpg"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="stamp" place="top-right" resp="#lc_st_red">
+                    <stamp rend="round majuscule small">* The * Library * of * Congress *</stamp>
+                </note>
+                
+                <opener>
+                    <salute>Lieber und hoch<orig>-</orig>geschätzer <persName key="E0300023">Arnold Schönberg</persName>,</salute>
+                </opener>
+                
+                <p rend="indent-first"><ref type="E010001" target="#D0100037">Ihr Brief</ref> war mir eine der
+                    <lb/>erfreulichsten Überraschungen,
+                    
+                    <note type="commentary" resp="#E0300550">Offenbar war <persName key="E0300017">Busoni</persName> tatsächlich von <persName key="E0300023">Schönbergs</persName> Schreiben angetan; am nächsten Tag äußerte er sich in einem Brief an <persName key="E0300232">José Vianna da Motta </persName> anerkennend über <persName key="E0300023">Schönbergs</persName> Ausführungen zu Krieg und Frieden <bibl>(<ref target="#E0800005"/>, S.&#8239;131</bibl>).</note>
+                    
+                    und
+                    <lb/>ich rechne es Ihnen schön an, dass
+                    <lb/>Sie <hi rend="underline">mich</hi> ausersehen haben, um
+                    <lb/>Ihrem Herzen Luft zu machen.</p>
+                
+                <p rend="indent-first">Bei dem <placeName key="E0500132">Züricher</placeName> III. Symphonie<pc>=</pc>
+                    <lb break="no"/>Konzert stand Ihr <title key="E0400012" rend="dq-du">Pelleas und
+                        <lb/>Melisande</title> auf dem Programm, 
+                    <lb/>und schon freuten sich die
+                    <lb/>Rechtdenkenden auf diese
+                    <lb/>Klänge, als das Werk – infolge
+                    <lb/>des nicht eingetroffenen Materials – 
+                    <lb/>aus der Liste verschwand.</p>
+                
+                <p rend="indent-first">Gestern noch – mit einem
+                    <lb/>intelligenten <persName key="E0300117">Herrn Bülau</persName> –
+                    
+                    <note type="commentary" resp="#E0300550"><persName key="E0300117">Franz Wolfgang Bülau</persName> war <date when-iso="1916">1916</date> Konzertmeister des <placeName key="E0500320">Tonhalle</placeName>-Orchesters <placeName key="E0500132">Zürich</placeName>.</note>
+                    
+                    <lb/>besangen wir Ihr <rs key="E0800232">Harmoniebuch</rs>.</p>
+                
+                <p rend="indent-first">Sie ersehen daraus, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>man noch für das Gute
+                    <lb/><choice><orig>M</orig><reg>m</reg></choice>anches übrig behält. Darum
+                    
+                    <pb n="2"/>
+                    
+                    hätte ich gewünscht<reg>,</reg> von Ihrem
+                    <lb/>gegenwärtigen Schaffen Umständlicheres
+                    <lb/>berichtet zu erfahren. Die gewalt
+                    <lb break="no" rend="after:-"/>same <choice><orig>10-</orig><reg>zehn</reg></choice>monatliche Unterbrechung
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönberg</persName> war im <date when-iso="1915-11">November 1915</date> als tauglich gemustert worden. <date when-iso="1915-12/1916-06">Von Mitte Dezember 1915 bis Juni 1916</date> war er beim Militär. Im <date when-iso="1917-09">September 1917</date> wurde er erneut eingezogen.</note>
+                    
+                    <lb/>muss schwer auf dasselbe gelastet
+                    <lb/>haben, aber um<orig> </orig>so u<del rend="strikethrough-part">m</del>ngestümer
+                    <lb/>mü<choice><orig>ß</orig><reg>ss</reg></choice>te es wieder hervorbrechen.</p>
+                
+                <p rend="indent-first">Ich schrieb ein kleines
+                    <lb/>Feuilleton über den Soldaten<pc>=</pc>
+                    <lb break="no"/>Tod <rs key="E0300083">eines hervorragenden Malers</rs>;
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300017">Busonis</persName> Aufsatz <soCalled>Der Kriegsfall Boccioni</soCalled>, datiert <q><placeName key="E0500132">Zürich</placeName>, <date when-iso="1916-08">August 1916</date></q>.</note>
+                    
+                    <lb/>keine Friedensschrift, aber eine, 
+                    <lb/>worin die Kunst – in einer
+                    <lb/>knappen Andeutung – gegen den
+                    <lb/>Krieg abgewogen wird. Sie hat
+                    <lb/>ein <del rend="strikethrough">kle</del><subst><del rend="overwritten">ine</del><add place="across">leise</add></subst>s Echo erweckt, wie
+                    <lb/>schon daraus zu schließen ist, 
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> <choice><orig>E</orig><reg>e</reg></choice>twas davon auch zu Ihren
+                    <lb/>Ohren drang.</p>
+                
+                <p rend="indent-first">Was wissen Sie von <persName key="E0300112">Frau Mahler</persName>?
+                    
+                    <note type="commentary" resp="#E0300550"><persName key="E0300017">Busoni</persName> hatte noch nicht von <persName key="E0300112">Alma Mahlers</persName> Hochzeit mit <persName key="E0300114">Walter Gropius</persName> (<date when-iso="1915-08-18">18. August 1915</date>) erfahren. Nach <persName key="E0300047">Gustav Mahlers</persName> Tod standen <persName key="E0300017">Busoni</persName> und <persName key="E0300112">Alma Mahler</persName> noch in Kontakt, insbesondere wegen der Organisation der Zinsvergabe durch die <orgName>Gustav-Mahler-Stiftung</orgName> an <persName key="E0300023">Arnold Schönberg</persName>. Der Kontakt riss dann jedoch ab, da <persName key="E0300017">Busoni</persName> auf <persName key="E0300112">Alma Mahlers</persName> Briefe nicht mehr antwortete. Ihr letzten Brief an Busoni (<date when-iso="1916-03-23">23. März 1916</date>) ist mit <q><persName key="E0300112">Alma Mahler</persName></q> unterzeichnet (<bibl><ref target="#E0800005"/>, S.&#8239;136</bibl>). Die Ehe mit <persName key="E0300114">Gropius</persName> war abseits der Öffentlichkeit geschlossen worden: <persName key="E0300112">Alma</persName> hatte <persName key="E0300114">Gropius</persName> um eine schnelle Hochzeit gebeten, <q>ohne dass es ein Mensch erfährt</q> (<bibl><ref target="#E0800287"/>, S.&#8239;160</bibl>), und empfand die Ehe bald als <q>sozialen Abstieg</q> (<bibl><ref target="#E0800287"/>, S.&#8239;164</bibl>).</note>
+                    
+                </p>
+                <p rend="indent-first">Und welcher ist Ihr Verkehr?</p>
+                
+                <pb n="3"/>
+                
+                <p rend="indent-first">Nun muss man zuversichtlich
+                    <lb/>hoffen und auf den Frieden hin
+                    <lb/>in dem Sinne arbeiten, da<choice><orig>ß</orig><reg>ss</reg></choice> er
+                    <lb/>uns nicht überrasch<subst><del rend="overwritten">t</del><add place="across">e</add></subst>,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800004"/> (195)</bibl> und <bibl><ref target="#E0800005"/> (202)</bibl>: <q>überrascht</q>.</note>
+                    
+                    bevor wir
+                    <lb/>in dem, <subst><del rend="overwritten">w</del><add place="across">d</add></subst>as uns gegeben ist, 
+                    <lb/><choice><orig>E</orig><reg>e</reg></choice>twas vollbracht haben. Das ist
+                    <lb/>unser schönster Sieg, wenn wir
+                    <lb/>als Ergebnis unser Schaffen
+                    <lb/>gegen des Anderen Zerstörung
+                    <lb/>stellen können! Das Bleibende
+                    <lb/>gegen das Zerfallende.</p>
+                
+                <p>Jeder t<orig>h</orig>ue, was er am besten zu t<orig>h</orig>un
+                    <lb/>vermag; sich selbst
+                    <lb/>gründlich zu schöpfen<reg>,</reg> bleibe die
+                    <lb/><subst><del rend="overwritten">beste</del><add place="above">wahrste</add></subst> Lebenserfüllung.</p>
+                
+                <p rend="indent-first">Ich wünsche Ihnen
+                    <lb/>das Freundschaftlichste. 
+                    <lb/>Auf Wiedersehen <choice><abbr>u</abbr><expan>und</expan></choice> <pc>=</pc><choice><orig>L</orig><reg>l</reg></choice>esen.</p>
+                
+                <closer>
+                    <salute rend="indent">Ihr herzlichst ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline><choice><orig>24</orig><reg>24.</reg></choice> Nov. 1916.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

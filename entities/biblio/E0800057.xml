@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hong 2010</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <forename>Barbara</forename>
+                     <surname>Hong</surname>
+                  </author>
+                  <title level="a">The Friends of Lesko, the Dog: <persName key="E0300177">Sibelius</persName>, <persName key="E0300017">Busoni</persName>, <persName key="E0300200">Armas</persName> und <persName key="E0300199">Eero Järnefelt</persName>, <persName key="E0300195">Adolf Paul</persName></title>
+               </analytic>
+               <monogr>
+                  <editor>
+                     <forename>Timothy</forename>
+                     <forename>
+                        <abbr>L.</abbr>
+                     </forename>
+                     <surname>Jackson</surname>
+                  </editor>
+                  <editor>
+                     <forename>Veijo</forename>
+                     <surname>Murtomäki</surname>
+                  </editor>
+                  <editor>
+                     <forename>Colin</forename>
+                     <surname>Davis</surname>
+                  </editor>
+                  <editor>
+                     <forename>Timo</forename>
+                     <surname>Virtanen</surname>
+                  </editor>
+                  <title level="m"><persName key="E0300177">Sibelius</persName> in the Old and New World</title>
+                  <title level="m" type="sub">Aspects of His Music, Its Interpretation, and Reception</title>
+                  <idno type="DNB">1003334296</idno>
+                  <imprint>
+                     <pubPlace>Frankfurt am Main</pubPlace>
+                     <pubPlace>Berlin</pubPlace>
+                     <pubPlace>Bern</pubPlace>
+                     <pubPlace>Bruxelles</pubPlace>
+                     <pubPlace>New York</pubPlace>
+                     <pubPlace>Oxford</pubPlace>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>Peter Lang</publisher>
+                     <date when-iso="2010"/>
+                  </imprint>
+                  <biblScope unit="page">57–68</biblScope>
+               </monogr>
+               <series>
+                  <title level="s">Interdisziplinäre Studien zur Musik</title>
+                  <biblScope unit="volume">6</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

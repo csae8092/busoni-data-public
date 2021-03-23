@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="people">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Personenbeziehungen</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listRelation>
+            <relation name="sibling" mutual="#E0300035 #E0300036"/><!-- Geschwister Lepcke -->
+            <relation name="teacher" active="#E0300023" passive="#E0300033"/><!-- Schönberg/Webern -->
+            <relation name="teacher" active="#E0300017" passive="#E0300031"/><!--Busoni/E. Petri -->
+            <relation name="parent" active="#E0300030" passive="#E0300031"/><!-- Vater Henri, Sohn Egon Petri -->
+            <relation name="spouse" mutual="#E0300037 #E0300038"/><!-- Eheleute Hermann/Luise Wolff -->
+            <relation name="in-law" mutual="#E0300046 #E0300023"/><!-- Verschwägerung Alexander von Zemlinsky / Arnold Schönberg -->
+            <relation name="spouse" mutual="#E0300023 #E0300050"/><!-- Eheleute Arnold Schönberg / Mathilde von Zemlinsky  -->
+            <relation name="sibling" mutual="#E0300046 #E0300050"/><!-- Geschwister Alexander und Mathilde von Zemlinsky -->
+            <relation name="teacher" active="#E0300259" passive="#E0300046"/><!-- Lehrer Johann Nepomuk Fuchs / Schüler Alexander von Zemlinsky -->
+            <relation name="teacher" active="#E0300046" passive="#E0300058"/><!-- Lehrer Alexander Zemlinsky / Schüler Karl Horwitz -->
+            <relation name="teacher" active="#E0300046" passive="#E0300105"/><!-- Lehrer Alexander Zemlinsky / Schüler Erich Wolfgang Korngold -->
+            <relation name="teacher" active="#E0300046" passive="#E0300112"/><!-- Lehrer Alexander Zemlinsky / Schüerin Alma Mahler-Werfel -->
+            <relation name="lover" mutual="#E0300046 #E0300112" when-iso="1901-04/1901-12"/><!-- Affäre Alexander Zemlinsky / Alma Mahler-Werfel -->
+            <relation name="sibling" mutual="#E0300051 #E0300052"/><!-- Geschwister Georg/Gertrude Schönberg -->
+            <relation name="parent" active="#E0300050" passive="#E0300051"/><!-- Mutter Mathilde, Tochter Gertrude Schönberg -->
+            <relation name="parent" active="#E0300050" passive="#E0300052"/><!-- Mutter Mathilde, Sohn Georg Schönberg -->
+            <relation name="parent" active="#E0300023" passive="#E0300051"/><!-- Vater Arnold, Tochter Gertrude Schönberg -->
+            <relation name="parent" active="#E0300023" passive="#E0300052"/><!-- Vater Arnold, Sohn Georg Schönberg -->
+            <relation name="teacher" active="#E0300023" passive="#E0300053"/><!-- Schönberg / Berg -->
+            <relation name="teacher" active="#E0300023" passive="#E0300055"/><!-- Schönberg / Polnauer -->
+            <relation name="teacher" active="#E0300023" passive="#E0300040"/><!-- Schönberg / Jalowetz -->
+            <relation name="teacher" active="#E0300023" passive="#E0300057"/><!-- Schönberg / Stein -->
+            <relation name="teacher" active="#E0300023" passive="#E0300058"/><!-- Schönberg / Horwitz -->
+            <relation name="teacher" active="#E0300125" passive="#E0300132"/><!-- Huber / Suter -->
+            <relation name="teacher" active="#E0300125" passive="#E0300133"/><!-- Huber / Brun -->
+            <relation name="spouse" mutual="#E0300017 #E0300059"/><!-- Eheleute Gerda / Ferruccio Busoni -->
+            <relation name="parent" active="#E0300017" passive="#E0300060"/><!-- Vater Ferruccio, Sohn Benvenuto Busoni -->
+            <relation name="parent" active="#E0300059" passive="#E0300060"/><!-- Mutter Gerda, Sohn Benvenuto Busoni -->
+            <relation name="teacher" active="#E0300017" passive="#E0300071"/><!-- Busoni / Steuermann -->
+            <relation name="teacher" active="#E0300070" passive="#E0300071"/><!-- Humperdinck / Steuermann -->
+            <relation name="teacher" active="#E0300023" passive="#E0300071"/><!-- Schönberg / Steuermann -->
+            <relation name="teacher" active="#E0300033" passive="#E0300071"/><!-- Webern / Steuermann -->
+            <relation name="sibling" mutual="#E0300074 #E0300075"/><!-- Geschwister Rosé -->
+            <relation name="teacher" active="#E0300046" passive="#E0300023"/><!-- Zemlinsky / Schönberg -->
+            <relation name="teacher" active="#E0300013" passive="#E0300143"/><!-- Liszt / d’Albert -->
+            <relation name="sibling" mutual="#E0300135 #E0300144"/><!-- Geschwister Nef -->
+            <relation name="spouse" mutual="#E0300047 #E0300112" from-iso="1902"/><!-- Eheleute Gustav/Alma Mahler -->
+            <relation name="parent" active="#E0300017" passive="#E0300153"/><!-- Vater Ferruccio, Sohn Rafaello Busoni -->
+            <relation name="parent" active="#E0300059" passive="#E0300153"/><!-- Mutter Gerda, Sohn Rafaello Busoni -->
+            <relation name="sibling" mutual="#E0300060 #E0300153"/><!-- Geschwister Benvenuto/Rafaello Busoni -->
+            <relation name="teacher" active="#E0300017" passive="#E0300155"/><!--Busoni/Kestenberg -->
+            <relation name="teacher" active="#E0300017" passive="#E0300154"/><!--Busoni/Weill -->
+            <relation name="teacher" active="#E0300125" passive="#E0300157"/><!-- Huber/Speiser-Sarasin -->
+            <relation name="lover" mutual="#E0300162 #E0300137"/><!-- Liebschaft zwischen George Sand und Chopin -->
+            <relation name="teacher" active="#E0300143" passive="#E0300184"/><!-- Lehrer d'Albert/Schüler Lochbrunner -->
+            <relation name="teacher" active="#E0300017" passive="#E0300184"/><!-- Lehrer Busoni/ Schüler Lochbrunner -->
+            <relation name="teacher" active="#E0300017" passive="#E0300195"/><!-- Busoni / Paul -->
+            <relation name="sibling" mutual="#E0300199 #E0300200"/><!-- Geschwister Järnefelt -->
+            <relation name="sibling" mutual="#E0300193 #E0300202"/><!-- Geschwister Hirt -->
+            <relation name="teacher" active="#E0300125" passive="#E0300202"/><!-- Huber / F. J. Hirt -->
+            <relation name="teacher" active="#E0300097" passive="#E0300141"/><!-- Reger/Schoeck -->
+            <relation name="teacher" active="#E0300031" passive="#E0300202"/><!-- Petri / F. J. Hirt -->
+            <relation name="spouse" mutual="#E0300134 #E0300212"/><!-- Eheleute Albert Kehm / Margarethe Conrad -->
+            <relation name="teacher" active="#E0300152" passive="#E0300144"/><!-- Kretzschmar / Karl Nef -->
+            <relation name="step-parent" active="#E0300219" passive="#E0300006"/><!-- Ludwig Geyer / Richard Wagner -->
+            <relation name="teacher" active="#E0300009" passive="#E0300227"/><!-- Brahms / von Perger -->
+            <relation name="spouse" mutual="#E0300024 #E0300234"/><!-- Eheleute Schenker -->
+            <relation name="parent" active="#E0300238" passive="#E0300230"/><!-- Vater Ignaz, Sohn Ludwig Bösendorfer -->
+            <relation name="spouse" mutual="#E0300125 #E0300239"/><!-- Eheleute Huber -->
+            <relation name="parent" active="#E0300125" passive="#E0300142"/><!-- Vater Hans, Tochter Elisabeth Huber -->
+            <relation name="parent" active="#E0300239" passive="#E0300142"/><!-- Mutter Ida Huber-Petzold, Tochter Elisabeth Huber -->
+            <!--relation name="spouse" mutual="#E0300131 #E0300141"/> Eheleute Durigo/Schoeck: das stimmt nicht-->
+            <relation name="sibling" mutual="#E0300245 #E0300246"/><!-- Gebrüder Paetel -->
+            <relation name="spouse" mutual="#E0300008 #E0300247"/><!-- Eheleute Schumann/Wieck -->
+            <relation name="spouse" mutual="#E0300242 #E0300249"/><!-- Eheleute Stavenhagen -->
+            <relation name="teacher" active="#E0300024" passive="#E0300252"/><!-- Lehrer Schenker/Schüler Jonas -->
+            <relation name="teacher" active="#E0300222" passive="#E0300252"/><!-- Lehrer Violin/Schüler Jonas -->
+            <relation name="teacher" active="#E0300013" passive="#E0300254"/><!-- Lehrer Liszt/Schüler Rosenthal -->
+            <relation name="teacher" active="#E0300017" passive="#E0300255"/><!-- Lehrer Busoni/Schüler Blanchet -->
+            <relation name="teacher" active="#E0300181" passive="#E0300232"/><!-- Lehrer Philipp Julius Wolfrum / Schüler José Vianna da Motta -->
+            <relation name="teacher" active="#E0300231" passive="#E0300232"/><!-- Lehrer Hans von Bülow / Schüler José Vianna da Motta -->
+            <relation name="teacher" active="#E0300013" passive="#E0300232"/><!-- Lehrer Franz Liszt / Schüler José Vianna da Motta -->
+            <relation name="teacher" active="#E0300547" passive="#E0300232"/><!-- Lehrer Philipp Scharwenka / Schüler José Vianna da Motta -->
+            <relation name="teacher" active="#E0300024" passive="#E0300257"/><!-- Lehrer Schenker/Schüler Rothschild-->
+            <relation name="sibling" mutual="#E0300258 #E0300074"/><!-- Geschwister Rosé -->
+            <relation name="sibling" mutual="#E0300258 #E0300075"/><!-- Geschwister Rosé -->
+            <relation name="parent" active="#E0300265" passive="#E0300017"/><!-- Mutter Anna, Sohn Ferruccio Busoni -->
+            <relation name="spouse" mutual="#E0300157 #E0300266" from-iso="1884"/><!-- Eheleute Speiser-Sarasin -->
+            <relation name="spouse" mutual="#E0300264 #E0300267" from-iso="1884-04-17"/><!-- Eheleute His-Schlumberger -->
+            <relation name="spouse" mutual="#E0300132 #E0300268" from-iso="1899-03-10"/><!-- Eheleute Suter-Büchi -->
+            <relation name="teacher" active="#E0300017" passive="#E0300270"/><!-- Lehrer Busoni / Schüler Michael von Zadora -->
+            <relation name="teacher" active="#E0300299" passive="#E0300270"/><!-- Lehrer Theodor Leschetitzky / Schüler Michael von Zadora -->
+            <relation name="teacher" active="#E0300017" passive="#E0300271"/><!--Busoni/Szántó -->
+            <relation name="teacher" active="#E0300017" passive="#E0300274"/><!--Busoni/Wijsman -->
+            <relation name="teacher" active="#E0300017" passive="#E0300276"/><!--Busoni/Rudolph Ganz -->
+            <relation name="parent" active="#E0300012" passive="#E0300278"/><!-- Vater Johann Sebastian / Sohn Carl Philipp Emanuel Bach -->
+            <relation name="sibling" mutual="#E0300280 #E0300024"/><!-- Geschwister Schenker -->
+            <relation name="parent" active="#E0300281" passive="#E0300280"/><!-- Vater Johann / Sohn Marcus Schenker -->
+            <relation name="parent" active="#E0300281" passive="#E0300024"/><!-- Vater Johann / Sohn Heinrich Schenker -->
+            <relation name="teacher" active="#E0300013" passive="#E0300284"/><!-- Liszt/Tausig -->
+            <relation name="teacher" active="#E0300293" passive="E0300177"/><!-- Goldmark/Sibelius -->
+            <relation name="parent" active="#E0300297" passive="#E0300298"/><!-- Vater Romert Emil Lienau / Sohn Robert Heinrich Lienau -->
+            <relation name="teacher" active="#E0300171" passive="#E0300063"/><!-- Lehrer Joachim/Schüler Hollaender-->
+            <relation name="teacher" active="#E0300023" passive="#E0300312" when-iso="1907/1909"/><!-- Schönberg / Robert Neumann -->
+            <relation name="spouse" mutual="#E0300126 #E0300340"/><!-- Eheleute Rubiner -->
+            <relation name="spouse" mutual="#E0300112 #E0300114" when-iso="1915/1920"/><!-- Eheleute Gropius -->
+            <relation name="parent" active="#E0300229" passive="#E0300356"/><!-- Vater Nikolaus / Sohn Karl Simrock -->
+            <relation name="sibling" mutual="#E0300384 #E0300383"/><!-- Geschwister Goncourt -->
+            <relation name="teacher" active="#E0300387" passive="#E0300236"/><!-- Bruckner/Löwe -->
+            <relation name="teacher" active="#E0300017" passive="#E0300376"/><!-- Busoni/Jarnach -->
+            <relation name="teacher" active="#E0300024" passive="#E0300392"/><!-- Schenker/Deutsch -->
+            <relation name="teacher" active="#E0300014" passive="#E0300254"/><!-- Lehrer Hanslick/Schüler Rosenthal -->
+            <relation name="teacher" active="#E0300024" passive="#E0300397"/><!-- Lehrer Schenker/Schüler Karpath -->
+            <relation name="teacher" active="#E0300023" passive="#E0300403"/><!-- Lehrer Schönberg/Schüler Wellesz -->
+            <relation name="teacher" active="#E0300017" passive="#E0300420"/><!-- Busoni/Etelka Freund -->
+            <relation name="sibling" mutual="#E0300420 #E0300208 #E0300432 #E0300533 #E0300534"/><!-- Geschwister Freund -->
+            <relation name="parent" active="#E0300531" passive="#E0300208 #E0300420 #E0300432 #E0300533 #E0300534"/><!-- Mutter Franziska Freund / Kinder Robert, Etelka, Irma, Moritz, Emerich -->
+            <relation name="parent" active="#E0300532" passive="#E0300208 #E0300420 #E0300432 #E0300533 #E0300534"/><!-- Vater Hermann Freund / Kinder Robert, Etelka, Irma, Moritz, Emerich -->
+            <relation name="teacher" active="#E0300094" passive="#E0300420"/><!-- Bartók/Etelka Freund -->
+            <relation name="teacher" active="#E0300529" passive="#E0300208" when-iso="1865/1868"/><!-- Lehrer Ignaz Moscheles / Schüler Robert Freund -->
+            <relation name="teacher" active="#E0300284" passive="#E0300208" when-iso="1869/1870"/><!-- Lehrer Carl Tausig / Schüler Robert Freund -->
+            <relation name="teacher" active="#E0300013" passive="#E0300208" when-iso="1870/1872"/><!-- Lehrer Franz Liszt / Schüler Robert Freund -->
+            <relation name="spouse" mutual="#E0300525 #E0300434" when-iso="1861/1896"/><!-- Eheleute Arthur Amory Codman und Mary Elizabeth Codman -->
+            <relation name="spouse" mutual="#E0300208 #E0300434" when-iso="1899/1912"/><!-- Eheleute Robert Freund und Mary Elizabeth Codman -->
+            <relation name="parent" active="#E0300468" passive="#E0300469"/><!-- Vater Tobias Haslinger, Sohn Carl Haslinger -->
+            <relation name="parent" active="#E0300437" passive="#E0300290"/><!-- Vater Friedrich I., Sohn Friedrich II. -->
+            <relation name="parent" active="#E0300420" passive="#E0300454"/><!-- Mutter Etelka Freund, Sohn Nicholas Milroy -->
+            <relation name="teacher" active="#E0300125" passive="#E0300472"/><!-- Lehrer Huber/Schüler Hegner -->
+            <relation name="teacher" active="#E0300143" passive="#E0300472"/><!-- Lehrer d'Albert/Schüler Hegner -->
+            <relation name="teacher" active="#E0300208" passive="#E0300473"/><!-- Lehrer Robert Freund / Schüler Friedrich Niggli -->
+            <relation name="teacher" active="#E0300208" passive="#E0300508"/><!-- Lehrer Robert Freund / Schüler Ernst Isler -->
+            <relation name="teacher" active="#E0300208" passive="#E0300141"/><!-- Lehrer Robert Freund / Schüler Othmar Schoeck -->
+            <relation name="teacher" active="#E0300288" passive="#E0300473"/><!-- Lehrer Hegar/Schüler Niggli -->
+            <relation name="sibling" mutual="#E0300486 #E0300024"/><!-- Geschwister Schenker -->
+            <relation name="sibling" mutual="#E0300486 #E0300280"/><!-- Geschwister Schenker -->
+            <relation name="parent" active="#E0300281" passive="#E0300486"/><!-- Vater Johann / Sohn Moriz Schenker -->
+            <relation name="in-law" mutual="#E0300486 #E0300234"/><!-- Verschwägerung Jeanette / Moriz Schenker -->
+            <relation name="teacher" active="#E0300161" passive="#E0300475"/><!-- Lehrer Saint-Saëns / Schüler Fauré -->
+            <relation name="teacher" active="#E0300231" passive="#E0300497"/><!-- Lehrer Bülow / Schüler Otto Leßmann -->
+            <relation name="teacher" active="#E0300512" passive="#E0300017"/><!-- Lehrer Wilhelm Mayer / Schüler Busoni -->
+            <relation name="teacher" active="#E0300512" passive="#E0300224"/><!-- Lehrer Wilhelm Mayer / Schüler Richard Heuberger -->
+            <relation name="teacher" active="#E0300512" passive="#E0300026"/><!-- Lehrer Wilhelm Mayer / Schüler Weingartner -->
+            <relation name="teacher" active="#E0300208" passive="#E0300163"/><!-- Lehrer Robert Freund / Schüler Reinhold Laquai -->
+            <relation name="teacher" active="#E0300017" passive="#E0300163"/><!-- Lehrer Busoni / Schüler Reinhold Laquai -->
+            <relation name="teacher" active="#E0300129" passive="#E0300163"/><!-- Lehrer Volkmar Andreae / Schüler Reinhold Laquai -->
+            <relation name="teacher" active="#E0300513" passive="#E0300010"/><!-- Lehrer Martini / Schüler Mozart -->
+            <relation name="teacher" active="#E0300208" passive="#E0300276"/><!-- Lehrer Robert Freund / Schüler Rudolph Ganz -->
+            <relation name="teacher" active="#E0300288" passive="#E0300276"/><!-- Lehrer Friedrich Hegar / Schüler Rudolph Ganz -->
+            <relation name="teacher" active="#E0300049" passive="#E0300516"/><!-- Lehrer Gottfried Galston / Schülerin Edda Ottho -->
+            <relation name="teacher" active="#E0300017" passive="#E0300519"/><!-- Lehrer Busoni / Schüler Leo Silota -->
+            <relation name="teacher" active="#E0300017" passive="#E0300520"/><!-- Lehrer Busoni / Schüler Louis Gruenberg -->
+            <relation name="teacher" active="#E0300017" passive="#E0300521"/><!-- Lehrer Busoni / Schüler Louis Closson -->
+            <relation name="teacher" active="#E0300017" passive="#E0300522"/><!-- Lehrer Busoni / Schüler Józef Turczyński -->
+            <relation name="teacher" active="#E0300017" passive="#E0300523"/><!-- Lehrer Busoni / Schüler Ignacy Friedman -->
+            <relation name="spouse" mutual="#E0300541 #E0300542"/><!-- Eheleute Graf Antonio Ladislao Rozwadowski und Enrica Pepe -->
+            <relation name="teacher" active="#E0300547" passive="#E0300041"/><!-- Lehrer Philipp Scharwenka / Schüler Oscar Fried -->
+            <relation name="teacher" active="#E0300088" passive="#E0300549"/><!-- Lehrer Hugo Riemann / Schüler Gerhard von Keußler -->
+            <relation name="teacher" active="#E0300538" passive="#E0300549"/><!-- Lehrer Carl Reinecke / Schüler Gerhard von Keußler -->
+            <relation name="teacher" active="#E0300152" passive="#E0300549"/><!-- Lehrer Hermann Kretzschmar / Schüler Gerhard von Keußler -->
+            <relation name="teacher" active="#E0300023" passive="#E0300028"/><!-- Lehrer Schönberg / Schüler Clark -->
+            <relation name="teacher" active="#E0300023" passive="#E0300118"/><!-- Lehrer Schönberg / Schüler Kolisch -->
+            <relation name="in-law" mutual="#E0300023 #E0300118"/><!-- Verschwägerung Schönberg / Kolisch -->
+            <relation name="teacher" active="#E0300129" passive="#E0300370"/><!-- Lehrer Volkmar Andreae / Schüler Robert F. Denzler -->
+            <relation name="teacher" active="#E0300473" passive="#E0300370"/><!-- Lehrer Fritz Niggli / Schüler Robert F. Denzler -->
+            <relation name="teacher" active="#E0300013" passive="#E0300248"/><!-- Lehrer Liszt / Schüler Sauer -->
+            <relation name="in-law" mutual="#E0300013 #E0300006"/><!-- Verschwägerung Franz Liszt / Richard Wagner -->
+            <relation name="teacher" active="#E0300538" passive="#E0300207"/><!-- Lehrer Carl Reinecke / Schüler Martin Wegelius -->
+            <relation name="teacher" active="#E0300535" passive="#E0300207"/><!-- Lehrer Josef Rheinberger / Schüler Martin Wegelius -->
+            <relation name="teacher" active="#E0300207" passive="#E0300177"/><!-- Lehrer Martin Wegelius / Schüler Jean Sibelius -->
+            <relation name="teacher" active="#E0300046" passive="#E0300110"/><!-- Lehrer Alexander von Zemlinsky / Schüler Karl Weigl -->
+            <relation name="teacher" active="#E0300110" passive="#E0300105"/><!-- Lehrer Karl Weigl / Schüler Erich Wolfgang Korngold-->
+            <relation name="teacher" active="#E0300070" passive="#E0300154"/><!-- Lehrer Engelbert Humperdinck / Schüler Kurt Weill-->
+            <relation name="teacher" active="#E0300376" passive="#E0300154"/><!-- Lehrer Philipp Jarnach / Schüler Kurt Weill-->
+            <relation name="teacher" active="#E0300538" passive="#E0300026"/><!-- Lehrer Carl Reinecke / Schüler Felix Weingartner-->
+            <relation name="teacher" active="#E0300177" passive="#E0300206"/><!-- Lehrer Jean Sibelius / Schüler Lennart von Zweygberg -->
+            <relation name="teacher" active="#E0300025" passive="#E0300421"/><!-- Lehrer Arthur Nikisch / Schüler Emil Ábrányi -->
+            <relation name="teacher" active="#E0300538" passive="#E0300554"/><!-- Lehrer Carl Reinecke / Schüler Frederick Delius -->
+            <relation name="teacher" active="#E0300017" passive="#E0300555"/><!-- Lehrer Busoni / Schüler Edward Weiss -->
+            <relation name="teacher" active="#E0300017" passive="#E0300556"/><!-- Lehrer Busoni / Schüler Francesco Ticciati -->
+            <relation name="teacher" active="#E0300017" passive="#E0300561"/><!-- Lehrer Busoni / Schülerin Ursula Creighton -->
+            <relation name="teacher" active="#E0300017" passive="#E0300580"/><!-- Lehrer Busoni / Schülerin Irma Bekk -->
+            <relation name="parent" active="#E0300306" passive="#E0300582"/><!-- Vater Adolph Martin Schlesinger / Sohn Maurice Schlesinger -->
+            <relation name="teacher" active="#E0300571" passive="#E0300608"/><!-- Lehrer Carl Flesch / Schüler Wolfgang Schocken -->
+            <!-- hier weitere Beziehungen zwischen Personen erfassen -->
+            
+         </listRelation>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100305">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Zürich, 9. Oktober 1916)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Zurich, 9 October 1916)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4264</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 5 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723685</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Rubiner</persName> bittet um ein Treffen wegen einer mit <persName key="E0300338">René Schickele</persName> entwickelten <q>wichtige[n] Idee für die <orgName key="E0600069">Weißen Blätter</orgName></q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-10-09"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-10-09"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1916-10-09"/></docDate>
+                            <docDate resp="#recipient" sameAs="#rec_date"><date when-iso="1916-10-09"/></docDate>
+                            <incipit>Wieder einmal hat mir meine so unschweizerische Menschenscheu</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten; Umschlagaufriss ohne Textverlust.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf der Umschlagrückseite die Zuordnung <q>Rubiner</q> und das Datum mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="3"/>
+                            
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/>–<date when-iso="1916-10-09">9 X 16</date>.–10
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine>Prof. <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="underline align(right)"><placeName key="E0500132">Zürich</placeName> VI</addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500189">Scheuchzerstr. 36</placeName>.</addrLine>
+                            </address>
+                            
+                            <pb n="4"/>
+                            
+                            <note type="annotation" place="left" rend="large" resp="#recipient">Rubiner</note>
+                            <note type="stamp" place="right-of" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) rotate(180)">
+                                    <placeName key="E0500132"><supplied reason="low-ink">Zü</supplied>rich</placeName> 1
+                                    <lb/>–<date when-iso="1916-10-09">9. X. 16</date>.–11
+                                    <lb/>Briefträger II </stamp>
+                            </note>
+                            <note type="shelfmark" place="center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough">
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp> Mus.ep. L. Rubiner 5
+                                    </del>
+                                    <add place="below" rend="align(right)">Mus.Nachl. F. Busoni B II, 4264-<lb/>Beil.</add>
+                                </subst>
+                            </note>
+                            <note type="stamp" place="center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="annotation" place="center" rend="large" resp="#recipient" xml:id="rec_date"><date when-iso="1916-10-09">9 Okt 1916</date></note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-10-09"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100305">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1916-10-09"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100304"/>
+                    <ref type="next" target="#D0100306"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2017-12-19" who="#E0300314">gemeinsame Ersttranskription
+                (Seminar-Beispiel), status unfinished.</change>
+            <change when-iso="2017-01-16" who="#E0300314">Fortsetzung Transkription
+                (Seminar-Beispiel), Entitäten, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873474406/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2900000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2900000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2900000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2900000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" resp="#archive" place="margin-left" rend="rotate(-90)">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. L. Rubiner 5 (Busoni-Nachl.
+                        <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <opener>
+                    <dateline>
+                        <address>
+                            <addrLine><placeName key="E0500132">Zürich</placeName> VI.<reg>,</reg>
+                                <placeName key="E0500408">Hadlaubstr. 11</placeName>.</addrLine>
+                        </address>
+                        <seg rend="align(right)"><date when-iso="1916-10-09">9.X.1916</date>.</seg>
+                    </dateline>
+                    <salute rend="indent space-above">Lieber <persName key="E0300017">Herr Busoni</persName>!</salute>
+                </opener>
+                
+                <p>Wieder einmal hat mir meine so unschweizerische
+                    <lb/>Menschenscheu einen Streich gespielt. Als ich
+                    <lb/>neulich in der <placeName key="E0500320">Tonhalle</placeName>
+                    
+                    <note type="commentary" resp="#E0300314">Nach den von <persName key="E0300017">Busoni</persName> dirigierten Konzerten am <date when-iso="1916-04-17/1916-04-18">17./18. April 1916</date> und seinem Klavierabend vom <date when-iso="1916-04-27">27. April 1916</date> sind keine weitere Auftritte <persName key="E0300017">Busonis</persName> in der <placeName key="E0500132">Zürcher</placeName> <placeName key="E0500320">Tonhalle</placeName> bezeugt <bibl>(vgl. <ref target="#E0800022"/>, S.&#8239;24–27)</bibl>.</note>
+                    
+                    zu Ihnen ins Künst
+                    <lb break="no"/>lerzimmer wollte, sah ich eine Menge von
+                    <lb/>Schweizer Gesichtern, die sich grinsend
+                    <lb/>hineinwälzten, wie auf einen ungeheuer
+                    <lb/>feinen Bissen. Trotzdem war es falsch von
+                    
+                    <note type="shelfmark" resp="#archive" place="margin-left" rend="rotate(-90)">
+                        <add xml:id="addSig">Mus.Nachl. F. Busoni B II, 4264</add>
+                    </note>
+                    
+                    <substJoin target="#delSig #addSig"/>
+                    
+                    <lb/>mir, dass ich floh!</p>
+                
+                <p rend="indent-first">Erlauben Sie mir jedoch, in diesen Tagen
+                    <lb/>auf einige Minuten zu Ihnen herauf<choice><orig> zu
+                            <lb/></orig><reg>zu<lb break="no"/></reg></choice>kommen? Ich war nämlich unterdessen am
+                    <lb/><placeName key="E0500406">Bodensee</placeName>, und Herr <persName key="E0300338">René Schickele</persName> und ich
+                    <lb/>haben Ihnen, durch meinen Mund, eine sehr
+                    <lb/>wichtige Idee für die <orgName key="E0600069" rend="dq-du">Wei<choice><orig>ss</orig><reg>ß</reg></choice>en Blätter</orgName>
+                    <lb/>vorzuschlagen, bei der Sie die Hauptsache sind.
+                    
+                    <note type="commentary" resp="#E0300314"><persName key="E0300126">Rubiner</persName> hatte in den <orgName key="E0600069">Weißen Blättern</orgName> bereits im <date when-iso="1916-05">Mai 1916</date> einen Text über <persName key="E0300017">Busoni</persName> mit dem Titel <title key="E0800134">Tröster</title> publiziert; als Beiträge <persName key="E0300017">Busonis</persName> erschienen dort <title key="E0800135">Das Wandbild</title> und das <rs key="E0800136">Libretto</rs> zur Oper <title key="E0400218">Doktor Faust</title> erst im Jahr <date when-iso="1918">1918</date>.</note>
+                    
+                    <lb/>Ich werde also an einem dieser Nachmittage,
+                    <lb/>wenn Sie nichts dagegen haben, vorsprechen.</p>
+                
+                <closer rend="align(center)">
+                    <salute>Mit den herzlichsten Grü<choice><orig>ss</orig><reg>ß</reg></choice>en</salute>
+                    <signed>Ihr ergebener <persName key="E0300126">Ludwig Rubiner</persName>.</signed>
+                </closer>
+                
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <pb n="2"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

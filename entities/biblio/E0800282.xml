@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800282">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Konold 1984</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-11-12" who="#E0300361">Datei neu angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>Wulf</forename>
+                            <surname>Konold</surname>
+                        </author>
+                        <title level="a">Struktur und Klangfarbe</title>
+                        <title level="a" type="sub">Bemerkungen zu Original und Bearbeitung von <persName key="E0300023">Schönbergs</persName> <title key="E0400020">Fünf Orchesterstücken</title> op.&#160;16</title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <forename>Heinz-Klaus</forename>
+                            <surname>Metzger</surname>
+                        </editor>
+                        <editor>
+                            <forename>Rainer</forename>
+                            <surname>Riehn</surname>
+                        </editor>
+                        <title level="m"><persName key="E0300023">Schönbergs</persName> <orgName key="E0600027">Verein für musikalische Privataufführungen</orgName></title>
+                        <idno type="DNB">850018935</idno>
+                        <imprint>
+                            <pubPlace>München</pubPlace>
+                            <publisher>edition text + kritik</publisher>
+                            <date when-iso="1984-03"/>
+                        </imprint>
+                        <biblScope unit="page">43–64</biblScope>
+                    </monogr>
+                    <series>
+                        <title level="s">Musik-Konzepte</title>
+                        <biblScope unit="volume">36</biblScope>
+                    </series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800199">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wolter 1965</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Karl</forename>
+                     <forename>Kurt</forename>
+                     <surname>Wolter</surname>
+                  </author>
+                  <title level="m">Die Postzensur</title>
+                  <title level="m" type="sub">Handbuch und Katalog</title>
+                  <title level="m" type="sub">Geschichte, Typen der Stempel und Briefverschlüsse mit ihrer Bewertung</title>
+                  <imprint>
+                     <date when-iso="1965"/>
+                     <pubPlace>München</pubPlace>
+                     <publisher>Georg Amm</publisher>
+                  </imprint>
+                  <extent>2 Bände</extent>
+                  <biblScope unit="volume" n="1">
+                     <title level="m">Band 1: Vorzeit, Frühzeit und Neuzeit (bis <date when-iso="1939">1939</date>)</title>
+                     <idno type="BVB">BV016825469</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="2">
+                     <title level="m">Band 2: Neuzeit (<date when-iso="1939/1965">1939-1965</date>)</title>
+                     <idno type="BVB">BV016825480</idno>
+                  </biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

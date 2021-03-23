@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schönberg, Arnold: 5 Orchesterstücke op. 16</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2019-11-11" who="#E0300361">Datensatz überarbeitet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct corresp="#E0400020" type="mus" subtype="arrgt">
+               <monogr>
+                  <author key="E0300023" role="cmp">Arnold Schönberg</author>
+                  <author key="E0300057" role="arrgr">Erwin Stein</author>
+                  <title level="m">5 Orchesterstücke</title>
+                  <idno type="op">16</idno>
+                  <edition>Bearbeitung von Nr. 1, 2 und 4 für zwei Klaviere achthändig</edition>
+                  <idno type="GND">300139349</idno>
+                  <imprint>
+                     <date when-iso="1912-02-04" type="firstperf"/>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                  </imprint>
+               </monogr>
+               <note>
+                  Die Urheberschaft der Bearbeitung für zwei Klaviere zu 8&#160;Händen von <persName key="E0300023">Schönbergs</persName> op.&#160;16 schien lange Zeit nicht zweifelsfrei 
+                  geklärt. Während Stuckenschmidt (vgl. <bibl><ref target="#E0800001">ebd.</ref>, S.&#160;144</bibl>) <persName key="E0300033">Anton Webern</persName> als Bearbeiter 
+                  benennt, verweisen andere Quellen (vgl. u.&#8239;a. <bibl><ref target="#E0800278"/>, S.&#160;36, Anm.&#160;11</bibl>) auf <persName key="E0300057">Erwin Stein</persName> 
+                  als Verfasser. (vgl. <bibl><ref target="#E0800282"/>, S.&#160;44, Anm.&#160;6</bibl>) Es ist davon auszugehen, dass Stuckenschmidt ein Irrtum unterlaufen ist. 
+                  <persName key="E0300023">Schönberg</persName> selbst verweist in seinem Tagebuch auf <persName key="E0300057">Stein</persName>. 
+                  (vgl. <bibl><ref target="#E0800278"/>, S.&#160;16, Nachtrag zum <date when-iso="1912-01-30">30.01.1912</date></bibl>) Eine Bearbeitung für zwei Klaviere zu 
+                  4&#160;Händen von <persName key="E0300033">Anton Webern</persName> wurde <date when-iso="1913">1913</date> vom <placeName key="E0500007">Leipziger</placeName> 
+                  <orgName key="E0600023">Peters</orgName>-Verlag veröffentlicht. (<bibl><ref target="#E0800282"/>, S.&#160;45</bibl>)
+               </note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

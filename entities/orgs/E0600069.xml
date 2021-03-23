@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600069">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die weißen Blätter</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="journal">
+               <idno type="GND">4311896-3</idno>
+               <idno type="ZDB">213633–8</idno>
+               <orgName>Die weißen Blätter</orgName>
+               <desc><date when-iso="1913/1920">Von 1913 bis 1920</date> erschienene literarische Monatsschrift expressionistischer Ausrichtung; <date when-iso="1915/1920">1915–1920</date> herausgegeben von <persName key="E0300313">René Schickele</persName> (<date when-iso="1919/1920">1919–1920</date> mit <persName key="E0300061">Paul Cassirer</persName> in <placeName key="E0500029">Berlin</placeName>).</desc>
+               <bibl><ref type="ext"
+                       target="https://de.wikisource.org/wiki/Die_wei%C3%9Fen_Bl%C3%A4tter">Übersicht zu verfügbaren Digitalisaten bei Wikisource</ref></bibl>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

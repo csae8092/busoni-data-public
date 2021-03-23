@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0200004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Vorrede zu einer zweiten Auflage des Entwurfs einer neuen Ästhetik der Tonkunst</title>
+                <title xml:lang="en">Preface to a second edition of the Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digitale Edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2020-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Essays</title>
+                <title type="subseries" key="E010004">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <editor>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </editor>
+                <editor>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni C I,61</idno>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-2882020</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                        <msItem>
+                            <docDate><date when-iso="1909-02"/></docDate>
+                            <incipit/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Doppelt gefalzt, am Kreuzungspunkt in der Mitte ein kleines Loch, am rechten Rand mehrere Einrisse (ohne Textverlust); unten zwei Einrisse/Löcher, mit Textverlust (behebbar); sonst gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Autors Ferruccio Busoni, Text in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signatur mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive2" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when-iso="1909-02"/>
+                            <origPlace key="E0500085">Mailand</origPlace>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800045"/>, S. 136</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc> 
+            </sourceDesc>            
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2020-09-01" who="#E0300314">Revisionselement hinzugefügt und revisionDesc auf status="unfinished" gesetzt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/834986027/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B14E00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B14E00000002"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                
+                <head rend="align(center)"><hi rend="underline">Vorrede zur zweiten Auflage<orig>.</orig></hi>
+                    <lb/>(<date when-iso="1909">1909</date>)</head>
+                
+                
+                <note type="commentary" resp="#E0300314">Die anno <date when-iso="1909">1909</date> projektierte Neuauflage des <title key="E0400043">Entwurfs einer neuen Ästhetik der Tonkunst</title> kam nicht zustande; in die erweiterte Neuauflage von <date when-iso="1916">1916</date> ist das Vorwort nicht eingegangen.</note>
+                
+                
+                <p>Dieses <rs key="E0400043"><choice><orig>K</orig><reg>k</reg></choice>leine Buch</rs> – (ich schrieb es vor
+                    
+                    <note type="shelfmark" resp="#archive" place="margin-left" rend="rotate(-90)">Busoni-Nachlaß <handShift new="#archive2"/>C I<handShift new="#archive"/>,61</note>
+                    
+                    <lb/>über zwei Jahren) – enthält den Keim
+                    <lb/>zu einer Revolution. W<choice><orig>ae</orig><reg>ä</reg></choice>re es gelesen worden,
+                    <lb/>und mit Vertrauen gelesen – dann wäre
+                    <lb/>die Revolution geboren. Hätte ich dem Buche
+                    <lb/>durch einen entschiedeneren Ton und eine
+                    <lb/>voluminösere Fassung das Ansehen verliehen<reg>,</reg>
+                    <lb/>welches der Inhalt – <subst><del rend="strikethrough">in der gewählten</del><add place="above">trotz seiner</add></subst> be
+                    <lb break="no"/>scheidenen Gestalt – beanspruchen darf,
+                    <lb/>dann w<choice><orig>ae</orig><reg>ä</reg></choice>re es gelesen worden.</p>
+                
+                <p rend="indent-first">Jedes philosophische System lässt sich
+                    <lb/>mit einem knappen Satz darstellen.
+                    <lb/>Auf jede<subst><del rend="strikethrough-part">m</del><add place="remaindet">n</add></subst> <del rend="strikethrough">wahrha</del> philosophischen
+                    <lb/>Aphorismus lässt sich ein System ausbauen.</p>
+                
+                <p rend="indent-first">Ich überlie<choice><orig>ss</orig><reg>ß</reg></choice> es dem Leser, einen Satz
+                    <lb/>zweimal durchzunehmen, falls er Bedürf
+                    <lb break="no"/>nis<orig>s</orig> nach Wiederholung fühlte.</p>
+                
+                <p rend="indent-first">Aber es werden tausend Wiederholungen
+                    <lb/>williger gelesen<orig>,</orig> als <hi rend="underline">ein</hi> neuer Satz.</p>
+                
+                <p rend="indent-first">Trotz dieser Einsicht bin ich – bis auf
+                    <lb/>einige Zusätze, welche ebenfalls nichts
+                    <lb/>Gesagtes wiederbringen – bei dieser Auflage
+                    <lb/><rs type="biblio" key="E0800228 E0800315">der ersten</rs> gleich g<supplied reason="paper-missing">e</supplied>blieben.</p>
+                
+                <closer rend="align(right)">
+                    <signed><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                    <dateline><placeName key="E0500085">Mil<supplied reason="paper-missing">a</supplied>no</placeName> – im <date when-iso="1909-02">Februar 1909</date><orig>.</orig></dateline>
+                </closer>
+                
+                <pb n="2"/>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red_2">
+                    <stamp rend="round border majuscule align(center)"><seg rend="small spaced-out">Deutsche</seg>                        <lb/>Staats
+                        <lb break="no"/>bibliothek
+                        <lb/>
+                        * <placeName key="E0500029">
+                            <seg rend="small spaced-out">Berlin</seg>
+                        </placeName> *
+                    </stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-right" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

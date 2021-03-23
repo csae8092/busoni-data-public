@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500601">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>"Schloss" Kleinlaufenburg</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-06" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place type="building">
+                    <placeName><soCalled rend="dq-du">Schloss</soCalled> <placeName key="E0500534">Kleinlaufenburg</placeName></placeName>
+                    <location>
+                        <address>
+                            <addrLine><placeName type="street">Säckinger Straße 3</placeName></addrLine>
+                            <addrLine><settlement key="E0500534">Kleinlaufenburg</settlement></addrLine>
+                        </address>
+                        <country key="DE"/>
+                        <geo>47.565244 8.060113</geo>
+                    </location>
+                    <desc>
+                        <date when-iso="1894">1894</date> von <persName key="E0300434">Mary Elizabeth Codman</persName> und ihrem ersten Ehemann 
+                        <persName key="E0300525">Arthur Amory Codman</persName> gekauftes und zur Villa ausgebautes ehem. Gartenhaus; <date from-iso="1899">ab 1899</date> 
+                        Sommer-Residenz von <persName key="E0300434">Codman</persName> und ihrem zweiten Ehemann <persName key="E0300208">Robert Freund</persName>.
+                    </desc>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

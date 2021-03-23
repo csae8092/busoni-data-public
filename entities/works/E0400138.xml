@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400138">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni, Ferruccio: Die Brautwahl</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300017" role="lbt cmp">Ferruccio Busoni</author>
+                  <title level="m">Die Brautwahl</title>
+                  <idno type="wcat">K 258</idno>
+                  <idno type="GND">300637039</idno>
+                  <idno type="DNB">572578903</idno>
+                  <imprint>
+                     <pubPlace key="E0500145">Triest</pubPlace>
+                     <publisher>
+                        <orgName key="E0600017">C. Schmidl &amp; Co.</orgName>
+                     </publisher>
+                     <date when-iso="1907" type="firstprint-libr"/>
+                     <note>in der Sammlung <title key="E0800228"><title key="E0400048">Der mächtige Zauberer</title>. <title key="E0400138">Die Brautwahl</title>. Zwei Theaterdichtungen für Musik. <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title></title></note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1912-04-13" type="firstperf"/>
+                     <pubPlace key="E0500005">Hamburg</pubPlace>
+                  </imprint>
+                  <imprint>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                     <publisher>
+                        <orgName key="E0600115">Harmonie-Verlag</orgName>
+                     </publisher>
+                     <date when-iso="1912" type="firstprint-reduc"/>
+                  </imprint>
+                  <imprint>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                     <publisher>
+                        <orgName key="E0600115">Harmonie-Verlag</orgName>
+                     </publisher>
+                     <date when-iso="1914" type="firstprint"/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100570">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (Berlin, 15. September 1899)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (Berlin, 15 September 1899)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Zz">Zentralbibliothek Zürich</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Zürich</settlement>
+                        <institution key="CH-Zz">Zentralbibliothek Zürich</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection>Nachlass Robert Freund &amp; Etelka Freund</collection>
+                        <idno>Ms. Z II 157 a.1.7</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> moniert die lange Abwesenheit <persName key="E0300420">Etelka Freunds</persName> von 
+                            <placeName key="E0500029">Berlin</placeName>, da sie diese Zeit nicht hinreichend für das Klavierstudium nutzen kann; bittet 
+                            <persName key="E0300208">Freund</persName>, ihm seine <rs key="E0400410">Bearbeitungen</rs> zweier <persName key="E0300012">Bach</persName>-
+                            <rs type="works" key="E0400191 E0400408">Toccaten</rs> widmen zu dürfen.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1899-09-15"/>15.9.99</docDate>
+                            <!-- <docDate resp="#post" sameAs="#post_abs"><date when-iso=""/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso=""/></docDate> --> <!-- tatsächlich Vermutung äußern dazu? -->
+                            <incipit>Ich will Ihnen <choice><orig>A</orig><reg>a</reg></choice>llen, vereint wie Sie sind</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc> <!-- noch anpassen!!! -->
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Die vier Seiten des Bogens sind in der Reihenfolge 1, 3, 2, 4 beschrieben.</collation>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100570_5.jpg"/>
+                            <!-- <note type="shelfmark" place="top-right" resp="#archive">10</note>
+                            <note type="stamp" place="top-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border align(center) small">
+                                    <seg rend="majuscule"><placeName key="E0500144">Wei<supplied reason="illegible">ma</supplied>r</placeName></seg>
+                                    <lb/><date when-iso="1900-09-12">12.9.00</date>.9–10.V.
+                                    <lb/>★ ★ b
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine>Herrn <persName key="E0300208">Robert Freund</persName></addrLine>
+                                <addrLine><placeName key="E0500534">Klein<choice><orig>–L</orig><reg>l</reg></choice>aufenburg</placeName></addrLine>
+                                <addrLine><placeName key="E0500499">Großherzogt<orig>h</orig>um
+                                    <lb/><seg rend="align(right)">Baden<orig>.</orig></seg></placeName>
+                                </addrLine>
+                            </address> -->
+                            
+                            <pb n="6" facs="D0100570_6.jpg"/>
+                            <!-- <note type="stamp" place="left" rend="rotate(180)" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500534">Klein<supplied reason="low-ink">laufenburg</supplied></placeName>
+                                    <lb/><date when-iso="1900-09-13">13/9
+                                    <lb/>00</date>
+                                    <lb/>* 3<supplied reason="illegible">–4 N. *</supplied>
+                                </stamp>
+                            </note> -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace key="E0500029">Berlin</origPlace> am <origDate when-iso="1899-09-15">15. September 1899</origDate> verfasst.</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100573">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1899-09-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                     <placeName ref="http://www.geonames.org/2880121" key="E0500534">Kleinlaufenburg</placeName> 
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100509"/>
+                    <ref type="previous" target="#D0100508"/><!-- D0100569 -->
+                    <ref type="next" target="#D0100509"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+                <language ident="la"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2019-05-25" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100570_1.jpg"/>
+                <note type="shelfmark" place="top-right" rend="small" resp="#archive">7</note>
+                <opener>
+                    <dateline><placeName key="E0500029">Berlin</placeName>, <date when-iso="1899-09-15"><choice><orig>15.9.99</orig><reg>15. September 1899</reg></choice></date></dateline>
+                    <salute rend="indent space-above space-below">Hochverehrter Herr <choice><abbr>u.</abbr><expan>und</expan></choice> Freund.</salute>
+                </opener>
+                <p>Ich will Ihnen <choice><orig>A</orig><reg>a</reg></choice>llen, vereint
+                    <lb/>wie Sie sind, einen herzlichen Gruß
+                    <lb/>senden. Gewiss genie<choice><orig>ss</orig><reg>ß</reg></choice>t <persName key="E0300420">Etelka</persName>
+                    <lb/>Ihre Nähe und den sch<choice><orig>oe</orig><reg>ö</reg></choice>nen
+                    <lb/>Aufenthalt (so er nicht von Regen
+                    <lb/>getrübt) auf<orig>’</orig>s Innigste; doch
+                    <lb/>mu<choice><orig>ß</orig><reg>ss</reg></choice> ich mich ein wenig ihrer
+                    <lb/>A<subst><del rend="overwritten">n</del><add place="across">b</add></subst>wesenheit beklagen. Ich habe
+                    <lb/>in <persName key="E0300420">Etelka</persName> die große pianistische
+                    <lb/>und die sch<choice><orig>oe</orig><reg>ö</reg></choice>ne Herzensbegabung
+                    <lb/>erkannt, die dieses ungewöhnliche
+                    <lb/>M<choice><orig>ae</orig><reg>ä</reg></choice>dchen auszeichnen; daher
+                    <lb/>meine Freude, mich mit ihr
+                    <lb/>zu beschäftigen. Jetzt hat sie
+                    <lb/>aber die knappen Sommer<choice><orig>M</orig><reg>m</reg></choice>ona
+                    <lb break="no"/>te, die ich <add place="above" rend="small">ihr</add> widmen konnte und
+                    <lb/>herzlich wollte, sehr zersplittert
+                    <lb/>und die Zeit geht ohne Gewinn
+                    <lb/>dahin. An die Versicherung,
+                    <lb/>dass Sie bei Ihnen ernstlich
+                    <lb/>üben k<choice><orig>oe</orig><reg>ö</reg></choice>nne, glaube ich
+                    <lb/>nicht ganz, wenn ich auch
+                    <note type="shelfmark" place="bottom-left" rend="small" resp="#archive">Ms. Z II 157 a.1</note>
+                    
+                    <pb n="2" facs="D0100570_3.jpg"/>
+                    an ihrem guten Willen
+                    <lb/>und d<subst><del rend="overwritten">ie</del><add place="across">er</add></subst> Fähigkeit selb<reg>st</reg>ständig
+                    <lb/>zu arbeiten<reg>,</reg> nicht zweifle.
+                    <lb/>Aber diese Zeit gehört der
+                    <lb/>Familienfreude und nicht
+                    <lb/>dem Studium. Bald reise ich
+                    <lb/>ab, um meine <foreign xml:lang="la">via crucis
+                    <lb/>concertant<choice><orig>i</orig><reg>e</reg></choice>s</foreign> wieder zu beginnen,
+                    <lb/>ein ewiger Jude auf dem
+                    <lb/>Pianoforte; und von da an
+                    <lb/>hört die Möglichkeit auf, an <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>für meine Schüler zu denken <choice><abbr>u.</abbr><expan>und</expan></choice> zu
+                    <lb/>sorgen. –</p>
+                <p>Zum Schlu<choice><orig>ß</orig><reg>ss</reg></choice> eine warme
+                    <lb/>Bitte. Sympathie, Hochachtung
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> ein gut <choice><orig>th</orig><reg>T</reg></choice>eil Dankbarkeit
+                    <lb/>haben mich Ihnen verbunden;
+                    <lb/>dürfte ich Ihnen, als ein<corr>en</corr>
+                    <lb/>kleine<choice><sic>r</sic><corr>n</corr></choice> Beweis dieser meiner
+                    <lb/>aufrichtigen Gefühle<reg>,</reg> meine
+                    <lb/>neuen <rs key="E0400410">Bearbeitungen</rs> <persName key="E0300012">Bach</persName>’scher
+                    <lb/><rs type="works" key="E0400191 E0400408">Toccaten</rs> zueignen? Ich w<choice><orig>ae</orig><reg>ä</reg></choice>re
+                    <lb/>darauf sehr stolz. –</p>
+                <closer>
+                    <salute>
+                        An Ihre verehrte <rs key="E0300434">Frau
+                            <lb/>Gemahlin</rs> die achtungsvollsten
+                        <lb/>Grüße. Überhaupt von uns an Sie <choice><orig>A</orig><reg>a</reg></choice>lle.
+                        <lb/>Herzlichst, Ihr sehr ergebener
+                    </salute>
+                    <signed rend="inline"><persName key="E0300017">F. Busoni</persName></signed>
+                </closer>
+                
+                <pb n="3" facs="D0100570_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4" facs="D0100570_4.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 2, vacat]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

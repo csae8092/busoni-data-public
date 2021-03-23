@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300538">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Reinecke</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-02-18" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">119388472</idno>
+                    <idno type="VIAF">49409212</idno>
+                    <idno type="ISNI">0000000110616552</idno>
+                    <persName type="reg">
+                        <surname>Reinecke</surname>,
+                        <forename>Carl</forename>
+                    </persName>
+                    <persName type="birth">
+                        <forename>Carl</forename>
+                        <forename>Heinrich</forename>
+                        <forename>Carsten</forename>
+                        <surname>Reinecke</surname>
+                    </persName>
+                    <persName type="pseud">
+                        <forename>Heinrich</forename>
+                        <surname>Carsten</surname>
+                    </persName>
+                    <persName type="pseud">
+                        <forename>W.</forename>
+                        <nameLink>te</nameLink>
+                        <surname>Grove</surname>
+                    </persName>
+                    <birth>
+                        <date when-iso="1824-06-23"/>
+                        <placeName key="E0500612">Altona</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1910-03-10"/>
+                        <placeName key="E0500007">Leipzig</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Komponist</occupation>
+                    <occupation>Pianist</occupation>
+                    <occupation>Dirigent</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

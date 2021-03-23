@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300423">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fjodor Michailowitsch Dostojewski</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-18" who="#E0300372">Status reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118527053</idno>
+               <idno type="VIAF">104023256</idno>
+               <idno type="ISNI">0000000121462392</idno>
+               <persName type="reg">
+                  <surname>Dostojewski</surname>,
+                  <forename>Fjodor</forename>
+                  <forename type="patronym">Michailowitsch</forename>
+               </persName>
+               <persName type="alt">
+                  <forename>Fëdor</forename>
+                  <forename type="patronym">Michajlovič</forename>
+                  <surname>Dostoevskij</surname>
+               </persName>
+               <birth>
+                  <date calendar="Gregorian" when-iso="1821-11-11"/>
+                  <date calendar="Julian" when-iso="1821-10-30"/>
+                  <placeName key="E0500066">Moskau</placeName>
+               </birth>
+               <death>
+                  <date calendar="Gregorian" when-iso="1881-02-09"/>
+                  <date calendar="Julian" when-iso="1881-01-28"/>
+                  <placeName key="E0500116">Sankt Petersburg</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

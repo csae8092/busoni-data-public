@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schönberg / Brinkmann 1975</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author key="E0300023">
+                     <forename>Arnold</forename>
+                     <surname>Schönberg</surname>
+                  </author>
+                  <editor>
+                     <forename>Reinhold</forename>
+                     <surname>Brinkmann</surname>
+                  </editor>
+                  <title level="a">Fragmente</title>
+               </analytic>
+               <monogr>
+                  <author key="E0300023">
+                     <forename>Arnold</forename>
+                     <surname>Schönberg</surname>
+                  </author>
+                  <editor>
+                     <forename>Reinhold</forename>
+                     <surname>Brinkmann</surname>
+                  </editor>
+                  <title level="m">Werke für Klavier zu zwei Händen</title>
+                  <title level="m" type="sub">Kritischer Bericht, Skizzen, Fragmente</title>
+                  <idno type="DNB">1004201834</idno>
+                  <imprint>
+                     <pubPlace>Mainz</pubPlace>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>B. Schott’s Söhne</publisher>
+                     <publisher>Universal Edition</publisher>
+                     <date when-iso="1975"/>
+                  </imprint>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page">99–146</biblScope>
+               </monogr>
+               <series>
+                  <title level="s"><persName key="E0300023">Arnold Schönberg</persName>. Sämtliche Werke</title>
+                  <biblScope unit="volume">II:B:4</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

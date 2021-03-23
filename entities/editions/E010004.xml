@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E010004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Entwurf einer neuen Ästhetik der Tonkunst – eine Einführung</title>
+                <title xml:lang="en">Entwurf einer neuen Ästhetik der Tonkunst – an introduction</title>
+                <author key="E0300314">Christian Schaper</author>                
+            </titleStmt>
+            <editionStmt>
+                <edition xml:lang="de">in den Fassungen 1907 und 1916</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Edition</title>
+                <title type="subgenre" key="writings">Briefedition</title>
+                <title type="subseries" key="E010004">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unfinished">
+            <change who="#E0300315" when-iso="2018-02-07">Von standalone xml nach TEI überführt.</change>            
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="en">
+                <p>Sorry, there is currently no english version available.</p>
+            </div>
+            <div xml:lang="de">               
+                <p>
+                    <persName key="E0300017">Ferruccio Busonis</persName> <emph>Entwurf einer neuen Ästhetik der Tonkunst</emph>
+                    erschien 1907 zunächst als Anhang eines <title key="E0800228">Sammeldrucks mit zwei Opernlibretti</title>
+                    (<title key="E0400048">Der mächtige Zauberer</title>, nicht vertont; <title key="E0400138">Die Brautwahl</title>, komponiert 1906–11)
+                    sowie <hi>
+                        <ref target="#D0200001">einzeln als gut 30-seitige Broschüre</ref>,
+                    </hi>
+                    beides im Verlag von Busonis Jugendfreund Carlo Schmidl in Triest.
+                    Eine englische und eine russische Ausgabe folgten 1911 bzw. 1912.
+                </p>
+                <p>Verbreitung weit über Kennerkreise hinaus fand der <emph>Entwurf</emph>
+                    erst in einer <hi>
+                        <ref target="#D0200002">revidierten
+                            und bedeutend erweiterten Neuausgabe</ref>,
+                    </hi> die 1916 in der populären „50-Pfennig-Reihe“
+                    der Insel-Bücherei erschien. Im progressiven wie im konservativen Lager löste sie
+                    heftige Reaktionen aus:
+                    <persName key="E0300023">Arnold Schönberg</persName> und <persName key="E0300115">Paul Hindemith</persName>
+                    hinterließen reich annotierte Exemplare; <persName key="E0300084">Hans Pfitzners</persName>
+                    Erwiderung in Form des Pamphlets <emph>Futuristengefahr</emph> (1917) ließ die Auflage weiter nach oben schnellen,
+                    so dass innerhalb eines Jahres an die 10.000 Exemplare des <emph>Entwurfs</emph> verkauft werden konnten.
+                </p>
+                <p>Die locker gereihten Abschnitte des <emph>Entwurfs</emph> fügen sich mosaikartig zur Vision einer zukünftigen Musik,
+                    die alle Fesseln der von Busoni so genannten <q>Gesetzgeber</q> abstreift, indem sie alle
+                    Zwänge von Gattung,
+                    Form und Instrumentarium, von Notations- und Tonsystem hinter sich lässt:
+                    <ref target="#D0200001" n="6">
+                        <q>Frei ist die Tonkunst geboren und frei zu werden ihre
+                            Bestimmung.</q>
+                    </ref> Busoni dringt dabei bis zur Skizzierung der
+                    <ref target="#D0200001" n="30">
+                        <q>verfeinerten Chromatik</q> eines Sechsteltonsystems</ref>
+                    vor; dem anbrechenden Zeitalter <ref target="#D0200001" n="31">völlig stufenloser
+                        elektrischer Klangerzeugung</ref> sieht er euphorisch entgegen.
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

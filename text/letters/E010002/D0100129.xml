@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Vitznau, 5. September 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Vitznau, 5 September 1916)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300329">
+                        <forename>Till</forename>
+                        <forename>Erik</forename>
+                        <surname>Sawallisch</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2265</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 38 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621757</idno>
+                        </altIdentifier>                        
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> gratuliert <persName key="E0300017">Busoni</persName> zur <q rend="dq-du">Geburt</q> seines <title key="E0400133">Arlecchino</title>; kannte <persName key="E0300017">Busonis</persName> Gedenktext für <persName key="E0300083">Umberto Boccioni</persName> bereits; schlägt Programme für vier geplante Konzerte vor.</summary>
+                        <msItem>                            
+                            <docDate><date when-iso="1916-09-05"/></docDate>
+                            <incipit>Zur Geburt wünsche ich</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Briefkarte</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Leichter Flüssigkeitsschaden auf der Vorderseite links unten (ohne Textverlust); ansonsten gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive2" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="archive3" scope="minor" medium="red_pen" scribe="archivist" cert="high">Vmtl. Hand des Archivars, der eine Nummerierung mit Rotstift eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500200">Vitznau</origPlace>
+                            <origDate when-iso="1916-09-05"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-09-05"/>
+                    <placeName ref="http://www.geonames.org/2658107" key="E0500200">Vitznau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <!--<ref type="replyTo" target="#1916-09-04-bh"/>-->
+                    <!--<ref type="repliedBy" target="#1916-09-07-bh"/>-->
+                    <ref type="previous" target="#D0100191"/>
+                    <ref type="next" target="#D0100192"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01-14" who="#E0300329">Bearbeitung übernommen; status="unfinished"</change>
+            <change when-iso="2017-02-24" who="#E0300329">status="proposed"</change>
+            <change when-iso="2017-06-23" who="#E0300314">Durchsicht abgeschlossen; status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873374576/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EABD00000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EABD00000002"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <fw place="right" rend="tiny strikethrough">
+                    <placeName key="E0500204">Angensteinerstrasse 30.</placeName>
+                </fw>
+                
+                <note type="numbering" resp="#archive3" place="margin-right" rend="large">8</note>
+                
+                <opener>
+                    <dateline rend="align(right)"><placeName key="E0500200">Vitznau</placeName><reg>,</reg> <add place="above">5.</add> <choice><abbr>Sept.</abbr><expan>September</expan></choice> 1916</dateline>
+                    
+                    <fw place="left" rend="small">
+                        <persName key="E0300125">Dr. <hi rend="majuscule">Hans Huber</hi></persName>
+                    </fw>
+                    
+                    <note xml:id="add_sig" type="shelfmark" place="margin-left" rend="rotate(-90)" resp="#archive">
+                        <add place="bottom-left">Mus.Nachl. F. Busoni B II, 2265</add>
+                    </note>
+                    
+                    <salute rend="indent">Verehrter lieber Maestro!</salute>
+                </opener>
+                
+                <p rend="indent-first">
+                    Zur Geburt 
+                    
+                    <note type="commentary" resp="#E0300329">Am <date when-iso="1916-08-07">7. August 1916</date> hatte <persName key="E0300017">Busoni</persName> seine einaktige Oper <title key="E0400133">Arlecchino oder Die Fenster</title> fertiggestellt.</note>
+                    
+                    wünsche ich das schönste
+                    <lb/>Glück; aber zur Taufe möchte ich auch
+                    <lb/>als Pat<orig>h</orig>e – we<choice><orig>n̅</orig><reg>nn</reg></choice> auch im <choice><orig>7</orig><reg>sieb</reg></choice>ten Gliede –
+                    <lb/>t<orig>h</orig>eilnehmen. Sie halten mich <choice><unclear reason="illegible" cert="high">de<choice><orig>n̅</orig><reg>nn</reg></choice></unclear>
+                        <unclear reason="illegible" cert="low">da<choice><orig>n̅</orig><reg>nn</reg></choice></unclear></choice>
+                    auf
+                    <lb/>dem Laufenden.
+                </p>
+                <p rend="indent-first">Das rührende <soCalled rend="dq-du">In memoriam</soCalled>
+                    
+                    <note type="commentary" resp="#E0300329">Im August 1916 hatte <persName key="E0300017">Busoni</persName> einen Zeitungsaufsatz über den Tod des Malers <persName key="E0300083">Umberto Boccioni</persName> veröffentlicht, der unter dem Titel <title>Der Kriegsfall <persName key="E0300083">Boccioni</persName></title> in die Schriftsammlung <title key="E0800018">Von der Einheit der Musik</title> aufgenommen wurde.</note>
+                    
+                    hatte ich
+                    <lb/>bereits mit Ergriffenheit vor Ihrer
+                    <lb/>freundlichen Zusendung gelesen. –
+                </p>
+                
+                <p rend="indent-first">
+                    Und nun das andere: Sie
+                    <lb/>wi<choice><orig>ß</orig><reg>ss</reg></choice>en, da<choice><orig>ß</orig><reg>ss</reg></choice> wir Ihnen <choice><orig>A</orig><reg>a</reg></choice>lles entgegen
+                    
+                    <note xml:id="del_sig" type="shelfmark" place="bottom" resp="#archive">
+                        <del rend="strikethrough">Mus.ep. H. Huber 38 (Busoni-Nachl. B II)</del>
+                    </note>
+                    
+                    <pb n="2" break="no"/>
+                    
+                    bringen werden, was wir vermögen.
+                    
+                    <note type="commentary" resp="#E0300329">Im <ref type="E010002" target="#1916-09-04">Brief vom Vortag</ref> hatte <persName key="E0300017">Busoni</persName> um ein Monatshonorar für die vier von <persName key="E0300125">Huber</persName> beantragten Konzertabende gebeten.</note>
+                    
+                    <lb/>Sie brauchen also nur den leisesten
+                    <lb/>Wink zu geben. Ich denke als Progra<choice><abbr>m̅</abbr><expan>mm</expan></choice>e:
+                </p>
+                
+                <list style="decimal">
+                    
+                    <item><persName key="E0300012">Bach</persName> – <persName key="E0300001">Beethoven</persName></item>
+                    <item><persName key="E0300137">Chopin</persName> (<title key="E0400125">Et<choice><orig>uden op 10.</orig><reg>üden op. 10</reg></choice></title><reg>,</reg> <rs key="E0400132">Klaviersonate</rs> <choice><unclear reason="illegible" cert="high"><del rend="strikethrough">c</del> <del rend="strikethrough">b</del></unclear>
+                        <unclear reason="illegible" cert="low">et</unclear></choice>)</item>
+                    <item><persName key="E0300009">Brahms</persName>, <persName key="E0300015">Franck</persName><reg>,</reg> <persName key="E0300017">Busoni</persName></item>
+                    <item rend="no_dot"><persName key="E0300013">Liszt</persName>!
+                        
+                        <note type="commentary" resp="#E0300329">Die vier Klavierabende fanden am <date when-iso="1917-01-12">12.</date>, <date when-iso="1917-01-19">19.</date> und <date when-iso="1917-01-26">26. Januar</date>, sowie am <date when-iso="1917-02-02">2. Februar 1917</date> in <placeName key="E0500097">Basel</placeName> statt (<bibl><ref target="#E0800047"/>, S. 48</bibl>).</note>
+                        
+                    </item>
+                </list>
+                
+                <closer>
+                    <salute rend="indent-first">Seien Sie gegrüßt von
+                        <lb/>einem Jungen <choice><abbr>&amp;</abbr><expan>und</expan></choice> gesegnet
+                        <lb/>von einem Alten</salute>
+                    <signed rend="align(right)">Ihr <persName key="E0300125">Hans Huber</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+            </div>
+            
+            <substJoin target="#del_sig #add_sig"/>
+                        
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800284">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Haimo / Feisst 2016</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-11-19" who="#E0300314">angelegt</change>
+            <change when-iso="2019-12-09" who="#E0300361">Anmerkung überarbeitet</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <monogr>
+                        <editor>
+                            <forename>Ethan</forename>
+                            <surname>Haimo</surname>
+                        </editor>
+                        <editor>
+                            <forename>Sabine</forename>
+                            <surname>Feisst</surname>
+                        </editor>
+                        <title level="m"><persName key="E0300023">Schoenberg’s</persName> Early Correspondence</title>
+                        <title level="m" type="sub"><date when-iso="1891/1907-05">1891 – May 1907</date></title>
+                        <idno type="DNB">1153619652</idno>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>Oxford University Press</publisher>
+                            <date when-iso="2016"/>
+                        </imprint>
+                    </monogr>
+                    <note>Enthält fünf Briefe des Briefwechsels <persName key="E0300017">Busoni</persName>–<persName key="E0300023">Schönberg</persName> aus dem Jahr <date when-iso="1903">1903</date>, 
+                        darunter Erstveröffentlichungen in englischer Sprache der drei Briefe <persName key="E0300023">Schönbergs</persName>.</note>
+                    <note>Die Herausgeber reklamieren für sich, ihre Übersetzungen auf Basis eigener Transkriptionen der Original-Briefe oder Fotokopien derselben angefertigt zu haben. Abweichungen von 
+                        dieser Vorgehensweise seien besonders gekennzeichnet. (vgl. Vorwort, S.&#160;x) Bei den <persName key="E0300017">Busoni</persName>-<persName key="E0300023">Schönberg</persName>-Briefen 
+                        fehlt ein solcher Hinweis, obwohl die Übersetzung offensichtlich auf Grundlage der Edition <bibl><ref target="#E0800003"/></bibl> erfolgte, unter Fortschreibung der dortigen Fehllesungen.</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

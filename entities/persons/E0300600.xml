@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300600">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Knowles Paine</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-10-06" who="#E0300418">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">118789244</idno>
+                    <idno type="VIAF">19872817</idno>
+                    <idno type="ISNI">0000000080991879</idno>
+                    <persName type="reg">
+                        <surname>Paine</surname>,
+                        <forename>John</forename>
+                        <forename>Knowles</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1839-01-09"/>
+                        <placeName key="E0500667">Portland (Maine)</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1906-04-25"/>
+                        <placeName key="E0500151">Cambridge (Massachusetts)</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Komponist</occupation>
+                    <occupation>Organist</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

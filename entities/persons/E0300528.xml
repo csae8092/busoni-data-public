@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300528">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Emilio Anzoletti</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2019-02-09" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">129479241</idno>
+                    <idno type="VIAF">10925749</idno>
+                    <idno type="ISNI">0000000015557531</idno>
+                    <persName type="reg">
+                        <surname>Anzoletti</surname>,
+                        <forename>Emilio</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1874"/>
+                        <placeName key="E0500368">Bologna</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1950"/>
+                        <placeName key="E0500604">Bergamo</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Amateur-Violoncellist</occupation>
+                    <occupation>Ingenieur</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

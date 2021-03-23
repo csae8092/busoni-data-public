@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100406"><!-- header ok; 2. korrekturlesung durch -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Paul Bekker an Ferruccio Busoni (Hofheim am Taunus, 23. Mai 1920)</title>
+                <title xml:lang="en">Letter by Paul Bekker to Ferruccio Busoni (Hofheim am Taunus, 23 May 1920)</title>
+                <author key="E0300111">Paul Bekker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 262</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. P. Bekker 380 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-573029</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300111">Bekker</persName> artikuliert seine Bedenken in Bezug auf eine Veröffentlichung von <persName key="E0300017">Busonis</persName> <q><placeName key="E0500027">Bayreuther</placeName> Brief</q>; erläutert nochmals einige grundlegende Gedanken seines <rs key="E0800310"><placeName key="E0500027">Bayreuth</placeName>-Artikels</rs> in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName>; reflektiert Unterschiede in der Bewertung des <q><persName key="E0300006">Wagner</persName>problem[s]</q> zwischen <persName key="E0300017">Busoni</persName> und sich; empfiehlt <persName key="E0300017">Busoni</persName>, den Text <q>in der jetzigen Fassung ungedruckt</q> zu lassen.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-05-23"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1920-05-26"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1920-05-28"/></docDate>
+                            <incipit>persönliche <choice><abbr>u</abbr><expan>und</expan></choice> berufliche Änderungen verschiedenster Art hatten mich bisher abgehalten</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Brief und Umschlag sind gut erhalten; Umschlagaufriss an der Oberkante (ohne Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="violet_ink" scribe="author" scribeRef="#E0300111">
+                                Hand des Absenders Paul Bekker, Brieftext in lila Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen und eine Foliierung vorgenommen hat</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="sbb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_violet" scope="minor" medium="violet_ink" scribe="archivist">
+                                Bibliotheksstempel (lila Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">
+                                Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post_violet" scope="minor" medium="violet_pen" scribe="postoffice">
+                                Hand eines Postangestellten, der auf der Rückseite des Umschlags mit lila Buntstift Anmerkungen gemacht hat</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="label" scope="minor" medium="black_print" scribe="postoffice">
+                                Postaufkleber</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <fw place="top-left" rend="fraktur align(center)">
+                                <orgName key="E0600070"><hi rend="bold"><placeName key="E0500153">Frankfurter</placeName> Zeitung</hi>
+                                    <lb/><seg rend="small">und Handelsblatt</seg></orgName>.
+                            </fw>
+                            <note type="stamp" place="margin-right" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500153"><supplied reason="low-ink">Frankfurt</supplied></placeName>
+                                    <lb/><date when-iso="1920-05-26">26.5.2<supplied reason="low-ink">0</supplied></date><supplied reason="low-ink">.5–</supplied>6<supplied reason="illegible">N</supplied>
+                                    <lb/>⭑ (<placeName key="E0500655">Main</placeName>) <gap atLeast="2" unit="char" reason="illegible"/>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="right-of" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500153">Frankfu<supplied reason="low-ink">r</supplied>t</placeName>
+                                    <lb/><date when-iso="1920-05-26"><supplied reason="low-ink">26</supplied>.5.20</date>.5–6<supplied reason="illegible">N</supplied>
+                                    <lb/><placeName key="E0500655"><supplied reason="low-ink">⭑ (Mai</supplied>n)</placeName> <gap atLeast="2" unit="char" reason="illegible"/>
+                                </stamp>
+                            </note>
+                            <lb/><hi rend="latin underline">Einschreiben</hi>
+                            <address rend="latin">
+                                <addrLine><seg rend="kurrent"><orig>(</orig>Herrn</seg> Dr. <persName key="E0300017">F. Busoni</persName></addrLine>
+                                <addrLine><hi rend="underline"><placeName key="E0500092">Schweiz</placeName></hi>      <placeName key="E0500132">Zürich</placeName></addrLine>
+                                <addrLine><placeName key="E0500189">Scheuchzer<choice><abbr>str</abbr><expan>straße</expan></choice> 36</placeName></addrLine>
+                            </address>
+                            <note type="label" place="left" rend="square border" resp="#label">
+                                <table>
+                                    <row>
+                                        <cell rend="large scale(1.9,2.1)">R</cell>
+                                        <cell rend="tiny">
+                                            <placeName key="E0500153">Frankfurt (<placeName key="E0500655">Main</placeName>)</placeName> 1
+                                            <lb/><seg rend="align(right)">ab</seg>Nr. <seg rend="bold">332</seg>   
+                                        </cell>
+                                    </row>
+                                </table>
+                            </note><lb/>
+                            <fw place="bottom-left" rend="underline bold">
+                                Ausland.
+                            </fw>
+
+                            <pb n="6"/>
+                            
+                            <note type="shelfmark" place="top-center" rend="align(center)" resp="#archive">
+                                <subst>
+                                    <add place="above">Mus.Nachl. F. Busoni B II, 262–Beil.</add>
+                                    <del rend="striketrough"><stamp resp="#sbb_st_blue"><handShift new="#archive"/>(<handShift new="#sbb_st_blue"/>Nachlaß Busoni <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</stamp>
+                                        <lb/>Mus.ep. P. Bekker 380</del>
+                                </subst>                    
+                            </note>
+                            <note type="annotation" place="center" rend="align(center) large strikethrough space-above" resp="#post_violet">21</note>
+                            <note type="stamp" place="bottom-right" rend="small" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132"><supplied reason="illegible">Z</supplied>ürich</placeName> 1
+                                    <lb/><date when-iso="1920-05-28">28.V.20</date>.•15
+                                    <lb/>Briefträg<supplied reason="illegible">er</supplied> II
+                                </stamp>
+                            </note>
+                            <note type="annotation" place="bottom-center" rend="large rotate(180)" resp="#post_violet">49</note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500462">Hofheim am <placeName key="E0500654">Taunus</placeName></origPlace>
+                            <origDate when-iso="1920-05-23"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100406">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                    <date when="1920-05-23"/>
+                    <placeName ref="http://www.geonames.org/2925533" key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1920-05-28"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100405"/>
+                    <ref type="repliedBy" target="#D0100407"/>
+                    <ref type="previous" target="#D0100405"/>
+                    <ref type="next" target="#D0100407"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-09-13" who="#E0300313">Ersttranskription, status unfinished</change>
+            <change when-iso="2020-02-29" who="#E0300361">Korrektur der Ersttranskription, Vervollständigung von Transkriptionslücken</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/875171818/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7900000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7900000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7900000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7900000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7900000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7900000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. P. Bekker 380 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 262</add>
+                    </subst>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    <salute rend="indent-2-first space-below">Sehr verehrter Herr Dr<reg>.</reg> <persName key="E0300017">Busoni</persName>,</salute>
+                </opener>
+                
+                <p rend="indent-first">persönliche <choice><abbr>u</abbr><expan>und</expan></choice> berufliche Änderungen verschiedenster
+                    <lb/>Art
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Im <date when-iso="1920-04">April 1920</date> hatte <persName key="E0300111">Bekker</persName> die Malerin <persName key="E0300583">Hanna vom Rath</persName> geheiratet, die er <date when-iso="1918-05-01">zwei Jahre zuvor</date> auf einer politischen Veranstaltung kennengelernt hatte. Gemeinsam waren beide nach <placeName key="E0500462">Hofheim</placeName> umgesiedelt, wo sie ein Haus gekauft hatten. <persName key="E0300583">Hannas</persName> Familie hatte sich vehement gegen die Verbindung ausgesprochen: aus antisemitischen Gründen – ein Problemfeld, mit dem sich <persName key="E0300111">Bekker</persName> auch in anderen Kontexten immer häufiger konfrontiert sah (vgl. <bibl><ref target="#E0800171"/>, S. 65 f. und 792</bibl>).
+                    </note>
+                    
+                    hatten mich bisher abgehalten, Ihnen für Ihren
+                    <lb/><choice><abbr>s. Zt.</abbr><expan>seinerzeit</expan></choice> in der <orgName key="E0600070"><choice><abbr>Frkf. Ztg.</abbr><expan><placeName key="E0500153">Frankfurter</placeName> Zeitung</expan></choice></orgName> abgedruckten <ref type="E010006" target="#D0100404">Brief</ref> sowie
+                    <lb/>für die neuerliche Zusendung des Aufsatzes von
+                    <!-- Aufsatz -->
+                    <lb/><seg rend="latin"><persName key="E0300405">Chantavoine</persName></seg> direkt zu danken. Gerade als ich Ihnen
+                    <lb/>jetzt schreiben wollte, kam Ihr <placeName key="E0500027">Bayreuther</placeName> Brief
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Als Anlage zu <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100405">Schreiben vom <date when-iso="1920-05-14">14. Mai 1920</date></ref>.
+                    </note>
+                    
+                    <lb/><choice><abbr>u</abbr><expan>und</expan></choice> hat mich – wie ich Ihnen aufrichtig gestehen will –
+                    <lb/>etwas erschreckt.</p>
+                <p rend="indent-first">Ich bin überzeugt, Sie haben keinen so schlechten 
+                    <lb/>Begriff von mir, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie meinen, ich könnte
+                    <lb/>einer Veröffentlichung widerstreben wegen des
+                    <lb/>polemischen Charakters der Anknüpfung. Im Gegen
+                    <lb break="no"/>teil – dies wäre für mich nur ein Grund, die
+                    <lb/>Annahme zu befürworten. Meine Bedenken 
+                    <lb/>sind ganz anderer Art <choice><abbr>u</abbr><expan>und</expan></choice> ich will versuchen,
+                    <lb/>sie auszusprechen<reg>,</reg> so gut das schriftlich möglich
+                    <lb/>ist. Vorher möchte ich noch bemerken, da<choice><orig>ß</orig><reg>ss</reg></choice> 
+                    <lb/>Sie mich m. E. in einem wichtigen Punkte
+                    <lb/>mi<choice><orig>ß</orig><reg>ss</reg></choice>verstanden haben. Ich wollte gerade darauf
+                    <lb/>hinweisen, da<choice><orig>ß</orig><reg>ss</reg></choice> <placeName key="E0500027">Bayreuth</placeName> nicht nur an der Talent
+                    <lb break="no"/>losigkeit der heutigen <placeName key="E0500027">Bayreuther</placeName>, sondern an der 
+                    <lb/>erlöschenden Kraft der Grundidee selbst abstirbt.
+                    
+                    <note type="stamp" place="bottom-center" resp="#sbb_st_red">
+                        <stamp rend="round border align(center) majuscule tiny">Preussischer
+                            <lb/>Staats
+                            <lb break="no" rend="sh"/>bibliothek
+                            <lb/>zu <placeName key="E0500029">Berlin</placeName>
+                            <lb/>Kulturbesitz
+                        </stamp>
+                    </note>
+                    
+                    <pb n="2"/>
+                    
+                    Ich habe auch direkt darauf hingewiesen, da<choice><orig>ß</orig><reg>ss</reg></choice> die
+                    <lb/>Frage nach der Zukunft von <placeName key="E0500027">Bayreuth</placeName> unmittelbar
+                    <lb/>in das <persName key="E0300006">Wagner</persName>problem hineinführt, d. h. in die
+                    <lb/>Frage nach der Gegenwarts<pc>=</pc> <choice><abbr>u</abbr><expan>und</expan></choice> Zukunftsbedeutung 
+                    <lb/>der Kunst <persName key="E0300006">Wagners</persName> überhaupt. In mancher Beziehung
+                    <lb/>denke ich da ganz ähnlich wie Sie, Ihre Schroffheit
+                    <lb/>bezüglich der Gesamtbewertung <persName key="E0300006">Wagners</persName> teile ich
+                    <lb/>allerdings gar<reg> </reg>nicht, halte sie auch für objektiv 
+                    <lb/>unberechtigt. Ich verstehe diese Art Stellungnahme
+                    <lb/>aus den Bedingungen Ihres Naturelles heraus,
+                    <lb/>aber ich glaube, da<choice><orig>ß</orig><reg>ss</reg></choice> Ihnen eben durch dieses 
+                    <lb/>besondere Naturell in dieser Beziehung – verzeihen 
+                    <lb/>Sie – Grenzen gezogen sind.</p>
+                <p rend="indent-first">Nun wäre das Ihre persönliche Angelegenheit
+                    <lb/><choice><abbr>u</abbr><expan>und</expan></choice> gewi<choice><orig>ß</orig><reg>ss</reg></choice> kein Grund, Ihre Meinungsäußerung
+                    <lb/>als Bekundung Ihrer Persönlichkeit zu unterdrücken.
+                    <lb/>Aber bitte bedenken Sie einmal ein ganz
+                    <lb/>klein wenig die realpolitische Seite. Sie wissen,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> es in <placeName key="E0500015">Deutschland</placeName> eine große Anzahl von
+                    <lb/>Menschen gibt, die Ihre Rückkehr, möglichst in 
+                    <lb/>einem groß<reg> </reg>gefa<choice><orig>ß</orig><reg>ss</reg></choice>ten Betätigungskreise wünschen,
+                    <lb/>Sie wissen vermutlich auch, da<choice><orig>ß</orig><reg>ss</reg></choice> diese Bestrebungen 
+                    <lb/>bereits ziemlich feste Formen gewonnen haben
+                    <lb/><choice><abbr>u</abbr><expan>und</expan></choice> auf ein besti<choice><abbr>m̅</abbr><expan>mm</expan></choice>tes Ziel gerichtet sind. Sie
+                    
+                    <pb n="3"/>
+                    
+                    <note type="shelfmark" place="top-left" resp="#archive">B II, 262</note>
+                    <note type="foliation" place="top-right" resp="#archive">[2]</note><lb/>
+                    
+                    <add place="above">wissen</add> ebenso<reg> </reg>gut, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie viele, einflu<choice><orig>ß</orig><reg>ss</reg></choice>reiche Gegner haben,
+                    <lb/>die das Gelingen mit allen Mitteln zu hintertreiben
+                    <lb/>suchen. Erscheint im jetzigen Augenblick dieser Artikel,
+                    <lb/>so liefern Sie Ihren Gegnern die herrlichsten Waffen
+                    <lb/>gegen Sie <choice><abbr>u</abbr><expan>und</expan></choice> rauben Ihren Freunden die Mög
+                    <lb break="no"/>lichkeit, Sie wirksam zu verteidigen. Denn
+                    <lb/>für diesen Aufsatz kann außer Ihnen selbst
+                    <lb/>niemand einstehen. Was also wäre das Er
+                    <lb break="no"/>gebnis? Sie gefährden die Arbeit Ihrer Freunde
+                    <lb/>aufs <choice><orig>ä</orig><reg>Ä</reg></choice>ußerste, geben Ihren Feinden billigstes 
+                    <lb/>Wasser auf die Mühle <choice><abbr>u</abbr><expan>und</expan></choice> können dabei nicht
+                    <lb/>einmal das Bewu<choice><orig>ß</orig><reg>ss</reg></choice>tsein einer absolut not
+                    <lb break="no"/>wendigen <choice><abbr>u</abbr><expan>und</expan></choice> richtigen Tat haben. Denn der Aufsatz
+                    <lb/>ist nicht nur außerordentlich einseitig, es ist
+                    <lb/>auch etwas Verbittertes, Gewaltsames darin,
+                    <lb/>was mich objektiv stört, da es nicht ganz
+                    <lb/>in das Bild Ihrer positiven Eigenschaften
+                    <lb/>pa<choice><orig>ß</orig><reg>ss</reg></choice>t.</p> 
+                <p rend="indent-first">Verzeihen Sie diese ganz freimütige Äußerung,
+                    <lb/>aber ich würde Ihnen einen schlechten Freund
+                    <lb break="no"/>schaftsdienst erweisen, wenn ich anders spräche.
+                    <lb/>Lassen Sie diesen Aufsatz in der jetzigen Fassung 
+                    <lb/>ungedruckt <choice><abbr>u</abbr><expan>und</expan></choice> übernehmen Sie ihn vielleicht
+                    
+                    <note type="stamp" place="bottom-center" resp="#sbb_st_violet">
+                        <stamp rend="round border align(center) majuscule tiny">Preussischer
+                            <lb/>Staats
+                            <lb break="no" rend="sh"/>bibliothek
+                            <lb/>zu <placeName key="E0500029">Berlin</placeName>
+                            <lb/>Kulturbesitz
+                        </stamp>
+                    </note>
+                    
+                    <pb n="4"/>
+                    
+                    später in eine andere, aus größerem Zusa<choice><abbr>m̅</abbr><expan>mm</expan></choice>enhang
+                    <lb/>geschaffene Arb<subst><del rend="overwritten"><gap extent="1" unit="char" reason="overwritten"/></del><add place="across">e</add></subst>it.</p>
+                <p rend="indent-first">Ich will nicht verhehlen, da<choice><orig>ß</orig><reg>ss</reg></choice> noch ein kleiner
+                    <lb/>persönlich taktischer Grund gegen die Veröffentlichung
+                    <lb/>in der <orgName key="E0600070"><choice><abbr>F. Ztg.</abbr><expan><placeName key="E0500153">Frankfurter</placeName> Zeitung</expan></choice></orgName> spricht. Wir haben vor ein paar
+                    <lb/>Monaten Ihren <ref type="E010006" target="#D0100404">damaligen Brief</ref> an mich ver
+                    <lb break="no"/>öffentlicht. Ko<choice><abbr>m̅</abbr><expan>mm</expan></choice>t jetzt wieder ein offener Brief
+                    <lb/>an mich, so wirkt das als Versuch, <hi rend="underline">mich</hi> mit
+                    <lb/>Hilfe Ihres Namens öffentlich in Szene zu setzen,
+                    <lb/>also als Eitelkeit meinerseits. Trotz der etwas
+                    <lb/>polemischen Färbung würde man das Ganze
+                    <lb/>als <soCalled rend="dq-du">bestellte Arbeit</soCalled> auffassen.</p>
+                <p rend="indent-first">Werden Sie mich nicht mi<choice><orig>ß</orig><reg>ss</reg></choice>verstehen? Ich schätze
+                    <lb/>Sie zu hoch, um das für möglich zu halten.
+                    <lb/>Ihr Manuskript behalte ich noch hier, bis ich
+                    <lb/>Ihre Rückäußerung habe. Sollten Sie meine
+                    <lb/>Gründe nicht anerkennen, so würde ich Ihren
+                    <lb/>Aufsatz dem Redaktionskollegium vorlegen,
+                    <lb/>da ich allein nicht entscheidungsberechtigt bin.
+                    <lb/>Was ich <date when-iso="1920-05-23">heut</date> schreibe, ist private Meinungsäußerung.</p>
+                <p rend="indent">Ich hoffe sehr, Sie bald dauernd in <placeName key="E0500015">Deutschland</placeName>
+                    <lb/>in einem schönen Wirkungskreise zu sehen<reg>,</reg>
+                    <lb/><seg rend="align(center)"><choice><abbr>u</abbr><expan>und</expan></choice> bin mit vielen Grüßen</seg></p>
+                
+                <closer>
+                    <salute rend="align(right)">Ihr aufrichtig ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300111">Paul Bekker</persName></signed>
+                    <dateline>
+                        <date when-iso="1920-05-23"><seg rend="align(center)"><choice><orig>23/V/20</orig><reg>23. Mai 1920</reg></choice></seg></date>
+                        <address>
+                            <addrLine><placeName key="E0500462"><hi rend="underline">Hofheim</hi> (<placeName key="E0500654">Taunus</placeName>)</placeName></addrLine>
+                            <addrLine rend="indent"><placeName key="E0500470">Kapellen<choice><abbr>str</abbr><expan>straße</expan></choice> 2</placeName></addrLine>
+                        </address>
+                    </dateline>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

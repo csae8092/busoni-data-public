@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800264">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Refardt 1905</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-18" who="#E0300361">Datei angelegt.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author key="E0300127">
+                            <forename>Edgar</forename>
+                            <surname>Refardt</surname>
+                        </author>
+                        <title level="a">Korrespondenzen.</title>
+                        <title level="a" type="sub"><placeName key="E0500097">Basel</placeName>.</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j"><orgName key="E0600148">Neue Zeitschrift für Musik</orgName></title>
+                        <idno type="DNB">011158522</idno>
+                        <imprint><date when-iso="1905-03-08"/></imprint>
+                        <biblScope unit="volume">72. Jg., Bd. 101</biblScope>
+                        <biblScope unit="no">11</biblScope>
+                        <biblScope unit="page">227–228</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

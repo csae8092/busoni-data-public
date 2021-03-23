@@ -1,0 +1,794 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100041">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Mödling, 26. Februar 1919)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Mödling, 26 February 1919)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4567</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 28 + Beil. (Busoni-Nachl. B II) </idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736538</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> berichtet von <persName key="E0300071">Steuermanns</persName> Einstudierung der <title key="E0400079">Sechs Elegien</title> <persName key="E0300017">Busonis</persName> für den <orgName key="E0600027">Verein für musikalische Privataufführungen</orgName>; erbittet Vorschläge für weitere aufführbare jüngere Werke <persName key="E0300017">Busonis</persName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1919-02-26"/></docDate>
+                            <incipit>Sie haben mir zwar keine Antwort gegeben</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent><!-- Umfang -->
+                                </extent>
+                                <collation><!-- MGL. BESONDERHEITEN DER SEITENFOLGE. --></collation>
+                                <condition><!-- ZUSTAND --> Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="author_schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500089">Mödling</origPlace>
+                            <origDate when-iso="1919-02-26"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 197 f.</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 205 f. (Brief), S. 137–140 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 422</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100041">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1919-02-26"/>
+                    <placeName ref="http://www.geonames.org/2771335" key="E0500089">Mödling</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100040"/>
+                    <ref type="next" target="#D0100042"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2016-03-15" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-04-07" who="#E0300314">Überarbeitung der Transkription Scheideler, Metadaten begonnen</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/83915318X/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000006"/>
+        <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000007"/>
+        <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000008"/>
+        <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000009"/>
+        <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000010"/>
+        <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000011"/>
+        <graphic n="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000012"/>
+        <graphic n="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000013"/>
+        <graphic n="14" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000014"/>
+        <graphic n="15" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000015"/>
+        <graphic n="16" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA5700000016"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive" rend="rotate(-90)">
+                    <add xml:id="add_sig" place="top-left">Mus.Nachl. F. Busoni B II, 4567</add>
+                </note>
+                
+                <note type="shelfmark" place="top" rend="align(right)" resp="#archive">
+                    <del xml:id="del_sig" rend="strikethrough">Mus.ep. A. Schönberg 28 + Beil.<lb/>(Busoni-Nachl. B. II) </del>
+                </note>
+                
+                <substJoin target="#del_sig #add_sig"/>
+                
+                <opener>
+                    <byline>
+                        <fw place="left" rend="majuscule align(center) small">
+                            <orgName key="E0600027">Verein für musikalische
+                                <lb/><hi rend="spaced-out">Privataufführungen</hi></orgName>
+                            <lb/><hi rend="smaller">Präsident <persName key="E0300023">Arnold Schönberg</persName></hi>
+                        </fw>
+                    </byline>
+                    <dateline rend="align(right)">
+                        <fw place="right-of" rend="majuscule tiny"><placeName key="E0500002">Wien</placeName>,</fw> <date when-iso="1919-02-26">26.<choice><orig>II</orig><reg>2</reg></choice>.1919</date>
+                    </dateline>
+                    <fw place="left">
+                        <address rend="tiny majuscule align(center)">
+                            <addrLine>alle Zuschriften an: Sekretär Dr. <persName key="E0300120">Paul Pisk</persName></addrLine>
+                            <addrLine><placeName key="E0500002">Wien</placeName>, VI., Proschkogasse 1, Tel. St. IV v. 704</addrLine>
+                        </address>
+                    </fw>
+                    <byline>
+                        <stamp rend="align(left)" resp="#author_schoenberg_addr_st1">
+                            <address rend="align(center)">
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                <addrLine><placeName key="E0500089">Mödling</placeName> bei <placeName key="E0500002">Wien</placeName></addrLine>
+                                <addrLine>Bernhardg 6. – Tel. 118.</addrLine>
+                            </address>
+                        </stamp>
+                    </byline>
+                </opener>
+                
+                <p><seg type="opener" subtype="salute">Verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> Sie haben mir zwar keine
+                    <lb/>Antwort gegeben auf Briefe, die ich Ihnen in der
+                    <lb/>letzten Zeit geschrieben habe.
+                    
+                    <note type="commentary" resp="#E0300313">Die letzten beiden überlieferten Briefe <persName key="E0300023">Schönbergs</persName> an <persName key="E0300017">Busoni</persName> stammen vom 30. Januar 1917 sowie aus dem Frühjahr 1917.</note>
+                    
+                    Aber heute <choice><orig>drängts</orig><reg>drängt’s</reg></choice> mich doch
+                    <lb/>wieder, Ihnen zu <choice><orig>schreiben</orig><reg>schreiben,</reg></choice> und gegenüber solchem Drang
+                    <lb/>hält alle Persönlichkeits<pc>=</pc> und Prestige<pc>=</pc>Politik bei mir
+                    <lb/>nicht stand, da nehme ich keine Rücksicht, weder auf
+                    <lb/>mich noch auf andere, sondern schreibe. Der
+                    <choice><orig>Anlaß</orig><reg>Anlass</reg></choice>: <persName key="E0300071">Steuer
+                        <lb break="no"/>mann</persName> spielt in dem <orgName key="E0600027">Verein für
+                            <choice><abbr>Mus. </abbr><expan><choice><orig>M</orig><reg>m</reg></choice>usikalische </expan></choice>
+                            <choice><orig><abbr>Priv.</abbr> A</orig><reg><expan>Privat</expan>a</reg></choice>ufführungen</orgName>
+                    <lb/>Ihre <title key="E0400079"><choice><orig>6</orig><reg>Sechs</reg></choice> Elegien</title><reg>,</reg> und die gefallen mir so außerordentlich,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> ich Ihnen das sagen mu<choice><orig>ß</orig><reg>ss</reg></choice>. Ob es Sie interessiert,
+                    <lb/>weiß ich nicht. Vielleicht aber interessiert Sie dieser
+                    <lb/><orgName key="E0600027">Verein</orgName>, den ich gegründet habe. Ich hatte damit einen
+                    <lb/>vollen Erfolg. Wir sind bereits über 300 Mitglieder
+                    <lb/>und dürften im Laufe des Jahres 500 werden. Das ist
+                    <lb/>der erste Schritt zu weitgreifenden Reformen des Konzert
+                    <lb break="no"/>lebens. Der erste Schritt – was daraus werden soll, kann
+                    <lb/>noch niemand ahnen. Mein Wunsch wäre es, über
+                    <lb break="no"/>all solche Vereine entstehen zu sehen. Das könnte segens
+                    <lb break="no"/>reich wirken. Allerdings: erste Voraussetzung ist tadellose
+                    <lb/>Vorbereitung der Aufführungen. Um ihnen einen
+                    <lb/>Begriff zu geben, was ich darunter verstehe, so erinnere
+                    <lb/>ich Sie an die Einstudierung
+                    <subst><del rend="strikethrough">dieses</del><add place="above">meines</add></subst> <title key="E0400041">Pierrot</title>.
+                    
+                    <note type="commentary" resp="#E0300313">Vor der Uraufführung von <title key="E0400041">Pierrot lunaire</title> am <date when-iso="1912-10-16">16. Oktober 1912</date> hatten seit <date when-iso="1912-07">Juli</date> 25 Proben mit dem Ensemble stattgefunden. Hinzu kamen zahlreiche Einzelproben mit der Interpretin der Sprechstimme <persName key="E0300203">Albertine Zehme</persName>.</note>
+                    
+                    Ich
+                    <lb/>kann sagen, da<choice><orig>ß</orig><reg>ss</reg></choice> wir dieses Niveau im Durch
+                    
+                    <pb break="no" n="2"/>
+                    
+                    schnitt eingehalten haben, obwohl mir ja nicht für alles
+                    <lb/>so gute Besetzung zur Verfügung gestanden ist. Manchmal haben
+                    <lb/>wir es allerdings auch übertroffen. <choice><orig>ZBsp</orig><reg>Z. B.</reg></choice> in der vierhändigen
+                    <lb/>Aufführung von <persName key="E0300047">Mahlers</persName> <title key="E0400105">VIII<reg>.</reg></title>
+                    
+                    <note type="commentary" resp="#E0300313">Gemeint ist sicher <persName key="E0300047">Mahlers</persName> <title key="E0400064">7. Symphonie</title>, deren Aufführung im ersten Vereinskonzert am <date when-iso="1918-12-29">29. Dezember 1918</date> stattfand (Wiederholung am <date when-iso="1919-01-16">16. Januar 1919</date>).</note>
+                    
+                    und
+                    <persName key="E0300022">Strau<choice><orig>ß</orig><reg>ss</reg></choice></persName>’ <title key="E0400072">Don Quixote</title>.
+                    
+                    <note type="commentary" resp="#E0300313">Die Aufführung von <title key="E0400072">Don Quixote</title> hatte am <date when-iso="1919-01-12">12. Januar 1919</date> stattgefunden (Wiederholung am <date when-iso="1919-01-30">30. Januar 1919</date>).</note>
+                    
+                    <lb/><persName key="E0300071">Steuermann</persName> spielt Ihre <title key="E0400079">Elegien</title> <hi rend="underline" n="2">sehr schön</hi>!
+                    
+                    <note type="commentary" resp="#E0300313">Die Aufführung von <persName key="E0300017">Busonis</persName> <title key="E0400079">Sechs Elegien</title> fand erst am <date when-iso="1919-03-02">2. März 1919</date> statt (drei Wiederholungen in den folgenden Monaten). Die Bemerkung <persName key="E0300023">Schönbergs</persName> dürfte sich daher auf die Proben beziehen.</note>
+                </p>
+                
+                <p rend="indent-first">Könnten Sie mir nicht sagen, was wir dem
+                    <lb break="no"/>nächst von Ihnen bringen sollen? Am liebsten hätte
+                    <lb/>ich etwas aus Ihrer letzten Schaffensperiode.
+                    
+                    <note type="commentary" resp="#E0300313">Im <orgName key="E0600027">Verein</orgName> wurden zu einem späteren Zeitpunkt außerdem von <persName key="E0300017">Busoni</persName> die <title key="E0400220">Sonatina [Nr. 1]</title> für Klavier, die <title key="E0400221">Violinsonate op. 29</title> sowie die <title key="E0400222">Toccata für Klavier</title> aufgeführt.</note>
+                </p>
+                
+                <p rend="indent-first">Ich grüße Sie herzlichst und denke mir, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie
+                    <lb/>mich doch einmal einer Zeile würdigen könnten.
+                    <lb/>Schließlich: der Schlechteste bin ich ja doch nicht. <seg type="closer" subtype="signed">Ihr <persName key="E0300023">Arnold Schönberg</persName></seg></p>
+                
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red" rend="space-above">
+                    <stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                </note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue" rend="space-above">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                
+                <pb n="3"/>
+                <!-- Umschlag vorne -->
+                <pb n="4"/>
+                <!-- Umschlag hinten -->
+                
+                <!-- Vereinsprospekt -->
+                <pb n="5"/>
+                
+                <note type="shelfmark" place="top" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Beilage zu: Mus.ep. A. Schönberg 28 (Busoni-Nachl. B II)</del>
+                        <add place="top">Mus.Nachl. F. Busoni B II, 4567a</add>
+                    </subst>
+                </note>
+                
+                <p><hi rend="underline majuscule"><orgName key="E0600027">Verein für musikalische Privataufführungen</orgName> in <placeName key="E0500002">Wien</placeName></hi>
+                    
+                    <note type="commentary" resp="#E0300313">Verfasser des sogenannten Vereinsprospekts war Alban Berg.</note>
+                </p>
+                
+                <p rend="indent-first space-above">Der im November 1918 gegründete Verein hat den
+                    <lb/>
+                    <hi rend="bold">Zweck,</hi>
+                    <hi rend="spaced-out"><persName key="E0300023">Arnold Schönberg</persName></hi> die Möglichkeit zu geben, <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> er seine Absicht: Künstlern und Kunstfreunden eine
+                    <lb/>wirkliche und genaue Kenntnis moderner Musik zu ver
+                    <lb break="no" rend="sh"/>schaffen, persönlich durchführe.</p>
+                
+                <p rend="indent-first">An dem Verhältnis des Publikums zur modernen Musik
+                    <lb/>ist in hervorragendem Maße der Umstand mitbestimmend
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> es als Eindruck davon vor allem anderen den von
+                    <lb/><hi rend="spaced-out">Unklarheit</hi> empfangen mu<choice><orig>ß</orig><reg>ss</reg></choice>. Unklar sind ihm Zweck, <lb/>Richtung, Absicht, Ausdrucksgebiet und Ausdrucksweise, <lb/>Wert, Wesen und Ziel der Werke, unklar ist meist die
+                    <lb/>Wiedergabe, unklar insbesonders des Publikums <choice><orig>Bewußtsein</orig><reg>Bewusstsein</reg></choice> <lb/>von seinen eigenen Bedürfnissen und Wünschen, und so
+                    <lb/>werden also die Werke geschätzt, geachtet, gepriesen und
+                    <lb/>bejubelt oder <choice><orig>mißachtet</orig><reg>missachtet</reg></choice>, getadelt und abgelehnt – <hi rend="spaced-out">bloß
+                        <lb/>wegen einer einzigen Wirkung, die von al1en
+                        <lb/>gleichmäßig ausgeht: wegen der Unklarheit.</hi></p>
+                
+                <p rend="indent-first">Das kann auf die Dauer keinen Berücksichtigungswerten
+                    <lb/>befriedigen: keinen ernsthaften Autor, keinen bessern
+                    <lb/>Menschen aus dem Publikum. Und hier endlich einmal
+                    <lb/>Klarheit zu schaffen, und damit berechtigten Wünschen und
+                    <lb/>Bedürfnissen Rechnung zu tragen, war einer der Anlässe, die
+                    <lb/><hi rend="spaced-out"><persName key="E0300023">Arno1d Schönberg</persName></hi> zur Gründung des Vereines bewogen
+                    <lb/>haben.</p>
+                
+                
+                <p rend="indent-first">Zur Erreichung dieses Ziels sind drei Dinge erforderlich:</p>
+                
+                <list style="decimal inside">
+                    <item rend="no-margin indent-first">Klare, gut studierte Aufführungen;</item>
+                    <item rend="no-margin indent-first">Oftmalige Wiederholungen;</item>
+                    <item rend="no-margin indent-first">Die Aufführungen müssen dem korrumpierenden
+                        <lb/><choice><orig>Einfluß</orig><reg>Einfluss</reg></choice> der Öffentlichkeit entzogen werden, das heißt, <hi rend="spaced-out">sie
+                            <lb/>dürfen nicht auf Wettbewerb gerichtet und
+                            <lb/>müssen unabhängig sein von Beifall und
+                            <lb/><choice><orig>Mißfallen</orig><reg>Missfallen</reg></choice></hi></item>
+                </list>
+                
+                <pb n="6"/>
+                
+                <p rend="indent-first">Damit ist auch der wesentliche Unterschied angezeigt, <lb/>der sich bei Vergleich der Aufgaben des Vereines und der
+                    <lb/>des heute üblichen Konzertlebens, von dem er sich grund
+                    <lb break="no" rend="sh"/>sätzlich fernhält, ergibt. Denn: mu<choice><orig>ß</orig><reg>ss</reg></choice> <hi rend="spaced-out">hier</hi></p>
+                
+                <p rend="indent-first">1. bei <hi rend="bold">Einstudierung eines Werkes </hi> im<choice><orig>allgemeinen</orig><reg>Allgemeinen</reg></choice> <lb/>mit einer von vornherein festgesetzten und immer zu gering
+                    <lb/>bemessenen Probenzahl schlecht und recht das Auslangen
+                    <lb/>gefunden werden – und bezeichnenderweise wird es, freilich
+                    <lb/>mehr schlecht als recht, gefunden –, so ist für die Zahl
+                    <lb/>der Proben der <hi rend="spaced-out">im Verein</hi> aufzuführenden Werke immer
+                    <lb/>nur die Erzielung der größtmöglichen Deutlichkeit, die Er
+                    <lb break="no" rend="sh"/>füllung aller aus dem Werke zu entnehmenden Intentionen
+                    <lb/>des Autors maßgebend. Und ergäbe das einen im heutigen
+                    <lb/>Musikbetrieb nicht wiederzufindenden Aufwand von Proben
+                    <lb/>(wie dies – um nur <hi rend="spaced-out">ein</hi> Beispiel herauszugreifen – etwa
+                    <lb/>beim Studium einer Symphonie von <persName key="E0300047">Mahler</persName> der Fall war, die
+                    <lb/>nach zwölf meist vierstündigen Proben zur Erstaufführung, <lb/>nach weiteren zwei Proben zur Wiederholung gelangt ist,): <lb/>bevor nicht wenigstens jene Grundbedingungen einer guten
+                    <lb/>Reproduktion gegeben sind, kann und darf im Verein ein
+                    <lb/>Werk nicht aufgeführt werden.</p>
+                
+                <p rend="indent-first">Wird – um ein solches Studium zu ermöglichen – <lb/>schon bei der <hi rend="bold">Wahl der Ausführenden</hi> vorerst auf jüngere
+                    <lb/>Künstler, also weniger bekannte und solche bekannte, die sich
+                    <lb/>dem Verein <hi rend="spaced-out">aus Interesse an der Sache</hi> zur Ver
+                    <lb break="no" rend="sh"/>fügung stellen, gegriffen, auf solche, deren Ruf man teuer
+                    <lb/>bezahlen mu<choice><orig>ß</orig><reg>ss</reg></choice>, nur soweit als das Werk es erfordert und
+                    <lb/><choice><orig>zuläßt</orig><reg>zulässt</reg></choice>, so wird wiederum durch eine derartig strenge
+                    <lb/>Auswahl jenes <hi rend="spaced-out">Virtuosentum ausgeschaltet</hi>, dem das auf
+                    <lb break="no" rend="sh"/>zuführende Werk nicht Selbstzweck, sondern lediglich Mittel
+                    <lb/>zu einem Zweck ist, der keinesfalls der des Vereins sein
+                    <lb/>kann, nämlich: Entfaltung von Virtuosität und Eigenart, die
+                    <lb/>fernab von der Sache liegt, Erzielung eines rein persön
+                    <lb break="no" rend="sh"/>lichen Erfolges. Durch den schon erwähnten <hi rend="spaced-out"><choice><orig>Ausschluß</orig><reg>Ausschluss</reg></choice> <lb/>aller Beifalls-, <choice><orig>Miß</orig><reg>Miss</reg></choice>falls- und Dankesbezei
+                        <lb break="no" rend="sh"/>gungen</hi> wird Derartiges an sich unmöglich. Der einzige
+                    
+                    <pb n="7"/>
+                    
+                    Erfolg, den ein Künstler hier haben soll, ist der, der ihm
+                    <lb/>der wichtigste sein müßte: das Werk und damit den Autor
+                    <lb/>verständHch gemacht zu haben.</p>
+                
+                <p rend="indent-first">Bietet nun eine so gründlich vorbereitete Aufführung
+                    <lb/>schon große Gewähr dafür, da<choice><orig>ß</orig><reg>ss</reg></choice> dem Werke zum richtigen
+                    <lb/>Verständnis verholfen werde, so ist dem Verein durch die
+                    <lb/>Einführung <hi rend="bold">wöchentlicher Veranstaltungen*)
+                        <!-- Zu *) gibt es eine Fußnote am unteren Rand der Seite, muss noch eingefügt werden: *) Derzeit jeden Sonntag vormittag 10 bis 12 Uhr im kleinen Musikvereinssal. -->
+                        
+                    </hi> hiezu ein
+                    <lb/>weiteres, noch wirksameres Mittel gegeben, und zwar:</p>
+                
+                <p rend="indent-first">2. das der <hi rend="bold">oftmaligen Wiederholungen</hi> jedes Werks.
+                    <lb/>Weiters wird, um den gleichmäßigen Besuch der Veran
+                    <lb break="no" rend="sh"/>staltungen zu sichern, <hi rend="spaced-out">das Programm im Vorhinein
+                        <lb/>nicht bekanntgegeben.</hi></p>
+                
+                <p rend="indent-first">Nur durch Erfüllung dieser beiden Erfordernisse: gründ
+                    <lb break="no" rend="sh"/>liches Studium und oftmalige Wiederholung, kann Klarheit
+                    <lb/>an Stelle der sonst als einziger Eindruck einer <hi rend="spaced-out">einmaligen</hi>
+                    <lb/>Wiedergabe verbleibenden Unklarheit treten, kann sich ein
+                    <lb/>den Absichten des Werkes entsprechendes Verhältnis ein
+                    <lb break="no" rend="sh"/>stellen, ein Sich-Einleben in dessen Stil und Sprache, <lb/>schließlich eine Vertrautheit, die sonst nur durch Selbst
+                    <lb break="no" rend="sh"/>studium erreichar ist, und die dem Konzertpublikum von
+                    <lb/>heute höchstens mit den oft aufgeführten <hi rend="spaced-out">k1assischen</hi>
+                    <lb/>Werken nachgerühmt werden könnte.</p>
+                
+                <p rend="indent-first">Die <hi rend="bold">dritte Bedingung</hi> zur Erreichung der Ziele des
+                    <lb/>Vereins wird dadurch erfüllt, da<choice><orig>ß</orig><reg>ss</reg></choice> die Aufführungen in jeder
+                    <lb/>Hinsicht
+                    <hi rend="bold">nichtöffentlich</hi> sind, da<choice><orig>ß</orig><reg>ss</reg></choice> <hi rend="spaced-out">Gäste</hi> (auswärtige
+                    <lb/>ausgenommen) <hi rend="spaced-out">keinen Zutritt</hi> haben und da<choice><orig>ß</orig><reg>ss</reg></choice> die Mit
+                    <lb break="no" rend="sh"/>glieder sich verpflichten, <hi rend="spaced-out">jede öffent1iche Bericht
+                        <lb break="no" rend="sh"/>erstattung</hi> über die Aufführungen und Tätigkeit des
+                    <lb/>Vereins zu unterlassen, insbesonders Rezensionen, <lb/>Notizen und Besprechungen in periodischen Druckschriften
+                    <lb/>weder zu verfassen noch zu inspirieren.</p>
+                
+                <p rend="indent-first">Diese Nichtöffentlichkeit der Veranstaltungen wird
+                    <lb/>durch die gleichsam <hi rend="spaced-out">pädagogischen</hi> Bestrebungen des
+                    <lb/>Vereins bedingt und deckt sich mit dessen Tendenz, den
+                    
+                    <pb n="8"/>
+                    
+                    aufgeführten Werken nur durch die gute Aufführung zu
+                    <lb/>dienen, also lediglich durch die Wirkung, <hi rend="spaced-out">die von der
+                        <lb/>Musik selbst
+                    </hi>ausgeht. Propaganda für Werk und Autor
+                    <lb/>ist nicht Zweck des Vereins.</p>
+                
+                <p rend="indent-first">Deshalb soll auch <hi rend="bold">keine Richtung bevorzugt</hi> und
+                    <lb/>nur das Wertlose ausgeschlossen werden, im übrigen aber
+                    <lb/>alle moderne Musik, von
+                    <persName key="E0300047"> Mahler</persName> und <persName key="E0300022">Strauß</persName> bis zu den
+                    <lb/>Jüngsten, die ja sonst fast nicht oder nur unzulänglich zu
+                    <lb/>Wort kommen, dargebracht werden.</p>
+                
+                <p rend="indent-first">Im Allgemeinen ist der Verein bestrebt, den Mitgliedern
+                    <lb/>das an solchen Werken darzutun, die geeignet sind, das
+                    <lb/>Schaffen eines Komponisten von seiner charakteristischesten
+                    <lb/>und zunächst womöglich auch ansprechendsten Seite zu
+                    <lb/>zeigen. Es kommen daher nebst Liedern, Klavierstücken,
+                    <lb/>Kammermusik und kleineren Chorsachen auch <hi rend="spaced-out">Orchester
+                        <lb break="no" rend="sh"/>werke</hi> in Betracht, welche – da der Verein heute noch
+                    <lb/>nicht die Mittel besitzt, sie in der Originalgestalt aufzu
+                    <lb break="no" rend="sh"/>führen – vorderhand nur in guten und gutstudierten <hi rend="bold">Arran
+                        <lb break="no" rend="sh"/>gements zu vier bis acht Händen</hi> reproduziert werden
+                    <lb/>können. Aber: <choice><orig>einmal</orig><reg>Einmal</reg></choice> vor eine solche neue Aufgabe ge
+                    <lb break="no" rend="sh"/>stellt, wurde aus der Not eine Tugend gemacht. Es ist
+                    <lb/>nämlich auf diese Weise möglich, moderne Orchester
+                    <lb break="no" rend="sh"/>werke – <hi rend="spaced-out">aller Klangwirkungen</hi>, die nur das Orchester
+                    <lb/>auslöst, <hi rend="spaced-out">und aller sinnlichen Hilfsmittel ent
+                        <lb break="no" rend="sh"/>kleidet</hi> – hören und beurteilen zu können. Damit wird
+                    <lb/>der allgemein
+                    übliche Vorwurf entkräftet, da<choice><orig>ß</orig><reg>ss</reg></choice> diese Musik
+                    <lb/>ihre Wirkungen ledglich ihrer mehr oder minder reichen
+                    <lb/>und effektvollen Instrumentation verdanke und nicht auch
+                    <lb/>alle die Eigenschaften besäße, die bisher für·eine gute
+                    <lb/>Musik charakteristisch waren: Melodien, Harmonienreichtum
+                    <lb/>Polyphonie, Formvollendung, Architektur etc.</p>
+                
+                <p rend="indent-first">Ein zweiter Vorteil solchen Musizierens ist in der
+                    <lb/><hi rend="spaced-out">konzertmäßigen Art der Wiedergabe dieser
+                        <lb/>Arrangements</hi> gelegen. Da es sich dabei nicht um
+                    <lb/>einen Orchesterersatz handelt, sondern darum, die Orchester
+                    <lb break="no" rend="sh"/>werke derart für Klavier umzudenken, da<choice><orig>ß</orig><reg>ss</reg></choice> sie in diesem
+                    
+                    <pb n="9"/>
+                    
+                    Augenblick als selbständige, man könnte fast behaupten:
+                    <lb/>Klavier-Kompositionen Geltung haben und gehört werden
+                    <lb/>sollen, werden insbesonders alle Eigenschaften und Eigen
+                    <lb break="no" rend="sh"/>tümlichkeiten des Klaviers ausgenützt, wird allen pianistischen
+                    <lb/>Möglichkeiten Rechnung getragen. Und nun stellt sich so
+                    <lb break="no" rend="sh"/>gar heraus, da<choice><orig>ß</orig><reg>ss</reg></choice> bei einer solchen Reproduktion von Orchester
+                    <lb break="no" rend="sh"/>werken mit besonderer Differenziertheit des Klanges fast
+                    <lb/>nichts verloren geht, ja da<choice><orig>ß</orig><reg>ss</reg></choice> gerade derartige Werke – <lb/>durch die Sicherheit ihrer Instrumentation, die Echtheit der
+                    <lb/>ihrer Eingebung angeborenen Klangfarben – imstande sind, <lb/>dem Klavier Klangwirkungen zu entlocken, die weit über
+                    <lb/>seine sonstigen Ausdrucksmöglichkeiten hinausgehen.</p>
+                
+                <p rend="indent-first space-above">In den ersten neun Vereinsveranstaltungen gelangten
+                    <lb/>zur Aufführung <choice><orig>bezw.</orig><reg>bzw.</reg></choice> Wiederholung:</p>
+                
+                <list rend="indent-first-neg">
+                    
+                    <item><hi rend="bold"><persName key="E0300094">Béla <choice><orig>Bártok</orig><reg>Bartók</reg></choice></persName>,</hi>
+                        <hi rend="spaced-out"><title key="E0400058">14 Bagatellen</title></hi> Op. 6 (zweimal);</item>
+                    <item><hi rend="bold"><persName key="E0300053">Alban Berg</persName>,</hi> Op. 1, <hi rend="spaced-out"><title key="E0400057">Sonate für
+                        Klavier</title></hi>;</item>
+                    <item><hi rend="bold"><persName key="E0300021">Claude Debussy</persName>,</hi> zwei Liederzyklen: <hi rend="spaced-out"><title key="E0400059">Proses lyriques</title></hi>
+                        <lb/>(zweimal) und <hi rend="spaced-out"><title key="E0400430">Fêtes galantes</title></hi> (zweimal); <hi rend="spaced-out">Trois
+                            <lb/><title key="E0400061">Nocturnes pour orchestre</title></hi>, arr. für zwei
+                        Klaviere
+                        <lb/>zu vier Händen von <persName key="E0300107">Maurice <hi rend="spaced-out">Ravel</hi></persName>
+                        (zweimal);</item>
+                    <item><hi rend="bold"><persName key="E0300095">Josef Hauer</persName>,</hi>
+                        <title key="E0400062"><hi rend="spaced-out">Nomos in sieben Teilen</hi>, Op. 1</title> und
+                        <lb/><title key="E0400063"><hi rend="spaced-out">Nomos in fünf Teilen</hi>, Op. 2</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300047">Gustav Mahler</persName>,</hi> <title key="E0400064">VII. <hi rend="spaced-out">Symphonie</hi></title>, arr.
+                        für Klavier vier<lb break="no" rend="sh"/> händig (zweimal); <title key="E0400065">Fünf Lieder aus "<hi rend="spaced-out">Des Knaben
+                            <lb/>Wunderhorn</hi>"</title> (zweimal);</item>
+                    <item><hi rend="bold"><persName key="E0300084">Hans Pfitzner</persName>,</hi>
+                        <title key="E0400066"><hi rend="spaced-out">Fünf Lieder</hi>, Op. 26</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300097">Max Reger</persName>,</hi>
+                        <title key="E0400067"><hi rend="spaced-out">Introduction, Passacaglia u. Fuge, <lb/>für zwei Klaviere
+                            vierhändig</hi> Op.96</title> (zweimal); <lb/><title key="E0400068"><hi rend="spaced-out">Sonate für Klavier
+                                und Cello A-moll</hi>, <lb/>Op. 118</title> (zweimal);</item>
+                    
+                    <pb n="10"/>
+                    
+                    <item><hi rend="bold"><persName key="E0300098">Franz Schreker</persName>,</hi> <hi rend="spaced-out"><title key="E0400069">Vorspiel zu einem Drama</title></hi>, arr.
+                        <lb/>für Klavier vierhändig
+                        (zweimal);</item>
+                    <item><hi rend="bold"><persName key="E0300099">Alexander Skrjabin</persName>,</hi> <title key="E0400070"><hi rend="spaced-out">Sonate für Klavier Nr.</hi> 4</title>
+                        <lb/>(zweimal); <title key="E0400071"><hi rend="spaced-out">Sonate für
+                            Klavier Nr.</hi> 7</title> (zweimal);</item>
+                    <item><hi rend="bold"><persName key="E0300022">Richard Strauß</persName>,</hi><title key="E0400072"> <hi rend="spaced-out">Don Quichote</hi>, Op. 35</title>, arr. für zwei
+                        <lb/>Klaviere vierhändig
+                        (zweimal);</item>
+                    <item><hi rend="bold"><persName key="E0300100">Igor Strawinsky</persName>,</hi> <hi rend="spaced-out"><title key="E0400073">Trois pieces faciles</title></hi> und <title key="E0400074"><hi rend="spaced-out">Cinq
+                        <lb/>pièces faciles
+                        pour piano a 4 mains</hi></title>
+                        <lb/>(zweimal);</item>
+                    <item><hi rend="bold">Anton von Webern<persName key="E0300033"/>,</hi> <title key="E0400075"><hi rend="spaced-out">Passacaglia</hi> f. gr. Orch. Op. 1</title>
+                        <lb/>arr. für zwei Klaviere
+                        sechshändig;</item>
+                    <item><hi rend="bold"><persName key="E0300046">Alexander von Zemlinsky</persName>,</hi> <title key="E0400076"><hi rend="spaced-out">Vier Lieder</hi> Op. 8</title>;</item>
+                    
+                </list>
+                
+                <p rend="indent-first">Folgende Werke befinden sich in Vorbereitung und
+                    <lb/>sind u. a. in Aussicht genommen:</p>
+                
+                <list rend="indent-first-neg">
+                    
+                    <item><hi rend="bold"><persName key="E0300053">Alban Berg</persName></hi> <title key="E0400077"><hi rend="spaced-out">Vier Lieder</hi>, Op. 2</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300101">Julius Bittner</persName>,</hi> <hi rend="spaced-out"><title key="E0400078">Sonate für Klavier und Cello</title></hi>;</item>
+                    <item><hi rend="bold"><persName key="E0300017">Ferruc<supplied>c</supplied>io Busoni</persName>,</hi> <hi rend="spaced-out"><title key="E0400079">Sechs Elegien für Klavier</title></hi>;</item>
+                    <item><hi rend="bold"><persName key="E0300102">Gustave Charpentier</persName>,</hi> <title key="E0400080"><hi rend="spaced-out">Poèmes chantés</hi></title>, für eine
+                        <lb/>Singstimme und
+                        Chor;</item>
+                    <item><hi rend="bold"><persName key="E0300021">Claude Debussy</persName>,</hi> <hi rend="spaced-out"><title key="E0400081">La mer, 3 esquisses sympho<lb break="no" rend="sh"/>
+                        niques</title></hi>, arr. für zwei Klaviere vierhändig;</item>
+                    <item><hi rend="bold"><persName key="E0300103">Fidelio Finke</persName>,</hi> <hi rend="spaced-out"><title key="E0400082">K1avierstücke</title></hi>;</item>
+                    <item><hi rend="bold"><persName key="E0300104">Egon Kornauth</persName>,</hi> <hi rend="spaced-out">Violinsonate</hi>;</item>
+                    <item><hi rend="bold"><persName key="E0300105">E. W. Korngold</persName>,</hi> <hi rend="spaced-out"><title key="E0400083">VioIinsonate</title></hi> Op. 6;</item>
+                    <item><hi rend="bold"><persName key="E0300047">Gustav Mahler</persName>,</hi> <hi rend="spaced-out"><title key="E0400084">VI. Symphonie</title></hi>, arr. für Klavier vier<lb break="no" rend="sh"/> händig
+                        von <hi rend="spaced-out"><persName key="E0300046">A. v. Zemlinsky</persName></hi>;</item>
+                    <item><hi rend="bold"><persName key="E0300106">Vitezlav Nowak</persName>,</hi> <hi rend="spaced-out"><title key="E0400085">Erotikon</title></hi>, Klavierstücke ;</item>
+                    <item><hi rend="bold"><persName key="E0300084">Hans Pfitzner</persName>,</hi> <title key="E0400086"><hi rend="spaced-out">Klavier-Quintett F-moll</hi>, Op. 23</title>; </item>
+                    <item><hi rend="bold"><persName key="E0300107">Maurice Ravel</persName>,</hi> <hi rend="spaced-out"><title key="E0400087">Zwei hebräische Gesänge</title></hi>;</item>
+                    
+                    <pb n="11"/>
+                    
+                    <item><hi rend="bold"><persName key="E0300097">Max Reger</persName>,</hi> <title key="E0400088"><hi rend="spaced-out">Suite für Cello</hi>, Op. 131c</title>; <title key="E0400089"><hi rend="spaced-out">Sonate
+                        <lb/>für Violine und Klavier</hi>, Op. 139</title>; <title key="E0400090"><hi rend="spaced-out">Sonate für
+                            <lb/>Klarinette und Klavier</hi> B-dur, Op. 107</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300098">Franz Schreker</persName>,</hi> <hi rend="spaced-out"><title key="E0400091">Kammersymphonie</title></hi>, arr. für zwei
+                        <lb/>Klaviere vierhändig;</item>
+                    <item><hi rend="bold"><persName key="E0300108">Cyrill Scott</persName>,</hi> <title key="E0400092"><hi rend="spaced-out">Sonate für Violine und Klavier</hi>,
+                        <lb/>Op. 57</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300022">Richard Strauß</persName>,</hi> <title key="E0400093"><hi rend="spaced-out">Symphonia domestica</hi>, Op. 53</title>,
+                        <lb/>arr. für zwei Klaviere vierhändig;</item>
+                    <item><hi rend="bold"><persName key="E0300100">Igor Strawinsky</persName>,</hi> <hi rend="spaced-out"><title key="E0400094">Berceuses du chat</title></hi>, Chansons avec
+                        <lb/>ensemble; <hi rend="spaced-out"><title key="E0400095">Pribaoutki</title></hi>, Chansons plaisantes;</item>
+                    <item><hi rend="bold"><persName key="E0300109">Josef Suk</persName>,</hi> <hi rend="spaced-out"><title key="E0400096">"Erlebtes und Erträumtes"</title></hi>, Klavier<lb break="no" rend="sh"/>
+                        stücke; <hi rend="spaced-out"><title key="E0400097">Ein Sommermärchen</title></hi>, Syph. Dichtung, 
+                        <lb/>arr. für Klavier vierhändig;</item>
+                    <item><hi rend="bold"><persName key="E0300033">Anton von Webern</persName>,</hi> <title key="E0400098"><hi rend="spaced-out">"Entf1iehet auf 1eichten
+                        <lb/>Kähnen</hi>", gem. Chor a capella, Op. 2</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300110">Karl Weigl</persName>,</hi> <title key="E0400099"><hi rend="spaced-out">Streichquartett</hi> E-dur</title>;</item>
+                    <item><hi rend="bold"><persName key="E0300046">Alexander v. Zemlinsky</persName>,</hi> <title key="E0400100"><hi rend="spaced-out">Sechs Gesänge</hi> (Maeterlinck), 
+                        <lb/>Op. 13</title>; <title key="E0400101"><hi rend="spaced-out">II. Streichquartett</hi>, Op. 15</title>.</item>
+                    
+                </list>
+                
+                <p rend="indent-first">Schließlich sei erwähnt, da<choice><orig>ß</orig><reg>ss</reg></choice> außer den hier angeführten
+                    <lb/>Aufführungen auch <hi rend="bold">Vorträge und sonstige,</hi> den Zwecken
+                    <lb/>des Vereines dienende <hi rend="bold">Veranstaltungen</hi> abgehalten werden.</p>
+                
+                <p rend="indent-first">Die <hi rend="bold">Mittel zur Erreichung des Zweckes</hi> sollen
+                    <lb/>folgendermaßen aufgebracht werden:</p>
+                
+                <list style="decimal inside">
+                    <item rend="no-margin indent-first">Durch die satzungsgemäßen Mitgliedsbeiträge,</item>
+                    <item rend="no-margin indent-first">Durch freiwillige Überzahlungen über diese Beträge,</item>
+                    <item rend="no-margin indent-first">Durch eventuelle freiwillige Zuwendungen Außen
+                        <lb break="no" rend="sh"/>stehender.</item>
+                </list>
+                
+                <p rend="indent-first">Für die Bemessung der Mitgliedsbeiträge ist folgendes
+                    <lb/>maßgebend:</p>
+                
+                <p rend="indent-first">Die wöchentlichen Vereinsabende sind als Konzerte
+                    <lb/>aufzufassen, auf welche die Mitglieder für eine Saison
+                    
+                    <pb n="12"/>
+                    
+                    abonnieren. Der Abonnementsbetrag für die gewählte Sitz
+                    <lb break="no" rend="sh"/>kategorie kann für eine ganze Saison im Voraus,	oder in
+                    <lb/>vierteljährigen, monatlichen oder auch wöchentlichen Teil
+                    <lb/>beträgen bezahlt werden, wobei das Mitglied aber die Ver
+                    <lb break="no" rend="sh"/>pflichtung zur fortlaufenden Bezahlung für die <hi rend="spaced-out">ganze</hi>
+                    <lb/>Saison übernimmt. Außerdem ist zu Beginn des Vereins
+                    <lb break="no" rend="sh"/>jahres, bezw. beim Eintritt in den Verein, eine Grundgebühr
+                    <lb/>zu bezahlen, deren Höhe sich nach der Sitzkategorie richtet.</p>
+                
+                <p rend="indent-first">Es gibt vier Sitzkategorien. Die billigste (4.) kostet
+                    <lb/>wöchentlich 1 Krone, die nächste (3.) 2 Kronen, die folgende<corr> </corr>(2.)
+                    <lb/>3 Kronen; die 1. Kategorie ist denjenigen überlassen, welche
+                    <lb/>freiwillig mehr bezahlen wollen.</p>
+                
+                <p rend="indent-first">Dementsprechend stellen sich die Mitgliedsbeiträge so:</p>
+                
+                <table rend="small">
+                    <row>
+                        <cell cols="2" rows="4"><hi rend="larger bold spaced-out align(center)">jährlich</hi></cell>
+                        <cell cols="6"><hi rend="larger bold spaced-out align(center)">Bezahlung in</hi></cell>
+                    </row>
+                    <row>
+                        <cell cols="2"><hi rend="italic">a)</hi> 52 Wochenraten</cell>
+                        <cell cols="2"><hi rend="italic">b)</hi> 12 Monatsraten</cell>
+                        <cell cols="2"><hi rend="italic">c)</hi> Vierteljahrsraten</cell>
+                    </row>
+                    <row>
+                        <cell>Grund
+                            <lb break="no" rend="sh"/>gebühr</cell>
+                        <cell>wöchent
+                            <lb break="no" rend="sh"/>lich</cell>
+                        <cell>Grund
+                            <lb break="no" rend="sh"/>gebühr</cell>
+                        <cell>monatlich</cell>
+                        <cell>Grund
+                            <lb break="no" rend="sh"/>gebühr</cell>
+                        <cell>viertel
+                            <lb break="no" rend="sh"/>jährlich</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">K</hi></cell>
+                        <cell><hi rend="italic">K</hi></cell>
+                        <cell><hi rend="italic">K</hi></cell>
+                        <cell><hi rend="italic">K</hi></cell>
+                        <cell><hi rend="italic">K</hi></cell>
+                        <cell><hi rend="italic">K</hi></cell>
+                    </row>
+                    <row>
+                        <cell>4. Klasse
+                            <lb/>3. „
+                            <lb/>2. „
+                            <lb/>1. „
+                            <lb/>z. Beisp.
+                            <lb/>oder
+                            <lb/>oder
+                            <lb/>
+                            <lb/>oder
+                            <lb/></cell>
+                        <cell>60.–
+                            <lb/>120.–
+                            <lb/>180.–
+                            <lb/>
+                            <lb/>300.–
+                            <lb/>400.–
+                            <lb/>500.–
+                            <lb/>usw.
+                            <lb/>1000.–
+                            <lb/>usw.</cell>
+                        <cell>8.–
+                            <lb/>16.–
+                            <lb/>24.–
+                            <lb/>
+                            <lb/>40.–
+                            <lb/>36.–
+                            <lb/>34.–
+                            <lb/>
+                            <lb/>
+                            <lb/></cell>
+                        <cell>1.–
+                            <lb/>2.–
+                            <lb/>3.–
+                            <lb/>
+                            <lb/>5.–
+                            <lb/>7.–
+                            <lb/>9.–
+                            <lb/>
+                            <lb/>
+                            <lb/></cell>
+                        <cell>6.–
+                            <lb/>12.–
+                            <lb/>18.–
+                            <lb/>
+                            <lb/>30.–
+                            <lb/>40.–
+                            <lb/>80.–
+                            <lb/>
+                            <lb/>160.–
+                            <lb/></cell>
+                        <cell>4.50
+                            <lb/>9.–
+                            <lb/>13.50
+                            <lb/>
+                            <lb/>22.50
+                            <lb/>30.–
+                            <lb/>35.–
+                            <lb/>
+                            <lb/>70.–</cell>
+                        <cell>6.–
+                            <lb/>12.–
+                            <lb/>18.–
+                            <lb/>
+                            <lb/>30.–
+                            <lb/>40.–
+                            <lb/>80.–
+                            <lb/>
+                            <lb/>200.–
+                            <lb/></cell>
+                        <cell>13.50
+                            <lb/>27.–
+                            <lb/>40.50
+                            <lb/>
+                            <lb/>67.50
+                            <lb/>90.–
+                            <lb/>105.–
+                            <lb/>
+                            <lb/>200.–</cell>
+                    </row>
+                </table>
+                
+                <p rend="indent-first">Die Einführung einer solchen Abstufung der Mitglieds
+                    <lb break="no" rend="sh"/>beiträge wurde getroffen, um die bedeutenden Kosten des
+                    <lb/>Vereins in einer gerechten Weise, also nach Maßgabe der
+                    <lb/>Zahlungsfähigkeit jedes Mitglieds, aufteilen zu können;
+                    
+                    <pb n="13"/>
+                    
+                    wobei natürlich erwartet wird, da<choice><orig>ß</orig><reg>ss</reg></choice> von jenen, die in der
+                    <lb/>Lage sind größere Opfer zu bringen, vorzugsweise die ersten
+                    <lb/>zwei Klassen benützt werden.</p>
+                
+                <p rend="indent-first">Den Beitritt zu diesem Verein erklärt man durch
+                    <lb/>Ausfüllung und Übersendung der beiliegenden "Beitritts
+                    <lb break="no" rend="sh"/>erklärung", wobei Kenntnis und Anerkennung der Statuten
+                    <lb/>vorausgesetzt ist.</p>
+                
+                <table rend="align(center)">
+                    <row rend="spaced-out">
+                        <cell>Sekretär:</cell>
+                        <cell>Präsident:</cell>
+                    </row>
+                    <row rend="bold">
+                        <cell><persName key="E0300121">Josef Rufer</persName></cell>
+                        <cell><persName key="E0300023">Arnold Schönberg</persName></cell>
+                    </row>
+                    <row>
+                        <cell rend="small">per Adresse: <hi rend="spaced-out"><persName key="E0300120">Dr. Paul Pisk</persName></hi>, 
+                            <lb/><hi rend="spaced-out"><placeName key="E0500002">Wien</placeName></hi>, VI, Proschkogasse 1,
+                            <lb/>Tel. Stelle 4 von 704.</cell>
+                    </row>
+                </table>
+                
+                <p rend="spaced-out small space-above align(center)">16. Februar 1919.</p>
+                
+                <pb n="14"/>
+                
+                <p rend="align(center) space-below"><hi rend="bold">Auszug aus den Statuten</hi></p>
+                
+                <p rend="indent-first small">§ 4. <hi rend="spaced-out">Mitg1ied</hi> kann jede unbescholtene·und ehrenhafte Person
+                    <lb/>werden, weiche sich den Vereinssatzungen unterwirft.</p>
+                
+                <p rend="indent-first small">§ 6. Die Mitglieder des Vereins sind <hi rend="spaced-out">verpf1ichtet</hi>:</p>
+                
+                <p rend="indent-first small">a) die Zwecke des Vereins zu fördern und Schädigungen zu
+                    <lb/>verhüten;</p>
+                
+                <p rend="indent-first small">b) die Mitgliedsbeiträge für das laufende Jahr auch im Falle
+                    <lb/>des vorzeitigen Austritts zu bezahlen;</p>
+                
+                <p rend="indent-first small">c) die Tendenz des Vereins nicht zu verletzen.</p>
+                
+                <p rend="indent-first small">§ 8. Die <hi rend="spaced-out">Vereinsleitung</hi> besteht aus:</p>
+                
+                <p rend="indent-first small">a) dem Präsidenten Arnold Schönberg, dessen Funktionsdauer
+                    <lb/>nicht begrenzt ist;</p>
+                
+                <p rend="indent-first small">b) 10 bis 20 Vorstandsmitgliedern (den Vortragsmeistern, dem
+                    <lb/>Sekretär, den Ordnern etc.), welche von der Generalversammlung im
+                    <lb/>mit dem Präsidenten gewählt werden.</p>
+                
+                <p rend="indent-first small">§ 9. Der <hi rend="spaced-out">Präsident</hi> hat in der Leitung des Vereins voll
+                    <lb break="no" rend="sh"/>kommen freie Hand. Er bestimmt Höhe und Art der für die
+                    <lb/>Zwecke des Vereins nötigen Ausgaben, Honorierung der Mitwirkenden
+                    <lb/>und der im § 10 erwähnten Vorstandsmitglieder, Mietpreise der Säle,
+                    <lb/>Ausgaben für Vortragsabende, administrative Regien etc. Ihm steht
+                    <lb/>auch das Recht zu, würdigen und bedürftigen Mitgliedern die Zahlung
+                    <lb/>der Beiträge ganz oder teilweise zu erlassen.</p>
+                
+                <p rend="indent-first small">§ 12. Alle Beschlüsse der <hi rend="spaced-out">Generalversamm1ung</hi>, ein
+                    <lb break="no" rend="sh"/>schließlich Wahlen, Statutenänderungen, Vereinsauflösung etc., be
+                    <lb break="no" rend="sh"/>dürfen zur Giltigkeit der Zustimmung des Präsidenten</p>
+                
+                <pb n="15"/>
+                
+                <pb n="16"/>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

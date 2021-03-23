@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800309">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Frensch et al. 2000</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-08-09" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <surname>Frensch</surname>
+                  </author>
+                  <author>
+                     <surname>Krause</surname>
+                  </author>
+                  <author>
+                     <surname>Wandke</surname>
+                  </author>
+                  <author>
+                     <surname>Zimmer</surname>
+                  </author>
+                  <author>
+                     <surname>Markner</surname>
+                  </author>
+                  <author>
+                     <surname>Franke</surname>
+                  </author>
+                  <editor>
+                     Institut für Psychologie der Humboldt-Universität zu Berlin
+                  </editor>
+                  <title level="m">100 Jahre Institut für Psychologie der <orgName key="E0600132">Humboldt Universität zu Berlin</orgName></title>
+                  <imprint>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                     <date when-iso="2000"/>
+                  </imprint>
+               </monogr>
+               <ref type="ext" target="https://www.psychologie.hu-berlin.de/de/institut/geschichte/geschichte/broschure">Digitalisat der <orgName key="E0600132">Humboldt-Universität zu Berlin</orgName> (Stand: <date when-iso="2020-08-09">09.08.2020</date>)</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

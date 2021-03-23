@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Krämer 2015</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <forename>Ulrich</forename>
+                     <surname>Krämer</surname>
+                  </author>
+                  <title level="a">Die Editionen der Werke <persName key="E0300023">Arnold Schönbergs</persName></title>
+               </analytic>
+               <monogr>
+                  <editor>
+                     <forename>Reinmar</forename>
+                     <surname>Emans</surname>
+                  </editor>
+                  <editor>
+                     <forename>Ulrich</forename>
+                     <surname>Krämer</surname>
+                  </editor>
+                  <title level="m">Musikeditionen im Wandel der Geschichte</title>
+                  <idno type="DNB">1072092417</idno>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <pubPlace>Boston</pubPlace>
+                     <publisher>De Gruyter</publisher>
+                     <date when-iso="2015"/>
+                  </imprint>
+                  <biblScope unit="page">639–665</biblScope>
+               </monogr>
+               <series>
+                  <title level="s">Bausteine zur Geschichte der Edition</title>
+                  <biblScope unit="volume">5</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

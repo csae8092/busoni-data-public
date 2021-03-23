@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100072">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Heinrich Schenker an Ferruccio Busoni (Wien, zw. 29. August u. 23. Oktober 1898)</title>
+                <title xml:lang="en">Letter by Heinrich Schenker to Ferruccio Busoni (Vienna, between 29 August and 23 October 1898)</title>
+                <author key="E0300024">Heinrich Schenker</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-07"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010003">Briefwechsel Ferruccio Busoni – Heinrich Schenker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+                <editor key="E0300317" role="subseries">Theresa Menard</editor>
+                <editor key="E0300318" role="subseries">Maximilian Furthmüller</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4426</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Schenker 14 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-731222</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300024">Schenker</persName> kündigt die Druckfassung der <title key="E0400252" rend="dq-du">Fantasie</title> an; meldet die Inverlagnahme seiner <title rend="dq-du" key="E0400251">Ländler</title> durch <orgName key="E0600039">N. Simrock</orgName>; bittet <persName key="E0300017">Busoni</persName> um Vermittlung von Chorwerken an <persName key="E0300226">Siegfried Ochs</persName>.</summary>
+                        <msItem>
+                            <docDate resp="#arch_black_3" sameAs="#archive_date" cert="high"><date when-iso="1898"/></docDate>
+                            <incipit>In paar Tagen hoffe ich Ihnen endlich die <title ref="E0400252">Fantasie</title> gedruckt einsenden zu können:</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen
+                                   </measure>
+                                    <measure type="pages">4 beschriebene Seiten
+                                   </measure>
+                                </extent>
+                                <condition>Der Brief ist oben, vmtl. infolge Aufriss, unvollständig. Aufgrund des Papierverlustes sind vmtl. sowohl die Datumsangabe als auch jeweils die erste Zeile der Seiten 2, 3 und 4 in Teilen verloren.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300024">Hand des Absenders Heinrich Schenker, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_1" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die ursprüngliche Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_2" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die erneute Zuordnung innerhalb des Busoni-Nachlasses mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_black_3" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der eine Datierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="arch_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace key="E0500002">Wien</origPlace> zwischen dem <origDate notBefore-iso="1898-08-29">29. August 1898</origDate> (Akzeptanz der <title key="E0400251">Ländler</title> durch <orgName key="E0600039">Simrock</orgName> in einem <bibl>Brief an <persName key="E0300024">Schenker</persName>, <idno>US-RIVu, OJ 14/24</idno></bibl>) und dem <origDate notAfter-iso="1898-10-23">23. Oktober 1898</origDate> (tags darauf Zusendung der <title key="E0400252">Fantasie</title> an <persName key="E0300017">Busoni</persName>, vgl. den folgenden <ref type="E10003" target="#D0100071">Brief</ref>) verfasst.</origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800103"/>, S. 23</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100072">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607154" key="E0300024">Schenker, Heinrich</persName>
+                    <placeName ref="http://www.geonames.org/2761369" key="E0500002">Wien</placeName>
+                    <date notBefore="1898-08-29" notAfter="1898-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100070"/>
+                    <ref type="previous" target="#D0100070"/>
+                    <ref type="next" target="#D0100071"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2017-05-12" who="#E0300318">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-06-09" who="#E0300318">Transkription sowie Ausarbeitung begonnen.</change>
+            <change when-iso="2018-07-16" who="#E0300318">Bearbeitung abgeschlossen; Status auf "proposed" gesetzt.</change>
+            <change when-iso="2018-12-29" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/87510276X/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE100000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE100000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE100000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001ECE100000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note xml:id="archive_date" type="dating" resp="#arch_black_3" place="top-left">[<date when-iso="1898">1898</date>]</note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <note type="shelfmark" resp="#arch_black_2">
+                    <add xml:id="addShelfmark01" place="margin-left" rend="rotate(-90) align(right)"><handShift new="#arch_black_2"/>Mus.Nachl. F. Busoni B II,
+                        <lb/>4426</add>
+                </note>
+                
+                <opener>
+                    <salute rend="indent">Lieber, guter Freund,</salute>
+                </opener>
+                <p rend="space-above"><choice><orig>I</orig><reg>i</reg></choice>n paar Tagen hoffe ich Ihnen
+                    <lb/>endlich die <title key="E0400252">Fantasie</title> gedruckt
+                    <lb/>einsenden zu können: <orgName key="E0600002"><choice><abbr>Br<reg>.</reg> &amp; H.</abbr><expan>Breitkopf &amp; Härtel</expan></choice></orgName>
+                    <lb/>haben <choice><orig>2</orig><reg>zwei</reg></choice> Abzüge mir geschickt,
+                    <lb/>die ich <choice><orig>c</orig><reg>k</reg></choice>orrigi<reg>e</reg>rt bereits zurück
+                    <lb break="no"/>geschickt habe.
+                    
+                    <note type="commentary" resp="#E0300318">Von <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> an <persName key="E0300024">Schenker</persName> ist keine die Korrekturfahnen der <title key="E0400252">Fantasie</title> betreffende Korrespondenz erhalten (<bibl>Briefe von <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> an <persName key="E0300024">Schenker</persName>, <idno>US-RIVu, OJ 9/20</idno></bibl>).</note>
+                    
+                    Ich wünsche,
+                    <lb/>dass das Werk auch noch heute
+                    <lb/>den<orig> </orig>selben günstigen Eindruck
+                    <lb/>auf Sie mache<orig>,</orig> wie <del rend="strikethrough"><gap atMost="2" unit="char" reason="strikethrough"/></del> vor Jahr
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Tag!
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300017">Busoni</persName> hatte <persName key="E0300024">Schenker</persName> bei der Konzeption der <title key="E0400252">Fantasie op. 2</title> beraten (vgl. u. a. <ref type="E010003" target="#D0100054">Brief von <date when-iso="1897-05">Mai 1897</date></ref>) und bei der Vermittlung eines Verlegers geholfen (vgl. u. a. <ref type="E010003" target="#D0100069">Brief vom <date when-iso="1898-05-05">5. Mai 1898</date></ref>). Zum Dank widmete ihm <persName key="E0300024">Schenker</persName> das Werk (vgl. <ref type="E010003" target="#D0100070">Brief vom <date when-iso="1898-05-06">6. Mai 1898</date></ref>).</note>
+                    
+                </p>
+                <p>Nun bin ich wieder in der Lage, einen
+                    <lb/>angenehmen Erfolg Ihnen mit
+                    <lb break="no"/>t<orig>h</orig>eilen zu können. Denken Sie,
+                    <lb/><orgName key="E0600039">N. Simrock</orgName> hat ohne jede
+                    <lb/>Empfehlung harmlose <title rend="dq-du" key="E0400251">Ländler</title>
+                    
+                    <note type="shelfmark" place="bottom-right" resp="#arch_black_2">
+                        <del xml:id="delShelfmark01" rend="strikethrough"><handShift new="#arch_black_1"/>Mus.ep. H. Schenker 14<lb/>(Busoni-Nachl. <handShift new="#arch_red"/>B II<handShift new="#arch_black_1"/>)</del>
+                    </note>
+                    
+                    <substJoin target="#addShelfmark01 #delShelfmark01"/>
+                    
+                    <pb n="2"/>
+                    
+                    von mir a<choice><orig>cc</orig><reg>kz</reg></choice>epti<reg>e</reg>rt (Honorar:
+                    <lb/>– <choice><orig>6</orig><reg>sechs</reg></choice> Freiexemplare!), die also
+                    <lb/>demnächst erscheinen werden.
+                    
+                    <note type="commentary" resp="#E0300318">Die <title key="E0400251">Ländler</title> erschienen im <date when-iso="1899-04">April 1899</date> (<bibl><ref target="#E0800102"/>, S. 155</bibl>), etwa acht Monate nach Zusage der Inverlagnahme (<bibl>Brief von <orgName key="E0600039">Simrock</orgName> an <persName key="E0300024">Schenker</persName> vom <date when-iso="1898-08-29">29. August 1898</date>, <idno>US-RIVu, OJ 14/24</idno></bibl>).</note>
+                    
+                    <lb/>Ich sandte das lustige <choice><orig>o</orig><reg>O</reg></choice>pus
+                    <lb/>aufs Gerat<orig>h</orig>ewohl hinaus<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> siehe
+                    <lb/>da, <persName key="E0300228"><choice><abbr>H.</abbr><expan><choice><unclear cert="high">Herr</unclear><unclear cert="low">Hans</unclear></choice></expan></choice> Simrock</persName> hat es wirklich
+                    <lb/>behalten. Wegen Honorars
+                    <lb/>lasse ich die Verleger noch in
+                    <lb/>Ruhe, am Ende gäben sie mir
+                    <lb/>meine Noten zurück?</p>
+                
+                <p>Da das Glück mir so hold, ver
+                    <lb break="no"/>suche ich<reg>,</reg> Sie um etwas zu
+                    <lb/>bitten. Kö<choice><abbr>n̅</abbr><expan>nn</expan></choice>ten Sie mir nicht
+                    <lb/>ein paar empfehlende Zeilen
+                    <lb/>in Bezug auf die beiliegenden
+                    <lb/>kleinen <rs key="E0400270"><choice><orig>a capella Chöre</orig><reg>A-cappella-Chöre</reg></choice></rs>
+                    
+                    <note type="commentary" resp="#E0300318">Höchstwahrscheinlich handelt es sich hierbei um die <title key="E0400270">Gesänge für gemischten Chor op. 7</title>, welche <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> zuvor abgelehnt hatten (<bibl>Brief von <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> an <persName key="E0300024">Schenker</persName> vom <date when-iso="1898-07-20">20. Juli 1898</date>, <idno>US-RIVu, OJ 9/20</idno></bibl>).</note>
+                    
+                    an
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="margin-right" resp="#archive">[2]</note>
+                    
+                    <choice><abbr>H.</abbr><expan>Herrn</expan></choice> <persName key="E0300226">Siegfr<supplied reason="paper-missing" cert="high">ied <hi rend="underline">Ochs</hi></supplied></persName> <gap atLeast="1" unit="word" reason="paper-missing"/>
+                    <lb/>Mitbürger in <placeName key="E0500029">Berlin</placeName>, einsen
+                    <lb break="no"/>den?
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300226">Siegfried Ochs</persName> leitete in <placeName key="E0500029">Berlin</placeName> den <orgName key="E0600088">Philharmonischen Chor</orgName> (<bibl><ref target="#E0800144"/>, Sp. 1278</bibl>).</note>
+                    
+                    Hier in <placeName key="E0500002">Wien</placeName> will ich
+                    <lb/>nicht einmal versuchen, di<supplied reason="omitted">e</supplied>
+                    <lb/>kleinen <rs key="E0400270">Chöre</rs> <choice><abbr>H.</abbr><expan>Herrn</expan></choice> <persName key="E0300227">v. Perger</persName> anzu
+                    <lb break="no"/>bieten. Der Grund ist: anormale
+                    <lb/>Indolenz
+                    
+                    <note type="commentary" resp="#E0300318">Hier im Sinne von: <mentioned>Gleichgültigkeit</mentioned>, <mentioned>Desinteresse</mentioned>.</note>
+                    
+                    des Dirigenten.
+                    
+                    <note type="commentary" resp="#E0300318"><persName key="E0300227">Richard v. Perger</persName> war zu dieser Zeit Konzertdirektor der <orgName key="E0600047">Gesellschaft der Musikfreunde Wien</orgName> und besaß somit einigen Einfluss (<bibl><ref target="#E0800103"/>, S. XXV</bibl>). Über <persName key="E0300024">Schenkers</persName> persönliches Verhältnis zu <persName key="E0300227">Perger</persName> ist nichts bekannt.</note>
+                    
+                    Ich
+                    <lb/>sende Ihnen die <rs key="E0400270">Chöre</rs>, damit Sie
+                    <lb/>sehen, ob Sie die Empfehlung
+                    <lb/>mit gutem Gewissen mir
+                    <lb/>geben können. Wenn ja, wäre
+                    <lb/>ich für die Anknüpfung
+                    <lb/>sehr dankbar, denn wie
+                    <lb/>Sie’s leicht denken werden, bereite
+                    <lb/>ich grö<choice><orig>ss</orig><reg>ß</reg></choice>ere Chorwerke vor.
+                    
+                    <note type="commentary" resp="#E0300318">Um welche <quote rend="dq-du">größeren Chorwerke</quote> es sich handelt bzw. ob diese überhaupt entstanden, ist unklar. Auszüge aus den <title key="E0400270">Gesängen für gemischten Chor</title> kamen erst <date when-iso="1903">1903</date> in <placeName key="E0500002">Wien</placeName> zur Aufführung (<bibl><ref target="#E0800142"/>, S. 273</bibl>), Teile der <title key="E0400333">Drei Gesänge für Frauenstimmen a cappella</title> erst <date when-iso="1904">1904</date> (<bibl><ref target="#E0800157"/>, S. 57</bibl>). Darüber hinaus sind weder Fragmente noch abgeschlossene Chorwerke größerer Dimension in diesem Zeitraum nachzuweisen (vgl. <bibl><ref target="#E0800142"/>, S. 16 ff.</bibl>).</note>
+                    
+                    <note type="stamp" place="bottom-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp>
+                    </note>
+                    
+                    <note type="stamp" place="bottom-right" resp="#sbb_st_blue">
+                        <stamp>Nachlaß Busoni</stamp>
+                    </note>
+                    
+                    <pb n="4"/>
+                    
+                    <gap extent="unknown" reason="paper-missing"/>en, dass
+                    <lb/>Sie mit <choice><abbr>H.</abbr><expan>Herrn</expan></choice> <persName key="E0300226">Ochs</persName> noch freund
+                    <lb break="no"/>schaftlicher sind, als ich annehme.
+                    
+                    <note type="commentary" resp="#E0300318">Über das Verhältnis <persName key="E0300017">Busonis</persName> zu <persName key="E0300226">Siegfried Ochs</persName> liegen keine detaillierten Informationen vor; eine Korrespondenz der beiden, <persName key="E0300024">Schenkers</persName> <title key="E0400270">Gesänge für gemischten Chor</title> betreffend, ist nicht erhalten. Jedoch hat sich <persName key="E0300226">Ochs</persName> mit <rs key="E0400270">dem Werk</rs> in einem Brief direkt an <persName key="E0300024">Schenker</persName> auseinandergesetzt, ohne eine Aufführung in Aussicht zu stellen (<bibl>Brief vom <date when-iso="1898-12-15">15. Dezember 1898</date>, <idno>US-RIVu, OJ 13/7</idno></bibl>), und später noch einmal die Aufführung von Chorwerken abgelehnt (<bibl>Brief vom <date when-iso="1903-06-20">20. Dezember 1903</date>, <idno>US-RIVu, OJ 13/7</idno></bibl>).</note>
+                    
+                    <lb/>Wollten Sie für diesen Fall, um
+                    <lb/>sich die Mühe des Schreibens,
+                    <lb/>Packens <choice><abbr>u.</abbr><expan>und</expan></choice> Einsendens zu erspa
+                    <lb break="no"/>ren, die Partitur mit ein paar
+                    <lb/>Worten an <choice><abbr>H.</abbr><expan>Herrn</expan></choice> <persName key="E0300226">Ochs</persName> schicken, wäre
+                    <lb/>ich womöglich dankbarer <choice><abbr>u.</abbr><expan>und</expan></choice> darüber
+                    <lb/>beruhigt, dass Sie im Verkehr
+                    <lb/>mit mir alles so beobachten, wie
+                    <lb/>es Ihnen am besten passt. Freilich
+                    <lb/>gilt das nur für den Fall, dass
+                    <lb/>Sie die <rs key="E0400270">Chöre</rs> befriedigen! Wenn
+                    <lb/><subst><add place="margin-left">nicht, </add><del rend="overwritten"><gap reason="overwritten" atMost="1" unit="char"/></del><add>d</add></subst>ann also – zurück nach <placeName key="E0500002">Wien</placeName>!
+                    
+                    <note type="commentary" resp="#E0300318">Eine entsprechende Antwort <persName key="E0300017">Busonis</persName> liegt nicht vor; auch werden die <title key="E0400270">Gesänge für gemischten Chor</title> im weiteren Verlauf der Korrespondenz nicht mehr erwähnt.</note>
+                </p>
+                
+                <closer rend="indent-first">Auf Wiedersehen!
+                    <lb/>Beste Grü<choice><orig>ss</orig><reg>ß</reg></choice>e <choice><abbr>u.</abbr><expan>und</expan></choice> Handkuss
+                    <lb/>an Ihre <choice><abbr>hochgesch.</abbr><expan>hochgeschätzte</expan></choice> <rs key="E0300059">Frau Gema<reg>h</reg>lin</rs>
+                    <salute rend="indent">Ihr getreuer</salute>
+                    <signed rend="align(center)"><persName key="E0300024">H. Schenker</persName></signed>
+                    <address rend="align(center)">
+                        <addrLine><placeName key="E0500002">Wien</placeName>, <rs key="E0500379">III</rs> <placeName key="E0500380">Richardgasse <choice><orig>1̇1̇</orig><reg>11</reg></choice></placeName></addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

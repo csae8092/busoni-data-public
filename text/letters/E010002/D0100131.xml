@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100131">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Basel, 14. September 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Basel, 14 September 1916)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300332">
+                        <forename>Tim</forename>
+                        <forename>Martin</forename>
+                        <surname>Hoffmann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="D">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothke zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository/>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II,2267</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 40 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> attestiert <persName key="E0300093">Hugo Leichtentritts</persName> <rs key="E0800114"><persName key="E0300017">Busoni</persName>-Biographie</rs> <q>Liebe, Verständnis und Charakter</q>; nimmt die Widmung der <rs key="E0400140">Studie</rs> über <title key="E0400139">Das musikalische Opfer</title> freudig an; hat die von <persName key="E0300017">Busoni</persName> angezeigten Neuerscheinungen für die Bibliothek der <orgName key="E0600020"><placeName key="E0500097">Basler</placeName> Musikschule</orgName> bestellt; erwägt für <persName key="E0300017">Busonis</persName> Klavierabende einen größeren Konzertsaal zwecks Kostendeckung; kündigt zweiwöchigen Aufenthalt in <placeName key="E0500183">Locarno</placeName> an. </summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-09-14"/></docDate>
+                            <incipit>Das <foreign xml:lang="la" rend="latin">nutrimentum spiritus</foreign> der <orgName key="E0600056"><choice><abbr>Königl.</abbr><expan>Königlichen</expan></choice> Bibliothek</orgName> in <placeName key="E0500029" rend="latin">Berlin</placeName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="black_ink" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der mit Tinte die Datierung des Briefes vorgenommen hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Signaturen mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="archive2" scope="minor" medium="red_pen" scribe="archivist" cert="high">Hand des Archivars, der mit Rotstift die Zuordnung innerhalb des Busoni-Nachlasses und eine Nummerierung eingetragen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097">Basel</origPlace>
+                            <origDate when-iso="1916-09-14"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100131">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                    <date when="1916-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100130"/>
+                    <ref type="repliedBy" target="#D0100193"/>
+                    <ref type="previous" target="#D0100130"/>
+                    <ref type="next" target="#D0100193"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01-14" who="#E0300332">Bearbeitung übernommen, Transkription (erste Seite)</change>
+            <change when-iso="2017-11-15" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873377885/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAC300000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAC300000002"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <del rend="strikethrough" xml:id="delSig">Mus.ep. H. Huber 40 (Busoni-Nachl. <handShift new="#archive2"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                
+                <note type="dating" place="top-right" rend="underline" resp="#recipient"><date when-iso="1916-09-14">14. Sept. 16</date></note>
+                
+                <note type="numbering" place="margin-right" rend="large" resp="#archive_red">9</note>
+                
+                <opener><salute rend="indent">Mein lieber Freund!</salute></opener>
+                
+                <note type="shelfmark" place="margin-left" rend="rotate(-90)" resp="#archive">
+                    <add place="margin-left" xml:id="addSig">Mus.Nachl. F. Busoni B II, 2267</add>
+                </note>
+                
+                <substJoin target="#delSig #addSig"/>
+                
+                <p>Das <foreign xml:lang="la" rend="latin">nutrimentum spiritus</foreign>
+                    
+                    <note type="commentary" resp="#E0300314">Lat.: Geistesnahrung (auf Veranlassung von <persName key="E0300290">Friedrich II.</persName> über dem Portal der <orgName key="E0600056">Königlichen Bibliothek</orgName> angebrachte Devise).</note>
+                    
+                    der <orgName key="E0600056"><choice><abbr>Königl.</abbr><expan>Königlichen</expan></choice> Bibliothek</orgName>
+                    <lb/>in <placeName key="E0500029" rend="latin">Berlin</placeName> hat Ihr Biograph <persName key="E0300093" rend="latin">Leichtentritt</persName> gut 
+                    <lb/>erfa<choice><orig>ß</orig><reg>ss</reg></choice>t. <rs key="E0800114">Das Büchlein</rs> atmet Liebe, Verständni<choice><orig>ß</orig><reg>s</reg></choice>
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> Charakter! So ein Künstlerleben gleicht
+                    <lb/>einem Strome, der sich ins Hi<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>elsmeer ergießt!
+                    <lb/>Der Strom mit all’ seinen Bewegungen behandelt 
+                    <lb/>sich leichter<orig>,</orig> als die man<reg>nn</reg>igfaltigen <hi rend="underline">Ufer</hi>, durch
+                    <lb/>die er fließt. Sie dürfen aber mit ihm
+                    <lb/>zufrieden sein<reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice> wir Betrachtende ebenfalls!</p>
+                
+                <p rend="indent-first">Auf die <rs key="E0400140">neue Arbeit</rs> über
+                    <lb/><title key="E0400139">Das musikalische Opfer</title> freue ich mich wie
+                    <lb/><foreign xml:lang="la">rex orbis</foreign>. <choice><orig>Ue</orig><reg>Ü</reg></choice>brigens sollen Sie das <foreign xml:lang="la" rend="latin">placet</foreign>
+                    <lb/>nicht von mir – <foreign xml:lang="la" rend="latin">ex officio</foreign> – verlangen.
+                    <lb/>Einem <persName key="E0300017" rend="latin">Busoni</persName> folge ich blindlings!</p>
+                
+                <p rend="indent-first">Die beiden Sa<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>elwerke <choice><abbr>od.</abbr><expan>oder</expan></choice> Gesa<choice><abbr>m&#773;</abbr><reg>m</reg></choice>taus
+                    <lb break="no"/>gaben 
+                    
+                    <note type="commentary" resp="#E0300314"><title key="E0800116">Franz Liszts musikalische Werke</title> sowie <persName key="E0300017">Busonis</persName> sechsbändige Ausgabe <title key="E0800091">Bearbeitungen, Übertragungen, Studien und Kompositionen für das Pianoforte nach <persName key="E0300012">Johann Sebastian Bach</persName></title>.</note>
+                    
+                    sind bereits für die Bibliothek in <placeName key="E0500097" rend="latin">Basel</placeName>
+                    <lb/>bestellt! –</p>
+                
+                <p rend="indent-first">Bei meinem letzten <placeName key="E0500097">Basler</placeName> Besuche
+                    <lb/>brachte ich Ihren Wunsch betreffs Honorar
+                    <lb/>der <choice><orig>Com&#773;iß</orig><reg>Kommiss</reg></choice>ion zur Ke<choice><orig>n&#773;tniß</orig><reg>nntnis</reg></choice>. We<choice><orig>n&#773;</orig><reg>nn</reg></choice> <hi rend="underline">wir</hi>
+                    <lb/>(<rs key="E0600020" xml:lang="fr" rend="latin">le conservatoire</rs>) das Arrangement übernehmen,
+                    <lb/>so wird der Besuch wahrscheinlich eher noch be<choice><orig>ß</orig><reg>ss</reg></choice>er
+                    <lb/>als im letzten Jahr. Ob aber der Saal der <orgName key="E0600020">Schule</orgName>
+                    <lb/>6000 frs. herausbringen ka<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>, ist bei der beschränkten 
+                    <lb/>Anzahl der Plätze doch fraglich. Nehmen Sie
+                    <lb/>den größeren Konzertsaal des <placeName key="E0500287" rend="latin">Casino<orig>’</orig>s</placeName>, so
+                    
+                    <pb n="2"/>
+                    
+                    mü<choice><orig>ß</orig><reg>ss</reg></choice>ten Sie mit viel größeren Spesen rechnen –
+                    <lb/>der Saal allein kostet über 200 frs. pro Abend –<reg>,</reg>
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> wir kö<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>en offiziell weniger wirken. (Letzteres
+                    <lb/>ist wahrscheinlich nicht nö<choice><orig>th</orig><reg>t</reg></choice>ig, aber es pa<choice><orig>ß</orig><reg>ss</reg></choice>t so 
+                    <lb/>hübsch in ein Jahresprogra<choice><abbr>m&#773;</abbr><expan>mm</expan></choice> eines <choice><orig>C</orig><reg>K</reg></choice>onservatoriums.)
+                    <lb/>Jedenfalls wird Ihnen bei uns – wie im 
+                    <lb/>letzten Herbste – <choice><orig>A</orig><reg>a</reg></choice>lles zufallen nach Abzug der
+                    <lb/>Auslagen für Inserate <choice><abbr>&amp;</abbr><expan>und</expan></choice> andere Bagatellen.
+                    <lb/>Geben Sie mir jedenfalls Ihre genauen
+                    <lb/>Instruktionen <choice><abbr>&amp;</abbr><expan>und</expan></choice> denken Sie an das Wort
+                    <lb/><persName key="E0300290">Friedrich<supplied reason="omitted">s</supplied> <choice><abbr>d. G.</abbr><expan>des Großen</expan></choice></persName><reg>:</reg> <q rend="dq-du">Der Fürst ist der erste Diener <subst><del rend="overwritten">des</del><add place="across">seines</add></subst>
+                        <lb/>Staates!</q> –</p>
+                
+                <p rend="indent-first">Anfangs nächster Woche gehe ich noch
+                    <lb/>etwa 14 Tage nach <placeName key="E0500183" rend="latin">Locarno</placeName> (<placeName key="E0500215" rend="latin">Grand Hôtel</placeName>), um 
+                    <lb/>den Winteranfang noch etwas mit So<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>e zu 
+                    <lb/>erwärmen! –</p>
+                
+                <closer>
+                    <salute rend="indent-first">Seien Sie aufs herzlichste
+                    <lb/>begrüßt von Ihrem <choice><abbr>erg.</abbr><expan>ergebenen</expan></choice></salute>
+                    <signed rend="align(right)"><persName key="E0300125">Hans Huber</persName></signed>
+                </closer>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100577">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (vmtl. Berlin, vmtl. 3. Februar 1903)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (presumably Berlin, presumably 3 February 1903)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Zz">Zentralbibliothek Zürich</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Zürich</settlement>
+                        <institution key="CH-Zz">Zentralbibliothek Zürich</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection>Nachlass Robert Freund &amp; Etelka Freund</collection>
+                        <idno>Ms. Z II 157 a.1.14</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> bittet um Entschuldigung für die arbeitsbedingt späte Antwort; teilt mit, dass noch am 
+                            <date when-iso="1903-02-03" cert="high">selben Tag</date> eine Rückmeldung nach <placeName key="E0500132">Zürich</placeName> erfolgt; verweist auf ein Konzert 
+                            am <date when-iso="1903-02-07">7. Februar 1903</date>, in dem er <persName key="E0300013">Liszts</persName> <foreign xml:lang="fr">
+                                <title key="E0400158">Études d'exécution transcendante</title></foreign> erstmals vollständig aufführen wird; informiert darüber, dass er mit der 
+                            Komposition seines <title key="E0400014">Klavierkonzertes</title> <q>zu dreiviertel fortgeschritten</q> ist; bringt seine Freude über 
+                            <persName key="E0300420">Etelka Freunds</persName> pianistische Fortschritte zum Ausdruck; hofft, <persName key="E0300208">Freund</persName> in der 
+                            <placeName key="E0500092">Schweiz</placeName> zu sehen; dankt für die Vermittlung in <placeName key="E0500132">Zürich</placeName>.
+                        </summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1904-11-16"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1904-11-18"/></docDate>
+                            <incipit>Bitte inst<choice><orig>ae</orig><reg>ä</reg></choice>ndig mich zu entschuldigen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten, kleiner Riss an der Falz mittig; Umschlag mit Aufriss oben, kleine Einrisse seitlich.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100577_5.jpg"/>
+                            <note type="stamp" place="left" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border align(center) small">
+                                    <hi rend="majuscule"><placeName key="E0500029">Berlin</placeName> W.</hi>
+                                    <lb/><date when-iso="1904-11-16">16.11.04</date> <gap reason="low-ink" atLeast="3" unit="char"/>
+                                    <lb/>★ 35 d
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border align(center) small">
+                                    <hi rend="majuscule"><supplied reason="low-ink"><placeName key="E0500029">Berlin</placeName></supplied> W.</hi>
+                                    <lb/><supplied reason="low-ink"><date when-iso="1904-11-16">16.11.04</date></supplied> <gap reason="low-ink" atLeast="3" unit="char"/>
+                                    <lb/>★ 35 d
+                                </stamp>
+                            </note>
+                            
+                            <note type="commentary" resp="#E0300361">
+                                Der hier zugeordnete Umschlag gehört nicht zum vorliegenden Brief aus dem <rs type="persons" key="E0300420 E0300208">Freund</rs>-Nachlass in 
+                                <placeName key="E0500132">Zürich</placeName>. Er wurde höchstwahrscheinlich mit dem Umschlag eines auf den <date when-iso="1904-11-16">16.11.1904</date> 
+                                datierten <ref type="E010007" target="#D0100517">Schreibens</ref> von <persName key="E0300017">Busoni</persName> vertauscht, welches in der Staatsbibliothek 
+                                zu <placeName key="E0500029">Berlin</placeName> aufbewahrt wird. (vgl. auch Anm. zum Poststempel <ref type="E010007" target="#D0100517" n="5">ebd.</ref>)
+                                Den wichtigsten inhaltlichen Anhaltspunkt für die zeitliche Einordnung des Briefes liefert <persName key="E0300017">Busonis</persName> Hinweis auf seine 
+                                erstmalige Aufführung aller <foreign xml:lang="fr"><title key="E0400158">12 Études d’exécution transcendante</title></foreign> von 
+                                <persName key="E0300013">Liszt</persName> in einem Konzert. Dieses fand am Sonnabend, den <date when-iso="1903-02-07">07.02.1903</date>, statt. (vgl. Anm. 
+                                im Brieftext) Der mögliche Entstehungszeitraum lässt sich auf eine Woche eingrenzen – genauer auf einen <date notBefore-iso="1903-01-31" notAfter-iso="1903-02-06">
+                                    Tag zw. dem 31.01. und dem 06.02.1903</date> –, wenn der Hinweis auf den <q>nächsten</q> Sonnabend mit bedacht wird, wobei der 
+                                <date when-iso="1903-02-05">05.</date> oder <date when-iso="1903-02-06">06.02.</date> aufgrund der Formulierung recht unwahrscheinlich wäre. Unter der 
+                                Prämisse, dass hier tatsächlich einfach Umschläge vertauscht wurden, lässt sich die Spanne von einer Woche anhand des Poststempels weiter einschränken 
+                                auf einen <date notBefore-iso="1903-01-31" notAfter-iso="1903-02-03">Tag zw. dem 31.01. und dem 03.02.1903</date>. Berücksichtigt man außerdem, dass 
+                                <persName key="E0300017">Busonis</persName> Briefe – im Gegensatz zu <persName key="E0300208">Freunds</persName> Sendungen – nahezu immer an dem Tag in 
+                                die Post gegeben wurden, an dem er sie verfasst hat, ergibt sich daraus das mutmaßliche Briefdatum <date when-iso="1903-02-03" cert="high">03.02.1903</date>.
+                            </note>
+                            
+                            <fw place="top-center" rend="align(center)">
+                                <hi rend="small"><orgName key="E0600130"><placeName key="E0500029">Berliner</placeName> <supplied reason="incomplete" cert="high">Hotel-Gesellschaft</supplied></orgName></hi>
+                                <lb/><placeName key="E0500576">Romanisches Café</placeName> und <supplied reason="incomplete" cert="high">Conditorei</supplied> <hi rend="bold"><q><placeName key="E0500573"><supplied reason="incomplete" cert="high">De</supplied>r Kaiserhof</placeName></q></hi>
+                                <lb/><hi rend="majuscule small"><placeName key="E0500029">Berlin</placeName> W.,</hi> <hi rend="small"><gap reason="incomplete" atLeast="1" unit="char"/> <placeName key="E0500579"><supplied reason="incomplete" cert="high">Kurfürstendamm 23</supplied>8</placeName>.</hi>
+                            </fw>
+                            
+                            <note type="shelfmark" place="right" resp="#archive">14</note>
+                            
+                            <address rend="align(right) space-above">
+                                <addrLine>Herrn <persName key="E0300208">Robert Freund</persName></addrLine>
+                                <addrLine><hi rend="underline">in <placeName key="E0500132">Zürich</placeName></hi></addrLine>
+                            </address>
+                            
+                            <pb n="6" facs="D0100577_6.jpg"/>
+                            <note type="stamp" place="center" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) small">
+                                    <hi rend="spaced-out"><placeName key="E0500132">Zürich</placeName></hi>
+                                    <lb/><date when-iso="1904-11-18">18.XI.04</date>.VIII
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029" cert="high">Berlin</origPlace>
+                            <origDate when-iso="1903-02-03" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100577">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1903-02-03" cert="high"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029" cert="high">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100514"/>
+                    <ref type="next" target="#D0100515"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-06-24" who="#E0300361">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo".</change>
+            <change when-iso="2018-08-01" who="#E0300361">Bearbeitung übernommen, status="unfinished".</change>
+            <change when-iso="2019-02-28" who="#E0300361">status="proposed".</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100577_1.jpg"/>
+                <note type="shelfmark" place="top-right" rend="space-below" resp="#archive"><seg rend="small">14</seg></note>
+                
+                <opener>
+                    <salute rend="indent">Hochverehrter Freund.</salute>
+                </opener>
+                <p>Bitte inst<choice><orig>ae</orig><reg>ä</reg></choice>ndig<reg>,</reg> mich zu
+                    <lb/>entschuldigen. Ich hatte so übermä<choice><orig>ss</orig><reg>ß</reg></choice>ig
+                    <lb/>viel <orig>t</orig>zu t<orig>h</orig>un <choice><abbr>u.</abbr><expan>und</expan></choice> zu denken, dass ich –
+                    <lb/>neben Ihrem – noch einen ganzen
+                    <lb/>Haufen <subst><del rend="striketrough">Correspondenz</del><add place="above" rend="small">Briefe</add></subst> unbeantwortet
+                    <lb/>lie<choice><orig>ss</orig><reg>ß</reg></choice>. Die Antwort an <placeName key="E0500132">Zürich</placeName> geht
+                    <lb/><date when-iso="1903-02-03" cert="high">heute</date> mit diesem ab.
+                
+                <note type="commentary" resp="#E0300361">
+                    Betrifft wahrscheinlich Verhandlungen mit der <orgName key="E0600024">Tonhalle-Gesellschaft</orgName> für einen Klavier-Abend <persName key="E0300017">Busonis</persName> 
+                    im <date when-iso="1903-03">darauffolgenden Monat</date>, der offenbar durch <persName key="E0300208">Freund</persName> vermittelt wurde. Evtl. hatte 
+                    <persName key="E0300017">Busoni</persName> den Termin noch nicht endgültig bestätigt oder es gab noch offene Fragen in diesem Zusammenhang, etwa zur 
+                    Programmgestaltung. (vgl. dazu auch Anm. im <ref type="E010007" target="#D0100515">folgenden Brief</ref>)
+                </note>
+                
+                </p>
+                <p rend="indent-first">Vielleicht interessi<reg>e</reg>rt es Sie
+                    <lb/>zu wissen, dass ich am <date when-iso="1903-02-07" cert="high">nächsten
+                    <lb/>Sonnabend</date> den Versuch wage,
+                    <lb/>säm<orig>m</orig>tliche <foreign xml:lang="fr"><title key="E0400158">12 <choice><orig>E</orig><reg>É</reg></choice>tudes <choice><orig>T</orig><reg>t</reg></choice>ranscendantes</title></foreign>
+                    <lb/>zu spielen
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Das Konzert, in dem <persName key="E0300017">Busoni</persName> <persName key="E0300013">Liszts</persName> <foreign xml:lang="fr"><title key="E0400158">
+                            12 Études d’exécution transcendante</title></foreign> erstmals vollständig zu Gehör brachte, war das letzte in einer Reihe von drei Klavier-Abenden. Es fand 
+                        am <date when-iso="1903-02-07">07.02.1903</date> im <placeName key="E0500029">Berliner</placeName> <placeName key="E0500074">Beethoven-Saal</placeName> statt. 
+                        Für die Aufführung am Abend wurde der insgesamt über eine Stunde dauernde <rs key="E0400158">Zyklus</rs> aber dennoch geteilt. Auf die ersten sechs der 
+                        <rs key="E0400158">12 Etüden</rs> <persName key="E0300013">Liszts</persName> folgten als zweiter Programmpunkt <persName key="E0300002">Franz Schuberts</persName> 
+                        <title key="E0400422">Vier Impromptus op. 90</title>. Die noch ausstehenden sechs <persName key="E0300013">Liszt</persName>-<rs key="E0400158">Etüden</rs> 
+                        bildeten den Abschluss des Konzerts. (vgl. <bibl><ref target="#E0800218"/>, S. 325</bibl>; Programm, D-B, Mus.Nachl. F. Busoni E 1903,2)
+                    </note>
+                    
+                    und dass ich mit <del rend="striketrough">einen</del>
+                    <lb/>der <choice><orig>C</orig><reg>K</reg></choice>omposition eines eigenen
+                    <lb/><title key="E0400014"><choice><orig>C</orig><reg>K</reg></choice>lavier<choice><orig>C</orig><reg>k</reg></choice>onzertes</title> zu dreiviertel
+                    <lb/>fortgeschritten bin.
+                
+                <note type="commentary" resp="#E0300361">
+                    <persName key="E0300017">Busonis</persName> <title key="E0400014">Klavierkonzert</title> war Mitte <date when-iso="1902">1902</date> bereits in Arbeit gewesen 
+                    (vgl. <bibl><ref target="#E0800050"/>, Bd. 1, Br. 181, S. 119</bibl>) und wurde erst im <date when-iso="1904-08">August 1904</date> 
+                    beendet. (vgl. <bibl><ref target="#E0800121"/>, S. 224 f.</bibl>) Am <date when-iso="1904-11-10">10.11.1904</date> erfolgte die 
+                    Uraufführung in <placeName key="E0500029">Berlin</placeName>. (für Näheres dazu vgl. Anm. in <persName key="E0300017">Busonis</persName> 
+                    <ref type="E010007" target="#D0100517">Brief vom <date when-iso="1904-11-16">16.11.1904</date></ref>) Eine Veröffentlichung des <rs key="E0400014">Werks</rs> bei 
+                    <persName key="E0300017">Busonis</persName> Stammverlag <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> sollte sich noch bis <date when-iso="1906">1906</date> 
+                    hinauszögern. Das Partitur-Autograph umfasst immerhin <q>nahezu 400 ziemlich eng beschriebene Seiten</q>. (<bibl><ref target="#E0800050"/>, 
+                        Bd. 1, Br. 223, S. 138</bibl>) Auch dem ursprünglich von <persName key="E0300017">Busoni</persName> geforderten Honorar i.H.v. 5000 Mark (vgl. 
+                    <bibl><ref target="#E0800050">ebd.</ref></bibl>) konnte nicht entsprochen werden. Man vereinbarte letztlich, dass der <rs key="E0600002">Verlag</rs> die nicht 
+                    unbeträchtlichen Herstellkosten übernimmt und <persName key="E0300017">Busoni</persName> am Gewinn beteiligt wird, sobald diese gedeckt sind. (vgl. 
+                    <bibl><ref target="#E0800050">ebd.</ref>, Br. 227, S. 143</bibl>)
+                </note>
+                    
+                </p>
+                <p rend="indent-first">
+                    <mentioned rend="dq-du">Fortgeschritten</mentioned> fand ich auch
+                    <lb/><persName key="E0300420">Etel<orig>’</orig>s</persName> <choice><orig>C</orig><reg>K</reg></choice>lavierspiel, worüber ich
+                    <lb/>mich herzlichst freute.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Es konnte nicht ermittelt werden, in welchem Kontext <persName key="E0300017">Busoni</persName> sie spielen gehört hat.
+                    </note>
+                </p>
+                
+                <p rend="indent-first">Ich hoffe<reg>,</reg> Sie in der <placeName key="E0500092">Schweiz</placeName>
+                    <lb/>zu sehen <choice><abbr>u.</abbr><expan>und</expan></choice> danke für Ihre
+                    <lb/>freundliche Vermittlung in <placeName key="E0500132"><choice><abbr>Z</abbr><expan>Zürich</expan></choice></placeName>. –</p>
+                <closer>
+                    <salute>
+                        Mit freundschaftlichen Grüße<supplied reason="omitted">n</supplied> an Sie
+                        <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> <persName key="E0300434"><choice><orig>M<hi rend="sup underline">rs</hi></orig><reg>Mrs</reg></choice> Freund</persName>
+                    </salute>
+                    <signed rend="inline">Ihr treu ergebener
+                        <lb/><seg rend="align(right)"><persName key="E0300017">F. Busoni</persName></seg>
+                    </signed>
+                </closer>
+                
+                <note type="shelfmark" place="bottom-left" resp="#archive"><seg rend="small">Ms. Z II 157 a.1</seg></note>
+                
+                <pb n="2" facs="D0100577_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite Blatt 1, vacat]</note>
+                
+                <pb n="3" facs="D0100577_3.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Vorderseite Blatt 2, vacat]</note>
+                
+                <pb n="4" facs="D0100577_4.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite Blatt 2, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

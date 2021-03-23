@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300481">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Max Abraham</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-02-02" who="#E0300361">korrekturgelesen und ergänzt; status="reviewed"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">116003995</idno>
+               <idno type="VIAF">69670711</idno>
+               <idno type="ISNI">0000000054858513</idno>
+               <persName type="reg">
+                  <surname>Abraham</surname>,
+                  <forename>Max</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1831-06-03"/>
+                  <placeName key="E0500226">Danzig</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1900-12-08"/>
+                  <placeName key="E0500007">Leipzig</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikverleger</occupation>
+               <note>Ab <date when-iso="1863/1880">1863</date> Teilhaber, ab <date when-iso="1880/1900">1880</date> Alleininhaber des Verlags <orgName key="E0600023">C. F. Peters</orgName>.</note>
+               <note>Es zirkulieren unterschiedliche Angaben zu <persName key="E0300481">Abrahams</persName> Geburtsdatum; der <date when-iso="1831-06-03">03.06.1831</date> dürfte einem sich 
+                  in <placeName key="E0500007">Leipzig</placeName> befindlichen Gedenkstein zufolge korrekt sein (<ref type="ext" target="http://www.friedhofsspaziergang-leipzig.de/grabmal.php?ident=131">Foto</ref>, Stand: <date when-iso="2020-02-02">02.02.2020</date>).</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

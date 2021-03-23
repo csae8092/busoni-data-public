@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300553">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edward J. Dent</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2020-02-09" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">12095110X</idno>
+               <idno type="VIAF">22267679</idno>
+               <idno type="ISNI">0000000108783933</idno>
+               <persName type="reg">
+                  <surname>Dent</surname>,
+                  <forename>Edward</forename>
+                  <forename><abbr>J.</abbr></forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Edward</forename>
+                  <forename>Joseph</forename>
+                  <surname>Dent</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1876-07-16"/>
+                  <placeName key="E0500629">Ribston</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1957-08-22"/>
+                  <placeName key="E0500047">London</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikwissenschaftler</occupation>
+               <occupation>Lehrer</occupation>
+               <occupation>Übersetzer</occupation>
+               <occupation>Kritiker</occupation>
+               <event type="award" when-iso="1932">
+                  <ab>Ehrendoktor der Universität <placeName key="E0500471">Oxford</placeName></ab>
+               </event>
+               <event type="award" when-iso="1936">
+                  <ab>Ehrendoktor der Harvard University</ab>
+               </event>
+               <event type="award" when-iso="1947">
+                  <ab>Ehrendoktor der Universität <placeName key="E0500151">Cambridge</placeName></ab>
+               </event>
+               <note>Autor einer <bibl><ref target="#E0800019"><persName key="E0300017">Busoni</persName>-Biographie (<date when-iso="1933">1933</date>)</ref></bibl></note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

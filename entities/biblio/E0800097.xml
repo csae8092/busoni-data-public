@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>N. N. 1899f</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <title level="a">Chaminade-Thomson</title>
+               </analytic>
+               <monogr>
+                  <title level="j"><orgName key="E0600035">Neue Freie Presse</orgName></title>
+                  <imprint>
+                     <date when-iso="1899-02-26"/>
+                  </imprint>
+                  <biblScope unit="no">12398</biblScope>
+                  <biblScope unit="page">16</biblScope>
+               </monogr>
+               <note>Konzertanzeige</note>
+               <ref type="ext" subtype="anno" target="#nfp #18990226 #16">Digitalisat der Österreichischen Nationalbibliothek</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

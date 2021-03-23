@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400446">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leichtentritt, Hugo: Esther</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-02-27" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300093" role="cmp lbt">Hugo Leichtentritt</author>
+                  <title level="m">Esther</title>
+                  <title level="m" type="sub">Eine dramatische Legende</title>
+                  <imprint>
+                     <date when-iso="1914/1916" type="written-libr"/>
+                     <note>Libretto</note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1919/1920" type="composed"/>
+                     <note>musikalische Ausarbeitung</note>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1923" type="finished"/>
+                     <note>Fertigstellung des ersten Entwurfs, inklusive Orchesterpart</note>
+                  </imprint>
+               </monogr>
+               <note>Vgl. <bibl><ref target="#E0800277"/>, S. 345f.</bibl></note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

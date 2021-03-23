@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100323">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Muralto, 23.–24. April 1918)</title>
+            <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Muralto, 23–24 April 1918)</title>
+            <author key="E0300126">Ludwig Rubiner</author>
+            <respStmt>
+               <resp>Prepared by</resp>
+               <persName key="E0300373">
+                  <forename>Immanuel</forename>
+                  <surname>Beyreuther</surname>
+               </persName>
+               <persName key="E0300372">
+                  <forename>Sophia</forename>
+                  <surname>Dörner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitization by</resp>
+               <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date when-iso="2018-01"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Briefe</title>
+            <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="ullrich.scheideler">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country key="DE">Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                  <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                  <collection>Nachlass Ferruccio Busoni</collection>
+                  <idno>Mus.Nachl. F. Busoni B II, 4280</idno>
+                  <altIdentifier>
+                     <idno type="D-B.olim">Mus.ep. L. Rubiner 21 (Busoni-Nachl. B II)</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <institution>Kalliope-Verbund</institution>
+                     <idno>DE-611-HS-723968</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary><persName key="E0300126">Rubiner</persName> bestätigt <persName key="E0300017">Busoni</persName> hinsichtlich seiner Meinung zu <title key="E0400107">Faust II</title>; hinterfragt den Umgang mit Erlösung, Schuld, Sünde und Verklärung; befürwortet die Zeitlosigkeit antiker bzw. klassischer Dramen und die dramaturgische <soCalled>Gleichzeitigkeit</soCalled> des <title key="E0400107">Faust II</title>; stellt zur Diskussion, ob das Werk der dramatischen Gattung zuzuordnen sei; schreibt die ausgeprägteste Dramatik in <persName key="E0300124">Goethes</persName> Œuvre der <title key="E0400317">Farbenlehre</title> zu; definiert Verständlichkeit als Produkt künstlerischer Zeitgeistaffinität oder Objektivität; entschuldigt sich für seine Kritik an <persName key="E0300125">Hans Huber</persName>.</summary>
+                  <msItem>
+                     <docDate resp="#major_hand"><date from-iso="1918-04-23/1918-04-24"/></docDate>
+                     <docDate resp="#post" sameAs="#post_abs"><date when-iso="1918-04-24"/></docDate>
+                     <docDate resp="#post" sameAs="#post_rec"><date when-iso="1918-04-24"/></docDate>
+                     <docDate resp="#archive" sameAs="#arch_date"><date when-iso="1918-04-24"/></docDate>
+                     <incipit>Nur kurz: Ich sandte Ihnen gestern <choice><orig>a</orig><reg>A</reg></choice>bend <ref type="E010005" target="#D0100322">einen Brief</ref> durch <choice><orig>e</orig><reg>E</reg></choice>xpress nach <placeName key="E0500219">Genf</placeName></incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <extent>
+                           <measure type="folio">5 Bogen</measure>
+                           <measure type="pages">20 beschriebene Seiten</measure>
+                        </extent>
+                        <condition>Der Brief ist gut erhalten; Umschlagaufriss ohne Textverlust.</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                     <handNote xml:id="major_hand_pencil" scope="minor" medium="pencil" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Brieftext mit Bleistift (ab S.&#8239;18 unten), in lateinischer Schreibschrift.</handNote>
+                     <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der auf der Umschlagrückseite die Zuordnung <q>Rubiner</q> mit Bleistift notiert hat.</handNote>
+                     <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                     <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                     <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                     <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                     <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                  </handDesc>
+                  <accMat>
+                     
+                     <pb n="21"/>
+                     
+                     <note type="stamp" place="top-right" resp="#post">
+                        <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                           <placeName key="E0500183">Locarno</placeName>
+                           <lb/><date when-iso="1918-04-24">24.IV.1918</date>
+                           <!-- weitere Angaben (ggf. <gap/>)? -->
+                           <!-- wieviel können Sie von obigem wirklich auf dem Papier sehen? (Rest mit <supplied>) -->
+                        </stamp>
+                     </note>
+                     
+                     <address>
+                        <addrLine>Herrn</addrLine>
+                        <addrLine>Prof. <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                        <addrLine rend="align(right)"><placeName key="E0500132">Zürich</placeName> VI</addrLine>
+                        <addrLine rend="align(right)"><placeName key="E0500189">Scheuchzerstr. 36</placeName>.</addrLine>
+                     </address>
+                     
+                     <pb n="22"/>
+                     
+                     <address rend="align(center)">
+                        <addrLine>Abs.:</addrLine>
+                        <addrLine rend="inline"><persName key="E0300126">Rubiner</persName>.</addrLine>
+                        <addrLine rend="inline"><placeName key="E0500291">Muralto</placeName> – <placeName key="E0500183">Locarno</placeName>.</addrLine>
+                        <addrLine><placeName key="E0500447">Villa Rossa</placeName>.</addrLine>
+                     </address>
+                     
+                     <note type="shelfmark" place="center" resp="#archive" rend="space-above">
+                        <add xml:id="addSig">Mus.Nachl. F. Busoni
+                           <lb/>B II, 4280-Beil.</add>
+                     </note>
+                     
+                     <note type="stamp" resp="#post" place="right">
+                        <stamp xml:id="post_recp" rend="round border majuscule align(center)">
+                           <placeName key="E0500132">Zürich</placeName>
+                           <lb/><date when-iso="1918-04-24">24.IV.18</date>. – 10
+                           <lb/>Brf. Exp.
+                        </stamp>
+                     </note>
+                     
+                     <note type="shelfmark" place="left" resp="#archive">
+                        <del rend="strikethrough" xml:id="delSig">
+                           <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/> B II</stamp>
+                           Mus.ep. L. Rubiner 21</del>
+                     </note>
+                     
+                     <substJoin target="#addSig #delSig"/>
+                     
+                     <note type="stamp" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                           <lb/>Staatsbibliothek
+                           <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                     </note>
+                     
+                     <note type="annotation" place="bottom-center" rend="large" resp="#recipient">24. April 1918</note>
+                  </accMat>
+               </physDesc>
+               <history>
+                  <origin>
+                            <origPlace key="E0500291">Muralto</origPlace>
+                            <origDate when-iso="1918-04-23/1918-04-24"/>
+                        </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+         </projectDesc>
+         <editorialDecl>
+            <hyphenation eol="hard" rend="dh">
+               <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+            </hyphenation>
+            <punctuation marks="all" placement="external">
+               <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+            </punctuation>
+            <quotation marks="none">
+               <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+            </quotation>
+            <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr
+               target="http://www.busoni-nachlass.org/E1000003"/></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc ref="http://www.busoni-nachlass.org/D0100323">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+               <date from="1918-04-23" to="1918-04-24"/>
+               <placeName ref="http://www.geonames.org/6692335" key="E0500291">Muralto</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+               <date when="1918-04-24" cert="high"/>
+               <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="replyTo" target="#D0100321"/>
+               <ref type="repliedBy" target="#D0100323"/>
+               <ref type="previous" target="#D0100322"/>
+               <ref type="next" target="#D0100324"/>
+            </correspContext>
+         </correspDesc>
+         <langUsage>
+            <language ident="de"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+         <change when-iso="2017-12-19" who="#E0300372 #E0300373">Erste Transkription, status unfinished</change>
+         <change when-iso="2018-01-25" who="#E0300373 #E0300372">Erste Auszeichnungen, status unfinished</change>
+         <change when-iso="2018-02-09" who="#E0300373 #E0300372">Auszeichnungen,Kommentare, status proposed</change>
+         <change when-iso="2018-02-12" who="#E0300314">erste Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873588134/manifest">
+      <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000001"/>
+      <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000002"/>
+      <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000003"/>
+      <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000004"/>
+      <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000005"/>
+      <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000006"/>
+      <graphic n="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000007"/>
+      <graphic n="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000008"/>
+      <graphic n="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000009"/>
+      <graphic n="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000010"/>
+      <graphic n="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000011"/>
+      <graphic n="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000012"/>
+      <graphic n="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000013"/>
+      <graphic n="14" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000014"/>
+      <graphic n="15" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000015"/>
+      <graphic n="16" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000016"/>
+      <graphic n="17" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000017"/>
+      <graphic n="18" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000018"/>
+      <graphic n="19" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000019"/>
+      <graphic n="20" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000020"/>
+      <graphic n="21" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000021"/>
+      <graphic n="22" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB5400000022"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="transcription">
+            
+            <pb n="1"/>
+            
+            <note type="shelfmark" resp="#archive" place="top-right">
+               <del rend="strikethrough align(left)">Mus.ep. L. Rubiner 21 (Busoni-
+                  <lb break="no"/>Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+               <add place="below">Mus.Nachl. F. Busoni
+                  <lb/>B II, 4280</add>
+            </note>
+            
+            <opener>
+               <byline rend="left">
+                  <address>
+                     <addrLine>Noch immer:</addrLine>
+                     <addrLine><placeName key="E0500291">Muralto</placeName>-<placeName key="E0500183">Locarno</placeName></addrLine>
+                     <addrLine rend="indent"><placeName key="E0500447">Villa Rossa</placeName></addrLine>
+                  </address>
+               </byline>
+               <dateline rend="right-of align(right)">
+                  <date when-iso="1918-04-23">23. Apr. 1918</date>.</dateline>
+               
+               <note type="pagination" place="right" resp="#archive">[1]</note>
+               
+               <salute rend="indent">Lieber und Verehrter! </salute>
+            </opener>
+            
+            <note type="stamp" place="right" resp="#dsb_st_red">
+               <stamp rend="round border align(center) small">Deutsche
+                  <lb/>Staatsbibliothek
+                  <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+               </stamp>
+            </note>
+            
+            <p>Nur kurz: Ich sandte Ihnen gestern
+               <lb/><choice><orig>a</orig><reg>A</reg></choice>bend <ref type="E010005" target="#D0100322">einen Brief</ref> durch <choice><orig>e</orig><reg>E</reg></choice>xpress nach
+               <lb/><placeName key="E0500219">Genf</placeName>, damit er dort noch an Sie
+               <lb/>gelange. Da aber die Post erst heute
+               <lb/>früh befördert wurde, nehme ich
+               <lb/>an, dass Sie ihn in <placeName key="E0500219">Genf</placeName> nicht
+               <lb/>mehr erhalten<orig>,</orig> und er Ihnen
+               <lb/>nachgeschickt werden muss. &#8212;</p>
+            
+            <p rend="indent-first">Ihre Hauptargumente für den
+               <lb/><title key="E0400107">Faust II</title> sind für mich völlig
+               <lb/>überzeugend.
+               
+               <note type="commentary" resp="#E0300372"><persName key="E0300017">Busoni</persName> stellt in seinem <ref type="E010005" target="#D0100321">Brief</ref> die Szenen I.&#8239;Akt <q rend="dq-du">Anmutige Gegend</q> und <q rend="dq-du">Finstere Galerie</q>, V.&#8239;Akt <q rend="dq-du">Mitternacht</q> sowie den Aufbau des letzten Abschnitts als für ihn besonders bedeutsam heraus, betrachtet das Werk als Bearbeitung verschiedener literarischer Gattungen (indisches Drama, Puppenspiel etc.) und bezeichnet die Umkehrung der Schuld als Kern des Werkes (vgl. <ref type="E010005" target="#D0100321">Brief</ref> von <persName key="E0300017">Busoni</persName> an <persName key="E0300126">Rubiner</persName> vom <date when-iso="1918-04-21">21. April 1918</date>). <persName key="E0300017">Busoni</persName> bezieht sich dabei auch auf seine Ausführungen in einem vorherigen, offenbar nicht erhaltenen Brief.</note><!-- CS: Rekapitulation des vorherigen Briefinhalts im Rahmen einer Edition aller vorliegenden Briefe wohl nicht nötig -->
+               
+               Vor allem das, die
+               <lb/>Ausschaltung des Schuldbegriffes,
+               <lb/>der mich schon seit früher Jugend
+               <lb/>verfolgt hat. Vor allem, da
+               <lb/>die ganze neuere Dramatik die
+               <lb/><soCalled rend="dq-du">Schuld</soCalled> (nach der Antike) verwässert
+               <lb/>und künstlich gemacht hat – während
+               <lb/>sie bei <persName key="E0300353"><choice><orig>Ä</orig><reg>Ae</reg></choice>schylus</persName> noch ursprüngliche
+               
+               <pb n="2"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">2</note>
+               <!-- geht die Paginierung ab hier nicht auf jemand anderes zurück? warum sonst eckige Klammern auf Seite 1? -->
+               
+               <hi rend="underline">religiöse</hi>, weit über den Einzel
+               <lb break="no"/>menschen hinausreichende
+               <lb/>Ursprungsbedeutung hat. (Am
+               <lb/>stärksten, scheint mir, in
+               <lb/><persName key="E0300353"><choice><orig>Ä</orig><reg>Ae</reg></choice>schylus<reg>’</reg></persName>
+               <title key="E0400353" rend="dq-du">Gefesseltem Prometheus</title>.
+               <lb/>Gute Übersetzung in der <choice><abbr>kl.</abbr><expan>kleinen</expan></choice>
+               <orgName key="E0600072"><choice><orig>Inselbücherei</orig><reg>Insel-Bücherei</reg></choice></orgName>.)
+               <lb/>Andererseits wagt der neue
+               <lb/>Dichter nicht, das wirklich Böse
+               <lb/>und die wirkliche Sünde (die es
+               <lb/>doch wahrhaft gi<orig>e</orig>t, wenn man
+               <lb/>nicht etwa auf <persName key="E0300354">Haeckel</persName><reg>’</reg>schem
+               <lb/>monistischen Standpunkt steht)
+               <lb/>zu <hi rend="underline">gestalten</hi>. Das hat nun
+               <lb/><persName key="E0300124">Goethe</persName> wirklich getan, wie nur
+               <lb/>ein ursprünglicher Mensch.
+               <lb/>Ferner leuchtet mir Ihre Bemer
+               <lb break="no"/>kung ein, dass die Sünde begangen
+               <lb/>werden <hi rend="underline">muss</hi>, und das wird
+               <lb/>wirklich auch in der <hi rend="underline">plastischen</hi>
+               <lb/>Durchführung das Grö<choice><orig>ss</orig><reg>ß</reg></choice>te sein.
+               <lb/>Darf ich nun – ohne di<subst><del rend="overwritten"><gap reason="overwritten" extent="1" unit="char"/></del><add place="across">e</add></subst>
+               
+               <pb n="3"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">3</note>
+               
+               Grö<choice><orig>ss</orig><reg>ß</reg></choice>e respektlos anzutasten! –
+               <lb/>einige ernste Fragen tun?
+               <lb/>Warum muss Faust durch
+               <lb/><hi rend="underline">Verklärung</hi> erlöst werden? Da
+               <lb/>doch die Erlösung, also das
+               <lb/>Paradies, schon i<subst><del rend="overwritten">m</del><add place="across">n</add></subst> der anderen
+               <lb/>Seite der sündigen Handlung
+               <lb/>liegt, nämlich in der menschlichen.
+               <lb/>D.&#8239;h. da doch die Erlösung und
+               <lb/>das Paradies im <hi rend="underline">Gesamtumfang</hi>
+               <lb/>des menschlichen Lebens mit
+               <lb/><hi rend="underline">allen</hi> seinen Handlungen liegt.
+               <lb/>(Wenn nicht, dann hätte ja der
+               <lb/>Erlösungs<pc>=</pc><persName key="E0300006">Richard Wagner</persName> recht,
+               <lb/>der so deutlich die Künstlichkeit
+               <lb/>der dramatischen Erlösung zeigte. Und
+               <lb/>das liegt in der Idee, das ist nicht
+               <lb/>nur Talentunterschied.)</p>
+            
+            <p>Warum ferner – – Gretchen? Wenn
+               <lb/>Erlösung nach so gewaltigem Leben,
+               <lb/>mit so gewaltigen Mitteln – warum
+               <lb/>nicht nach bewusst gro<choice><orig>ss</orig><reg>ß</reg></choice>en
+               
+               <pb n="4"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">4</note>
+               
+               Sünden? Denn <persName key="E0300124">Goethe</persName>, im
+               <lb/>ganzen <rs key="E0400107">II<reg>.</reg> Teil</rs>, steht mit tiefstem
+               <lb/>Recht auf Seiten des <hi rend="underline">Bewussten</hi>.
+               <lb/>(Valentin geht für seine Dumpfheit
+               <lb/>unter. Tiefster aller tiefen Kontra
+               <lb break="no"/>punkte!)
+               
+               <note type="stamp" place="right" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note>
+               
+               <lb/>Aber meine Frage war viel einfacher
+               <lb/>gemeint. (Sie haben Sie durch Ihre<orig>,</orig>
+               <lb/>das Letzte greifenden Bemerkungen
+               <lb/>gleich auf die letzten Dinge auch
+               <lb/>bei mir geführt.) Meine Frage:
+               <lb/>Ist <title key="E0400107">Faust II</title> ein <hi rend="underline" n="3">Drama</hi>? Ich
+               <lb/>rede hier nicht von der handlichen
+               <lb/>theatralischen Form. Sondern von
+               <lb/>der Form im wichtigsten Sinne.
+               <lb/><title key="E0400107">Faust II</title> ist (jetzt rein technisch
+               <lb/>gesprochen) ein <soCalled rend="dq-du">Chorgesang mit
+                  <lb/>Solisten</soCalled>, dessen einzelne S<choice><orig>c</orig><reg>z</reg></choice>enen
+               <lb/>in Wahrheit alle sich zu <hi rend="underline" n="2">gleicher</hi>
+               <lb/>Zeit abspielen, gewisserma<choice><orig>ss</orig><reg>ß</reg></choice>en
+               <lb/>in einem Kreis angeordnet alle
+               <lb/>zur gleichen Zeit vorgetragen werden
+               <lb/>müssten. Das Schönste, das sich
+               
+               <pb n="5"/>
+               
+               <note type="shelfmark" resp="#archive" place="top-left">B II, 4280</note>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">5</note>
+               
+               wiederum für uns daraus ergi<orig>e</orig>bt,
+               <lb/>ist, dass im <rs key="E0400107">II<reg>.</reg> Teil</rs> <hi rend="underline" n="2">die Zeit</hi>
+               <lb/>ausgeschaltet ist, <hi rend="underline">überhaupt nicht
+                  <lb/>existiert!</hi> (<del rend="strikethrough">Wie</del> Gefühlteste
+               <lb/>Versinnbildlichung <q rend="dq-du">Die Mütter</q><subst><add>;</add><del rend="strikethrough">)</del></subst>
+               <lb/>doch ist das nicht die <soCalled rend="dq-du">technische</soCalled>
+               <lb/>Seite der <q rend="dq-du">Mütter</q>; sie haben noch
+               <lb/>viel wichtigere Aspekte.) Ferner
+               <lb/>kommt aus dieser halb bewussten,
+               <lb/>halb aber auch unfreien (die Wahrheit
+               <lb/>zu sagen) <choice><orig>Conc</orig><reg>Konz</reg></choice>eption diese au<choice><orig>ss</orig><reg>ß</reg></choice>er
+               <lb break="no"/>ordentliche und staunenswerte
+               <lb/>Bereicherung der <choice><orig>conc</orig><reg>konz</reg></choice>entrierten
+               
+               <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note>
+               
+               <lb/>neuen Gedichtsprache.</p>
+            
+            <p>Mit der <add place="above"><persName key="E0300124">Goethe</persName><reg>’</reg>schen</add> Antike und ihrer
+               <lb/>Wiederbelebung werde ich bis
+               <lb/>in mein hohes Alter nicht
+               <lb/>mitfühlen können. Obwohl
+               <lb/>die gro<choice><orig>ss</orig><reg>ß</reg></choice>artigsten Verse gerade
+               <lb/>dort stehen. Die Prophetie ist
+               <lb/>vielleicht nicht ganz so gro<choice><orig>ss</orig><reg>ß</reg></choice>,
+               <lb/>nur erstaunlich, aber solche
+               
+               <pb n="6"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">6</note>
+               
+               Prophetie, die sich auf Mechanisches
+               <lb/>und nicht auf Menschenschicksal
+               <lb/>bezieht, findet man auch in
+               <lb/>viel kleineren Werken. Z.&#8239;B.
+               <lb/>sehr, sehr viel bei <persName key="E0300355">Jean Paul</persName>.
+               <lb/>Doch machen solche Anti<choice><orig>c</orig><reg>z</reg></choice>ipationen
+               <lb/>gewiss nicht die <soCalled rend="dq-du">Modernität</soCalled>
+               <lb/>eines Werkes aus, sondern das
+               <lb/>wird nur durch seine Zeitlosig
+               <lb break="no"/>keit (Zeitlosigkeit in der
+               <lb/>Ideengrundlage, nicht in der
+               <lb/>Einzelbehandlung) erwirkt. Aber
+               <lb/>das wissen Sie ebenso wie ich.
+               <lb/>Die au<choice><orig>ss</orig><reg>ß</reg></choice>erordentlichste und
+               <lb/>bedeutendste Stellung, die
+               <lb/>allseitigste, hat Mephisto.
+               <lb/>Dass er Phorkyas hei<choice><orig>ss</orig><reg>ß</reg></choice>en
+               <lb/>muss?</p>
+            
+            <p>Dass eine der unerhörtesten
+               <lb/>Phantasiebildungen, der
+               <lb/>Türmer, Lynkeus hei<choice><orig>ss</orig><reg>ß</reg></choice>en
+               <lb/>muss? (Und beide nicht nur
+               
+               <pb n="7"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">7</note>
+               
+               hei<choice><orig>ss</orig><reg>ß</reg></choice>en, sondern auch sein!)
+               <lb/>Dass <del rend="strikethrough"><gap reason="strikethrough" atLeast="2" unit="char"/></del>
+               <q rend="dq-du">Helena</q> sein muss! –</p>
+            
+            <p><subst><del rend="overwritten"><gap reason="overwritten" extent="1" unit="word"/></del><add place="across">Darf</add></subst> man <del rend="strikethrough">wirklich</del><add place="above">jemals in diesen Dingen</add> unauf
+               <lb break="no"/>richtig sein? Nein; <add place="above">auch nicht vor einem</add>
+               <lb/><add place="below">Freunde, der <rs key="E0400107">das Werk</rs> liebt.</add> <subst><del rend="overwritten">d</del><add place="across">D</add></subst>enn es ist
+               <lb/>gerade das ungeheure Ma<choice><orig>ass</orig><reg>ß</reg></choice>
+               <lb/><rs key="E0400107">des Werkes</rs>, das einen nicht
+               <lb/>etwa<del rend="strikethrough">s</del> hei<choice><orig>sst</orig><reg>ßt,</reg></choice> <soCalled rend="dq-du">Kritik</soCalled> zu üben
+               <lb/>(was albern, kleinlich, dumm
+               <lb/>und <hi rend="underline">lächerlich</hi> wäre!), sondern
+               <lb/>das einen aufrüttelt zur Frage:
+               <lb/><q rend="dq-du">Was nehme ich vor meinem
+                  <lb/>Tode <subst><del rend="overwritten">von</del><add place="across">aus</add></subst> diesem Lebenswerke<add>?</add></q><del rend="strikethrough">mit?<anchor type="delimiter" subtype="quoteEnd" rend="dq-du"/></del></p>
+            
+            <p>Würde nun ich, <persName key="E0300126"><choice><abbr>L. R.</abbr><expan>Ludwig Rubiner</expan></choice></persName>, morgen
+               <lb/>nicht mehr existieren, so hätte
+               <lb/>die Erinnerung in meiner wichtigsten,
+               <lb/>aufrüttelndsten, letzten Stunde
+               <lb/>des Lebens so ausgesehen:</p>
+            
+            <p>Ein ungeheures, panoramahaftes
+               <lb/>Gesamtbild des bewusst fühlenden,
+               <lb/>tätigen Lebens. Vorbildliches.</p>
+            
+            <p>Dies auf die kürzesten Formeln
+               <lb/>gebracht.<choice><orig>][</orig><reg> </reg></choice>In meinen Schwingungen
+               <lb/>bleibt davon die Rückempfindung
+               
+               <pb n="8"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">8</note>
+               
+               der äu<choice><orig>ss</orig><reg>ß</reg></choice>ersten, Zeitbegriff verdrän
+               <lb break="no"/>genden Konzentration. Die Konzen
+               <lb break="no"/>tration ist so gewaltig, dass sie
+               <lb/>bei diesem quantitativ umfangreichen,
+               <lb/>mannigfaltigen <rs key="E0400107">Werk</rs>, das noch dazu
+               <lb/>mehrere Leben darstellt, den Eindruck
+               <lb/>hinterlässt, alles spiele sich in <hi rend="underline">einem</hi>
+               <lb/>Moment ab.</p>
+            
+            <p>Dies ist das Unvergängliche daran.
+               <lb/>Es bleibt, dass die Ausdrucksform
+               <lb/>der Formeln – zu einem sehr gro<choice><orig>ss</orig><reg>ß</reg></choice>en
+               <lb/>Teil vergänglich ist.</p>
+            
+            <p>Ist man aber nicht ehrlicher
+               <lb/><subst><del rend="overwritten">G</del><add place="across">g</add></subst>egen <persName key="E0300124">Goethe</persName>, und lässt man
+               <lb/><rs key="E0400107">diesem Werk</rs> nicht viel höheres,
+               <lb/>reineres und intensiver dichteri
+               <lb break="no"/>sches Leben, wenn man gerade
+               <lb/>gegenüber jenen vergänglichen
+               <lb/>Formeln nicht in der Art ver
+               <lb break="no"/>fährt, als wollte man Philinens
+               <lb/>Wort im <title key="E0400319" rend="dq-du"><choice><abbr>Wil.</abbr><expan>Wilhelm </expan></choice> Meister</title> abändern:
+               <lb/><q rend="dq-du">Wenn ich dich deute, was geht<reg>’</reg>s
+                  <lb/>dich an?</q>
+               
+               <note type="commentary" resp="#E0300372">Der originale Wortlaut ist:
+                  <cit>
+                     <quote rend="dq-du">Und wenn ich dich lieb habe, was geht’s dich an?</quote>
+                     <bibl>(<title key="E0400319">Wilhelm Meisters Lehrjahre</title> IV,9, Philine)</bibl>
+                  </cit>.</note>               
+               
+               &#8212;
+               
+               <note type="stamp" place="inline" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note></p>
+            
+            <p>Und so war meine Frage
+               <lb/>über Ihre persönliche Stellung
+               
+               <pb n="9"/>
+               
+               <note type="shelfmark" resp="#archive" place="top-left">B II, 4280</note>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">9</note>
+               
+               zum <rs key="E0400107">II<reg>.</reg> Teil</rs> ganz einfach,
+               <lb/>menschlich<pc>=</pc>künstlerisch und
+               <lb/>direkt gemeint: Welche wirklich
+               <lb/>schöpferische Anregung für <rs key="E0400218">Ihre
+                  <lb/>eigene Arbeit</rs> gab Ihnen <rs key="E0400107">das
+                     <lb/>Werk</rs>, und gab <choice><sic>sie</sic><corr>es</corr></choice> Ihnen eine
+               
+               <note type="stamp"
+                  place="margin-right" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note>
+               <lb/>wirkliche?</p>
+               
+               <p><rs key="E0400218">Ihren Faust</rs> haben Sie nach
+               <lb/>dem <rs key="E0400322">Puppenspiel</rs> geschrieben; doch
+               <lb/>nicht aus Originalitätssucht,
+               <lb/>auch nicht, um irgend<orig> </orig>ein gutes
+               <lb/>Opernbuch zu machen. Auch
+               <lb/>wären Sie in Fragen der Kunst
+               <lb/>vernünftiger Egoist genug,
+               <lb/><rs key="E0400107">den <persName key="E0300124">Goethe</persName></rs> selbst zu ergreifen,
+               <lb/>wenn Ihnen das künstlerisch
+               <lb/>für <hi rend="underline">Ihre Person</hi> aussichtsvoll
+               <lb/>erschienen wäre (auch hätte sich
+               <lb/>dann irgendwie die Möglichkeit
+               <lb/>ergeben, es zu tun). Aber Ihr
+               <lb/>Buch
+               
+               <note type="commentary" resp="#E0300373">Gemeint ist das Libretto zu <persName key="E0300017">Busonis</persName>
+                  <title key="E0400218"><q rend="dq-du">Doktor Faust</q></title>.</note>
+               
+               ist so gewaltig anders
+               <lb/>als das <persName key="E0300124">Goethe</persName><reg>’</reg>sche <rs key="E0400107">Werk</rs>, dass
+               
+               <pb n="10"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">10</note>
+               
+               ich mir – unwillkürlich die
+               <lb/>Frage vorlegte, ob der <rs key="E0400107">II<reg>.</reg> Teil</rs>
+               <lb/>– au<choice><orig>ss</orig><reg>ß</reg></choice>er der Bewunderung
+               <lb/>und der Bestätigung von
+               <lb/>Lebenserfahrung und Lebenswahr
+               <lb break="no"/>heit (was nun schon enorm
+               <lb/>viel ist!) – auch unmittel
+               <lb break="no"/>bar aus Ihnen etwas zum
+               <lb/>Rollen gebracht hat.</p>
+            
+            <p>Ich persönlich glaube, dass dies
+               <lb/>nicht so ist, und auch nicht so
+               <lb/>sein kann. Denn der <title key="E0400107">Faust II</title>
+               <lb/>ist ein Werk, das immer wieder
+               <lb/>in sich zurückkehrt, ganz in
+               <lb/>sich bleibt, und wohl aufgeschlossen
+               <lb/>werden kann, aber nicht den
+               <lb/>anderen aufschlie<choice><orig>ss</orig><reg>ß</reg></choice>t.</p>
+            
+            <p>Ein ungeheure Handlung.</p>
+            
+            <p>Kein Drama. Drama natürlich
+               <lb/>nicht im engen, dialektischen
+               <lb/>Sinne gebraucht, sondern in
+               <lb/>seinen <subst><del rend="overwritten">F</del><add place="across">K</add></subst>onsequenzen, die es
+               
+               <pb n="11"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">11</note>
+               
+               auf Leser und Zuschauer hat.
+               <lb/>Die Konsequenz des Dramas
+               <lb/>hei<choice><orig>ss</orig><reg>ß</reg></choice>t, bei Leser und Zuschauer:
+               <lb/><q rend="dq-du">Folglich? Was soll ich also tun?</q>
+               <lb/>Dies sagt man sich hinter jedem
+               <lb/><persName key="E0300353"><choice><orig>Ä</orig><reg>Ae</reg></choice>schyleischen</persName> Drama, hinter
+               <lb/>jedem indischen Drama, hinter
+               <lb/>jedem <persName key="E0300124">Goethe</persName><reg>’</reg>schen Drama, hin
+               <lb break="no"/>ter <rs key="E0400218">Ihrem Drama</rs> (da die Antwort:
+               <lb/>zur Wiedergeburt leben!). Hinter
+               <lb/>dem <rs key="E0400107">II<reg>.</reg> Teil</rs> ist diese Frage unmöglich.</p>
+            
+            <note type="stamp" place="right" resp="#dsb_st_red">
+               <stamp rend="round border align(center) small">Deutsche
+                  <lb/>Staatsbibliothek
+                  <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+               </stamp>
+            </note>
+            
+            <p rend="indent-first">Und nun sahen Sie
+               <lb/>gewiss schon längst, dass ich
+               <lb/>nicht die Achtungslosigkeit
+               <lb/>beging, das Werk
+               
+               <!-- welches ist gemeint: Doktor Faust, Faust II? -->
+               
+               zu <hi rend="underline">messen</hi><orig>,</orig>
+               <lb/>oder womöglich abzuurteilen.
+               <lb/>Sondern dass ich mir
+               <lb/>Rechenschaft über Formfragen
+               <lb/>zu geben suchte. Diese Formfragen
+               <lb/>kann man aber erst stellen
+               <lb/>und auf sie antworten, wenn
+               <lb/>man ein Werk von der
+               
+               <pb n="12"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">12</note>
+               
+               absoluten Weltgrö<choice><orig>ss</orig><reg>ß</reg></choice>e des <title key="E0400107">Faust II</title>
+               <lb/>vor sich hat. Der gewaltige
+               <lb/>Inhalt selbst ist schuld, die
+               <lb/>Grö<choice><orig>ss</orig><reg>ß</reg></choice>e der Dichtung selbst ist
+               <lb/>schuld, dass man diese wichtigsten
+               <lb/>Fragen überhaupt stellt.</p>
+            
+            <p rend="indent-first">Und das wird man doch
+               <lb/>dürfen, ohne sogleich mit der
+               <lb/>Verachtung erschlagen zu werden,
+               <lb/>die heute die Majorität der <soCalled rend="dq-du">gebil
+                  <lb break="no"/>deten Menschheit</soCalled> für diesen Frager
+               <lb/>mühelos bei der Hand hat.</p>
+            
+            <p rend="indent-first">Erlauben Sie mir eine
+               <lb/>Bemerkung i<subst><del rend="overwritten">m</del><add place="across">n</add></subst> <hi rend="underline">übertragener</hi>
+               <lb/>Sprache. Es gi<orig>e</orig>bt ein <persName key="E0300124">Goethe</persName><reg>’</reg>sches
+               <lb/>Werk, das für mich sein reinstes
+               <lb/>dramatisches Gebilde darstellt,
+               <lb/>das ich von ihm kenne. Es
+               <lb/>ist nicht nur kein Drama,
+               <lb/>sondern nicht einmal ein
+               <lb/>Roman.</p>
+            
+            <p>Es ist die <title key="E0400317">Farbenlehre</title>. Dieses
+               <lb/>Buch (ich lernt<reg>’</reg> es erst <date when-iso="1914">1914</date> ken
+               <lb break="no"/>nen) hat auf mich mit der
+               <lb/>grö<choice><orig>ss</orig><reg>ß</reg></choice>ten Erschütterung gewirkt,
+               
+               <pb n="13"/>
+               
+               <note type="shelfmark" resp="#archive" place="top-left">B II, 4280</note>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">13</note>
+               
+               deren ein Buch überhaupt fähig
+               <lb/>ist. Es steht in so gewaltigem
+               <lb/>Bogen über der sogenannten <soCalled rend="dq-du">Optik</soCalled>,
+               <lb/>wie <persName key="E0300215">Dantes</persName> Weltgesetz <q rend="dq-du">Liebe</q> über
+               <lb/>der Bewegung der Weltkörper.
+               
+               <note type="commentary" resp="#E0300373">Gemeint ist <q rend="dq-du">die Liebe</q> als Sehnsucht nach der Vereinigung mit dem Göttlichen, also als eine Art kosmische Urkraft: <quote rend="dq-du">Der Kreis drum, der das Weltall mit sich zieht, / In seinem Schwung, entspricht in seiner Weise / Dem, der am meisten liebt, am tiefsten sieht.</quote> (<title key="E0400323">Divina commedia</title>, Paradiso, 28. Gesang, V.&#8239;70–72, Beatrice).</note><!-- Original? wessen Übersetzung? -->
+               
+               So
+               <lb/>gro<choice><orig>ss</orig><reg>ß</reg></choice> ist sein Kreis, dass das
+               <lb/>spe<choice><orig>c</orig><reg>z</reg></choice>ifisch Naturwissenschaftliche
+               <lb/>nur ein ganz kleiner, vernachlässi
+               <lb break="no"/>gensmöglicher – aber dennoch von
+               <lb/>einem geistigen Standpunkt rück
+               <lb break="no"/>wirkend erklärten – Teilprozess
+               <lb/>darin ist. In dieser <title key="E0400317" rend="dq-du">Farbenlehre</title>
+               <lb/>ist nun aufs <subst><del rend="overwritten">u</del><add place="across">U</add></subst>ngeheuerste der
+               <lb/>Kampf und das Ringen der
+               <lb/>Farben mit dem Licht darge
+               <lb break="no"/>stellt, so dass die Farben selbst
+               <lb break="no"/>ständige Individualwesen sind;
+               <lb/>handeln und erleiden. (Aber
+               <lb/>ich spreche hier so ausführlich
+               <lb/>von Dingen, die Ihnen höchst
+               <lb break="no"/>wahrscheinlich schon lang ver
+               <lb break="no"/>traut sind!) Hier ist<orig>,</orig> unter
+               <lb/>einer <soCalled rend="dq-du">gelehrten</soCalled> Form etwas
+               <lb/>erreicht, was an metaphysischer
+               <lb/>Bedeutung vielleicht doch mit
+               
+               <pb n="14"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">14</note>
+               
+               der Metaphysik von <persName key="E0300215">Dantes</persName>
+               <lb/><title key="E0400323">Paradiso</title> wetteifern kann. Und
+               <!-- evtl. Paradiso als Teil der Divina commedia einzeln aufnehmen -->
+               <lb/>alles, was in <persName key="E0300124">Goethe</persName> den dra
+               <lb break="no"/>matischen Sinn hatte, hat sich
+               <lb/>hier instinktiv aufs Ungeheu
+               <lb break="no"/>erste entladen. Benennen
+               <lb/>Sie die Farben mit Personen
+               <lb break="no"/>namen – und Sie finden in
+               <lb/>der <persName key="E0300124">Goethe</persName><reg>’</reg>schen <title key="E0400317">Farbenlehre</title>
+               <lb/>unglaubliche ausgespannte
+               <lb/>S<choice><orig>c</orig><reg>z</reg></choice>enarien für augenhafte
+               <lb/>kosmische Weltdramen. —
+               <lb/>(Privat mag ich nur noch
+               <lb/>bemerken, die <title key="E0400317">Farbenlehre</title>
+               <lb/>ist das Werk, das <hi rend="underline">den</hi> ent
+               <lb break="no"/>scheidenden moralischen Eindruck
+               <lb/>auf mein Leben gemacht hat.) –</p>
+            <milestone unit="section" style="—" rend="align(center)"/>
+            <p rend="indent-first">Alle diese Begriffe
+               <lb/>sind mir natürlich bewusst
+               <lb/>als nur sehr persönlicher
+               <lb/>Art. Wenn ich frage: <q>Warum
+                  
+                  <pb n="15"/>
+                  
+                  <note type="pagination" place="top-right" resp="#archive" rend="underline">15</note>
+                  
+                  ist <title key="E0400107">Faust II</title> als Drama geschrie
+                  <lb break="no"/>ben?</q>, dann kann man nur
+               <lb/>antworten: <q rend="dq-du">Ihre Frage ist ja
+                  <lb/>falsch, denn 1.) haben sie offen
+                  <lb break="no"/>bar eine falsche Vorstellung von
+                  <lb/>dem, was Sie Drama nennen,
+                  <lb/>und 2.) haben Personen wie Sie
+                  <lb/>überhaupt den Mund zu halten!</q></p>
+            
+            <p rend="indent-first">Aber mit dieser Antwort
+               <lb/>ist niemandem gedient. Ich
+               <lb/>glaube den Beweis erbracht
+               <lb/>zu haben, dass ich vor gro<choice><orig>ss</orig><reg>ß</reg></choice>en
+               <lb/>Äu<choice><orig>ss</orig><reg>ß</reg></choice>erungen nicht unergriffen
+               <lb/>stehe<orig>,</orig> und dass ich künstlerische
+               <lb/>Lebensfragen nicht aus Respekt
+               <lb break="no"/>losigkeit vor dem Gro<choice><orig>ss</orig><reg>ß</reg></choice>en mir
+               <lb/>stelle.
+               
+               <note type="stamp" place="inline" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note></p>
+            
+            <p rend="indent-first">Vielleicht irre ich mich.
+               <lb/>Den Irrtum kann man allerdings
+               <lb/>nicht durch irgend<orig> </orig>einen Vorteil,
+               <lb/>ja nicht einmal durch die Zahl
+               <lb/>der Jahre<orig>,</orig> aus der Welt schaffen.
+               <lb/>Ein mir bekannter, 60<choice><orig> </orig><reg>-</reg></choice>jähriger <placeName key="E0500153">Frankfurter</placeName>
+               
+               <pb n="16"/>
+               
+               <note type="pagination" place="top-right" resp="#archive" rend="underline">16</note>
+               
+               Kapellmeister
+               
+               <note type="commentary" resp="#E0300372">Hierbei handelt es sich vermutlich um <persName key="E0300419">Ludwig Rottenberg</persName>. 
+                  Er war von 1893 bis 1924 erster Kapellmeister der Frankfurter Oper <bibl>(vgl. <ref target="#E0800145"/>, Sp. 656)</bibl>.</note>
+               <!-- irgendwelche Hinweise auf eine Bekanntschaft? -->
+               
+               besuchte nach langjähriger
+               <lb/>Abwesenheit seinen mehr als ach<supplied reason="omitted">t</supplied>zig
+               <lb break="no"/>jährigen Vater<orig>,</orig> und machte um 9 Uhr
+               <lb/>abends noch einen halbstündigen Gang
+               <lb/>durch die Stadt. Am andern Morgen
+               <lb/>sagte ihm der Vater: <quote rend="dq-du">Du wei<choice><orig>ss</orig><reg>ß</reg></choice>t doch,
+                  <lb/>ich liebe es nicht, wenn meine Kinder
+                  <lb/>nachts ausgehen!</quote> – Wie hätte den
+               <lb/>erst sein Gro<choice><orig>ss</orig><reg>ß</reg></choice>vater angerasselt,
+               <lb/>wenn der noch gelebt hätte. —</p>
+            
+            <p rend="indent-first">Jeder empfindende Mensch hat
+               <lb/>seine 60 Jahre und seinen mehr
+               <lb/>als 80<reg>-</reg>jährigen Vater: Der eine liebt
+               <lb/>die (wirkliche) antike Tragödie un
+               <lb break="no"/>beschreiblich – ich, zum Beispiel.
+               <lb/>Ein anderer, vielleicht sehr, sehr
+               <lb/>liebenswerter Mensch<orig>,</orig> findet das
+               <lb/>nur komisch und findet sich in
+               <lb/>neueren Dingen erfüllt. Bleibt
+               <lb/><choice><orig>B</orig><reg>b</reg></choice>eides nur Vergnügen, so war es
+               <lb/>eine mü<choice><orig>ss</orig><reg>ß</reg></choice>ige Unterhaltung zwischen
+               <lb/><choice><orig>B</orig><reg>b</reg></choice>eiden. Geschieht aber die innere
+               <lb/>Befragung aus Gründen der produk
+               <lb break="no"/>tiven Umbildung, so ist sicherlich
+               <lb/>ein Stückchen Weg unter den Menschen
+               <lb/>weitergeschoben worden! <seg type="closer" subtype="salute">Auf bald,
+                  <lb/>mit einem Freundschaftshändedruck von</seg></p>
+            <closer>
+               <signed>Ihrem <persName key="E0300126">Ludwig Rubiner</persName>.</signed>
+            </closer>
+            
+            <pb n="17"/>
+            
+            <postscript>
+               <note type="shelfmark" resp="#archive" place="top-left">B II, 4280</note>
+               
+               <note type="pagination" place="top-right" resp="#archive">[17]</note>
+               
+               <note type="stamp" place="left" resp="#dsb_st_red">
+                  <stamp rend="round border align(center) small">Deutsche
+                     <lb/>Staatsbibliothek
+                     <lb/><placeName key="E0500029"><hi
+                        rend="spaced-out">Berlin</hi></placeName>
+                  </stamp>
+               </note>
+               <opener>
+                  <dateline rend="right-of align(right)">
+                     <date when-iso="1918-04-24"><add type="annotation"
+                        resp="#recipient">April</add>
+                        <lb/>24.</date> morgens.
+                  </dateline>
+               </opener>
+               
+               <p rend="indent-first">Weil das Wort <mentioned rend="dq-du">Verstehen</mentioned> fiel.
+                  <lb/>Sie fragten mich einmal, was ich
+                  <lb/>über <mentioned rend="dq-du">Verständlichkeit</mentioned> denke. Ich
+                  <lb/>halte sie für die erste Bedingung,
+                  <lb/>und sie ist mir genau dasselbe wie
+                  <lb/><soCalled rend="dq-du">guter Bau</soCalled>. Verständlichkeit kann
+                  <lb/>natürlich nicht hei<choice><orig>ss</orig><reg>ß</reg></choice>en<orig>,</orig> – wie sie
+                  <lb/>missbraucht wird – Wiederholung
+                  <lb/>von schon Gewöhntem. Sondern
+                  <lb/><choice><sic>G</sic><corr>g</corr></choice>egenseitige Klarheit in den
+                  <lb/>Einzelteilen, die der (notwendigen)
+                  <lb/>Zurückführung auf die primären
+                  <lb/>Grundlagen der Idee entsprechen
+                  <lb/>müssen. Also: Welt-Allgemein
+                  <lb break="no"/>gültigkeit. So ist <persName key="E0300215">Dante</persName>. So
+                  <lb/>ist das indische Drama. So der
+                  <lb/>babylonische Mythos. So die
+                  <lb/>antike Trag<choice><orig>oe</orig><reg>ö</reg></choice>die. – <hi rend="underline" n="2">Ausschliessung</hi>
+                  <lb/>des Zufälligen, und vor allem des
+                  <lb/><hi rend="underline" n="2">Privaten</hi>. Z.&#8239;B.<reg>:</reg> Die angebliche
+                  
+                  <pb n="18"/>
+                  
+                  <note type="pagination" place="top-right" resp="#archive">[18]</note> Nichtverständlichkeit und
+                  <lb/>Kommentarbedürftigkeit von
+                  <lb/><persName key="E0300215">Dante</persName>, <persName key="E0300091">Tolstoi</persName>, <title key="E0400107">Faust II</title> ist
+                  <lb/>nur böser Wille des Bürgers,
+                  <lb/>der in seiner geistigen Ruhe nicht
+                  <lb/>gestört werden will, und der
+                  <lb/>vor allem nicht aus sich heraus
+                  <lb/>will. Der Hass gegen manche
+                  <lb/>neue Maler, die sichtlich und
+                  <lb/>nachweislich in härtester Arbeit
+                  <lb/>auf die primären Grundlagen
+                  <lb/>des Sehens zurückgehen, ist
+                  <lb/>aus derselben Trägheitskategorie.
+                  <lb/><handShift resp="#major_hand_pencil"/>Und vieles andere dergleichen.
+                  <lb/>Z.&#8239;B. <persName key="E0300097">Reger</persName>, der einem doch wirklich
+                  <lb/>keine Geheimnisse aufgibt, gehört
+                  <lb/>für mich zur Klasse der
+                  <lb/>Unverständlichen (Sünder!)<reg>,</reg> weil
+                  <lb/>er stundenlang auf musik
+                  <lb break="no"/>technischem Wege <hi rend="underline" n="2">privates</hi>
+                  <lb/>Gemurmel von sich gi<orig>e</orig>bt.</p>
+               
+               <pb n="19"/>
+               
+               <note type="pagination" place="top-right" resp="#archive">[19]</note>
+               
+               <p><persName key="E0300012">Bach</persName> höchste Verständlichkeit
+                  <lb/>einer Gemeinschaft!</p>
+               
+               <p><persName key="E0300010">Mozart</persName> die Verständlichkeit
+                  <lb/>des neuen Jahrhunderts.</p>
+               
+               <p>Ich denke immer, und absichtlich
+                  <lb/>unhistorisch: <persName key="E0300001">Beethoven</persName> ist
+                  <lb/>ein Rückschritt ins Private,
+                  <lb/>je mehr er <soCalled rend="dq-du">letzter <choice><abbr>B.</abbr><expan>Beethoven</expan></choice></soCalled> wird!
+                  <lb/>(Beweis übrigens auch der sichere
+                  <lb/>grobe Instinkt des Publikums,
+                  <lb/>der Mond<pc>=</pc> u. Sternendinge
+                  <lb/>zu den Werken <hi rend="underline">hinzu</hi><orig> </orig>erfindet,
+                  <lb/>während doch die Allgemeingül
+                  <lb break="no"/>tigkeit der wirklich gro<choice><orig>ss</orig><reg>ß</reg></choice>en
+                  <lb/>Werke die umfassendsten kosmi
+                  <lb break="no"/>schen Gesetze der Welt schon
+                  <lb/><hi rend="underline">in sich einschlie<choice><orig>ss</orig><reg>ß</reg></choice>en</hi>.) <milestone unit="section" style="—" rend="inline"/>
+               </p>
+               
+               <p>Noch eins: Bei näherer
+                  <lb/>Betrachtung <ref type="E010005" target="#D0100321">Ihres Briefes</ref>
+                  <lb/>scheint es mir aus einem
+                  
+                  <pb n="20"/>
+                  
+                  <note type="pagination" place="top-right" resp="#archive">[20]</note>
+                  
+                  Tone schattenhaft, als fühlten Sie
+                  <lb/>meine Frage betr. <title key="E0400107">Faust II</title> nicht
+                  <lb/>in Ordnung. Z.&#8239;B. Ihr Hinweis auf
+                  <lb/>den Unterschied der Lebensjahre,
+                  <lb/>der Erfahrung. Aber das ist
+                  <lb/>gewiss eine Täuschung von mir,
+                  <lb/>die ich hier in meiner Einsamkeit
+                  <lb/>habe. Wie sollte wohl, denke ich
+                  <lb/>mir, überhaupt sonst ein Gespräch
+                  <lb/>möglich sein – unter <hi rend="underline">uns Wenigen</hi>,
+                  <lb/>die heute überhaupt noch denken
+                  <lb/>und fühlen! –
+                  
+                  <note type="stamp" place="inline" resp="#dsb_st_red">
+                     <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                     </stamp>
+                  </note>
+                  
+               </p>
+               
+               <p>Und noch wegen meiner Äu<choice><orig>ss</orig><reg>ß</reg></choice>erung
+                  <lb/>(<ref type="E010005" target="#D0100320">in meinem vorletzten Brief</ref>) über <persName key="E0300125">Dr. Huber</persName>
+                  <lb/>bitte ich Sie um Verzeihung. Er gehört
+                  <lb/>zu Ihren Freunden, ich darf ihn also
+                  <lb/>nicht so gleichgültig ablehnen. Mich hatte
+                  <lb/>nur der Unmut und die Enttäuschung
+                  <lb/>über seine Lauheit in Sachen des
+                  <lb/><orgName key="E0600089" rend="dq-du"><choice><orig>Journal d. G.</orig><reg>Journal de Genève</reg></choice></orgName> hingerissen. Doch das ist
+                  <lb/>wohl seine Krankheit. Mein Freund ist er
+                  <lb/>natürlich nicht. Künstler <foreign xml:lang="fr">vieux jeu</foreign>
+                  
+                  <note type="commentary" resp="#E0300373">Frz.: <q>altmodisch</q></note>
+                  
+                  mag ich nicht.
+                  <lb/>Das darf aber kein Grund sein, so von ihm zu
+                  <lb/>sprechen. Also: Bitte nicht böse sein! <seg type="closer" subtype="signed">Ihr <persName key="E0300126"><choice><abbr>L. R.</abbr><expan>Ludwig Rubiner</expan></choice></persName></seg></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

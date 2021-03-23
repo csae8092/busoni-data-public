@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0200001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <title xml:lang="en">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>In collaboration with (pre-coding pages 3–12)</resp>
+                    <persName key="E0300318">
+                        <forename>Maximilian</forename>
+                        <surname>Furthmüller</surname>
+                    </persName>
+                    <persName key="E0300317">
+                        <forename>Theresa</forename>
+                        <surname>Menard</surname>
+                    </persName>
+                </respStmt>               
+                <respStmt>
+                    <resp>In collaboration with (pre-coding pages 19–22)</resp>
+                    <persName key="E0300320">
+                        <forename>Clemens</forename>
+                        <surname>Gubsch</surname>
+                    </persName>
+                </respStmt>                
+                <respStmt>
+                    <resp>In collaboration with (pre-coding pages 23–28)</resp>
+                    <persName key="E0300319">
+                        <forename>Claudio</forename>
+                        <surname>Fuchs</surname>
+                    </persName>
+                    <persName key="E0300322">
+                        <forename>Jupp</forename>
+                        <surname>Wegner</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digitale Edition (Fassung 1907)</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Essays</title>
+                <title type="subseries" key="E010004">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <editor>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </editor>
+                <editor>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </editor>
+            </seriesStmt>
+            <sourceDesc>
+                <listBibl>
+                    <bibl>
+                        <author key="E0300017">Ferruccio Busoni</author>
+                        <title key="E0400043">Entwurf einer neuen Aesthetik der Tonkunst.</title>
+                        <publisher><orgName key="E0600017">Verlag C. Schmidl &amp; Co.</orgName>, <placeName key="E0500145">Triest</placeName></publisher>,
+                        <date when-iso="1907">1907</date>
+                    </bibl>
+                </listBibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer
+                            Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <idno>Mus. Hc 405</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docDate resp="#print-sig"><date when-iso="1906-11"/></docDate>
+                            <docDate resp="#copyright"><date when-iso="1907"/></docDate>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="pages">Buchblock mit 36 bedruckten Seiten.</measure>
+                                </extent>
+                                <condition>Das Exemplar ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <typeDesc>
+                            <summary>durchweg in Antiqua</summary>
+                            <typeNote scope="major">unbekannte Antiqua</typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history>
+                        <origin>Geschrieben im Wesentlichen 1906 in <placeName key="E0500029">Berlin</placeName>. Gedruckt <origDate notBefore-iso="1906-11">nicht vor November 1906</origDate> in <placeName key="E0500017">Charlottenburg</placeName>; erschienen bei <orgName key="E0600017">C. Schmidl &amp; Co.</orgName>, <origPlace key="E0500145">Triest</origPlace>.</origin>
+                        <provenance>Exemplar aus der Königlichen Bibliothek Berlin.</provenance>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800045"/></bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc> 
+            </sourceDesc>            
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit normalen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition scheme="css" select="body p">
+                    p { margin-bottom: 0;
+                    text-indent: 2em;
+                    text-align: justify; }
+                </rendition>
+            </tagsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc> 
+        <revisionDesc status="proposed">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt
+                und revisionDesc auf status="unfinished" gesetzt.</change>
+            <change when-iso="2016-08-15" who="#E0300314">Texterfassung und Element-Auszeichnung abgeschlossen.</change>
+            <change when-iso="2016-09-08" who="#E0300314">Lesefassung bis Abschnitt 27 hinzugefügt, Faust-II-Kommentar präzisiert.</change>
+            <change when-iso="2016-09-09" who="#E0300314">Lesefassung vervollständigt, Nietzsche-Kommentar.</change>
+            <change when-iso="2017-02-25" who="#E0300314">typo</change>
+            <change when-iso="2017-04-07" who="#E0300314">status: proposed</change>
+        </revisionDesc>
+    </teiHeader>    
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/832057797/manifest">
+        <graphic n="1" corresp="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000007"/>
+        <graphic n="2" corresp="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000008"/>
+        <graphic n="3" corresp="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000009"/>
+        <graphic n="4" corresp="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000010"/>
+        <graphic n="5" corresp="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000011"/>
+        <graphic n="6" corresp="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000012"/>
+        <graphic n="7" corresp="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000013"/>
+        <graphic n="8" corresp="14" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000014"/>
+        <graphic n="9" corresp="15" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000015"/>
+        <graphic n="10" corresp="16" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000016"/>
+        <graphic n="11" corresp="17" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000017"/>
+        <graphic n="12" corresp="18" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000018"/>
+        <graphic n="13" corresp="19" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000019"/>
+        <graphic n="14" corresp="20" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000020"/>
+        <graphic n="15" corresp="21" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000021"/>
+        <graphic n="16" corresp="22" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000022"/>
+        <graphic n="17" corresp="23" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000023"/>
+        <graphic n="18" corresp="24" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000024"/>
+        <graphic n="19" corresp="25" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000025"/>
+        <graphic n="20" corresp="26" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000026"/>
+        <graphic n="21" corresp="27" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000027"/>
+        <graphic n="22" corresp="28" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000028"/>
+        <graphic n="23" corresp="29" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000029"/>
+        <graphic n="24" corresp="30" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000030"/>
+        <graphic n="25" corresp="31" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000031"/>
+        <graphic n="26" corresp="32" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000032"/>
+        <graphic n="27" corresp="33" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000033"/>
+        <graphic n="28" corresp="34" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000034"/>
+        <graphic n="29" corresp="35" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000035"/>
+        <graphic n="30" corresp="36" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000036"/>
+        <graphic n="31" corresp="37" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000037"/>
+        <graphic n="32" corresp="38" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000038"/>
+        <graphic n="33" corresp="39" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000039"/>
+        <graphic n="34" corresp="40" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000040"/>
+        <graphic n="35" corresp="41" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000041"/>
+        <graphic n="36" corresp="42" url="http://resolver.staatsbibliothek-berlin.de/SBB0001A8DF00000042"/>
+    </facsimile>
+    <text>
+        <front xml:id="d1-1907" corresp="#d1-1916">
+            
+            <pb n="1"/>
+            
+            <titlePage>
+                <docTitle rend="underline" n="2">
+                    <titlePart type="main">Entwurf einer neuen
+                        <lb/><choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik der Tonkunst</titlePart>
+                </docTitle>
+            </titlePage>
+            
+            <div type="copyright" rend="block bottom-right">
+                <ab rend="align(center)">Alle Rechte, besonders jene
+                    <lb/>der Übersetzung, vorbehalten.
+                    <lb/><foreign xml:lang="en">Copyright by <persName key="E0300017">Ferruccio Busoni</persName>, <date when-iso="1907">1907</date>.</foreign>
+                </ab>
+            </div>
+            
+            <pb n="2"/>
+            
+            <!-- Stempel? -->
+            
+            <div type="copyright">
+                <ab>Alle Rechte, besonders jene der
+                    <lb/><choice><orig>Ue</orig><reg>Ü</reg></choice>bersetzungen, vorbehalten.</ab>
+                
+                <ab xml:lang="en">Copyright including right of performance
+                    <lb/>by <persName key="E0300017">Ferruccio Busoni</persName>, <placeName key="E0500029">Berlin</placeName> <date when-iso="1907">1907</date>.</ab>
+            </div>
+            
+        </front>
+        
+        <body>
+            
+            <pb n="3"/>
+            
+            <head rend="align(center) large">Entwurf einer neuen <choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik
+                <lb/>der Tonkunst.</head>
+            
+            <epigraph rend="right small">
+                <cit>
+                    <quote rend="block align(left) none">
+                        <l><q rend="dq-du">Was sucht Ihr? Sagt! Und was erwartet Ihr?</q></l>
+                        – <q rend="dq-du"><l>Ich wei<choice><orig>ss</orig><reg>ß</reg></choice> es nicht; ich will das Unbekannte!</l>
+                            <l rend="after:– „">Was mir bekannt, ist unbegrenzt. Ich will</l>
+                            <l rend="after:– „">darüber noch. Mir fehlt das letzte Wort.</l></q>
+                    </quote>
+                    <bibl rend="block align(right)">
+                        (<title key="E0400048">Der <choice><orig>M</orig><reg>m</reg></choice>ächtige Zauberer</title>.)
+                    </bibl>
+                </cit>
+            </epigraph>
+            
+            <div xml:id="d2-1907" corresp="#d2-1916">
+                
+                <p>Der literarischen Gestaltung nach recht locker
+                    <lb/>aneinander<orig> </orig>gefügt, sind diese Aufzeichnungen in Wahr
+                    <lb break="no"/>heit das Ergebnis von lange und langsam gereiften
+                    <lb/>Überzeugungen.</p>
+                
+                <p>In ihnen wird ein grö<choice><orig>ss</orig><reg>ß</reg></choice>tes Problem mit scheinbarer
+                    <lb/>Unbefangenheit aufgestellt, ohne dass der Schlüssel zu
+                    <lb/>seiner letzten Lösung gegeben wird; weil das Problem
+                    <lb/>auf Menschenalter hinaus nicht – wenn überhaupt –
+                    <lb/>lösbar ist.</p>
+                
+                <p>Aber es begreift in sich eine unaufgezählte Reihe
+                    <lb/>minderer Probleme, auf die ich das Nachdenken <choice><orig>D</orig><reg>d</reg></choice>er
+                    <lb break="no"/>jenigen lenke, die es betrifft. Denn recht lange schon
+                    <lb/>hat man in der Musik ernstlichem Suchen nicht sich
+                    <lb/>hingegeben.</p>
+                
+                <p>Wohl entsteht zu jeder Zeit Geniales und Be
+                    <lb break="no"/>wunderungswertes<reg>,</reg> und ich stellte mich stets in die
+                    <lb/>erste Reihe, die vorüberziehenden Fahnenträger freudig
+                    <lb/>zu begrü<choice><orig>ss</orig><reg>ß</reg></choice>en; aber mir will es scheinen, dass die
+                    <lb/>mannigfachen Wege, die beschritten werden<reg>,</reg> zwar in
+                    <lb/>schöne Weiten führen, aber nicht – <hi rend="spaced-out">nach oben</hi>.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <pb n="4"/>
+            
+            <div xml:id="d3-1907" corresp="#d3-1916">            
+                <p rend="underline">Der Geist eines Kunstwerkes, das Ma<choice><orig>ass</orig><reg>ß</reg></choice> der
+                    <lb/>Empfindung, das Menschliche, das in ihm ist – sie
+                    <lb/>bleiben durch wechselnde Zeiten unverändert an Wert<orig>h</orig>;
+                    <lb/>die Form<reg>,</reg> die diese drei aufnahm, die Mittel<reg>,</reg> die sie
+                    <lb/>ausdrückten<reg>,</reg> und der Geschmack, den die Epoche ihres
+                    <lb/>Entstehens über sie ausgoss, sie sind vergänglich und
+                    <lb/>rasch alternd.</p>
+                
+                <p>Geist und Empfindung bewahren ihre Art, so im
+                    <lb/>Kunstwerk wie im Menschen; technische Errungen
+                    <lb break="no"/>schaften bewundert man, doch sie werden überholt<reg>,</reg>
+                    <lb/>oder der Geschmack wendet sich von ihnen gesättigt
+                    <lb/>ab. –</p>
+                
+                <p>Die vergänglichen Eigenschaften machen das
+                    <lb/><soCalled rend="dq-du">Moderne</soCalled> eines Werkes aus; die unveränderlichen
+                    <lb/>bewahren es davor, <soCalled rend="dq-du">altmodisch</soCalled> zu werden. Im
+                    <lb/><soCalled rend="dq-du"><hi rend="spaced-out">Modernen</hi></soCalled> wie im <soCalled rend="dq-du"><hi rend="spaced-out">Alten</hi></soCalled> gibt es Gutes und
+                    <lb/>Schlechtes, Echtes und Unechtes. Eigentlich Modernes
+                    <lb/>existiert nicht – nur früher oder später Entstandenes;
+                    <lb/>länger blühend, oder schneller welkend. Immer gab
+                    <lb/>es Modernes, und immer Altes. –</p>
+                
+                <p>Die Kunstformen sind um<orig> </orig>so dauernder, je näher
+                    <lb/>sie sich an das Wesen der einzelnen Kunstgattung
+                    <lb/>halten, je reiner sie sich in ihren natürlichen Mitteln
+                    <lb/>und Zielen bewahren.</p>
+                
+                <p>Die Plastik verzichtet auf den Ausdruck der mensch
+                    <lb break="no"/>lichen Pupille und auf die Farben; die Malerei degradi<reg>e</reg>rt,
+                    <lb/>wenn sie die darstellende Fläche verlässt und sich zur
+                    <lb/>Theaterdekoration oder zum Panoramabild komplizi<reg>e</reg>rt –</p>
+                
+                <p>die Architektur<orig>,</orig> hat ihre Grundform, die von unten
+                    <lb/>nach oben zu schreiten muss, durch statische Not
+                    <lb break="no"/>wendigkeit vorgeschrieben; Fenster und Dach geben
+                    <lb/>notgedrungen die mittlere und abschlie<choice><orig>ss</orig><reg>ß</reg></choice>ende Ausge
+                    <lb break="no"/>staltung; diese Bedingungen sind an ihr bleibend und
+                    <lb/>unverletzbar; –</p>
+                
+                <p>die Dichtung gebietet über den abstrakten
+                    <lb/>Gedanken, den sie in Worte kleidet; sie reicht
+                    
+                    <pb n="5"/>
+                    
+                    an die weitesten Grenzen und hat die grö<choice><orig>ss</orig><reg>ß</reg></choice>ere Unab
+                    <lb break="no"/>hängigkeit voraus:</p>
+                
+                <p rend="indent underline">aber alle Künste, Mittel und Formen erzielen
+                    <lb/>beständig das Eine, nämlich die Abbildung der
+                    <lb/>Natur und die Wiedergabe der menschlichen
+                    <lb/>Empfindungen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d4-1907" corresp="#d4-1916">
+                <p>Architektur, Plastik, Dichtung und Malerei sind
+                    <lb/>alte und reife Künste; ihre Begriffe sind gefestigt und
+                    <lb/>ihre Ziele sicher geworden; sie haben durch Jahr
+                    <lb break="no"/>tausende den Weg gefunden und beschreiben, wie ein
+                    <lb/>Planet, regelmä<choice><orig>ss</orig><reg>ß</reg></choice>ig ihren Kreis
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        <p>Dessenungeachtet können und werden an ihnen Geschmack
+                            <lb/>und Eigenart sich immer wieder verjüngen und erneuern.</p>
+                    </note>.
+                </p>
+                
+                <p>Ihnen gegenüber ist die Tonkunst das Kind, das
+                    <lb/>zwar gehen gelernt hat<reg>,</reg> aber noch geführt werden muss.
+                    <lb/>Es ist eine jungfräuliche Kunst, die noch <choice><orig>N</orig><reg>n</reg></choice>ichts erlebt
+                    <lb/>und gelitten hat.</p>
+                
+                <p>Sie ist sich selbst noch nicht bewusst dessen, was
+                    <lb/>sie kleidet, der Vorzüge, die sie besitzt<reg>,</reg> und der Fähig
+                    <lb break="no"/>keiten, die in ihr schlummern: <choice><orig>w</orig><reg>W</reg></choice>iederum ist sie ein
+                    <lb/>Wunderkind, das schon viel Schönes bieten kann, schon
+                    <lb/><choice><orig>V</orig><reg>v</reg></choice>iele erfreuen konnte und dessen Gaben allgemein für
+                    <lb/>völlig ausgereift gehalten werden.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d5-1907" corresp="#d5-1916">
+                
+                <p>Die Musik als Kunst, die sogenannte abendländische
+                    <lb/>Musik, ist kaum vierhundert Jahre alt, sie lebt im Zu
+                    <lb break="no"/>stande der Entwicklung; vielleicht im allerersten Stadium
+                    <lb/>einer noch unabsehbaren Entwicklung<reg>,</reg> und wir, – wir
+                    <lb/>sprechen von Klassikern und geheiligten Traditionen!
+                    
+                    <note style="*-repeat" place="bottom" n="2">
+                        <p><soCalled rend="dq-du">Tradition</soCalled> ist die nach dem Leben abgenommene Gips
+                            <lb break="no"/>maske, die – durch den Lauf vieler Jahre und die Hände unge
+                            <lb break="no"/>zählter Handwerker gegangen – schließlich ihre Ähnlichkeit mit
+                            <lb/>dem Original nur mehr erraten lä<choice><orig>ß</orig><reg>ss</reg></choice>t.</p>
+                    </note>
+                    
+                    <lb/>Und schon lange sprechen wir davon!</p>
+                
+                <pb n="6"/>
+                
+                <p>Wir haben Regeln formuliert, Prinzipien aufgestellt,
+                    <lb/>Gesetze vorgeschrieben – – – wir wenden die Ge
+                    <lb break="no"/>setze der Erwachsenen auf ein Kind an, das die Ver
+                    <lb break="no"/>antwortung noch nicht kennt!</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d6-1907" corresp="#d6-1916">
+                
+                <p>So jung es ist, dieses Kind, eine strahlende Eigen
+                    <lb break="no"/>schaft ist an ihm schon erkennbar, die es vor allen
+                    <lb/>seinen älteren Geschwistern auszeichnet. Und diese
+                    <lb/>wundersame Eigenschaft wollen die Gesetzgeber nicht
+                    <lb/>sehen, weil ihre Gesetze sonst über den Haufen ge
+                    <lb break="no"/>worfen würden. Das Kind – es <hi rend="spaced-out">schwebt</hi>! Es
+                    <lb/>berührt nicht die Erde mit seinen Fü<choice><orig>ss</orig><reg>ß</reg></choice>en. Es ist nicht
+                    <lb/>der Schwere unterworfen. Es ist fast unkörperlich.
+                    <lb/>Seine Materie ist durchsichtig. Es ist tönende Luft.
+                    <lb/>Es ist fast die Natur selbst. Es ist – frei.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d7-1907" corresp="#d7-1916">
+                
+                <p>Freiheit ist aber <choice><orig>E</orig><reg>e</reg></choice>twas, was die Menschen nie
+                    <lb/>völlig begriffen noch gänzlich empfunden haben. Sie
+                    <lb/>können sie nicht erkennen noch anerkennen.</p>
+                
+                <p>Sie verleugnen die Bestimmung dieses Kindes und
+                    <lb/>hängen ihm Gewichte an. Das schwebende Wesen
+                    <lb/>muss unanstö<choice><orig>ss</orig><reg>ß</reg></choice>ig gehen, wie jeder <choice><orig>A</orig><reg>a</reg></choice>ndere; kaum, dass
+                    <lb/>es hüpfen darf – indessen es seine Lust wäre<reg>,</reg> der
+                    <lb/>Linie des Regenbogens zu folgen und mit den Wolken
+                    <lb/>Sonnenstrahlen zu brechen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d8-1907" corresp="#d8-1916">
+                
+                <p>Frei ist die Tonkunst geboren und frei zu werden
+                    <lb/>ihre Bestimmung. Sie wird der vollständigste aller
+                    <lb/>Natur-Wi<sic>e</sic>derscheine werden durch die Ungebundenheit
+                    <lb/>ihrer Unmaterialität. Selbst das dichterische Wort steht
+                    <lb/>ihr an Unkörperlichkeit nach; sie kann sich zusammen
+                    
+                    <pb break="no" n="7"/>
+                    
+                    ballen und kann auseinanderfließen, die regloseste Ruhe und
+                    <lb/>das lebhafteste Stürmen sein; sie hat die höchsten
+                    <lb/>Höhen, die Menschen wahrnehmbar sind – welche
+                    <lb/>andere Kunst hat das? –<reg>,</reg> und ihre Empfindung trifft
+                    <lb/>die menschliche Brust mit jener Intensität, die vom
+                    <lb/><soCalled rend="dq-du">Begriffe</soCalled> unabhängig ist.</p>
+                
+                <p>Sie gibt ein Temperament wieder, <hi rend="spaced-out">ohne</hi> es zu
+                    <lb/>beschreiben, mit der Beweglichkeit der Seele, mit der
+                    <lb/>Lebendigkeit der aufeinanderfolgenden Momente; dort,
+                    <lb/>wo der Maler oder der Bildhauer nur eine Seite oder
+                    <lb/>einen Augenblick, eine <soCalled rend="dq-du">Situation</soCalled> darstellen kann und
+                    <lb/>der Dichter ein Temperament und dessen Evolutionen
+                    <lb/>mühsam durch angereihte Worte <hi rend="spaced-out">mitteilt</hi>.</p>
+                
+                <p>Darum sind Darstellung und Beschreibung nicht
+                    <lb/>das Wesen der Tonkunst; somit sprechen wir die Ne
+                    <lb break="no"/>gation der Programm<reg>m</reg>usik aus und gelangen zu der
+                    <lb/>Frage nach den Zielen der Tonkunst.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d9-1907" corresp="#d9-1916">
+                
+                <p> Absolute Musik!
+                    
+                    <note type="commentary" resp="#E0300318">Bereits im 18. Jahrhundert entstanden, war der Begriff <q>absolute Musik</q> Gegenstand musikästhetischer Diskurse des 19. und beginnenden 20. Jahrhunderts. Wesentlich geprägt wurde die Formulierung 1854 durch <persName key="E0300014">Hanslicks</persName> musikästhetische Schrift <title key="E0400007">Vom Musikalisch-Schönen</title>, nach welcher diejenige Musik als <soCalled>absolut</soCalled> zu bezeichnen ist, die sich unabhängig von außermusikalischen Elementen konstituiert und lediglich aus ihrer kompositorischen Anlage heraus legitimiert. Darüber hinaus ist nach <persName key="E0300014">Hanslick</persName> nur Instrumentalmusik <soCalled>absolut</soCalled> – eine Definition, die für <persName key="E0300017">Busonis</persName> Verständnis von absoluter Musik nicht hinreicht (Freiheit von den Bedingungen der Materie).</note>
+                    
+                    Was die Gesetzgeber darunter
+                    <lb/>meinen, ist vielleicht das Entfernteste vom Absoluten
+                    <lb/>in der Musik. Absolute Musik ist ein Formenspiel
+                    <lb/>ohne dichterisches Programm, wobei die <hi rend="spaced-out">Form</hi> die
+                    <lb/>Hauptsache sein soll. Aber gerade die Form steht der
+                    <lb/>absoluten Musik entgegengesetzt, die doch den gött
+                    <lb break="no"/>lichen Vorzug erhielt<reg>,</reg> zu schweben und von den Be
+                    <lb break="no"/>dingungen der Materie frei zu sein. Auf dem Bilde
+                    <lb/>endet die Darstellung eines Sonnenunterganges mit
+                    <lb/>dem Rahmen; die unbegrenzte Naturerscheinung erhält
+                    <lb/>eine viereckige Abgrenzung; die einmal gewählte Zeich
+                    <lb break="no"/>nung der Wolke steht für immer unveränderlich da.
+                    <lb/>Die Musik kann sich erhellen, sich verdunkeln, sich
+                    <lb/>verschieben und endlich verhauchen wie die Himmels
+                    <lb break="no"/>erscheinung selbst<reg>,</reg> und der Instinkt leitet den schaffenden
+                    <lb/>Musiker, diejenigen Töne zu verwenden, die in dem
+                    <lb/>Inneren des Menschen auf dieselbe Taste drücken und
+                    
+                    <pb n="8"/>
+                    
+                    denselben Wi<sic>e</sic>derhall erwecken, wie die Vorgänge in
+                    <lb/>der Natur.</p>
+                
+                <p>Absolute Musik ist dagegen etwas ganz <choice><orig>n</orig><reg>N</reg></choice>üchternes,
+                    <lb/>welches an geordnet aufgestellte Notenpulte erinnert,
+                    <lb/>an Verhältnis von Tonika und Dominante, an Durch
+                    <lb break="no"/>führungen und Codas.</p>
+                
+                <p>Ich höre da den zweiten Geiger sich um eine
+                    <lb/>Quart tiefer abmühen, den gewandteren ersten nach
+                    <lb break="no"/>zuahmen<reg>,</reg> und einen unnötigen Kampf auskämpfen, um
+                    <lb/>dahin zu gelangen, wo man schon am Anfang stand.
+                    <lb/>Diese Musik sollte vielmehr die architektonische hei<choice><orig>ss</orig><reg>ß</reg></choice>en
+                    <lb/>oder die symmetrische oder die eingeteilte<reg>,</reg> und sie
+                    <lb/>stammt daher, dass einzelne Tondichter <hi rend="spaced-out">ihren</hi> Geist
+                    <lb/>und <hi rend="spaced-out">ihre</hi> Empfindung in eine solche Form gossen,
+                    <lb/>weil es ihnen oder der Zeit am nächsten lag. Die
+                    <lb/>Gesetzgeber haben Geist, Empfindung, die Individu
+                    <lb break="no"/>alität jener Tonsetzer und ihre Zeit mit der symme
+                    <lb break="no"/>trischen Musik identifiziert und schließlich – da sie
+                    <lb/>weder den Geist, noch die Empfindung, noch die Zeit
+                    <lb/>wiedergebären konnten, die Form als Symbol behalten
+                    <lb/>und sie zum Schild, zur Religion erhoben. Die Ton
+                    <lb break="no"/>dichter suchten und fanden diese Form als das geeig
+                    <lb break="no"/>netste Mittel, <hi rend="spaced-out">ihre</hi> Gedanken mitzuteilen; sie ent
+                    <lb break="no"/>schwebten – und die Gesetzgeber entdecken und ver
+                    <lb break="no"/>wahren Euphorions auf der Erde zurückgebliebene<sic>n</sic>
+                    <lb/>Gewänder:
+                    <lb/>
+                    
+                    <quote source="#E0400107" rend="indent dq-du"><l>Noch immer glücklich aufgefunden!</l>
+                        <l rend="after:„">die Flamme freilich ist verschwunden,</l>
+                        <l rend="after:„">Doch ist mir um die Welt nicht leid.</l>
+                        <l rend="after:„">Hier bleibt genug, Poeten einzuweihen</l>
+                        <l rend="after:„">Zu stiften Gold- und Handwerksneid;</l>
+                        <l rend="after:„">Und kann ich die Talente nicht verleihen,</l>
+                        <l rend="after:„">Verborg’ ich wenigstens das Kleid</l></quote>.
+                
+                <note type="commentary" resp="#E0300314"><persName key="E0300124">J. W. Goethe</persName>, <title key="E0400107">Faust II</title>; es spricht Mephistopheles in Gestalt des alten Weibes Phorkyas; Kontext dieser Stelle ist die Totenklage der Helena über ihren Sohn Euphorion.</note>
+                
+                </p>
+                
+                <p>Ist’s nicht eigentümlich, dass man vom Kom
+                    <lb break="no"/>ponisten in <choice><orig>A</orig><reg>a</reg></choice>llem Originalität fordert, und dass man
+                    
+                    <pb n="9"/>
+                    
+                    sie ihm in der Form verbietet? Was Wunder, dass
+                    <lb/>man ihn – wenn er wirklich originell wird – der
+                    <lb/>Formlosigkeit anklagt. <persName key="E0300010">Mozart</persName>! den Sucher und den
+                    <lb/>Finder, den gro<choice><orig>ss</orig><reg>ß</reg></choice>en Menschen mit dem kindlichen
+                    <lb/>Herzen, ihn staunen wir an, an ihm hängen wir; nicht
+                    <lb/>aber an seiner Toni<choice><orig>c</orig><reg>k</reg></choice>a und Dominante, seinen Durch
+                    <lb break="no"/>führungen und Codas.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d10-1907" corresp="#d10-1916">
+                
+                <p>Solche Befreiungslust erfüllte einen <persName key="E0300001">Beethoven</persName>, den
+                    <lb/>romantischen Revolutionsmenschen, dass er einen kleinen
+                    <lb/>Schritt in der Zurückführung der Musik zu ihrer höheren
+                    <lb/>Natur aufstieg; einen kleinen Schritt in der gro<choice><orig>ss</orig><reg>ß</reg></choice>en
+                    <lb/>Aufgabe, einen gro<choice><orig>ss</orig><reg>ß</reg></choice>en Schritt in seinem eigenen
+                    <lb/>Weg. Die ganz absolute Musik hat er nicht erreicht,
+                    <lb/>aber in einzelnen Augenblicken geahnt, wie in der
+                    <lb/>Introduktion zur Fuge der <title key="E0400003">Hammerklavier-Sonate</title>.
+                    <lb/>Überhaupt kamen die Tondichter in den vorbereitenden
+                    <lb/>und vermittelnden Sätzen (Vorspielen und Übergängen)
+                    <lb/>der wahren Natur der Musik am nächsten, wo sie
+                    <lb/>glaubten<reg>,</reg> die symmetrischen Verhältnisse au<choice><orig>ss</orig><reg>ß</reg></choice>er Acht
+                    <lb/>lassen zu dürfen<reg>,</reg> und selbst unbewusst frei aufatmeten.
+                    <lb/>Selbst einen so viel kleineren <persName key="E0300008">Schumann</persName> ergreift<orig>,</orig> an
+                    <lb/>solchen Stellen <choice><orig>E</orig><reg>e</reg></choice>twas von dem Unbegrenzten dieser
+                    <lb/>Pan-Kunst<choice><orig>, –</orig><reg> –</reg></choice> man denke an die Überleitung zum
+                    <lb/>letzten Satze der <rs key="E0400004"><choice><orig>D moll </orig><reg>d-Moll-</reg></choice>Sinfonie</rs> <choice><orig>–</orig><reg>–,</reg></choice> und gleiches kann
+                    <lb/>man von <persName key="E0300009">Brahms</persName> und der Introduktion zum Finale
+                    <lb/>seiner <title key="E0400005">ersten Sinfonie</title> behaupten.</p>
+                
+                <p>Aber sobald sie die Schwelle des <hi rend="spaced-out">Hauptsatzes</hi>
+                    <lb/>beschreiten, wird ihre Haltung steif und konventionell,
+                    <lb/>wie die eines Mannes, der in ein Amtszimmer tritt.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d11-1907" corresp="#d10a-1916">
+                
+                <p>Neben <persName key="E0300001">Beethoven</persName> ist
+                    <persName key="E0300012">Bach</persName> der <soCalled rend="dq-du">Ur-Musik</soCalled> am
+                    <lb/>verwandtesten. Seine Orgelfantasien (und nicht die
+                    <lb/>Fugen) haben unzweifelhaft einen starken Zug von dem<reg>,</reg>
+                    
+                    <pb n="10"/>
+                    
+                    was man <soCalled rend="dq-du">Mensch und Natur</soCalled> überschreiben könnte;
+                    
+                    <note style="*-repeat" place="bottom" n="1"><p>Seine Passions<choice><orig> rec</orig><reg>-Rez</reg></choice>itative haben das <soCalled rend="dq-du">Menschlich-Redende</soCalled>,
+                        <lb/><hi rend="spaced-out">nicht</hi> <soCalled rend="dq-du">Richtig-Deklami<reg>e</reg>rte</soCalled>.</p></note>
+                    
+                    <lb/>bei ihm gestaltet es sich am <choice><sic>U</sic><corr>u</corr></choice>nbefangensten, weil er noch
+                    <lb/>keine Vorgänger respekti<reg>e</reg>rte – (wenn auch bewunderte
+                    <lb/>und sogar benützte) – und weil ihm die noch junge Er
+                    <lb break="no"/>rungenschaft der temperi<reg>e</reg>rten Stimmung vorläufig un
+                    <lb break="no"/>endlich neue Möglichkeiten erstehen lie<choice><orig>ss</orig><reg>ß</reg></choice>.</p>
+                
+                <p>Darum sind <persName key="E0300012">Bach</persName> und <persName key="E0300001">Beethoven</persName>
+                    
+                    <note style="*-repeat" place="bottom" n="2"><p>Als die charakteristischen Merkmale von <persName key="E0300001">Beethovens</persName>
+                        <lb/>Persönlichkeit möchte ich nennen: den dichterischen Schwung,
+                        <lb/>die starke menschliche Empfindung (aus welcher seine revolu
+                        <lb break="no"/>tionäre Gesinnung springt) und eine Vorverkündung des modernen
+                        <lb/>Nervosismus. Diese Merkmale sind gewiss jenen eines <soCalled rend="dq-du">Klassikers</soCalled>
+                        <lb/>entgegen<supplied>ge</supplied>setzt. Zudem ist
+                        <persName key="E0300001">Beethoven</persName> kein <soCalled rend="dq-du">Meister</soCalled> im Sinne
+                        <lb/><persName key="E0300010">Mozarts</persName> oder des späteren <persName key="E0300006">Wagner</persName>, eben weil seine Kunst die
+                        <lb/>Andeutung einer grö<choice><orig>ss</orig><reg>ß</reg></choice>eren, noch nicht vollkommen gewordenen,
+                        <lb/>ist. <ref target="#entwurf1907-abs11">(Man vergleiche den nächstfolgenden Absatz.)</ref></p></note>
+                    
+                    als ein <hi rend="spaced-out">Anfang</hi>
+                    <lb/>aufzufassen und nicht als unzuübertreffende Abge
+                    <lb break="no"/>schlossenheiten. Unübertrefflich werden wahrscheinlich
+                    <lb/>ihr Geist und ihre Empfindung bleiben; und das be
+                    <lb break="no"/>stätigt wiederum das zu Beginn dieser Zeilen <choice><orig>g</orig><reg>G</reg></choice>esagte.
+                    <lb/>Nämlich, dass die Empfindung und der Geist durch
+                    <lb/>den Wechsel der Zeiten an Wert nichts einbü<choice><orig>ss</orig><reg>ß</reg></choice>en
+                    <lb/>und dass <choice><orig>D</orig><reg>d</reg></choice>erjenige, der ihre höchsten Höhen ersteigt,
+                    <lb/>jederzeit über <choice><sic>der</sic><reg>die</reg></choice> Menge ragen wird.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d12-1907" corresp="#d11-1916">
+                
+                <p>Was noch überstiegen werden soll, ist ihre Aus
+                    <lb break="no"/>drucksform und ihre Freiheit. <persName key="E0300006">Wagner</persName>, ein germanischer
+                    <lb/>Riese, der im Orchesterklang den irdischen Horizont
+                    <lb/>streifte, der die Ausdrucksform zwar steigerte, aber in
+                    <lb/>ein <hi rend="spaced-out">System</hi> brachte (Musikdrama, Deklamation, Leit
+                    <lb break="no"/>motiv)<reg>,</reg> ist desse<supplied>n</supplied>twegen nicht weiter steigerungsfähig.
+                    <lb/>Seine Kategorie beginnt und endet mit ihm selbst;
+                    <lb/>vorerst<reg>,</reg> weil er sie zur höchsten Vollendung, zu einer
+                    
+                    <pb n="11"/>
+                    
+                    Abrundung brachte; sodann, weil die selbstgeforderte
+                    <lb/>Aufgabe derart war, dass sie von einem Menschen
+                    <lb/>allein bewältigt werden konnte.
+                    
+                    <note style="*-repeat" place="bottom" n="1"><p><q rend="dq-du">E<choice><sic>s</sic><corr>r</corr></choice> gibt uns zugleich mit dem Problem auch die Lösung</q><reg>,</reg>
+                        <lb/>wie ich einmal von
+                        <persName key="E0300010">Mozart</persName> sagte.</p>
+                    </note>
+                    
+                    Die Wege, die uns
+                    <lb/><persName key="E0300001">Beethoven</persName> eröffnet, können nur von Generationen
+                    <lb/>zurückgelegt werden. Sie mögen – wie <choice><orig>A</orig><reg>a</reg></choice>lles im
+                    <lb/>Weltsystem – nur einen Kreis bilden; dieser ist aber
+                    <lb/>von solchen Dimensionen, dass der Teil, den wir von
+                    <lb/>ihm sehen<reg>,</reg> uns als gerade Linie erscheint. <persName key="E0300006">Wagner<orig>’</orig>s</persName>
+                    <lb/>Kreis überblicken wir vollständig. – Ein Kreis im
+                    <lb/>gro<choice><orig>ss</orig><reg>ß</reg></choice>en Kreise.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d13-1907" corresp="#d12-1916">
+                
+                <p>Der Name <persName key="E0300006">Wagner</persName> führt zur Programm<choice><orig>-M</orig><reg>m</reg></choice>usik.
+                    <lb/>Sie ist als ein Gegensatz zu der sogenannten <soCalled rend="dq-du">absoluten</soCalled>
+                    <lb/>Musik aufgestellt worden<reg>,</reg> und die Begriffe haben sich
+                    <lb/>so versteinert, dass selbst die Verständigen sich an den
+                    <lb/>einen oder den anderen Glauben halten, ohne eine
+                    <lb/>dritte, au<choice><orig>ss</orig><reg>ß</reg></choice>er und über den beiden liegende Möglich
+                    <lb break="no"/>keit<orig>,</orig> anzunehmen. In Wirklichkeit ist die Programm<choice><orig>-
+                        <lb break="no"/>M</orig><reg>m</reg></choice>usik ebenso einseitig und begrenzt<orig>,</orig> wie die absolut
+                    <lb/>genannte. Anstatt architektonischer und symmetrischer
+                    <lb/>Formeln, anstatt der Toni<choice><orig>c</orig><reg>k</reg></choice>a- und Dominantenverhältnisse
+                    <lb/>hat sie das bindende dichterische<reg>,</reg> zuweilen gar philo
+                    <lb break="no"/>sophische Programm, diese Schiene, sich angeschnürt.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d14-1907" corresp="#d13-1916">
+                
+                <p>Jedes Motiv – so will es mir scheinen – enthält
+                    <lb/>wie ein Samen<orig>,</orig> seinen Trieb in sich. Verschiedene
+                    <lb/>Pflanzen<choice><orig>-S</orig><reg>s</reg></choice>amen treiben verschiedene Pflanzenarten, an
+                    <lb/>Form, Blättern, Blüten, Früchten, Wuchs und Farben
+                    <lb/>von<orig> </orig>einander abweichend.
+                    
+                    <note style="*-repeat" place="bottom" n="2"><p><quote>»– – – <persName key="E0300001">Beethoven</persName>, dont les esquisses <hi rend="spaced-out">thématiques
+                        <lb/><choice><sic>on</sic><corr>ou</corr></choice> élémentaires</hi> sont innombrables, mais qui, sitôt les th<choice><sic>é</sic><corr>è</corr></choice>mes
+                        <lb/>trouvés, semble par cela même en avoir établi tout l<choice><sic>a</sic><corr>e</corr></choice> d<choice><sic>e</sic><corr>é</corr></choice>ve
+                        <lb break="no"/>loppement –«</quote> 
+                        <bibl rend="align(right)">
+                            (<author><persName key="E0300016">Vincent d’<choice><orig> J</orig><reg>I</reg></choice>ndy</persName></author> in
+                            <title key="E0800234" rend="dq-du"><persName key="E0300015">César Franck</persName></title>).
+                        </bibl></p>
+                    </note>
+                </p>
+                
+                <pb n="12"/>
+                
+                <p>Selbst ein und dieselbe Pflanzengattung wächst
+                    <lb/>an Ausdehnung, Gestalt und Kraft<orig>,</orig> in jedem Exemplar
+                    <lb/>selbständig geartet. So liegt in jedem Motiv schon
+                    <lb/>seine vollgereifte Form vorbestimmt; jedes einzelne
+                    <lb/>muss sich anders entfalten, doch jedes folgt darin der
+                    <lb/>Notwendigkeit der ewigen Harmonie. <hi rend="underline">Diese Form
+                        <lb/>bleibt unzerstörbar, doch niemals sich gleich.</hi></p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d15-1907" corresp="#d14-1916">
+                
+                <p>Das Motiv des <choice><orig>P</orig><reg>p</reg></choice>rogrammmusikalischen Werkes
+                    <lb/>hat die nämlichen Bedingungen in sich; es mu<choice><orig>ß</orig><reg>ss</reg></choice> aber
+                    <lb/>– schon bei seiner nächsten Entwicklungsphase –
+                    <lb/>sich <hi rend="spaced-out">nicht nach dem eigenen Gesetz</hi>, sondern nach
+                    <lb/>dem des <soCalled rend="dq-du">Programm<reg>s</reg></soCalled> formen, vielmehr <soCalled rend="dq-du">krümmen</soCalled>.
+                    <lb/>Dergestalt, gleich in der ersten Bildung aus dem natur
+                    <lb break="no"/>gesetzlichen Wege gebracht, gelangt es schließlich zu
+                    <lb/>einem ganz unerwarteten Gipfel; wohin es nicht seine
+                    <lb/>Organisation, sondern das Programm, die Handlung,
+                    <lb/>die philosophische Idee absichtlich geführt.</p>
+                
+                <p>Und wie primitiv mu<choice><orig>ß</orig><reg>ss</reg></choice> diese Kunst bleiben! Gewi<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb/>gibt es nicht mi<choice><orig>ß</orig><reg>ss</reg></choice>zuverstehende, tonmalende Ausdrücke
+                    <lb/>– sie haben die Veranlassung zu dem ganzen Prinzip
+                    <lb/>gegeben –<reg>,</reg> aber es sind wenige und kleine Mittel, die
+                    <lb/>einen ganz geringen Teil der Tonkunst ausmachen. Das
+                    <lb/><choice><orig>w</orig><reg>W</reg></choice>ahrnehmbarste von ihnen, die Erniedrigung des <hi rend="spaced-out">Klanges</hi>
+                    <lb/>zu <hi rend="spaced-out">Schall</hi>, bei Nachahmung von Naturgeräuschen:
+                    <lb/><choice><orig>D</orig><reg>d</reg></choice>as Rollen des Donners, das Rauschen der Bäume
+                    <lb/>und die Tierlaute; und schon weniger wahrnehmbar,
+                    <lb/>symbolisch, die dem Gesichtssinn entnommenen Nach
+                    <lb break="no"/>bildungen<orig>,</orig> wie Blitzesleuchten, Sprungbewegungen,
+                    <lb/>Vogelflug; nur durch Übertragung des reflektierenden
+                    <lb/>Gehirns verständlich: das Trompetensignal als krieger
+                    <lb break="no"/>isches Symbol, die Schalmei als ländliches Schild, der
+                    <lb/>Marschrhythmus in der Bedeutung des Schreitens, der
+                    <lb/>Choral als Träger der religiösen Empfindung. Zählen
+                    
+                    <pb n="13"/>
+                    
+                    wir noch das National-Charakteristische – National-
+                    <lb break="no"/>Instrumente, National-Weisen – zum <choice><orig>v</orig><reg>V</reg></choice>origen, so haben
+                    <lb/>wir die Rüstkammer der Programm<choice><orig>-M</orig><reg>m</reg></choice>usik erschöpfend
+                    <lb/>besichtigt. Bewegung und Ruhe, Moll und Dur, Hoch
+                    <lb/>und Tief in ihrer herkömmlichen Bedeutung ergänzen
+                    <lb/>das Inventar. Das sind gut verwendbare Nebenhilfs
+                    <lb break="no"/>mittel in einem gro<choice><orig>ss</orig><reg>ß</reg></choice>en Rahmen, aber allein genommen
+                    <lb/>ebenso wenig Musik, als Wachsfiguren Monumente zu
+                    <lb/>nennen sind.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d16-1907" corresp="#d15-1916">
+                
+                <p>Und was kann schlie<choice><orig>ss</orig><reg>ß</reg></choice>lich die Darstellung eines
+                    <lb/>kleinen Vorganges auf Erden, der Bericht über einen
+                    <lb/>ärgerlichen Nachbar<reg>n</reg> – gleichviel ob in der angrenzen
+                    <lb break="no"/>den Stube oder im angrenzenden Weltteile – mit
+                    <lb/>jener Musik, die durch das Weltall zieht, gemeinsam
+                    <lb/>haben?</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d17-1907" corresp="#d16-1916">
+                
+                <p>Wohl ist es der Musik gegeben<reg>,</reg> die menschlichen
+                    <lb/>Gemütszustände schwingen zu lassen: Angst (Leporello),
+                    <lb/>Beklemmung, Erstarkung, Ermattung<choice><orig>, (</orig><reg> (</reg></choice><persName key="E0300001">Beethovens</persName> letzte
+                    <lb/>Quartette<choice><orig>)</orig><reg>),</reg></choice> Entschluss (Wotan), Zögern, Niedergeschlagen
+                    <lb break="no"/>heit, Ermunterung, Härte, Weichheit, Aufregung, Be
+                    <lb break="no"/>ruhigung, das Überraschende, das Erwartungsvolle, und
+                    <lb/>mehr; ebenso den inneren Wi<orig>e</orig>derklang äu<choice><orig>ss</orig><reg>ß</reg></choice>erer Er
+                    <lb break="no"/>eignisse, der in jenen Gemütsstimmungen enthalten
+                    <lb/>ist. Nicht aber den Beweggrund jener Seelenregungen
+                    <lb/>selbst: nicht die Freude über eine beseitigte Gefahr,
+                    <lb/>nicht die Gefahr oder die Art der Gefahr, welche die
+                    <lb/>Angst hervorruft; wohl einen Leidenschaftszustand, aber
+                    <lb/>wiederum nicht die psychische Gattung dieser Leiden
+                    <lb break="no"/>schaft, ob Neid oder Eifersucht; ebenso vergeblich ist
+                    <lb/>es, moralische Eigenschaften, Eitelkeit, Klugheit in Töne
+                    <lb/>umzusetzen, oder gar abstrakte Begriffe, wie Wahrheit
+                    <lb/>und Gerechtigkeit, durch sie aussprechen zu wollen.
+                    <lb/>Könnte man denken, wie ein armer, doch zufriedener
+                    
+                    <pb n="14"/>
+                    
+                    Mensch in Musik wiederzugeben wäre? Die Zufrieden
+                    <lb break="no"/>heit, der seelische Teil, kann zu Musik werden; wo
+                    <lb/>bleibt aber die Armut, das ethische Problem, das hier
+                    <lb/>wichtig war: zwar arm, jedoch zufrieden<choice><orig>.</orig><reg>?</reg></choice> Das kommt
+                    <lb/>daher, dass <q>arm</q> eine Form irdischer und gesellschaft
+                    <lb break="no"/>licher Zustände ist, die in der ewigen Harmonie nicht
+                    <lb/>zu finden ist. Musik ist aber ein Teil des schwingen
+                    <lb break="no"/>den Weltalls.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d18-1907" corresp="#d17-1916">
+                
+                <p>Daran kann ich wohl manche Nebenbetrach
+                    <lb break="no"/>tung knüpfen: Der grö<choice><orig>ss</orig><reg>ß</reg></choice>te Teil moderner Theater<choice><orig>-M</orig><reg>m</reg></choice>usik
+                    <lb/>leidet an dem Fehler, dass sie die Vorgänge, die sich
+                    <lb/>auf der Bühne abspielen, wiederholen will, anstatt ihrer
+                    <lb/>eigentlichen Aufgabe nachzugehen, den Seelenzustand
+                    <lb/>der handelnden Personen<orig>,</orig> während jener Vorgänge zu
+                    <lb/>tragen. Wenn die Bühne die Illusion eines Gewitters
+                    <lb/>vortäuscht, so ist dieses Ereignis durch das Auge er
+                    <lb break="no"/>schöpfend wahrgenommen. Fast alle Komponisten
+                    <lb/>bemühen sich jedoch, das Gewitter in Tönen zu be
+                    <lb break="no"/>schreiben, welches nicht nur eine unnötige und
+                    <lb/>schwächere Wiederholung, sondern zugleich <choice><orig>eine</orig><reg>ein</reg></choice> Ver
+                    <lb break="no"/>säumnis ihrer Aufgabe ist. Die Person auf der Bühne
+                    <lb/>wird entweder von dem Gewitter seelisch beeinflusst<reg>,</reg>
+                    <lb/>oder ihr Gemüt verweilt infolge von Gedanken, die
+                    <lb/>es stärker in Anspruch nehmen, unbeirrt. Das Gewitter
+                    <lb/>ist sichtbar und hörbar ohne Hilfe der Musik; was
+                    <lb/>aber in der Seele des Menschen währenddessen vorgeht,
+                    <lb/>das Unsichtbare und Unhörbare, das soll die Musik
+                    <lb/>verständlich machen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d19-1907" corresp="#d18-1916">
+                
+                <p>Wiederum gibt es <soCalled rend="dq-du">sichtbare</soCalled> Seelenzustände auf
+                    <lb/>der Bühne, um die sich die Musik nicht zu kümmern
+                    <lb/>braucht. Nehmen wir die theatralische Situation,
+                    
+                    <pb n="15"/>
+                    
+                    dass eine lustige nächtliche Gesellschaft sich singend
+                    <lb/>entfernt und dem Auge entschwindet, indessen im
+                    <lb/>Vordergrund ein schweigsamer, erbitterter Zweikampf
+                    <lb/>ausgefochten wird. Hier wird die Musik die dem
+                    <lb/>Auge nicht mehr erreichbare lustige Gesellschaft durch
+                    <lb/>den fortzusetzenden Gesang gegenwärtig halten müssen;
+                    <lb/>was die beiden Vorderen treiben und dabei empfinden<choice><sic> ist,
+                        <lb/></sic><reg>, ist</reg></choice> ohne jede weitere Erläuterung erkennbar<reg>,</reg> und die
+                    <lb/>Musik darf, dramatisch gesprochen, nicht sich daran
+                    <lb/>bet<orig>h</orig>eiligen, das tragische Schweigen nicht brechen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d20-1907" corresp="#d18a-1916">
+                
+                <p>Für bedingt gerechtfertigt halte ich den Modus
+                    <lb/>der alten Oper, welche die durch eine dramatisch-
+                    <lb break="no"/>bewegte S<choice><orig>c</orig><reg>z</reg></choice>ene gewonnene Stimmung in einem ge
+                    <lb break="no"/>schlossenen Stücke zusammenfasste und ausklingen
+                    <lb/>lie<choice><orig>ss</orig><reg>ß</reg></choice>. (Arie.) – Wort und Gesten vermittelten den
+                    <lb/>dramatischen Gang der Handlung, von der Musik
+                    <lb/>mehr oder weniger dürftig re<choice><orig>c</orig><reg>z</reg></choice>itativisch gefolgt; an
+                    <lb/>dem Ruhepunkt angelangt<reg>,</reg> nahm die Musik den Haupt
+                    <lb break="no"/>sitz wieder ein. Das ist weniger äu<choice><orig>ss</orig><reg>ß</reg></choice>erlich, als man
+                    <lb/>es jetzt glauben machen will. Wieder war es aber
+                    <lb/>die verknöcherte Form der <soCalled rend="dq-du">Arie</soCalled> selbst, die zu der
+                    <lb/>Unwahrheit des Ausdrucks und zum Verfall führte.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d21-1907" corresp="#d23-1916">
+                
+                <p>Der <hi rend="spaced-out">Vortrag</hi> in der Musik stammt aus jenen
+                    <lb/>freien Höhen, aus welchen die Tonkunst selbst herab
+                    <lb break="no"/>stieg. Wo ihr droht, irdisch zu werden, hat er sie
+                    <lb/>zu heben und ihr zu ihre<choice><sic>n</sic><corr>m</corr></choice> ursprünglichen <q>schwebenden</q>
+                    <lb/>Zustand zu verhelfen.</p>
+                
+                <p>Die Notation, die Aufschreibung, von Musik
+                    <lb break="no"/>stücken ist zuerst ein ingeniöser Behelf, eine Improvi
+                    <lb break="no"/>sation festzuhalten, um sie wiedererstehen zu lassen.
+                    <lb/>Jene verhält sich aber zu dieser wie das Porträt zum
+                    <lb/>lebendigen Modell. Der Vortragende hat die <hi rend="spaced-out">Starrheit
+                        
+                        <pb n="16"/>
+                        
+                        der Zeichen wieder aufzulösen</hi> und in Bewegung
+                    <lb/>zu bringen. –</p>
+                
+                <p>Die Gesetzgeber aber verlangen, dass der Vor
+                    <lb break="no"/>tragende die Starrheit der Zeichen wiedergibt<reg>,</reg> und
+                    <lb/>erachten die Wiedergabe für um<orig> </orig>so vollkommener, je
+                    <lb/>mehr sie sich an die Zeichen hält.</p>
+                
+                <p>Was der Tonsetzer <hi rend="spaced-out">notgedrungen</hi> von seiner
+                    <lb/>Inspiration durch die Zeichen einbü<choice><orig>ss</orig><reg>ß</reg></choice>t,
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        
+                        <p>Wie sehr die Notation den St<choice><orig>y</orig><reg>i</reg></choice>l in der Musik beeinflusst,
+                            <lb/>die Fantasie fesselt, wie aus ihr die <soCalled rend="dq-du">Form</soCalled> sich bildete und aus
+                            <lb/>der Form der <soCalled rend="dq-du"><choice><orig>C</orig><reg>K</reg></choice>onventionalismus</soCalled> des Ausdrucks entstand, das
+                            <lb/>zeigt sich recht eindringlich, das rächt sich in tragischer Weise
+                            <lb/>an <persName key="E0300019">E. T. A. Hoffmann</persName>, der mir hier als ein typisches Beispiel
+                            <lb/>einfällt.</p>
+                        
+                        <p>Dieses merkwürdigen Mannes Gehirnvorstellungen, die sich
+                            <lb/>in das Traumhafte verloren und im Trans<choice><orig>c</orig><reg>z</reg></choice>endentalen schwelgten,
+                            <lb/>wie seine Schriften in oft unnachahmlicher Weise dartun, hätten
+                            <lb/>– so würde man folgern – in der an sich traumhaften und
+                            <lb/>trans<choice><orig>c</orig><reg>z</reg></choice>endentalen Kunst der Töne erst recht die geeignete Sprache
+                            <lb/>und Wirkung finden müssen.</p>
+                        
+                        <p>Die Schleier der Mystik, das innere Klingen der Natur, die
+                            <lb/>Schauer des Übernatürlichen, die dämmerigen Unbestimmtheiten
+                            
+                            <pb sameAs="#pb_n17"/>
+                            
+                            der schlafwachenden Bilder – <choice><orig>A</orig><reg>a</reg></choice>lles, was er mit dem prä<choice><orig>c</orig><reg>z</reg></choice>isen
+                            <lb/><hi rend="spaced-out">Wort</hi> schon so eindrucksvoll schilderte, das hätte er – man
+                            <lb/>sollte denken – durch die Musik erst völlig lebendig erstehen
+                            <lb/>lassen. Man vergleiche dagegen <persName key="E0300019">Hoffmann<orig>’</orig>s</persName> bestes musikalisches
+                            <lb/>Werk mit der schwächsten seiner literarischen Produktionen<reg>,</reg> und
+                            <lb/>man wird mit Trauer wahrnehmen, wie ein übernommenes System
+                            <lb/>von Taktarten, Perioden und Tonarten – zu dem noch der land
+                            <lb break="no"/>läufige Opernst<choice><orig>y</orig><reg>i</reg></choice>l der Zeit das Seinige tut – aus dem Dichter
+                            <lb/>einen Philister machen konnte. – Wie aber ein anderes Ideal der
+                            <lb/>Musik ihm vorschwebte, entnehmen wir aus vielen und oft aus
+                            <lb break="no"/>gezeichneten Bemerkungen des Schriftstellers selbst.</p></note>
+                    
+                    das soll
+                    <lb/>der Vortragende durch seine eigene wiederherstellen.</p>
+                
+                <p>Den Gesetzgebern sind die Zeichen selbst das
+                    <lb/>wichtigste, sie werden es ihnen mehr und mehr; die
+                    <lb/>neue Tonkunst wird aus den alten Zeichen abgeleitet<orig>,</orig>
+                    <lb/>– <hi rend="spaced-out">sie bedeuten nun die Tonkunst selbst</hi>.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d22-1907" corresp="#d24-1916">
+                
+                <p>Läge es nun in der Macht der Gesetzgeber<reg>,</reg> so
+                    <lb/>müsste ein und dasselbe Tonstück stets in ein und
+                    <lb/>demselben Zeitmaß erklingen, so<orig> </orig>oft, von wem und
+                    <lb/>unter welchen Bedingungen es auch gespielt würde.</p>
+                
+                <p>Es ist aber nicht möglich, die schwebende<reg>,</reg> expan
+                    <lb break="no"/>sive Natur des göttlichen Kindes widersetzt sich; sie
+                    <lb/>fordert das Gegenteil. Jeder Tag beginnt anders als
+                    
+                    <pb xml:id="pb_n17" n="17"/>
+                    
+                    der vorige und doch immer mit einer Morgenröte. –
+                    <lb/>Große Künstler spielen ihre eigenen Werke immer
+                    <lb/>wieder verschieden, gestalten sie im Augenblicke um,
+                    <lb/>beschleunigen und halten zurück – wie sie es nicht
+                    <lb/>in Zeichen umsetzen konnten –<reg>,</reg> und immer nach den
+                    <lb/>gegebenen Verhältnissen jener <q>ewigen Harmonie</q>.</p>
+                
+                <p>Da wird der Gesetzgeber unwillig und verweist
+                    <lb/>den Schöpfer auf dessen eigene Zeichen. So, wie es
+                    <lb/>heute steht, behält der Gesetzgeber recht.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d23-1907" corresp="#d25-1916">                
+                
+                <p><mentioned rend="dq-du">Notation</mentioned> (<soCalled rend="dq-du">S<choice><orig>c</orig><reg>k</reg></choice>ription</soCalled>) bringt mich auf Trans<choice><orig>c</orig><reg>k</reg></choice>rip
+                    <lb break="no"/>tion: gegenwärtig ein recht missverstandener<reg>,</reg> fast
+                    <lb/>schimpflicher Begriff. Die häufige Opposition<reg>,</reg> die ich
+                    <lb/>mit <soCalled rend="dq-du">Trans<choice><orig>c</orig><reg>k</reg></choice>riptionen</soCalled> erregte<reg>,</reg> und die Opposition, die
+                    <lb/>oft unvernünftige Kritik in mir hervorrief, veranlassten
+                    <lb/>mich zum Versuch, über diesen Punkt Klarheit zu
+                    <lb/>gewinnen. Was ich endgültig darüber denke, ist:
+                    <lb/>Jede Notation ist schon Trans<choice><orig>c</orig><reg>k</reg></choice>ription eines abstrakten
+                    <lb/>Einfalls. Mit dem Augenblick<reg>,</reg> da die Feder sich seiner
+                    <lb/>bemächtigt<reg>,</reg> verliert der Gedanke seine Originalgestalt.
+                    <lb/>Die Absicht<reg>,</reg> den Einfall aufzuschreiben, bedingt schon
+                    <lb/>die Wahl von Taktart und Tonart. Form und Klang
+                    <lb break="no"/>mittel, für welche der Komponist sich entscheiden mu<choice><orig>ß</orig><reg>ss</reg></choice>,
+                    <lb/>bestimmen mehr und mehr den Weg und die Grenzen.</p>
+                
+                <pb n="18"/>
+                
+                <p>Es ist ähnlich wie mit dem Menschen. Nackt
+                    <lb/>und mit noch unbestimmbaren Neigungen geboren,
+                    <lb/>entschließt er sich, oder wird er in einem gegebenen
+                    <lb/>Augenblick zum Entschlu<choice><orig>ß</orig><reg>ss</reg></choice> getrieben, eine Laufbahn
+                    <lb/>zu wählen. Mag auch vom Einfall oder vom Menschen
+                    <lb/>manches Originale, das unverwüstlich ist, weiter be
+                    <lb break="no"/>stehen: sie sind doch von dem Augenblick des Ent
+                    <lb break="no"/>schlu<choice><orig>ß</orig><reg>ss</reg></choice>es an zum Typus einer Klasse herabgedrückt.
+                    <lb/>Der Einfall wird zu einer Sonate<orig>,</orig> oder einem Konzert;
+                    <lb/>der Mensch zum Soldaten oder Priester. Das ist ein
+                    <lb/>Arrangement des Originals. Von dieser ersten zu einer
+                    <lb/>zweiten Trans<choice><orig>c</orig><reg>k</reg></choice>ription ist der Schritt verhältnismä<choice><orig>ss</orig><reg>ß</reg></choice>ig
+                    <lb/>kurz und unwichtig. Doch wird im Allgemeinen nur
+                    <lb/>von der <choice><orig>Z</orig><reg>z</reg></choice>weiten Aufhebens gemacht. Dabei übersieht
+                    <lb/>man, da<choice><orig>ß</orig><reg>ss</reg></choice> eine Trans<choice><orig>c</orig><reg>k</reg></choice>ription die Originalfa<choice><orig>ß</orig><reg>ss</reg></choice>ung
+                    <lb/>nicht zerstört, also ein<sic>e</sic> Verlust dieser durch jene nicht
+                    <lb/>entsteht. –</p>
+                
+                <p>Auch der Vortrag eines Werkes ist eine Trans<choice><orig>c</orig><reg>k</reg></choice>rip
+                    <lb break="no"/>tion, und auch dieser kann – er mag noch so frei
+                    <lb/>sich geb<choice><orig>e</orig><reg>ä</reg></choice>rden – niemals das Original aus der Welt
+                    <lb/>schaffen.</p>
+                
+                <p>– Denn das musikalische Kunstwerk besteht, vor
+                    <lb/>seinem Ertönen und nachdem es vorübergeklungen,
+                    <lb/><hi rend="spaced-out">ganz</hi> und <hi rend="spaced-out">unversehrt</hi> da. Es ist zugleich in und
+                    <lb/>au<choice><orig>ss</orig><reg>ß</reg></choice>er der Zeit<reg>,</reg> und sein Wesen ist es, das uns eine
+                    <lb/>greifbare Vorstellung des sonst ungreifbaren Begriffes
+                    <lb/>von der <hi rend="spaced-out">Idealität der Zeit</hi> geben kann.</p>
+                
+                <p>Im Übrigen muten die meisten Klavier<choice><orig>-K</orig><reg>k</reg></choice>ompo
+                    <lb break="no"/>sitionen <persName key="E0300001">Beethovens</persName> wie Trans<choice><orig>c</orig><reg>k</reg></choice>riptionen vom Orchester
+                    <lb/>an; die meisten <persName key="E0300008">Schumann’schen</persName> Orchesterwerke wie
+                    <lb/>Übertragungen vom Klavier – und sind’s in gewisser
+                    <lb/>Weise auch. –</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d24-1907" corresp="#d26-1916">
+                
+                <p>Merkwürdigerweise steht bei den <soCalled rend="dq-du">Buchstaben<choice><orig>-
+                    <lb break="no"/>T</orig><reg>t</reg></choice>reuen</soCalled> die <hi rend="spaced-out">Variationenform</hi> in gro<choice><orig>ss</orig><reg>ß</reg></choice>em Ansehen.
+                    
+                    <pb n="19"/>
+                    
+                    Das ist seltsam, weil die Variationenform – wenn sie
+                    <lb/>über ein fremdes Thema aufgebaut ist – eine <hi rend="spaced-out">ganze
+                        <lb/>Reihe von Bearbeitungen</hi> gibt<reg>,</reg> und zwar um<orig> </orig>so
+                    <lb/>respektloser, je geistreicher<supplied>er</supplied> Art sie sind.</p>
+                
+                <p>So gilt die <hi rend="spaced-out">Bearbeitung</hi> nicht, weil sie an dem
+                    <lb/>Original <hi rend="spaced-out">ändert</hi>; und es gilt die <hi rend="spaced-out">Veränderung</hi>, ob
+                    <lb break="no"/>wohl sie das Original <hi rend="spaced-out">bearbeitet</hi>.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d25-1907" corresp="#d27-1916">               
+                
+                <p><mentioned rend="dq-du">Musikalisch</mentioned> ist ein Begriff<reg>,</reg> der den Deutschen
+                    <lb/>angehört<reg>,</reg> und die Anwendung des Wortes selbst<orig>,</orig> findet
+                    <lb/>sich in dieser Sinn-Übertragung in keiner anderen
+                    <lb/>Sprache. Es ist ein Begriff<reg>,</reg> der den Deutschen ange
+                    <lb break="no"/>hört und nicht der allgemeinen Kultur, und seine Be
+                    <lb break="no"/>zeichnung ist falsch und unübersetzbar. <mentioned rend="dq-du">Musikalisch</mentioned>
+                    <lb/>ist von Musik hergeleitet, wie <mentioned rend="dq-du">poetisch</mentioned> von Poesie
+                    <lb/>und <mentioned rend="dq-du">physikalisch</mentioned> von Physik. Wenn ich sage:
+                    <lb/><persName key="E0300002">Schubert</persName> war einer der musikalisch<orig>e</orig>sten Menschen, so
+                    <lb/>ist das dasselbe<reg>,</reg> als ob
+                    ich sagte: <persName key="E0300003">Helmholtz</persName> war einer
+                    <lb/>der physikalisch<orig>e</orig>sten. Musikalisch ist: was in R<supplied>h</supplied>ythmen
+                    <lb/>und Intervallen <hi rend="spaced-out">tönt</hi>. Ein Schrank kann <soCalled rend="dq-du">musikalisch</soCalled>
+                    <lb/>sein, wenn er ein <soCalled rend="dq-du">Spielwerk</soCalled> enthält.
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        <p>Die einzige Art Menschen, die man <hi rend="spaced-out">musikalisch</hi> nennen
+                            <lb/>sollte, wären die Sänger; weil sie selbst erklingen können. In
+                            <lb/>derselben Weise könnte ein <hi rend="spaced-out">Clown</hi>, der durch einen Trick Töne
+                            <lb/>von sich gibt, sobald man ihn berührt, ein <hi rend="spaced-out">nachgemachter
+                                <lb/>musikalischer Mensch</hi> heißen.</p></note>
+                    
+                    Im vergleichen
+                    <lb break="no"/>den Sinne kann <mentioned rend="dq-du">musikalisch</mentioned> allenfalls noch wohl
+                    <lb break="no"/>lautend bedeuten.</p>
+                
+                <p>
+                    <quote rend="dq-du">Meine Verse sind zu musikalisch, als da<choice><orig>ß</orig><reg>ss</reg></choice> sie noch
+                        <lb/>in Musik gesetzt werden könnten</quote>, sagte mir einmal
+                    <lb/><rs key="E0300086">ein bekannter Dichter</rs>.
+                    
+                    <quote rend="indent">
+                        <l xml:id="EN1" xml:lang="en" corresp="#DE1" rend="antiqua"><anchor subtype="quoteStart" type="delimiter" rend="dq-du"/>Spirits moving musically</l>
+                        <l xml:id="EN2" xml:lang="en" corresp="#DE2" rend="antiqua">To a lutes well-tuned law.<anchor subtype="quoteEnd" type="delimiter" rend="dq-du"/></l>
+                    </quote>
+                    
+                    <quote rend="indent">
+                        <l xml:id="D1" corresp="#EN1">(<anchor subtype="quoteStart" type="delimiter" rend="dq-du"/>Geister schwebten musikalisch</l>
+                        <l xml:id="D2" corresp="#EN2">zu der Laute wohlgestimmtem Satz<anchor subtype="quoteEnd" type="delimiter" rend="dq-du"/>)</l>
+                    </quote>
+                    
+                    <pb n="20"/>
+                    
+                    schreibt <persName key="E0300004">E. A. Poe</persName>; endlich spricht man ganz richtig
+                    <lb/>von einem <soCalled rend="dq-du">musikalischen Lachen</soCalled>, weil es wie Musik
+                    <lb/><hi rend="spaced-out">klingt</hi>.</p>
+                
+                <p>In der angewandten und fast ausschlie<choice><orig>ss</orig><reg>ß</reg></choice>lich ge
+                    <lb break="no"/>brauchten deutschen Bedeutung<orig>,</orig> ist ein musikalischer
+                    <lb/>Mensch ein solcher, der dadurch Sinn für Musik be
+                    <lb break="no"/>kundet, da<choice><orig>ß</orig><reg>ss</reg></choice> er das <hi rend="spaced-out">Technische</hi> dieser Kunst wohl
+                    <lb/>unterscheidet und empfindet. Unter Technischem ver
+                    <lb break="no"/>stehe ich hier wieder den R<supplied>h</supplied>ythmus, die Harmonie, die
+                    <lb/>Intonation, die Stimmführung und die Thematik. Je
+                    <lb/>mehr Feinheiten er darin zu hören oder wiederzugeben
+                    <lb/>versteht, für um<orig> </orig>so <hi rend="spaced-out">musikalischer</hi> wird er gehalten.</p>
+                
+                <p>Bei dem großen Gewicht, das man auf diese Be
+                    <lb break="no"/>standteile der Tonkunst legt, ist selbstverständlich das
+                    <lb/><soCalled rend="dq-du">Musikalische</soCalled> von höchster Bedeutung geworden. –
+                    <lb/>Demnach mü<choice><orig>ß</orig><reg>ss</reg></choice>te ein Künstler, der technisch vollkommen
+                    <lb/>spielt<reg>,</reg> für den meist musikalischen Spieler gelten; weil
+                    <lb/>man aber mit <mentioned rend="dq-du">Technik</mentioned> nur die mechanische Be
+                    <lb break="no"/>herrschung des Instruments meint, so hat man <mentioned rend="dq-du">technisch</mentioned>
+                    <lb/>und <mentioned rend="dq-du">musikalisch</mentioned> zu Gegensätzen gemacht.</p>
+                
+                <p>Man ist so weit gegangen, ein Musikstück selbst
+                    <lb/>als <soCalled rend="dq-du">musikalisch</soCalled> zu bezeichnen,
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        <p><q rend="dq-du">Diese Kompositionen sind aber so musikalisch</q><reg>,</reg> sagte
+                            <lb/>mir einmal ein Geiger von einem vierhändigen Werkchen, das ich
+                            <lb/>zu unbedeutend fand.</p>
+                    </note>
+                    
+                    oder gar von einem
+                    <lb/>großen Komponisten wie <persName key="E0300005">Berlioz</persName><orig>,</orig> zu behaupten, er
+                    <lb/>wäre es nicht in genügendem Maße.
+                    
+                    <note style="*-repeat" place="bottom" n="2">
+                        <p><q rend="dq-du">Mein Hund ist <hi rend="spaced-out">sehr</hi> musikalisch</q><reg>,</reg> habe ich allen Ernstes
+                            <lb/>sagen gehört. Sollte der Hund über <persName key="E0300005">Berlioz</persName> gestellt werden?</p>
+                    </note>
+                    
+                    <mentioned rend="dq-du">Unmusikalisch</mentioned>
+                    <lb/>ist der stärkste Tadel; er kennzeichnet den damit Be
+                    <lb break="no"/>troffenen und macht ihn zum Geächteten.
+                    
+                    <note style="*-repeat" place="bottom" n="3"><p>Ein Schicksal, das auch mich betroffen hat.</p></note>
+                    
+                </p>
+                
+                <p>In einem Lande wie <placeName key="E0500013">Italien</placeName>, wo der Sinn für
+                    <lb/>musikalische Freuden allgemein ist, wird diese Unter
+                    <lb break="no"/>scheidung überflüssig<reg>,</reg> und das Wort dafür ist in der
+                    
+                    <pb n="21"/>
+                    
+                    Sprache nicht vorhanden. In <placeName key="E0500014">Frankreich</placeName>, wo die Em<supplied>p</supplied>
+                    <lb break="no"/>findung für Musik nicht im Volke lebt, gibt es Musiker
+                    <lb/>und Nichtmusiker. Von den Übrigen einige <q rend="dq-du"><foreign xml:lang="fr">aiment
+                        <lb/>beaucoup la musique</foreign></q>, oder <q rend="dq-du"><foreign xml:lang="fr">ils ne l’aiment pas</foreign></q>.
+                    <lb/>Nur in <placeName key="E0500015">Deutschland</placeName> macht man eine Ehrensache daraus<reg>,</reg>
+                    <lb/><soCalled rend="dq-du">musikalisch</soCalled> zu sein, da<choice><sic>ß</sic><corr>s</corr></choice> heißt nicht nur Liebe zur
+                    <lb/>Musik zu empfinden, sondern hauptsächlich sie in
+                    <lb/>ihren technischen Ausdrucksmitteln zu verstehen und
+                    <lb/>deren Gesetze einzuhalten.</p>
+                
+                <p>Tausend Hände halten das schwebende Kind und
+                    <lb/>bewachen wohlmeinend seine Schritte, da<choice><orig>ß</orig><reg>ss</reg></choice> es nicht
+                    <lb/>auffliege<orig>,</orig> und so vor einem ernstlichen Fall bewahrt
+                    <lb/>bleibe. Aber es ist noch so jung und ist ewig; die
+                    <lb/>Zeit seiner Freiheit wird kommen. Wenn es aufhören
+                    <lb/>wird<reg>,</reg> <soCalled rend="dq-du">musikalisch</soCalled> zu sein.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d26-1907" corresp="#d31-1916">
+                
+                <p>Der Schaffende soll kein überliefertes Gesetz auf
+                    <lb/>Treu und Glauben hinnehmen und sein eigenes Schaffen
+                    <lb/>jenem gegenüber von vornherein als Ausnahme be
+                    <lb break="no"/>trachten. Er müsste für seinen eigenen Fall ein ent
+                    <lb break="no"/>sprechendes eigenes Gesetz suchen, formen und es,
+                    <lb/>nach der ersten vollkommenen Anwendung, wieder
+                    <lb/>zerstören, um nicht selbst bei einem nächsten Werke
+                    <lb/>in Wiederholungen zu verfallen.</p>
+                
+                
+                <p>Die Aufgabe des Schaffenden besteht darin, Gesetze
+                    <lb/>aufzustellen, und nicht<reg>,</reg> Gesetzen zu folgen. Wer ge
+                    <lb break="no"/>gebenen Gesetzen folgt, hört auf, ein Schaffender
+                    <lb/>zu sein.</p>
+                
+                <p>Die Schaffenskraft ist um<orig> </orig>so erkennbarer, je unab
+                    <lb break="no"/>hängiger sie von Überlieferungen sich zu machen ver
+                    <lb break="no"/>mag. Aber die Absichtlichkeit im Umgehen der Ge
+                    <lb break="no"/>setze kann nicht Schaffenskraft vortäuschen, noch
+                    <lb/>weniger erzeugen.</p>
+                
+                <p>Der echte Schaffende erstrebt im Grunde nur die
+                    <lb/><hi rend="spaced-out">Vollendung</hi>. Und indem er diese mit <hi rend="spaced-out">seiner</hi> In
+                    
+                    <pb break="no" n="22"/>
+                    
+                    dividualität in Einklang bringt, entsteht absichtslos ein
+                    <lb/>neues Gesetz.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d27-1907" corresp="#d34-1916">
+                
+                <p>So eng geworden ist unser Tonkreis, so stereotyp
+                    <lb/>seine Ausdrucksform, da<choice><orig>ß</orig><reg>ss</reg></choice> es zur Zeit nicht ein be
+                    <lb break="no"/>kanntes Motiv gibt, auf das nicht ein anderes bekanntes
+                    <lb/>Motiv passte, so da<choice><orig>ß</orig><reg>ss</reg></choice> es zu gleicher Zeit mit dem ersten
+                    <lb/>gespielt werden könnte. Um nicht mich hier in
+                    <lb/>Spielereien zu verlieren<reg>,</reg>
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        <p>Eine solche Spielerei unternahm ich einmal mit einem
+                            <lb/>Freunde, um scherzeshalber festzustellen, wie viele von den ver
+                            <lb break="no"/>breiteten Musikstücken nach dem Schema des zweiten Themas im
+                            <lb/>Adagio der <title key="E0400001">IX. Symphonie</title> gebildet waren. In wenigen Augen
+                            <lb/>blicken hatten wir an fünfzehn Analogien der verschiedensten
+                            <lb/>Gattung beisammen, darunter welche niederster Kunst. Und
+                            <lb/><persName key="E0300001">Beethoven</persName> selbst. Ist das Thema des Finale<reg>s</reg> der <rs key="E0400009" rend="dq-du">fünften</rs> ein
+                            <lb/>anderes als jenes<reg>,</reg> womit die <rs key="E0400008" rend="dq-du">zweite</rs> ihr Allegro ansagt? Und
+                            <lb/>als das Hauptmotiv des <title key="E0400010">III. Klavier<choice><orig>-K</orig><reg>k</reg></choice>onzerts</title>, diesmal in Moll? –</p>
+                    </note>
+                    
+                    enthalte ich mich jedes Beispiels.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d28-1907" corresp="#d36-1916">
+                
+                <p>Was in unserer heutigen Tonkunst ihrem Urwesen
+                    <lb/>am nächsten rückt, sind die Pause und die Fermate.
+                    <lb/>Große Vortragskünstler, Improvisatoren, wissen auch
+                    <lb/>dieses Ausdrucks<choice><orig>-W</orig><reg>w</reg></choice>erkzeug im höheren und ausgiebigeren
+                    <lb/>Maße zu verwerten. Die spannende Stille zwischen
+                    <lb/>zwei Sätzen, in dieser Umgebung <hi rend="spaced-out">selbst Musik</hi>, lä<choice><orig>ß</orig><reg>ss</reg></choice>t
+                    <lb/>weiter ahnen, als der bestimmtere, aber deshalb weniger
+                    <lb/>dehnbare Laut vermag.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d29-1907" corresp="#d37-1916">
+                
+                <p><soCalled rend="dq-du">Zeichen</soCalled> sind es auch, und nichts anderes, was
+                    <lb/>wir heute unser <soCalled rend="dq-du"><hi rend="spaced-out">Tonsystem</hi></soCalled> nennen. Ein ingeniöser
+                    <lb/>Behelf, etwas von jener ewigen Harmonie festzuhalten;
+                    <lb/>eine kümmerliche Taschenausgabe jenes en<choice><orig>c</orig><reg>z</reg></choice>yklopä
+                    <lb break="no"/>dischen Werkes; künstliches Licht anstatt Sonne. –
+                    
+                    <pb n="23"/>
+                    
+                    Habt ihr bemerkt, wie die Menschen über die glänzende
+                    <lb/>Beleuchtung eines Saales den Mund aufsperren? Sie
+                    <lb/>tun es niemals über den millionenmal stärkeren Mittags
+                    <lb break="no"/>sonnenschein. –</p>
+                
+                <p>Und auch hier sind die Zeichen bedeutsamer ge
+                    <lb break="no"/>worden<choice><orig>, als das</orig><reg> als das,</reg></choice> was sie bedeuten sollen und nur
+                    <lb/>andeuten können.</p>
+                
+                <p>Wie wichtig ist doch die <soCalled rend="dq-du">Terz</soCalled>, die <soCalled rend="dq-du">Quinte</soCalled>
+                    <lb/>und die <soCalled rend="dq-du">O<choice><orig>c</orig><reg>k</reg></choice>tave</soCalled>. Wie streng unterscheiden wir
+                    <lb/><soCalled rend="dq-du"><choice><orig>C</orig><reg>K</reg></choice>onsonanzen</soCalled> und <soCalled rend="dq-du">Dissonanzen</soCalled> – <hi rend="spaced-out">da, wo es über
+                        <lb break="no"/>haupt Dissonanzen nicht geben kann</hi>!</p>
+                
+                <p>Wir haben die O<choice><orig>c</orig><reg>k</reg></choice>tave in zwölf gleich von<orig> </orig>ein
+                    <lb break="no"/>ander entfernte<orig>n</orig> Stufen abgeteilt, weil wir uns irgendwie
+                    <lb/>behelfen mussten, und haben unsere Instrumente so ein
+                    <lb break="no"/>gerichtet, da<choice><orig>ß</orig><reg>ss</reg></choice> wir niemals darüber oder darunter oder
+                    <lb/>dazwischen gelangen können. Namentlich die Tasten
+                    <lb break="no"/>instrumente haben unser Ohr gründlich eingeschult, so
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> wir nicht mehr fähig sind, Anderes zu hören; –
+                    <lb/>als nur im Sinne der Unreinheit. Und die Natur schuf
+                    <lb/>eine <hi rend="spaced-out">unendliche Abstufung – unendlich</hi>! <hi rend="spaced-out"><choice><orig>w</orig><reg>W</reg></choice>er
+                        <lb/>weiß</hi> es heute noch?
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        <cit>
+                            <q rend="dq-du">Die gleichschwebende 12stufige Temperatur, welche be
+                                <lb break="no"/>reits seit ca. <date when-iso="1500">1500</date> theoretisch erörtert, aber erst kurz vor <date when-iso="1700">1700</date>
+                                <lb/>prin<choice><orig>c</orig><reg>z</reg></choice>ipiell aufgestellt wurde (durch <persName key="E0300011">Andreas Werkmeister</persName>)<corr>,</corr> teilt die
+                                <lb/>O<choice><sic>c</sic><corr>k</corr></choice>tave in zwölf gleiche Teile (Halbtöne, daher <soCalled rend="dq-du">Zwölfhalbtonsystem</soCalled>)
+                                <lb/>und gewinnt damit Mittelwerte, welche kein Intervall wirklich
+                                <lb/>rein, aber alle leidlich brauchbar intonieren.</q>
+                            <bibl>(<author><persName key="E0300088">Riemann</persName></author>, <title>Musiklexikon</title>)</bibl>
+                        </cit>
+                        
+                        <note type="commentary" resp="#E0300314">Sub voce <q>Temperatur</q>; Busoni zitiert die <ref type="ext" target="https://archive.org/stream/musiklexikon00riemgoog#page/n1159/mode/2up">5. Auflage (1900), S.&#8239;1124</ref>.</note>
+                        
+                        <p>So haben wir durch <persName key="E0300011">Andreas Werkmeister</persName>, diesem Werk
+                            <lb break="no"/>meister in der Kunst, das <soCalled rend="dq-du">Zwölfhalbtonsystem</soCalled> mit lauter un
+                            <lb break="no"/>reinen, aber leidlich brauchbaren Intervallen gewonnen. Was ist
+                            <lb/>aber rein und was unrein? Unser Ohr hört ein verstimmtes
+                            <lb/>Klavier, bei welchem vielleicht <soCalled rend="dq-du">reine und unbrauchbare</soCalled> Intervalle
+                            <lb/>entstanden sind, als <hi rend="spaced-out">unrein</hi> an. Das diplomatische Zwölfer-
+                            <lb break="no"/>System ist ein notgedrungener Behelf<reg>,</reg> und doch wachen wir über
+                            <lb/>die Wahrung seiner Unvollkommenheiten.</p>
+                    </note>
+                    
+                </p>
+                
+                <p>Und innerhalb dieser zwölfteiligen O<choice><orig>c</orig><reg>k</reg></choice>tave haben
+                    <lb/>wir noch eine Folge bestimmter Abstände abgesteckt,
+                    
+                    <pb n="24"/>
+                    
+                    sieben an der Zahl, und darauf unsere ganze Ton
+                    <lb break="no"/>kunst gestellt. Was sagte ich, <hi rend="spaced-out">eine</hi> Folge? Zwei
+                    <lb/>solche Folgen, für jeden Fuß eine, die Dur- und Moll-
+                    <lb break="no"/>Skala. Wenn wir dieselbe Folge von Abständen von
+                    <lb/>einer anderen der 12 Zwischenstufen aus ansetzen, so
+                    <lb/>gibt es eine <hi rend="spaced-out">neue Tonart</hi>, und sogar eine fremde!
+                    <lb/>Was für ein gewaltsam beschränktes System diese erste
+                    <lb/>Verworrenheit ergab,
+                    
+                    <note style="*-repeat" place="bottom" n="1"><p>Man nennt es <soCalled rend="dq-du">Harmonielehre</soCalled>.</p></note>
+                    
+                    steht in den Gesetzbüchern zu
+                    <lb/>lesen: wir wollen es nicht hier wiederholen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d30-1907" corresp="#d37a-1916">
+                
+                <p>Wir lehren vierundzwanzig Tonarten, zwölfmal die
+                    <lb/>beiden Siebenfolgen, aber wir verfügen in der Tat nur
+                    <lb/>über zwei: die Durtonart und die Molltonart. <hi rend="spaced-out">Die
+                        <lb/>anderen sind nur Transpositionen</hi>. Man will
+                    <lb/>durch die einzelnen Transpositionen einen verschiedenen
+                    <lb/>Charakter e<choice><sic>u</sic><corr>n</corr></choice>tstehen hören: aber das ist Täuschung.
+                    <lb/>In <placeName key="E0500140">England</placeName>, wo die hohe Stimmung herrscht<reg>,</reg> werden
+                    <lb/>die bekanntesten Werke um einen halben Ton höher
+                    <lb/>gespielt, als sie noti<reg>e</reg>rt sind, ohne da<choice><orig>ß</orig><reg>ss</reg></choice> ihre Wirkung
+                    <lb/>verändert wird. Sänger transponieren zu ihrer Bequem
+                    <lb break="no"/>lichkeit ihre Arie<orig>,</orig> und la<choice><orig>ß</orig><reg>ss</reg></choice>en, was dieser vorausgeht
+                    <lb/>und folgt, untransponiert spielen.</p>
+                
+                <p>Liederkomponisten geben ihre eigenen Werke nicht
+                    <lb/>selten in drei verschiedenen Höhen der Notation her
+                    <lb break="no"/>aus; die Stücke bleiben in allen drei Ausgaben voll
+                    <lb break="no"/>kommen die nämlichen.</p>
+                
+                <p>Wenn ein bekanntes Gesicht aus dem Fenster sieht,
+                    <lb/>so gilt es gleich, ob es vom ersten oder vom dritten
+                    <lb/>Stockwerk herabschaut.</p>
+                
+                <p>Könnte man eine Gegend, so<reg> </reg>weit das Auge reicht,
+                    <lb/>um mehrere hundert Meter erhöhen oder vertiefen, das
+                    
+                    <pb n="25"/>
+                    
+                    landschaftliche Bild würde dadurch nichts verlieren<orig>,</orig>
+                    <lb/>noch gewinnen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d31-1907" corresp="#d38-1916">
+                
+                <p>Auf die beiden Siebenfolgen, die Dur-Tonart und
+                    <lb/>die Moll-Tonart<reg>,</reg> hat man die ganze Tonkunst gestellt
+                    <lb/>– eine Einschränkung fordert die andere.</p>
+                
+                <p>Man hat jeder der <choice><orig>B</orig><reg>b</reg></choice>eiden einen bestimmten Charak
+                    <lb break="no"/>ter zugesprochen, man hat gelernt und gelehrt<reg>,</reg> sie als
+                    <lb/>Gegensätze zu hören<reg>,</reg> und allmähli<choice><orig>g</orig><reg>ch</reg></choice> haben sie die
+                    <lb/>Bedeutung von Symbolen erreicht – Dur und Moll –
+                    <lb/><foreign xml:lang="it">Maggiore e Minore</foreign> – Befriedigung und Unbefriedigung
+                    <lb/>– Freude und Trauer – Licht und Schatten. Die
+                    <lb/>harmonischen Symbole haben den Ausdruck der Musik,
+                    <lb/>von <persName key="E0300012">Bach</persName> bis <persName key="E0300006">Wagner</persName> und weiter noch bis heute und
+                    <lb/>übermorgen, abgezäunt. <hi rend="spaced-out">Moll</hi> wird in derselben Ab
+                    <lb break="no"/>sicht gebraucht und übt dieselbe Wirkung auf uns aus,
+                    <lb/>heute wie vor zweihundert Jahren. Einen Trauermarsch
+                    <lb/>kann man heute nicht mehr <soCalled rend="dq-du">komponieren</soCalled>, denn er ist
+                    <lb/>einmal für alle schon vorhanden. Selbst der unge
+                    <lb break="no"/>bildet<orig>e</orig>ste Laie weiß, was ihn erwartet, sobald ein
+                    <lb/>Trauermarsch – irgend<orig> </orig>welcher! – ertönen soll.
+                    <lb/>Selbst der Laie fühlt den Unterschied zwischen einer
+                    <lb/>Dur- und einer Moll-Sinfonie voraus. Wir <hi rend="spaced-out">werden</hi>
+                    <lb/>von Dur und Moll beherrscht; wir stehen unter zwei
+                    <lb/>Pantoffeln.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d32-1907" corresp="#d39-1916">
+                
+                <p>Seltsam<choice><orig> daß</orig><reg>, dass</reg></choice> man Dur und Moll als Gegensätze
+                    <lb/>empfindet. Tragen sie doch beide dasselbe Gesicht;
+                    <lb/>jeweilig heiterer <choice><sic>n</sic><corr>u</corr></choice>nd ernster; und ein kleiner Pinsel
+                    <lb break="no"/>strich genügt<choice><orig> E</orig><reg>, e</reg></choice>ines in das <choice><orig>A</orig><reg>a</reg></choice>ndere zu kehren. Der
+                    <lb/>Übergang vom <choice><orig>Einen zum Z</orig><reg>einen zum z</reg></choice>weiten ist unmerklich und
+                    <lb/>mühelos – geschieht er oft und rasch, so beginnen
+                    <lb/>die <choice><orig>B</orig><reg>b</reg></choice>eiden unerkenntlich in<orig> </orig>einander zu flimmern. –
+                    <lb/>Erkennen wir aber<choice><orig> daß</orig><reg>, dass</reg></choice> Dur und Moll ein doppel
+                    
+                    <pb break="no" n="26"/>
+                    
+                    deutiges Ganzes<choice><orig>, und daß</orig><reg> und dass</reg></choice> die <soCalled rend="dq-du"><hi rend="spaced-out">vierundzwanzig</hi>
+                    <lb/>Tonarten</soCalled> nur eine elfmalige Transposition jener ersten
+                    <lb/>zwei sind, so gelangen wir ungezwungen zum Bewu<choice><orig>ß</orig><reg>ss</reg></choice>t
+                    <lb break="no"/>sein der <hi rend="bold">Einheit</hi> <hi rend="spaced-out">unseres Tonartensystems</hi>. Die
+                    <lb/>Begriffe von verwandt und fremd fallen ab – und
+                    <lb/>damit die ganze verwickelte Theorie von Graden und
+                    <lb/>Verhältnissen. <hi rend="spaced-out">Wir haben eine einzige Tonart</hi>.
+                    <lb/>Aber sie ist sehr dürftiger Art.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d33-1907" corresp="#d40-1916">
+                
+                <p><q>Einheit der Tonart.</q></p>
+                
+                <p>– <q>Sie meinen wohl<reg>,</reg> <soCalled rend="dq-du">Tonart</soCalled> und <soCalled rend="dq-du">Tonarten</soCalled>
+                    <lb/>sind der Sonnenstrahl und seine Zerlegung in Farben?</q></p>
+                
+                <p>Nein, nicht das kann ich meinen. Denn unser
+                    <lb/>ganzes Ton-<reg>,</reg> Tonart- und Tonartensystem ist<orig>,</orig> in seiner
+                    <lb/>Gesam<orig>m</orig>theit selbst nur der Teil eines Bruchteils eines
+                    <lb/>zerlegten Strahls jener Sonne <soCalled rend="dq-du">Musik</soCalled> am Himmel der
+                    <lb/><soCalled rend="dq-du">ewigen Harmonie.</soCalled></p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d34-1907" corresp="#d41-1916">
+                
+                <p>So<orig> </orig> sehr die Anhänglichkeit an Gewohnte<choice><orig>m</orig><reg>s</reg></choice> und
+                    <lb/>Trägheit in des Menschen Weise und Wesen liegen –
+                    <lb/>so sehr sind Energie und Opposition gegen Bestehen
+                    <lb break="no"/>des die Eigenschaften alles Lebendigen. Die Natur
+                    <lb/>hat ihre Kniffe und überführt die Menschen, die gegen
+                    <lb/>Fortschritt und <choice><orig>Ae</orig><reg>Ä</reg></choice>nderungen widerspenstigen Menschen;
+                    <lb/>die Natur schreitet beständig fort und ändert unablä<choice><orig>ß</orig><reg>ss</reg></choice>ig,
+                    <lb/>aber in so gleichmäßiger und unwahrnehmbarer Be
+                    <lb break="no"/>wegung, da<choice><orig>ß</orig><reg>ss</reg></choice> die Menschen nur Stillstand sehen. Erst
+                    <lb/>der weitere Rückblick zeigt ihnen das Überraschende,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> sie die Getäuschten waren.</p>
+                
+                <p>Deshalb erregt der <soCalled rend="dq-du">Reformator</soCalled> <choice><orig>Ae</orig><reg>Ä</reg></choice>rgernis bei den
+                    <lb/>Menschen aller Zeiten, weil seine <choice><orig>Ae</orig><reg>Ä</reg></choice>nderungen zu un
+                    <lb break="no"/>vermittelt und vor <choice><orig>A</orig><reg>a</reg></choice>llem weil sie wahrnehmbar sind.
+                    <lb/>Der Reformator ist – im Vergleich zur Natur – un
+                    
+                    <pb break="no" n="27"/>
+                    
+                    diplomatisch<reg>,</reg> und es ist ganz folgerichtig, da<choice><orig>ß</orig><reg>ss</reg></choice> seine
+                    <lb/>Änderungen erst dann Gültigkeit erlangen, wenn die
+                    <lb/>Zeit den eigenmächtig vollführten Sprung wieder auf
+                    <lb/>ihre feine<reg>,</reg> unmerkliche Weise eingeholt hat. Doch gibt
+                    <lb/>es Fälle, wo der Reformator mit der Zeit gleichen
+                    <lb/>Schritt ging, indessen die Übrigen zurückblieben. Und
+                    <lb/>da mu<choice><orig>ß</orig><reg>ss</reg></choice> man sie zwingen und dazu peitschen, den
+                    <lb/>Sprung über die versäumte Strecke zu springen. Ich
+                    <lb/>glaube, da<choice><orig>ß</orig><reg>ss</reg></choice> die Dur- und Moll-Tonart und ihr Trans
+                    <lb break="no"/>positionsverhältnis, da<choice><orig>ß</orig><reg>ss</reg></choice> das <soCalled rend="dq-du">Zwölfhalbtonsystem</soCalled> einen
+                    <lb/>solchen Fall von Zurückgebliebenheit darstellt.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d35-1907" corresp="#d42-1916">
+                
+                <p>Da<choice><orig>ß</orig><reg>ss</reg></choice> schon <choice><orig>E</orig><reg>e</reg></choice>inige empfunden haben, wie die
+                    <lb/>Intervalle der Siebenfolge noch anders geordnet (gradui<reg>e</reg>rt)
+                    <lb/>werden können, ist aus vereinzelten Momenten bei <persName key="E0300013">Liszt</persName>, 
+                    <lb/>neuerdings bei <persName key="E0300021">Debussy</persName> und seinen Gefährten, selbst
+                    <lb/>bei <persName key="E0300022">R. Strau<choice><orig>ß</orig><reg>ss</reg></choice></persName> zur Erscheinung gekommen. Der Drang<orig>,</orig>
+                    <lb/>und die Sehnsucht und der begabte Instinkt sprechen
+                    <lb/>daraus. Doch scheint’s mir nicht, da<choice><orig>ß</orig><reg>ss</reg></choice> eine bewu<choice><orig>ß</orig><reg>ss</reg></choice>te
+                    <lb/>und geordnete Vorstellung dieser erhöhten Ausdrucks
+                    <lb break="no"/>mittel in ihnen sich geformt habe.</p>
+                
+                <p>Ich habe den Versuch gemacht, alle Möglichkeiten
+                    <lb/>der Abstufung der Siebenfolge zu gewinnen<reg>,</reg> und es
+                    <lb/>gelang mir, durch Erniedrigung und Erhöhung der
+                    <lb/>Intervalle 113 <hi rend="spaced-out">verschiedene Skalen</hi> festzustellen.
+                    <lb/>Diese 113 Skalen (innerhalb der Oktave C–C) be
+                    <lb break="no"/>greifen den größten Teil der bekannten <soCalled rend="dq-du">24 Tonarten</soCalled>,
+                    <lb/>außerdem aber eine Reihe neuer Tonarten<orig>,</orig> von eigen
+                    <lb break="no"/>artigem Charakter. Damit ist aber der Schatz nicht
+                    <lb/>erschöpft, denn die <soCalled rend="dq-du"><hi rend="spaced-out">Transposition</hi></soCalled> jeder einzelnen
+                    <lb/>dieser 113 steht uns ebenfalls noch offen<reg>,</reg> u<choice><sic>u</sic><corr>n</corr></choice>d überdies
+                    <lb/>die Vermischung zweier solcher Tonarten in Harmonie
+                    <lb/>und Melodie.
+                    
+                    <note type="commentary" resp="#E0300322">Ob die Zahl 113 hier eine Übertreibung <persName key="E0300017">Busonis</persName> darstellt, ist schwer zu sagen.
+                        Eine genauere algorithmische Betrachtung des Problems zeigt, dass unter Zuhilfenahme
+                        aller zwölf gleichstufigen Halbtöne innerhalb einer Oktave 729 siebentönige aufsteigende 
+                        Skalen kombiniert werden können. Nach Eliminierung der in der Intervallstruktur identischen Skalen und Analyse der Tonleitern bezüglich nicht leitertypischer Elemente (z. B.
+                        chromatischer Passagen und aufeinanderfolgender Terzen) bleiben 59 siebentönige aufsteigende Skalen übrig. Mit 113 ist <persName key="E0300017">Busoni</persName> weder nahe an der einen
+                        noch an der anderen Zahl, was die Frage aufwirft, welche Ansprüche Busoni an eine solche von ihm 
+                        neu erdachte Leiter überhaupt hat.</note> 
+                </p>
+                
+                <pb n="28"/>
+                
+                <p>Die Skala <hi rend="underline">c</hi> 
+                    <hi rend="underline">des</hi> 
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">fes</hi> 
+                    <hi rend="underline">ges</hi> 
+                    <hi rend="underline">as</hi> 
+                    <hi rend="underline">b</hi> 
+                    <hi rend="underline">c</hi> klingt schon
+                    <lb/>bedeutend anders<orig>,</orig> als die des-<choice><orig>moll </orig><reg>Moll-</reg></choice>Tonleiter wenn man
+                    <lb/>c als ihren Grundton annimmt. Legt man ihr noch
+                    <lb/>den gewöhnlichen C-<choice><orig>dur </orig><reg>Dur-</reg></choice>Dreiklang als Harmonie unter,
+                    <lb/>so ergibt sich eine neue harmonische Empfindung.
+                    <lb/>Man höre aber dieselbe Tonleiter abwechselnd vom
+                    <lb/><choice><orig>A-moll Es-dur und C-dur </orig><reg>a-Moll-, Es-Dur- und C-Dur-</reg></choice>Dreiklang gestützt, und man
+                    <lb/>wird sich der angenehmsten Überraschung über den
+                    <lb/>fremdartigen Wohllaut nicht erwehren können.</p>
+                
+                <p>Wohin aber würde ein Gesetzgeber die Tonfolgen
+                    <lb/><hi rend="underline">c</hi>
+                    <hi rend="underline">des</hi>
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">fes</hi> 
+                    <hi rend="underline">g</hi> 
+                    <hi rend="underline">a</hi> 
+                    <hi rend="underline">h</hi> 
+                    <hi rend="underline">c</hi> //
+                    <hi rend="underline">c</hi> 
+                    <hi rend="underline">des</hi> 
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">f</hi> 
+                    <hi rend="underline">ges</hi> 
+                    <hi rend="underline">a</hi> 
+                    <hi rend="underline">h</hi> 
+                    <hi rend="underline">c</hi> // 
+                    <lb/><hi rend="underline">c</hi> 
+                    <hi rend="underline">d</hi> 
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">fes</hi> 
+                    <hi rend="underline">ges</hi> 
+                    <hi rend="underline">a</hi> 
+                    <hi rend="underline">h</hi> 
+                    <hi rend="underline">c</hi> // 
+                    <hi rend="underline">c</hi> 
+                    <hi rend="underline">des</hi> 
+                    <hi rend="underline">e</hi> 
+                    <hi rend="underline">f</hi> 
+                    <hi rend="underline">ges</hi> 
+                    <hi rend="underline">a</hi> 
+                    <hi rend="underline">b</hi> 
+                    <hi rend="underline">c</hi> // 
+                    <lb/>oder gar: <hi rend="underline">c</hi> 
+                    <hi rend="underline">d</hi> 
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">fes</hi> 
+                    <hi rend="underline">g</hi> 
+                    <hi rend="underline">ais</hi> 
+                    <hi rend="underline">h</hi> 
+                    <hi rend="underline">c</hi> // 
+                    <hi rend="underline">c</hi> 
+                    <hi rend="underline">d</hi> 
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">fes</hi> 
+                    <hi rend="underline">gis</hi> 
+                    <hi rend="underline">a</hi> 
+                    <lb/><hi rend="underline">h</hi> 
+                    <hi rend="underline">c</hi> // 
+                    <hi rend="underline">c</hi> 
+                    <hi rend="underline">des</hi> 
+                    <hi rend="underline">es</hi> 
+                    <hi rend="underline">fis</hi> 
+                    <hi rend="underline">gis</hi> 
+                    <hi rend="underline">a</hi> 
+                    <hi rend="underline">b</hi> 
+                    <hi rend="underline">c</hi> einreihen mögen?</p>
+                
+                <p>Welche Reichtümer sich damit für den melodischen
+                    <lb/>und harmonischen Ausdruck dem Ohre öffnen, ist nicht
+                    <lb/>sogleich zu übersehen; eine Menge neuer Möglichkeiten
+                    <lb/>ist aber zweifellos anzunehmen und auf den ersten
+                    <lb/>Blick erkennbar.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d36-1907" corresp="#d43-1916">
+                
+                <p>Mit dieser Darstellung dürfte die Einheit aller Ton
+                    <lb break="no"/>arten endg<choice><orig>i</orig><reg>ü</reg></choice>ltig ausgesprochen und begründet sein.
+                    <lb/>Kaleidoskopisches Durcheinanderschütteln von zwölf
+                    <lb/>Halbtönen in der Drei-Spiegel<choice><orig>k</orig><reg>-K</reg></choice>ammer des Geschmacks,
+                    <lb/>der Empfindung und der Intention: das Wesen der
+                    <lb/>heutigen Harmonie.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d37-1907" corresp="#d44-1916">
+                
+                <p>Der <hi rend="spaced-out">heutigen</hi> Harmonie und nicht mehr auf
+                    <lb/>lange: denn alles verkündet eine Umwälzung und einen
+                    <lb/>nächsten Schritt zu jener <soCalled rend="dq-du">ewigen</soCalled>. Vergegenwärtigen
+                    <lb/>wir uns noch einmal, da<choice><orig>ß</orig><reg>ss</reg></choice> in ihr die Abstufung der
+                    <lb/>Oktave <hi rend="spaced-out">unendlich</hi> ist, und trachten wir, der Unendlich
+                    <lb break="no"/>keit um ein Weniges uns zu nähern. Der Drittelton
+                    
+                    <pb n="29"/>
+                    
+                    pocht schon seit einiger Zeit an die Pforte, und wir
+                    <lb/>überhören noch immer seine Meldung. Wer, wie ich
+                    <lb/>es get<orig>h</orig>an, damit, wenn auch bescheiden, experimenti<reg>e</reg>rte
+                    <lb/>und – sei es mit der Kehle oder auf einer Geige –
+                    <lb/>zwischen einem Ganzton zwei gleichmäßig abstehende
+                    <lb/>Zwischentöne einschaltete, das Ohr und das Treffen
+                    <lb/>übte, der wird zur Einsicht gelangt sein, da<choice><orig>ß</orig><reg>ss</reg></choice> Drittel
+                    <lb break="no"/>töne vollkommen selbständige Intervalle von ausge
+                    <lb break="no"/>prägtem Charakter sind, die mit verstimmten Halbtönen
+                    <lb/>nicht zu verwechseln sind. Es ist eine verfeinerte
+                    <lb/>Chromatik, die uns vorläufig auf der ganztönigen Skala
+                    <lb/>zu basi<reg>e</reg>ren scheint. Führten wir dieselbe unvermittelt
+                    <lb/>ein, so verleugneten wir die Halbtöne, verlören die
+                    <lb/><soCalled rend="dq-du">kleine Terz</soCalled> und die <soCalled rend="dq-du">reine Quinte</soCalled><reg>,</reg> und dieser Ver
+                    <lb break="no"/>lust würde stärker empfunden<orig>,</orig> als der relative Gewinn
+                    <lb/>eines <soCalled rend="dq-du">18<choice><orig> </orig><reg>-</reg></choice>Drittelton-Systems</soCalled>.</p>
+                
+                <p>Es ist aber kein Grund ersichtlich, seinetwegen
+                    <lb/>mit den Halbtönen aufzuräumen. Behalten wir zu jedem
+                    <lb/>Ganzton einen Halbton, so erhalten wir eine zweite
+                    <lb/>Reihe von Ganztönen, die um einen halben Ton höher
+                    <lb/>steht<orig>,</orig> als die erste. Teilen wir diese zweite Reihe von
+                    <lb/>Ganztönen in Drittelteilen ein, dann ergibt sich zu
+                    <lb/>jedem Drittelton der unteren Reihe ein entsprechender
+                    <lb/>Halbton in der oberen.</p>
+                
+                <p>Somit ist eigentlich ein Sechsteltonsystem ent
+                    <lb break="no"/>standen, und da<choice><orig>ß</orig><reg>ss</reg></choice> auch Sechsteltöne einstmals reden
+                    <lb/>werden, darauf können wir vertrauen. Das Tonsystem,
+                    <lb/>das ich eben entwerfe, soll aber vorerst das Gehör mit
+                    <lb/>Dritteltönen füllen, ohne auf die Halbtöne zu verzichten.</p>
+                
+                <p>Um es zusammen<choice><orig> zufaß</orig><reg>zufass</reg></choice>en: Wir stellen entweder
+                    <lb/>zwei Reihen Dritteltöne, von<orig> </orig>einander um einen halben
+                    <lb/>Ton entfernt, auf; oder: <hi rend="spaced-out">dreimal</hi> die übliche 12<choice><orig> </orig><reg>-</reg></choice>Halbton-
+                    <lb break="no"/>Reihe im Abstande von je einem drittel Ton.</p>
+                
+                <p>Nennen wir, um sie irgendwie zu unterscheiden,
+                    <lb/>den ersten Ton C und die beiden nächsten Dritteltöne
+                    <lb/>Cis und Des; den ersten Halbton (klein-)c und seine
+                    
+                    <pb n="30"/>
+                    
+                    folgenden Drittteile cis und des; – die untenstehende
+                    <lb/>Tabelle erklärt alles Fehlende.
+                    
+                </p>
+                
+                <figure>
+                    <figDesc>Zwei Dritteltonskalen im Halbtonabstand, in Form von zwei Systemen mit Ganztonreihen (von c bis ais bzw. cis bis h) und Drittelunterteilung der Ganztöne.</figDesc>
+                    <graphic width="320px" height="118px" url="D0200001_ex_1.png"/>
+                </figure>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d38-1907">
+                
+                <p>Der erste Ausweg zu einer Notation wäre: <choice><orig>6</orig><reg>sechs</reg></choice> Linien
+                    <lb/>zu ziehen und die Linien für die Ganztöne, die Zwischen
+                    <lb break="no"/>rä<choice><sic>n</sic><corr>u</corr></choice>me für die Halbtöne zu benützen:</p>
+                
+                <figure place="center">
+                    <figDesc>Sechsliniensystem mit Ganztonabstand von Linie zu Linie (Linienzwischenraum für Halbtöne).</figDesc>
+                    <graphic width="300px" height="37px" url="D0200001_ex_2.png"/>
+                </figure>
+                
+                <figure>
+                    <figDesc>Bezeichnung der Dritteltöne im Sechsliniensystem, pro Tonhöhe dreifach: mit Erniedrigungszeichen, ohne Akzidenz und mit Erhöhungszeichen.</figDesc>
+                    <ab type="caption" rend="italic align(left)">Sodann die Dritteltöne mit ♭ und ♯ zu bezeichnen:</ab>        
+                    <graphic width="320px" height="37px" url="D0200001_ex_3.png"/>
+                    <ab type="caption" rend="italic align(right)"><choice><orig>u. s. w.</orig><reg>usw.</reg></choice></ab>
+                </figure>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d39-1907" corresp="#d44a-1916">
+                
+                <p>Die Frage der Notation halte ich für nebensächlich.
+                    <lb/>Wichtig und drohend ist dagegen die Frage, wie und
+                    <lb/>worauf diese Töne zu erzeugen sind. Es trifft sich
+                    <lb/>glücklich, da<choice><orig>ß</orig><reg>ss</reg></choice> ich während der Arbeit an diesem Auf
+                    <lb break="no"/>satz<orig>,</orig> eine direkte und authentische Nachricht aus
+                    <lb/>Amerika erhalte, welche die Frage in einfacher Weise
+                    <lb/>löst. Es ist die Mitteilung von <persName key="E0300018">Dr. Thaddeus Cahill<orig>’</orig>s</persName>
+                    
+                    <pb n="31"/>
+                    
+                    Erfindung.
+                    
+                    <note style="*-repeat" place="bottom" n="1">
+                        <p>
+                            <anchor subtype="quoteStart" type="delimiter" rend="dq-du"/><bibl><title key="E0800042">New Music for an old World. <persName key="E0300018">Dr. Thaddeus Cahill’s</persName>
+                                <lb/>Dynamophone, an extraordinary electrical Invention for producing
+                                <lb/>scientifically perfect music</title> by <persName key="E0300089">Ray Stannard Baker</persName><anchor subtype="quoteEnd" type="delimiter" rend="dq-du"/>. Mc. Clure’s
+                                <lb/>Magazine, July 1906. Vol. XXVII, No. 3.</bibl>
+                            –
+                        </p>
+                        <p>Über diesen trans<choice><orig>c</orig><reg>z</reg></choice>endentalen Tonerzeuger berichtet <persName key="E0300089">Mr.
+                            <lb/>Baker</persName> des Weiteren:
+                            
+                            <note type="commentary" resp="#E0300314">Der folgende Text ist eine freie Paraphrase <persName key="E0300017">Busonis</persName>, kein direktes Zitat des <rs key="E0800042">Artikels</rs> von <persName key="E0300089">Ray Stannard Baker</persName>.</note>
+                            
+                            … Die Wahrnehmung der Unvollkommenheit
+                            <lb/>der Tongebung bei allen Instrumenten<orig>,</orig> führte <persName key="E0300018">Dr. Cahill</persName> zum
+                            <lb/>Nachdenken. Material, Indisposition, Temperatur, klimatische
+                            <lb/>Zustände beeinträchtigen die Zuverlä<choice><orig>ß</orig><reg>ss</reg></choice>igkeit eines jeden. Der
+                            <lb/>Klavierspieler verliert die Macht über den absterbenden Klang der
+                            <lb/>Saite<orig>,</orig> von dem Augenblick an, wo die Taste angeschlagen wurde.
+                            <lb/>Auf der Orgel kann die Empfindung an der festgehaltenen Note
+                            <lb/>nichts ändern. <persName key="E0300018">Dr. Cahill</persName> ersann die Idee eines Instruments,
+                            <lb/>welches dem Spieler die <hi rend="spaced-out">absolute Kontrolle</hi> über jeden zu
+                            <lb/>erzeugenden Ton und über dessen Ausdruck gewährte. Er nahm
+                            <lb/>sich die Theorien <persName key="E0300003">Helmholtz’</persName> zum Vorbild, die ihn lehrten, da<choice><orig>ß</orig><reg>ss</reg></choice>
+                            <lb/>die Verhältnisse der Zahl und der Stärke der Obertöne zum
+                            <lb/>Grundton den Ausschlag über den Klangcharakter der verschiedenen
+                            <lb/>Instrumente geben. Demnach konstruierte er zu dem Apparat,
+                            <lb/>welcher den Grundton schwingen lä<choice><orig>ß</orig><reg>ss</reg></choice>t, eine Anzahl supplem<choice><sic>änte</sic><corr>entä</corr></choice>rer
+                            <lb/>Apparate, von welchen jeder einen der Obertöne erzeugt; und
+                            <lb/>konnte solche in beliebiger Anordnung und Stärke dem Grundton
+                            <lb/>zuhäufen. So ist jeder Klang einer mannigfaltigsten Charakteri
+                            <lb break="no"/>sierung fähig; sein Ausdruck auf das empfindlichste dynamisch zu
+                            
+                            <pb sameAs="#pb_n32"/>
+                            
+                            regeln; die Stärke vom fast unhörbaren Pianissimo bis zur uner
+                            <lb break="no"/>träglichen Lautmacht zu produzieren. Und weil das Instrument
+                            <lb/>von einer Klaviatur aus gehandhabt wird, bleibt ihm die Fähigkeit
+                            <lb/>bewahrt, der Eigenart eines Künstlers zu folgen.</p>
+                        <p>Eine Reihe solcher Klaviaturen<reg>,</reg> von mehreren Spielern ge
+                            <lb break="no"/>spielt, kann zu einem Orchester zusammengestellt werden.</p>
+                        <p>Der Bau des Instrumentes ist außerordentlich umfangreich
+                            <lb/>und kostspielig<reg>,</reg> und sein praktischer Wert mü<choice><orig>ß</orig><reg>ss</reg></choice>te mit Recht ange
+                            <lb break="no"/>zweifelt werden. Zum Vermittler der Schwingungen zwischen
+                            <lb/>dem elektrischen Strom und der Luft wählte der Erfinder das
+                            <lb/>Telephon-Diaphragma. Durch diesen glücklichen Einfall ist es
+                            <lb/>möglich geworden<reg>,</reg> von einer Zentralstelle aus<orig>,</orig> nach allen den mit
+                            <lb/>Drähten verbundenen Plätzen, selbst auf große Entfernungen hin,
+                            <lb/>die Klänge des Apparates zu versenden; und gelungene Experimente
+                            <lb/>haben erwiesen, da<choice><orig>ß</orig><reg>ss</reg></choice> auf diesem Wege weder von den Feinheiten
+                            <lb/>noch von der Macht der Töne etwas eingebüßt wird. Der in
+                            <lb/>Verbindung stehende Raum wird zauberhaft mit Klang erfüllt,
+                            <lb/>einem wissenschaftlich vollkommenen, niemals versagenden Klang,
+                            <lb/>unsichtbar, mühelos und unermüdlich. Dem Bericht, dem ich diese
+                            <lb/>Nachrichten entnehme, sind authentische Photographien des Appa
+                            <lb break="no"/>rates beigegeben, welche jeden Zweifel über die Wirklichkeit
+                            <lb/>dieser allerdings fast unglaublichen Schöpfung beseitigen. Der
+                            <lb/>Apparat sieht aus wie ein Maschinenraum.</p>
+                    </note>
+                    
+                    Dieser Mann hat einen umfangreichen
+                    <lb/>Apparat konstruiert, welcher es ermöglicht<reg>,</reg> einen elektri
+                    <lb break="no"/>schen Strom in eine genau berechnete, unalterable An
+                    <lb break="no"/>zahl Schwingungen zu verwandeln. Da die Tonhöhe
+                    <lb/>von der Zahl der Schwingungen abhängt und der
+                    <lb/>Apparat auf jede gewünschte Zahl zu <soCalled rend="dq-du">stellen</soCalled> ist, so
+                    <lb/>ist durch diesen die unendliche Abstufung der Oktave
+                    <lb/>einfach das Werk eines Hebels, der mit dem Zeiger eines
+                    <lb/>Quadranten korrespondiert.</p>
+                
+                <p>Nur ein gewissenhaftes und langes Experimentieren,
+                    <lb/>eine fortgesetzte Erziehung des Ohres<orig>,</orig> werden dieses
+                    <lb/>ungewohnte Material einer heranwachsenden Generation
+                    <lb/>und der Kunst gefügig machen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <pb n="32"/>
+            
+            <div xml:id="d40-1907" corresp="#d45-1916">
+                
+                <p>Welche schöne Hoffnungen und traumhafte Vor
+                    <lb break="no"/>stellungen erwachen für sie! Wer hat nicht schon im
+                    <lb/>Traume <soCalled rend="dq-du">geschwebt</soCalled>? Und fest geglaubt, da<choice><orig>ß</orig><reg>ss</reg></choice> er den
+                    <lb/>Traum erlebe? – Nehmen wir es uns doch vor, die Musik
+                    <lb/>ihrem Urwesen zurück<orig> </orig>zuführen; befreien wir
+                    <lb/>sie von architektonischen, akustischen und <choice><orig>ae</orig><reg>ä</reg></choice>sthetischen
+                    <lb/>Dogmen; lassen wir sie reine Erfindung und Empfin
+                    <lb break="no"/>dung sein, in Harmonien, in Formen und Klangfarben
+                    <lb/>(denn Erfindung und Empfindung sind nicht allein ein
+                    <lb/>Vorrecht der Melodie); lassen wir sie der Linie des
+                    <lb/>Regenbogens folgen und mit den Wolken um die
+                    <lb/>Wette Sonnenstrahlen brechen; <hi rend="spaced-out">sie sei nichts
+                        <lb/>anderes<choice><orig>, als die Natur</orig><reg> als die Natur,</reg></choice> in der menschlichen
+                        <lb/>Seele abgespiegelt und von ihr wieder zu
+                        <lb break="no"/>rückgestrahlt</hi>; ist sie doch tönende Luft und über
+                    <lb/>die Luft hinaus<orig> </orig>reichend; im Menschen selbst ebenso
+                    
+                    <pb n="33"/>
+                    
+                    universell und vollständig wie im Weltenraum; denn
+                    <lb/>sie kann sich zusammenballen und auseinanderfließen<reg>,</reg>
+                    <lb/>ohne an Intensität nachzulassen.</p>
+                
+            </div>
+            
+            <milestone unit="section" style="***" type="low-high-low" rend="align(center)"/>
+            
+            <div xml:id="d41-1907" corresp="#d46-1916">
+                
+                <p>In seinem Buche <title key="E0400054" rend="dq-du">Jenseits von Gut und Böse</title>
+                    <lb/>spricht <persName key="E0300090">Nietzsche</persName>:</p>
+                
+                <note type="commentary" resp="#E0300314">Das Zitat umfasst den gesamten <ref type="ext" target="https://archive.org/stream/jenseitsvongutu00nietgoog#page/n233/mode/2up">Abschnitt Nr.&#8239;255</ref>. Busonis Zitierpraxis (bzw. die des Verlages) folgt in Orthographie und Interpunktion den bis 1906 verfügbaren Ausgaben recht frei; wir weisen nur bedeutendere Abweichungen von der <rs key="E0400054">Erstausgabe</rs> nach.</note>
+                
+                <quote>
+                    <p><anchor subtype="quoteStart" type="delimiter" rend="dq-du"/>Gegen die deutsche Musik halte ich mancher
+                        <lb break="no"/>lei Vorsicht für geboten. Gesetzt, daß man
+                        
+                        <note type="commentary" resp="#E0300314">Bei <bibl><ref target="#E0400054">Nietzsche 1886</ref> (219)</bibl>: <quote source="#E0400054">Einer</quote>.</note>
+                        
+                        den
+                        <lb/>Süden liebt, wie ich ihn liebe, als eine große
+                        <lb/>Schule der Genesung, im Geistigsten und Sinn
+                        <lb break="no"/>lichsten, als eine unbändige Sonnenfülle und
+                        <lb/>Sonnenverklärung, welche sich über ein selbst
+                        <lb break="no"/>herrliches, an sich glaubendes Dasein breitet: nun,
+                        <lb/>ein solcher wird sich etwas vor der deutschen
+                        <lb/>Musik in Acht nehmen lernen, weil sie, indem sie
+                        <lb/>seinen Geschmack zurückverdirbt, ihm die Gesund
+                        <lb break="no"/>heit mit zurückverdirbt.</p>
+                    
+                    <p>Ein solcher Südländer, nicht der Abkunft,
+                        <lb/>sondern dem Glauben 
+                        
+                        <note type="commentary" resp="#E0300314">Bei 
+                            <cit><bibl><ref target="#E0400054">Nietzsche 1886</ref> (220)</bibl> <quote source="#E0400054">Glauben</quote></cit> mit Hervorhebung.</note>
+                        
+                        nach, muß falls er von der
+                        <lb/>Zukunft der Musik träumt, auch von einer Erlösung
+                        <lb/>der Musik vom Norden träumen und das Vorspiel
+                        <lb/>einer tieferen, mächtigeren, vielleicht böseren und
+                        <lb/>geheimnisvolleren Musik in seinen Ohren haben,
+                        <lb/>einer überdeutschen Musik, welche vor dem An
+                        <lb break="no"/>blick des blauen, wollüstigen Meeres und der
+                        <lb/>mittelländischen Himmelshelle nicht verklingt,
+                        <lb/>vergilbt, verblaßt, wie es alle deutsche Musik
+                        <lb/>tut, einer übereuropäischen Musik, die noch vor
+                        <lb/>den braunen Sonnenuntergängen der Wüste Recht
+                        <lb/>behält, deren Seele mit der Palme verwandt ist
+                        <lb/>und unter großen, schönen, einsamen Raubtieren
+                        <lb/>heimisch zu sein und zu schweifen versteht. – –</p>
+                    
+                    <p>Ich könnte mir eine Musik denken, deren
+                        <lb/>seltenster Zauber darin bestände, daß sie von
+                        
+                        <pb n="34"/>
+                        
+                        Gut und Böse
+                        
+                        <note style="*-repeat" place="bottom" n="1">
+                            <p>Hier macht sich <persName key="E0300090">Nietzsche</persName> eines Widerspruchs schuldig<supplied>;</supplied>
+                                <lb/>träumt er vorher von einer vielleicht <soCalled rend="dq-du">böseren</soCalled> Musik, so denkt
+                                <lb/>er sich jetzt eine Musik, die <quote source="#E0400054" rend="dq-du">von Gut und Böse nichts mehr
+                                    <lb/>wü<choice><orig>ß</orig><reg>ss</reg></choice>te</quote>; – doch war mir bei der Anführung, um den letzteren
+                                <lb/>Sinn zu tun.</p>
+                        </note>
+                        
+                        nichts mehr wüßte, nur daß
+                        <lb/>vielleicht irgend ein Schiffer-Heimweh, irgend welche
+                        <lb/>goldne Schatten und zärtliche Schwächen hier
+                        <lb/>und da über sie hinwegliefen: eine Kunst, welche
+                        <lb/>von großer Ferne her die Farben einer unter
+                        <lb break="no"/>gehenden, fast unverständlich gewordenen <hi rend="spaced-out">mora
+                            <lb break="no"/>lischen</hi> Welt zu sich flüchten sähe, und die
+                        <lb/>gastfreundlich und tief genug zum Empfang
+                        <lb/>solcher späten Flüchtlinge wäre. –<anchor subtype="quoteEnd" type="delimiter" rend="dq-du"/></p>
+                </quote>
+                <p>Und <persName key="E0300091">Tolstoj</persName> lä<choice><orig>ß</orig><reg>ss</reg></choice>t einen landschaftlichen Eindruck
+                    <lb/>zu Musik-Empfindung werden, wenn er in <title key="E0400055" rend="dq-du">Luzern</title>
+                    <lb/>schreibt:
+                    
+                    <quote rend="indent dq-du">Weder auf dem See, noch an den Bergen,
+                        <lb/>noch am Himmel eine einzige gerade Linie, eine
+                        <lb/>einzige ungemischte Farbe, ein einziger Ruhepunkt
+                        <lb/>– überall Bewegung, Unregelmäßigkeit, Willkür,
+                        <lb/>Mannigfaltigkeit, unaufhörliches Ineinanderfließen
+                        <lb/>von Schatten und Linien, und in Allem die Ruhe,
+                        <lb/>Weichheit, Harmonie und Notwendigkeit des
+                        <lb/>Schönen.</quote>
+                    
+                    Wird diese Musik jemals erreicht?
+                    
+                    <quote rend="indent dq-du">Nicht alle erreichen das Nirwana; aber Jener,
+                        <lb/>der von Anfang an begabt, alles kennen lernt
+                        <lb/>was man kennen soll, alles durchlebt, was man
+                        <lb/>durchleben soll, verläßt, was man verlassen soll,
+                        <lb/>entwickelt, was man entwickeln soll, verwirklicht,
+                        <lb/>was man verwirklichen soll, der gelangt zum
+                        
+                        <pb n="35"/>
+                        
+                        Nirwana</quote>
+                    
+                    <note style="*-repeat" place="bottom" n="1"><p>Wie auf Verabredung schreibt mir dieser Tage
+                        <lb/><persName key="E0300016">Mr. Vincent d’<orig> </orig>Indy</persName> <quote xml:lang="fr" rend="dq-du">.... laissant de côté les contingences
+                            <lb/>et les petitesses de la vie pour regarder constamment vers
+                            <lb/>un id<choice><sic>e</sic><corr>é</corr></choice>al qu’on ne pourra jamais atteindre, mais dont il est
+                            <lb/>permis de se rapprocher.</quote> –</p>
+                    </note>
+                    
+                    <bibl>(<author><persName key="E0300092">Kern</persName></author>, <title key="E0800044" rend="dq-du">Geschichte des Buddhismus in
+                        <lb/>Indien</title>).</bibl></p>
+                
+                <p>Ist Nirwana das Reich <soCalled rend="dq-du">Jenseits von Gut und
+                    <lb/>Böse</soCalled>, so ist hier <hi rend="spaced-out">ein</hi> Weg dahin gewiesen. Bis an
+                    <lb/>die Pforte. Bis an das Gitter, das Menschen und
+                    <lb/>Ewigkeit trennt – oder das sich auftut, das Zeitlich<choice><orig> <lb/></orig><reg>-
+                        <lb break="no"/></reg></choice>Gewesene einzulassen. Jenseits der Pforte ertönt
+                    <lb/><hi rend="spaced-out">Musik</hi>. Keine Tonkunst.
+                    
+                    <note style="*-repeat" place="bottom" n="2"><p>Ich glaube gelesen zu haben, da<choice><orig>ß</orig><reg>ss</reg></choice> <persName key="E0300013"><hi rend="spaced-out">Liszt</hi></persName> seine <title key="E0400056">Dante-
+                        <lb break="no"/>Symphonie</title> auf die beiden Sätze <q rend="dq-du">Inferno</q> und <q rend="dq-du">Purgatorio</q> be
+                        <lb break="no"/>schränkte, <q rend="dq-du"><hi rend="spaced-out">weil unsere Tonsprache für die Seligkeiten
+                            <lb/>des Paradieses nicht ausreichte</hi>.</q></p>
+                    </note>
+                    
+                    – Vielleicht, da<choice><orig>ß</orig><reg>ss</reg></choice> wir erst
+                    <lb/>selbst die Erde verlassen mü<choice><orig>ß</orig><reg>ss</reg></choice>en, um sie zu finden.
+                    <lb/>Doch nur dem Wanderer, welcher der irdischen Fesseln
+                    <lb/>unterwegs sich zu entkleiden gewu<choice><orig>ß</orig><reg>ss</reg></choice>t, öffnet sich das
+                    <lb/>Gitter. –</p>
+                
+            </div>
+            
+            <dateline rend="align(right)"><date when-iso="1906-11">November 1906</date>.</dateline>
+        </body>
+        
+        <back xml:id="d42-1907" corresp="#b47-1916">
+            
+            <pb n="36"/>
+            
+            <div type="colophon">
+                <p rend="small">Berliner Musikalien Druckerei G. m. b. H., <placeName key="E0500017">Charlottenburg</placeName>.</p>
+            </div>
+            
+        </back>
+    </text>
+</TEI>

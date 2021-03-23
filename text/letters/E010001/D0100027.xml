@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Zehlendorf, 24. Oktober 1911)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Zehlendorf, 24 October 1911)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300315">
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno type="D-B">Mus.Nachl. F. Busoni B II, 4557</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 18 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno type="kalliope">DE-611-HS-736428</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary> <persName key="E0300023">Schönberg</persName> fragt <persName key="E0300017">Busoni</persName> nach einem Besuchstermin.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1911-10-24"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1911-10-24"/></docDate>
+                            <incipit>ich bin jetzt mit der Instandsetzung meiner Wohnung</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_st3" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Namensstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="archivist">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/>
+                            
+                            <note type="stamp" place="right" resp="#post">
+                                <stamp rend="round border align(center)" xml:id="post_abs">
+                                    <placeName key="E0500056" rend="majuscule">Zehlendorf</placeName>
+                                    <lb/><date when-iso="1911-10-24">24 10.11</date>.3–4 N.
+                                    <lb/>(Wannseebahn) 1b
+                                </stamp>
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="latin align(right)"><placeName key="E0500029">Berlin</placeName> W 30</addrLine>
+                                <addrLine rend="latin align(right)"><placeName key="E0500072">Viktoria<choice><orig> Luisep</orig><reg>-Luise-P</reg></choice>latz 11</placeName></addrLine>
+                            </address>
+                            
+                            <pb n="6"/>
+                            
+                            <address rend="latin align(center)">
+                                <addrLine><stamp resp="#schoenberg_st3" rend="majuscule inline"><persName key="E0300023">Arnold Schönberg</persName></stamp></addrLine>
+                                <addrLine><placeName key="E0500056">Zehlendorf</placeName>-Wannseebahn</addrLine>
+                                <addrLine><placeName key="E0500449">Machnower Chaussee</placeName></addrLine>
+                                <addrLine><placeName key="E0500058">Villa Lepcke</placeName></addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive" rend="space-above">
+                                <subst>
+                                    <del><stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#arch_red"/>B II</stamp></del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 4557-Beil.</add>
+                                    <lb/><del rend="strikethrough">Mus.ep. A. Schönberg 18</del>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500056">Zehlendorf</origPlace>
+                            <origDate when-iso="1911-10-24"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S.&#8239;189</bibl>
+                            <bibl><ref target="#E0800005"/>, S.&#8239;191 (Brief), S.&#8239;109 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 413</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100027">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1911-10-24"/>
+                    <placeName ref="http://www.geonames.org/2805059" key="E0500056">Zehlendorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100026"/>
+                    <ref type="next" target="#D0100028"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-03-15" who="#E0300315"> Datei als Platzhalter erstellt, Transkription ausstehend. </change>
+            <change when-iso="2016-04-11" who="#E0300315"> Ersttranskription, Überarbeitung und Kommentierung ausstehend.</change>
+            <change when-iso="2018-02-11" who="#E0300314">Codierung durchgesehen; status proposed</change>
+            <change when-iso="2020-01-20" who="#E0300550">Korrekturlesung abgeschlossen; status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839140916/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3800000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3800000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3800000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3800000004"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3800000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA3800000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <dateline rend="margin-right">
+                        <date when-iso="1911-10-24"><choice><orig>24/10. 1911</orig><reg>24.10.1911</reg></choice></date>
+                    </dateline>
+                    <byline>
+                        <address rend="latin space-below">
+                            <addrLine><stamp resp="#schoenberg_st3" rend="majuscule inline"><persName key="E0300023">Arnold Schönberg</persName></stamp></addrLine>
+                            <addrLine><placeName key="E0500056">Zehlendorf</placeName>-Wannseebahn,</addrLine>
+                            <addrLine><placeName key="E0500449">Machnower Chaussee</placeName></addrLine>
+                            <addrLine><placeName key="E0500058">Villa Lepcke</placeName></addrLine>
+                        </address>
+                    </byline>
+                                        
+                </opener>
+                    <p rend="indent-first"><seg type="opener" subtype="salute">Sehr verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> 
+                    ich bin jetzt
+                    <lb/>mit der Instandsetzung meiner Wohnung fertig
+                    
+                    <note type="commentary" resp="#E0300313"><persName key="E0300023">Schönberg</persName> war am <date when-iso="1911-10-01">1. Oktober 1911</date> in die <placeName key="E0500058">Villa Lepcke</placeName> in <placeName key="E0500056">Zehlendorf</placeName> gezogen.</note>
+                    
+                    <lb/>und möchte Sie (ich hatte bis dahin keine Zeit) 
+                    <lb/>nun sehr gerne bald besuchen. Wann treffe ich
+                    <lb/>Sie einmal allein? Hätten Sie die Liebens
+                    <lb break="no"/>würdigkeit, mir eine Zeile zu schreiben? <seg type="closer" subtype="salute">Mit
+                        <lb/>ergebensten Grüßen</seg> <seg type="closer" subtype="signed">Ihr <persName key="E0300023">Arnold Schönberg</persName></seg></p>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red"><stamp rend="round border align(center) small">Deutsche<lb/>Staatsbibliothek<lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName></stamp></note>
+                
+                <note type="shelfmark" place="right" resp="#pencil" rend="align(center)">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. A. Schönberg 18 (Busoni-Nachl.<lb/><handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 4557</add>
+                    </subst>
+                </note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue"><stamp>Nachlaß Busoni</stamp></note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                
+                <pb n="2"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 2 des Bogens, vacat]</note>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 3 des Bogens]</note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 4 des Bogens, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

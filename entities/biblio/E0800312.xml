@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800312">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mill / von der Linn 2001</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-08-28" who="#E0300327">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <forename>Rodney</forename>
+                     <surname>Mill</surname>
+                  </author>
+                  <author>
+                     <forename>Michael</forename>
+                     <nameLink>von der</nameLink>
+                     <surname>Linn</surname>
+                  </author>
+                  <title level="a"><persName key="E0300093">Leichtentritt, Hugo</persName></title>
+               </analytic>
+               <monogr>
+                  <editor>
+                     <forename>Stanley</forename>
+                     <surname>Sadie</surname>
+                  </editor>
+                  <title level="m">The New Grove Dictionary of Music and Musicians</title>
+                  <edition>Second Edition</edition>
+                  <imprint>
+                     <date when-iso="2001"/>
+                  </imprint>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="page">502-503</biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sibelius-Akademie</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="conservatory">
+               <idno type="GND">1087104-4</idno>
+               <orgName>
+                  <persName key="E0300177">Sibelius</persName>-Akademie</orgName>
+               <desc><persName key="E0300017">Busoni</persName> unterrichtete hier <date when-iso="1888/1890">zwischen 1888 und 1890</date> Klavier (<bibl><ref target="#E0800016"/>, S. 17 ff.</bibl>). <date when-iso="1882">1882</date> als <soCalled>Musikinstitut <placeName key="E0500270">Helsinki</placeName></soCalled> von <persName key="E0300207">Martin Wegelius</persName> gegründet und <date when-iso="1924">1924</date> in <soCalled><persName key="E0300177">Sibelius</persName>-Akademie</soCalled> umbenannt.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

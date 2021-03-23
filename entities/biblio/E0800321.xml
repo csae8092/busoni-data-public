@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800321">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni 1920 (Weindel 2006)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-09-09" who="#E0300361">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <title level="a"><q>Junge Klassizität</q></title>
+                  <date when-iso="1920"/>
+               </analytic>
+               <monogr>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <editor>
+                     <forename>Martina</forename>
+                     <surname>Weindel</surname>
+                  </editor>
+                  <title level="m">Von der Einheit der Musik</title>
+                  <title level="m" type="sub">Von Dritteltönen und Junger Klassizität, von Bühnen und Bauten und anschließenden Bezirken</title>
+                  <title level="m" type="sub">Verstreute Aufzeichnungen</title>
+                  <idno type="DNB">983816646</idno>
+                  <edition>Kritische und kommentierte Neuausgabe</edition>
+                  <imprint>
+                     <pubPlace>Wilhelmshaven</pubPlace>
+                     <publisher>Florian-Noetzel-Verlag</publisher>
+                     <publisher>Heinrichshofen-Bücher</publisher>
+                     <date when-iso="2006"/>
+                  </imprint>
+                  <biblScope unit="page">95&#8239;f. (Text), 217–219 (Kommentar)</biblScope>
+               </monogr>
+               <series>
+                  <title level="s">Quellenkataloge zur Musikgeschichte</title>
+                  <biblScope unit="volume">36</biblScope>
+               </series>
+               <note>Es handelt sich bei diesem Beitrag im Original um einen <ref type="E010006" target="#D0100404">Brief</ref> an <persName key="E0300111">Paul Bekker</persName>, der am <date when-iso="1920-02-07">7.&#160;Februar 1920</date> in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName> unter dem Titel <title key="E0800320"><q>Neue Klassizität</q>?</title> veröffentlicht wurde.</note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

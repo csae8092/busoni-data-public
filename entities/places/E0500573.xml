@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500573">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hotel Kaiserhof (Berlin)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Hotel Kaiserhof</placeName>
+               <location>
+                  <address>
+                     <addrLine>
+                        <placeName type="street">Wilhelmplatz 3–5</placeName>
+                     </addrLine>
+                     <addrLine>
+                        <settlement key="E0500029">Berlin</settlement>
+                     </addrLine>
+                  </address>
+                  <country key="DXDE" to-iso="1943"/>
+                  <geo>52.51165 13.385425</geo>
+               </location>
+               <desc>Erstes Luxushotel in <placeName key="E0500029">Berlin</placeName>; zudem Betreiber des <placeName key="E0500576">Romanischen Cafés</placeName> und einer Stadtküche (eine Art Catering-Service für Hochzeiten, Diners etc.). <date when-iso="1873/1875">1873–75</date> durch die <orgName key="E0600130">Berliner Hotelgesellschaft</orgName> erbaut; <date when-iso="1875">1875</date> eröffnet; wenige Tage nach der Eröffnung durch Großbrand zerstört; Wiederaufbau und <date when-iso="1876">1876</date> Neueröffnung; ab <date from-iso="1932">1932</date> Wohnsitz <persName key="E0300506">Adolf Hitlers</persName> und provisorische Parteizentrale der <orgName key="E0600092">NSDAP</orgName>; im <date when-iso="1943-11">November 1943</date> durch mehrere Bombeneinschläge zerstört; <date when-iso="1974">1974</date> Bau eines Botschaftsgebäudes für <placeName key="E0500575">Nordkorea</placeName> auf demselben Grundstück.</desc>
+               <idno type="GND">4732177-5</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

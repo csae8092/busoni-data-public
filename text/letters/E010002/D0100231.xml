@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100231">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Hans Huber an Ferruccio Busoni (Locarno, 12. April 1916)</title>
+                <title xml:lang="en">Letter by Hans Huber to Ferruccio Busoni (Locarno, 12 April 1916)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2260</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 33 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621746</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> ersehnt von <placeName key="E0500183">Locarno</placeName> aus das nahe <placeName key="E0500013">Italien</placeName>; geht auf <persName key="E0300017">Busonis</persName> Kritik am Libretto der Oper <title key="E0400156">Die schöne Bellinda</title> ein; erwähnt einen <q><rs key="E0400260">nächsten Stoff</rs></q>; registriert erfreut <persName key="E0300017">Busonis</persName> Erfolge in <placeName key="E0500132">Zürich</placeName>; erbittet einen Klavierauszug der <title key="E0400120">Indianischen Fantasie</title>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-04-12"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-04-13"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1916-04-13"/></docDate>
+                            <incipit>Ich lebe am Saume des <soCalled rend="dq-du"><rs key="E0500013">gelobten Landes</rs></soCalled></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Gefalteter Briefbogen ab Briefkopf beschrieben (Seite 2–4 des Bogens).</collation>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in blauer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="5"/>
+                            
+                            <fw place="top">
+                                <figure>
+                                    <figDesc>
+                                        Ansicht des <placeName key="E0500215">Grand Hôtel</placeName> <placeName key="E0500183">Locarno</placeName>
+                                        am <placeName key="E0500216">Lago Maggiore</placeName>
+                                    </figDesc>
+                                </figure>
+                            </fw>
+                            
+                            <note type="stamp" resp="#post" place="center">
+                                <stamp rend="round border majuscule align(center)" xml:id="post_abs">
+                                    <placeName key="E0500183">Locarno</placeName>
+                                    <lb/><date when-iso="1917-04-13">13.IV.16</date>.X–
+                                </stamp>
+                            </note>
+                            
+                            <fw place="right large">
+                                <placeName key="E0500215">Grand Hôtel</placeName> <placeName key="E0500183">Lo<supplied reason="paste-over">carno</supplied></placeName>
+                            </fw>
+                            
+                            <note type="stamp" resp="#post" place="right">
+                                <stamp rend="round border majuscule align(center)" sameAs="#post_abs">
+                                    <placeName key="E0500183">Locarno</placeName>
+                                    <lb/><date when-iso="1917-04-13">13.IV.16</date>.X–
+                                </stamp>
+                            </note>
+                            
+                            <fw place="center" rend="majuscule align(center) tiny">
+                                <lb/>(<placeName key="E0500216">Lac majeur</placeName>) <placeName key="E0500183" rend="larger">Locarno</placeName> (<placeName key="E0500092">Suisse</placeName>)
+                                <lb/>Ouvert toute l’année · Saison d’hive<supplied reason="paste-over">r</supplied>
+                                <lb/>Confort le plus moderne · Plein mid<supplied reason="paste-over">i</supplied>
+                            </fw>
+                            
+                            <note type="stamp" place="center" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            
+                            <fw place="left" rend="majuscule tiny">
+                                <hi rend="bold">Balli &amp; C.</hi> Prop.
+                            </fw>
+                            
+                            <fw place="margin-left" rend="tiny majuscule rotate(-90)">
+                                A. Trüb &amp; C<hi rend="sup underline tiny">ie</hi> Aarau-Lugano (Suisse)
+                            </fw>
+                            
+                            <address rend="indent">
+                                <addrLine>Herrn <persName key="E0300017" rend="latin">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="indent"><hi rend="underline"><placeName key="E0500132">Zürich</placeName></hi></addrLine>
+                                <addrLine rend="indent"><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                            </address>
+                            
+                            <note resp="#major_hand" type="annotation" place="margin-left" rend="rotate(45)">Abs. Dr. <persName key="E0300125">Hans Huber</persName></note>
+                            
+                            <pb n="6"/>
+                            
+                            <note type="stamp" resp="#post" place="center">
+                                <stamp rend="round border majuscule align(center) rotate(-90)" xml:id="post_rec">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/><date when-iso="1916-04-13">13.IV.16</date>.–11
+                                    <lb/>Brf. Exp.
+                                </stamp>
+                            </note>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough"><handShift new="#sbb_st_blue"/><stamp>Nachlaß Busoni <handShift new="#archive_red"/>B II</stamp><handShift new="#archive"/>Mus.ep. H. Huber 33</del>
+                                    <add place="below">Mus.Nachl. F. Busoni B II, 2260-Beil.</add>
+                                </subst>
+                            </note>
+                            
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500183">Locarno</origPlace>
+                            <origDate when-iso="1916-04-12"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100231">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-04-12"/>
+                    <placeName ref="http://www.geonames.org/2659869/" key="E0500183">Locarno</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">ORT</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100124"/>
+                    <ref type="repliedBy" target="#D0100125"/>
+                    <ref type="previous" target="#D0100124"/>
+                    <ref type="next" target="#D0100125"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+            <change when-iso="2017-11-10" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873369971/manifest">
+        <graphic n="1" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB600000002"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB600000003"/>
+        <graphic n="3" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB600000004"/>
+        <graphic n="4" corresp="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB600000001"/>
+        <graphic n="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB600000005"/>
+        <graphic n="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EAB600000006"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <fw place="top-center large">
+                    <figure>
+                        <figDesc>
+                            Ansicht des <placeName key="E0500215">Grand Hôtel</placeName> <placeName key="E0500183">Locarno</placeName>
+                            am <placeName key="E0500216">Lago Maggiore</placeName>
+                        </figDesc>
+                    </figure>
+                    
+                    <placeName key="E0500215">Grand Hôtel</placeName> <placeName key="E0500183">Locarno</placeName>
+                    
+                </fw>
+                
+                <fw place="margin-left" rend="majuscule align(center) tiny">
+                    Ouvert toute l’année
+                    <lb/>Plein midi
+                    <lb/>Saison d’hiver
+                    <lb/>Confort le plus moderne
+                    <lb/><hi rend="bold">Balli &amp; C.</hi> Prop.
+                </fw>
+                
+                <fw place="margin-right" rend="majuscule tiny">
+                    <placeName key="E0500216">Lac Majeur</placeName> – <placeName key="E0500092">Suisse</placeName>
+                </fw>
+                
+                <opener>
+                    <dateline rend="right">                    
+                        <fw place="center inline">
+                            <placeName key="E0500183">Locarno</placeName>,
+                        </fw>
+                        <date when-iso="1916-04-12">12<choice><orig> Aprile</orig><reg>. April</reg></choice></date>
+                    </dateline>
+                    <salute rend="indent">Lieber Freund!</salute>
+                </opener>
+                
+                <p rend="indent-first">Ich lebe am Saume des
+                    <lb/><soCalled rend="dq-du"><rs key="E0500013">gelobten Landes</rs></soCalled>, sehe von ferne
+                    <lb/>herüber <choice><abbr>&amp;</abbr><expan>und</expan></choice> ka<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> meine Sehnsucht
+                    <lb/>nicht erfüllen. Das ist schade,
+                    <lb/>de<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> es ist für das geistige Leben
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> die eigene Kultur absolut
+                    <lb/>wichtig<reg>,</reg> von Zeit zu Zeit unterzu
+                    <lb break="no"/>tauchen in den alten Kla<choice><orig>ß</orig><reg>ss</reg></choice>izismus
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> de<choice><orig>ß</orig><reg>ss</reg></choice>en <choice><orig>Ue</orig><reg>Ü</reg></choice>berentwicklung in
+                    <lb/>den Baro<reg>c</reg>k! <foreign xml:lang="la">Item</foreign>, auch
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                    
+                    hier fühlt man schon etwas davon<reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice>
+                    <lb/>we<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> es nur einfache Paläste oder
+                    <lb/>noch einfachere Kirchen sind. Die
+                    <lb/><unclear reason="illegible" cert="high">Tinten</unclear> der Natur gehen ja schon in
+                    <lb/>die <rs key="E0500390"><placeName key="E0500389">Umbrischen</placeName> Berge</rs> hinüber! –</p>
+                
+                <p rend="indent-first">Sie mögen mit Ihrer Ansicht
+                    <lb/>über den <rs key="E0400156">Bellinda</rs><choice><orig>t</orig><reg>-T</reg></choice>ext ganz recht
+                    <lb/>haben; meine Musiknatur geht aber
+                    <lb/>säuberlich dem <soCalled rend="dq-du">bürgerlichen Gesetzbuch</soCalled>
+                    <lb/>aus dem Wege <choice><abbr>&amp;</abbr><expan>und</expan></choice> bleibt bei der Sage
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> dem Märchen. <rs key="E0400260">Der nächste Stoff</rs>
+                    <lb/>führt ins <placeName key="E0500391">Wallis</placeName> in die Gletscherwelt
+                    <lb/><choice><abbr>&amp;</abbr><expan>und</expan></choice> behandelt eine alte Sage vom
+                    <lb/>großen <choice><orig>Ue</orig><reg>Ü</reg></choice>berrecht der Naturgewalten
+                    <lb/>über alles Menschliche. Da<choice><orig>ß</orig><reg>ss</reg></choice> man
+                    <lb/>das Rein-Menschliche <add place="above">dabei</add> nicht verge<choice><orig>ß</orig><reg>ss</reg></choice>en
+                    <lb/>darf, ist ja klar; dasselbe kam
+                    <lb/>aber auch viel mehr in der <rs key="E0400156">Bellinda</rs>
+                    <lb/>in der Wiedergabe zum Rechte, als
+                    <lb/>ich es je <del rend="strikethrough"><gap reason="strikethrough" atLeast="3" unit="char"/></del> ahnen durfte<reg>,</reg> <choice><abbr>&amp;</abbr><expan>und</expan></choice> verhalf
+                    <lb/>dem Werke auch beim <soCalled rend="dq-du">Volke</soCalled> zu
+                    <lb/>einem warmen Erfolge!</p>
+                
+                <p rend="indent-first">Was letzteres anbelangt, so
+                    <lb/>lese ich mit großer Freude die
+                    
+                    <pb n="3"/>
+                    
+                    Berichte über Ihr Wirken <choice><abbr>&amp;</abbr><expan>und</expan></choice> Schaffen
+                    <lb/>in <placeName key="E0500132">Zürich</placeName>. Ihr <placeName key="E0500092">Schweizer</placeName><choice><orig>a</orig><reg> A</reg></choice>ufenthalt
+                    <lb/>wird doch dadurch zu etwas gestempelt,
+                    <lb/>das Ihnen <choice><abbr>&amp;</abbr><expan>und</expan></choice> uns zum <hi rend="underline">seltenen</hi>
+                    <lb/>gegenseitigen <del rend="strikethrough"><gap reason="strikethrough" atLeast="3" unit="char"/></del> Austausche verhilft.
+                    <lb/>Das 50. Lebensjahr darf <soCalled rend="dq-du">weiß-rot<orig>h</orig></soCalled>
+                    <lb/>angezeichnet werden! –</p>
+                
+                <p>Besitzen Sie noch ein Klavierauszug
+                    <lb break="no"/>exemplar Ihrer <rs key="E0400120">ind. Klaviersymphonie</rs>?
+                    <lb/>Vergebens suchte ich bei <orgName key="E0600043">Hug</orgName> nach
+                    <lb/>einem solchen, um es hier in aller
+                    <lb/>Ruhe durchstudi<reg>e</reg>ren zu kö<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>en!</p>
+                
+                <p rend="indent-first">Die schönsten südlichen
+                    <lb/>Grüße aus <add place="above">dem</add> warmen<reg>,</reg> so<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>endurch
+                    
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb break="no"/>tränkten <placeName key="E0500183">Locarno</placeName></p>
+                
+                <closer>
+                    <salute rend="align(center)">von Ihrem</salute>
+                    <signed rend="align(right)"><persName key="E0300125">Hans Huber</persName></signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. H. Huber 33 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 2260</add>
+                    </subst>
+                </note>
+
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

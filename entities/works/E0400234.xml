@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400234">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liszt, Franz: Études d’exécution transcendante d’après Paganini (dt.: Bravour-Studien nach Paganini’s Capricen)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300013">Franz Liszt</author>
+                  <title level="m" xml:lang="fr">Études d’exécution transcendante d’après <persName key="E0300081">Paganini</persName></title>
+                  <title level="m" xml:lang="de">Bravour-Studien nach <persName key="E0300081">Paganini</persName>’s Capricen</title>
+                  <idno type="wcat">S&#160;140</idno>
+                  <idno type="wcat">R&#160;3a</idno>
+                  <idno type="GND">300701640</idno>
+                  <imprint>
+                     <date when-iso="1838/1840" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1840" type="firstprint"/>
+                     <publisher>
+                        <orgName key="E0600166">Schonenberger</orgName>
+                     </publisher>
+                     <pubPlace key="E0500012">Paris</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100408"><!-- header ok; 2. Korrekturlesung durch -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt> 
+                <title xml:lang="de">Brief von Ferruccio Busoni an Paul Bekker (Zürich, 29. Mai 1920)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Paul Bekker (Zurich, 29 May 1920)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300416">
+                        <forename>Angelina</forename>
+                        <surname>Smyschlajew</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-NH">Yale University, Irving S. Gilmore Music Library, New Haven, CT</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>New Haven (CT)</settlement>
+                        <institution key="US-NH">Gilmore Music Library</institution>
+                        <collection>The Paul Bekker Papers</collection>
+                        <idno>MSS 50, I.A. Correspondence - Individual, A-E: Box 2, Folder 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> bittet um Rücksendung seines <q><placeName key="E0500027">Bayreuther</placeName> Briefes</q>; sinniert über seine Arbeitsweise <q>als Schreiber wie auch als Komponist</q>, die es oft notwendig macht, <q>aus dem Gesagten das Unausgesprochene zu folgern</q>; betont, dass er mit seinem Urteil über <persName key="E0300006">Wagner</persName> nicht allein dasteht und seine Ausführungen zum Thema keinesfalls nur eine <q>momentane Aufwallung</q> sind.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-05-29"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1920-05-29"/></docDate>
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1920-06-01"/></docDate>
+                            <docDate resp="#label_censor"><date when-iso="1918-11-15"/></docDate>
+                            <incipit><date when-iso="1920-05-28">gestern</date> – gleich nach Empfang <ref type="E010006" target="#D0100406">Ihres Briefes</ref> – depeschierte ich an Sie</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Blatt</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten; Umschlagaufriss seitlich (an der Zensurklebung), ohne Textverlust.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift</handNote>
+                            <handNote xml:id="major_hand_red" scope="minor" medium="red_pen" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, der den Hinweis <q>Einschreiben</q> auf dem Umschlag rot unterstrichen hat</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="label" scope="minor" medium="black_print" scribe="postoffice">
+                                Postaufkleber</handNote>
+                            <handNote xml:id="label_censor" scope="minor" medium="black_print" scribe="censor">
+                                Verschlusszettel (Zensur)</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="4"/>
+                            
+                            <note type="stamp" place="margin-right" rend="small" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1920-05-29">29 V.20</date>.•19
+                                    <lb/>VIII
+                                    <lb/>Bahnh<supplied reason="illegible">of</supplied>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="right-of" rend="small" resp="#post">
+                                <stamp sameAs="#post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1920-05-29">29 V.20</date>.•19
+                                    <lb/>VIII
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine rend="align(left)">D<seg rend="sup small">r̲.</seg> <persName key="E0300017"><choice><abbr>F.</abbr><expan>Ferruccio</expan></choice> Busoni</persName>, <placeName key="E0500132">Zürich</placeName> 6<orig>.</orig></addrLine>
+                            </address>
+                            <hi rend="underline" resp="#major_hand_red">Einschreiben</hi><lb/>
+                            <note type="label" place="margin-left" rend="square border align(center)" resp="#label">
+                                <table>
+                                    <row>
+                                        <cell rend="bold scale(1.3,1.7)">R</cell>
+                                        <cell rend="tiny">
+                                            <placeName key="E0500132">Zürich</placeName> 3 Bahnhof
+                                            <lb/><seg rend="bold spaced-out">№ 95</seg>
+                                        </cell>
+                                    </row>
+                                </table>
+                            </note><lb/><lb/><lb/><lb/>
+                            <address rend="align(center)">
+                                <addrLine>Herrn <persName key="E0300111">Paul Bekker</persName><orig>,</orig></addrLine>
+                                <addrLine><hi rend="underline"><placeName key="E0500462">Hofheim (<placeName key="E0500654">Taunus</placeName>)</placeName></hi></addrLine>
+                                <addrLine><placeName key="E0500470">Kapellen<choice><abbr>str.</abbr><expan>straße</expan></choice> 2</placeName><orig>.</orig></addrLine>
+                            </address>
+                            
+                            <pb n="5"/>
+                            
+                            <note type="label" place="top-center" rend="rotate(90) space-below" resp="#label_censor">
+                                <label>
+                                    <seg rend="align(left) tiny">8</seg>
+                                    <seg rend="align(center) small">Auf Grund
+                                    <lb/>der Verord<supplied reason="damage">n</supplied>ung vom <date when-iso="1918-11-15">15. November 1918</date>
+                                    <lb/>(Reichsges<supplied reason="damage">e</supplied>tzblatt S. 1324) geöffnet.</seg>
+                                </label>
+                            </note>
+                            <note type="stamp" place="center" rend="small" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center) rotate(180)">
+                                    <placeName key="E0500462">Hofheim</placeName>
+                                    <lb/><date when-iso="1920-06-01">–1.6.20</date>.5-6V
+                                    <lb/>⭑ (<placeName key="E0500654">Taunus</placeName>) <seg rend="minuscule">a</seg>
+                                </stamp>
+                            </note>                     
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>    
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1920-05-29"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100408">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1920-05-29"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100406"/>
+                    <ref type="previous" target="#D0100407"/>
+                    <ref type="next" target="#D0100409"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="unfinished">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Kommentare ausstehend, status todo.</change>
+            <change when-iso="2018-03-26" who="#E0300416">status=unfinished</change>
+            <change when-iso="2018-04-03" who="#E0300416">proposed</change>
+            <change when-iso="2018-06-06" who="#E0300314">status zurückgesetzt auf unfinished</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <opener>
+                    <dateline rend="align(right) space-below">
+                        <placeName key="E0500132">Z<choice><orig>u</orig><reg>ü</reg></choice>rich</placeName>, <date when-iso="1920-05-29">29<reg>.</reg> Mai 1920</date>
+                    </dateline>
+                    <salute rend="indent-2-first space-below">Sehr verehrter Herr <persName key="E0300111">Bekker</persName>,</salute>
+                </opener>
+                
+                <p rend="first-right"><date when-iso="1920-05-28">gestern</date> – gleich nach
+                    <lb/>Empfang <ref type="E010006" target="#D0100406">Ihres Briefes</ref> – depeschierte ich an Sie:
+                    <lb/><q rend="sq-guil">dankend für freundschaftliche Haltung er
+                        <lb break="no" rend="after:‹"/>bitte freundliche Mühe eingeschriebener Rücksendung
+                        <lb rend="after:‹"/>Manuskriptes.</q>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Vgl. <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100407">Telegramm</ref> vom <date when-iso="1920-05-28">Tag zuvor</date>, in dem er um Rücksendung seines <q><placeName key="E0500027">Bayreuther</placeName> Briefes</q> bat (Anlage zu <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100405">Schreiben</ref> vom <date when-iso="1920-05-14">14. Mai 1920</date>). <persName key="E0300111">Bekker</persName> kam dem Wunsch umgehend nach (vgl. <ref type="E010006" target="#D0100409">nachfolgender Brief</ref>).
+                    </note>
+                    
+                    — An dieser Rücksendung
+                    <lb/>ist mir um<orig> </orig>so mehr gelegen, als ich einen nur
+                    <lb/>unvollständigen Entwurf des <q rend="dq-du"><placeName key="E0500027">Bayreuther</placeName> Briefes</q>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        So bezeichnet von <persName key="E0300111">Bekker</persName> in seinem <ref type="E010006" target="#D0100406">Schreiben vom <date when-iso="1920-05-23">23. Mai 1920</date></ref>.
+                    </note>
+                    
+                    <lb/>besitze, in den ich überdies <choice><orig>M</orig><reg>m</reg></choice>anches ein<reg>-</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> zu<orig> </orig>zu<choice><orig>
+                        <lb rend="after:-"/></orig><reg/></choice>fügen beabsichtige.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist sehr wahrscheinlich die im <persName key="E0300017">Busoni</persName>-Nachlass überlieferte Fassung B des <q><placeName key="E0500027">Bayreuther</placeName> Briefes</q> (D-B, Mus.Nachl. F. Busoni C I, 157B, <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB000237CB00000021">Digitalisat</ref> der Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName>).
+                    </note>
+                    <!-- lt. Kalliope wurde der Brief veröffentlicht => Joseph Willimann in: Festschrift "10 Jahre Paul-Sacher-Stiftung" (1996)
+                    * gemeint ist vmtl. folgendes Buch:
+                    Klassizistische Moderne: eine Begleitpublikation zur Konzertreihe im Rahmen der Veranstaltungen "10 Jahre Paul-Sacher-Stiftung". Werkeinführungen, Essays, Quellentexte, hrsg. von Felix Meyer 
+                    * @ Muwi-Bib verfügbar: Freihand LP 19507 M612 -->
+                    
+                    (Vorläufig für mich.) Denn
+                    <lb/>es ist ein Fehler, den ich sowohl als Schreiber wie auch
+                    <lb/>als Komponist begehe, dass ich nur die Summe meiner
+                    <lb/>Betrachtungen (oder Eingebungen) hinstelle<orig>,</orig> und dem
+                    <lb/>Leser – oder Hörer – die Arbeit zumut<orig>h</orig>e, die Komponenten
+                    <lb/>der Summe zu rekonstruieren, die zu meinem Ergebnis
+                    <lb/>ihn führen sollen. — Schon dieses eine Prin<subst><del rend="overwritten">c</del><add place="across">z</add></subst>ip
+                    <lb/>(das bei mir eine gefühlte Notwendigkeit ist) steht
+                    <lb/>zur Umständlichkeit <persName key="E0300006">Wagner</persName><orig>’</orig>s im Gegensatz <choice><orig>.....</orig><reg>…</reg></choice></p>
+                <p rend="first-right">Aber ich gebe zu, dass
+                    <lb/>meine Art leicht zum Mis<reg>s</reg>verständnis, im besseren
+                    <lb/>Falle nicht zum vollen Verständnis<reg>,</reg> meines In
+                    <lb break="no" rend="after:-"/>haltes leitet. So enthält der <placeName key="E0500027">Bayreuther</placeName> Brief
+                    <lb/>im Grunde <choice><orig>N</orig><reg>n</reg></choice>ichts, das nicht in meinem <choice><abbr>Kl.</abbr><expan>kleinen</expan></choice>
+                    <lb/><rs key="E0400043">Entwurf einer neuen Tonkunst</rs> und selbst in
+                    <lb/>dem <ref type="E010006" target="#D0100404">Brief</ref> für die <orgName key="E0600070"><choice><abbr>Frkf. Ztg.</abbr><expan><placeName key="E0500153">Frankfurter</placeName> Zeitung</expan></choice></orgName>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Bezieht sich auf <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100404">Schreiben vom <date when-iso="1920-01-20">20. Januar 1920</date></ref>, in dem er erstmals seine Vision einer <q>jungen Klassizität</q> verbalisierte; der Brief wurde wenig später in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName> veröffentlicht (vgl. <bibl><ref target="#E0800320"/></bibl>).
+                    </note>
+                    
+                    <hi rend="underline">schon enthalten</hi> wäre:
+                    <lb/>zwei Schriften, die Ihre Zustimmung fanden; –
+                    <lb/>allerdings ist es auch hier die Arbeit des Lesers,
+                    <lb/>aus dem Gesagten das Unausgesprochene zu folgern.</p>
+                
+                <pb n="2"/>
+                
+                <p>Ich glaube, dass der, der einen Raum
+                    <lb/>von <choice><orig>A</orig><reg>a</reg></choice>u<choice><orig>ss</orig><reg>ß</reg></choice>en kommend betritt, den vollen 
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> widrigen Druck der eingeschlossenen Luft
+                    <lb/>wahrnimmt; während die darin <add place="above" rend="small">Ein<orig>-</orig></add><choice><orig>G</orig><reg>g</reg></choice>efangenen
+                    <lb/>dagegen verstumpft sind. So geschaut, ist
+                    <lb/>meine <mentioned rend="dq-du">Begrenztheit</mentioned> eine <mentioned rend="dq-du">Unbefangenheit<orig>.</orig></mentioned><reg>.</reg></p>
+                <!-- Begriffe zumind. sinngemäß so in der Ästhetik => Link dahin noch irgendwie ergänzen -->
+                <p rend="indent-2-first">Ihre zweite Einwendung fällt
+                    <lb/>insoweit richtig, als sie die <mentioned rend="dq-du">realpolitischen</mentioned>
+                    <!-- erwähnt in Bekkers Brief D0100406 -->
+                    <lb/>Folgen dieser meiner Unbefangenheit betrifft:
+                    <lb/><choice><orig>d</orig><reg>D</reg></choice>ass diese Bedenken Sie um meinetwillen besorgt
+                    <lb/>machen, schätze ich eben als die <q rend="dq-du">freundschaftliche
+                        <lb/>Haltung</q>, die das <ref type="E010006" target="#D0100407">Telegramm</ref> dankend erwähnt.</p>
+                <p rend="indent-2-first">Allein, Sie sind unvollkommen
+                    <lb/>unterrichtet, wenn Sie a priori annehmen,
+                    <lb/>dass keiner sich auf meine<del rend="strikethrough">r</del> Seite stellte.
+                    <lb/>Auf ein befreiendes Wort in unserer Frage
+                    <lb/>wartet so <choice><orig>M</orig><reg>m</reg></choice>ancher vergeblich: <choice><orig>i</orig><reg>I</reg></choice>ch begegnete
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> sprach auch eine Anzahl junger Männer,
+                    <lb/>die erst zwischen ihrem zwanzigsten <choice><abbr>u.</abbr><expan>und</expan></choice> drei<choice><orig>ss</orig><reg>ß</reg></choice>igsten
+                    <lb/>Jahre zum <hi rend="underline">ersten</hi> Male <soCalled rend="dq-uu"><persName key="E0300006">Wagner</persName></soCalled> hörten <choice><abbr>u.</abbr><expan>und</expan></choice> sahen.
+                    <lb/>Sie waren sämtlich nicht nur enttäuscht <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <!-- Gibt’s Beispiele für die »jungen Männer«? -->
+                    <lb/>geärgert, sondern ich merkte überdies, dass
+                    <lb/>die gesamte Angelegenheit ihnen schon fern,
+                    <lb/>überwunden und gleichgültig erschien; als wie
+                    <lb/>Leuten<reg>,</reg> die an eigenen <choice><abbr>u.</abbr><expan>und</expan></choice> ganz anderen
+                    <lb/>Ideen und Zielen zu schaffen haben. (<choice><orig>a</orig><reg>A</reg></choice>nders
+                    <lb/>steht der Eindruck mit jungen <hi rend="underline">Frauen</hi>:
+                    <lb/><choice><orig>d</orig><reg>D</reg></choice>ie unt<orig>h</orig>ätige Erotik bestrickt sie bis 
+                    <lb/>zur Widerstandslosigkeit.)</p>
+                
+                <pb n="3"/>
+                
+                <p>So<orig> </orig>fern also meine Wirkung auf die
+                    <lb/>neue männliche Generation berechnet
+                    <lb/>wäre, so schiene mir selbst, dass
+                    <lb/><seg rend="align(center)"><q rend="dq-du">keine absolut notwendige Tat</q></seg>
+                    <!-- Zitat? woher? -->
+                    <lb/>damit vollführt würde: <choice><orig>d</orig><reg>D</reg></choice>as Argument
+                    <lb/>interessierte sie nicht mehr.</p>
+                <p rend="first-right">Es <hi rend="underline">ist</hi> auch keine T<orig>h</orig>at<orig>,</orig>
+                    <lb/>und – wie mein <ref type="E010006" target="#D0100405">Begleitschreiben</ref> Ihnen er
+                    <lb break="no"/>l<choice><sic>aü</sic><corr>äu</corr></choice>tern wollte – auch keine momentane
+                    <lb/>Aufwallung: sondern <soCalled rend="dq-du"><foreign xml:lang="la">ad litteram</foreign></soCalled>
+                    
+                    <note type="commentary" resp="#E0300361">ad litteram [lat.]: buchstäblich</note>
+                    
+                    der
+                    <lb/>Ausbruch eines 40 Jahre lang verhaltenen
+                    <lb/>Leidens.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Im hier referierten Schreiben äußerte sich <persName key="E0300017">Busoni</persName> bereits ganz ähnlich: Was in seinem <placeName key="E0500027">Bayreuther</placeName> Brief <q>zu lesen steht, [sei] nicht die Frucht momentaner Aufwallung, sondern eines leben<supplied reason="omitted">s</supplied>langen Leidens</q> (siehe <persName key="E0300017">Busonis</persName> <ref type="E010006" target="#D0100405">Brief vom <date when-iso="1920-05-14">14. Mai 1920</date></ref>).
+                    </note>
+                    
+                    Ich war 14, als es begann<reg>,</reg> und
+                    <!-- Ausschlaggebendes Moment? Was ist passiert, als er 14 war (also ca. 1880)?
+                        1. Wagner-Oper? vllt. hat sich Busoni auch um 2 Jahre vertan: 1882 gab’s die ersten Bayreuther Festspiele (abgesehen von 1876)?
+                    Ist es wirklich ein »Ausbruch«? Nirgendwo sonst vorher Äußerungen dazu? -->
+                    <lb/>es gab ein ganzes Leben lang kein Ent
+                    <lb break="no"/>rinnen, keine Pause. Üppig und breit
+                    <lb/>wie <persName key="E0300006">Wagner</persName><orig>’</orig>s St<choice><orig>y</orig><reg>i</reg></choice>l, lie<choice><orig>ss</orig><reg>ß</reg></choice> auch seine Herr
+                    <lb break="no"/>schaft kein noch so winziges Eckchen
+                    <lb/>unausgefüllt.</p>
+                <p rend="indent-2-first">Nein, ich habe Sie nicht mis<reg>s</reg>verstanden
+                    <lb/>und <subst><del rend="overwritten">i</del><add place="across">I</add></subst>hre gewiss lautere Absicht erkannt.
+                    <lb/>Aber mis<reg>s</reg>verstehen auch Sie mich nicht:
+                    <lb/>Könnten Sie, bei der Schätzung<reg>,</reg> die Sie mir
+                    <lb/>schenken, erwarten, dass ich – sollte ich
+                    <lb/>wirklich in <placeName key="E0500015">Deutschland</placeName> <choice><abbr>u.</abbr><expan>und</expan></choice> an hervorstechender
+                    <lb/>Stelle t<orig>h</orig>ätig sein dürfen – mit einer Lüge
+                    <!-- Sept. 1920 Rückkehr nach Berlin; Prof-Stelle an HS -->
+                    <lb/>beginnen würde? Und überdies: <choice><orig>w</orig><reg>W</reg></choice>as Ihrem
+                    <lb/>Glauben wie Verbitterung <choice><abbr>u.</abbr><expan>und</expan></choice> Gewaltsamkeit
+                    <lb/>klingt, wird vielleicht einem späteren Glauben
+                    <lb/>die einfache Feststellung eines historisch, d. i.
+                    <lb/>indifferent gewordenen Falles.</p>
+                <p rend="indent-2-first">Ihre freundlichen Wünsche und Grü<choice><orig>ss</orig><reg>ß</reg></choice>e
+                    <lb/>herzlichst erwi<orig>e</orig>dernd, verbleibe ich</p>
+                
+                <closer>
+                    <salute rend="align(right)">Ihr hochachtungsvoll ergebener</salute>
+                    <signed rend="align(right) space-above"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

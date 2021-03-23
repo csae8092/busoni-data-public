@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800226">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dümling 2003</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <forename>Albrecht</forename>
+                     <surname>Dümling</surname>
+                  </author>
+                  <title level="a">Zwischen Moderne und Unterhaltungskunst</title>
+                  <title level="a" type="sub">Die Musikerachse <placeName key="E0500002">Wien</placeName>-<placeName key="E0500029">Berlin</placeName></title>
+               </analytic>
+               <monogr>
+                  <editor>
+                     <forename>Leon</forename>
+                     <surname>Botstein</surname>
+                  </editor>
+                  <editor>
+                     <forename>Wener</forename>
+                     <surname>Hanak</surname>
+                  </editor>
+                  <title level="m">quasi una fantasia</title>
+                  <title level="m" type="sub">Juden und die Musikstadt <placeName key="E0500002">Wien</placeName></title>
+                  <idno type="DNB">967436133</idno>
+                  <imprint>
+                     <pubPlace>Hofheim</pubPlace>
+                     <publisher>Wolke</publisher>
+                     <date when-iso="2003"/>
+                  </imprint>
+                  <biblScope unit="page">153–158</biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

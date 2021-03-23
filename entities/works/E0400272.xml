@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400272">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: 12&#160;Grandes études (dt.: 12&#160;Große Etüden)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-15" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="m" xml:lang="fr">12&#160;Grandes études</title>
+                        <title level="m" xml:lang="de">12&#160;Große Etüden</title>
+                        <idno type="wcat">S&#160;137</idno>
+                        <idno type="wcat">R&#160;2a</idno>
+                        <idno type="GND">300466803</idno>
+                        <imprint>
+                            <date when-iso="1837/1839" cert="high" type="composed"/>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1839" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600122">Haslinger</orgName>
+                            </publisher>
+                            <pubPlace key="E0500002">Wien</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1839" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600162">M.&#160;Schlesinger</orgName>
+                            </publisher>
+                            <pubPlace key="E0500012">Paris</pubPlace>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1839" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600164">Ricordi</orgName>
+                            </publisher>
+                            <pubPlace key="E0500085">Mailand</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <note>
+                        Zyklus basiert auf <persName key="E0300013">Liszts</persName> <title key="E0400336">Etüde in 12 Übungen</title> S 136; ursprünglich geplant als <foreign xml:lang="fr"><q>24 Grandes études</q></foreign>; Nr.&#160;4 nochmal überarbeitet als <title key="E0400287">Mazeppa</title> S&#160;138
+                    </note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

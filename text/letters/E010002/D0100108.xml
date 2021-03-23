@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Diese Dateien werden vom generate-todo-Skript genutzt. Work in Progress -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 18. Oktober 1915)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 18 October 1915)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300326">
+                        <forename>Anton</forename>
+                        <surname>Hoffmann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> drückt sein Bedauern über das Verpassen eines Streichquartett-Abends aus, macht Vorschläge bezüglich des Programmes weiterer, von ihm und <persName key="E0300125">Huber</persName> geplanter musikalischer Veranstaltungen und berichtet von seinen literarischen Präferenzen.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1915-10-18"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1915-10-18"/></docDate>
+                            <incipit>a festa finita, post festum</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent> 
+                                    <measure type="folio">4 Blatt</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur Vorderseiten beschrieben; Briefschluss auf der letzten Seite am linken Rand quer.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc> 
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der die Nummerierung der Seiten mit Bleistift vorgenommen hat.</handNote>
+                        </handDesc>                                                                                                                       
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1915-10-18"/>
+                        </origin>                   
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;9 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1915-10-18"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100228"/>
+                    <ref type="repliedBy" target="#D0100229"/>
+                    <ref type="previous" target="#D0100228"/>
+                    <ref type="next" target="#D0100229"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-12-10" who="#E0300315"> Datei als Platzhalter erstellt, Transkription ausstehend. </change>
+            <change when-iso="2017-03" who="#E0300326">Bearbeitung vorläufig fertiggestellt, status="proposed"</change>
+            <change when-iso="2017-03-10" who="#E0300314">korrekturgelesen, status="candidate"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+        <graphic n="7" url="#local"/>
+        <graphic n="8" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">7.</note>
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <placeName key="E0500132">Zürich</placeName>, <date when-iso="1915-10-18">18. <choice><abbr>Okt.</abbr><expan>Oktober</expan></choice> 1915</date>
+                    </dateline>
+                    <salute><foreign xml:lang="it">Carissimo Maestrone,</foreign></salute>
+                </opener>
+                
+                <p>
+                    <foreign xml:lang="la">a festa finita, post festum,</foreign>              
+                    <lb/>erfuhr ich von dem <placeName key="E0500092">Schweizer</placeName>               
+                    <lb/>Kammermusikabend des hiesigen
+                    <lb/>Streichquartettes, den ich – zu<!-- was war das für ein Abend? -->
+                    <lb/>meinem gelinden <choice><orig>Ae</orig><reg>Ä</reg></choice>rger – nun
+                    <lb/>versäumt hatte! – Gerne hätte
+                    <lb/>ich dem bedächtigen <persName key="E0300033">Weber</persName>,
+                    <lb/>dem philosophischen <persName key="E0300132">Suter</persName> <choice><abbr>u.</abbr><reg>und</reg></choice>
+                    <lb/>dem naturfreudigen, jüngsten
+                    <lb/>dieser Meister, <persName key="E0300125">H. H.</persName>, <choice><orig>n</orig><reg>N</reg></choice>äheres
+                    <lb/>durch das Gehör erfahren! <foreign xml:lang="fr">Ça
+                        <lb/>reviendra</foreign>,
+                    
+                    <note type="commentary" resp="#E0300314">Frz.: Das wird wiederkommen.</note>
+                    erhoffen wir’s.
+                </p>
+                <p>
+                    – Danke für den wert<orig>h</orig>vollen 
+                    <lb/>Brief, <choice><abbr>u.</abbr><reg>und</reg></choice> lassen wir dem <persName key="E0300013">Liszt</persName>-
+                    <lb break="no"/>Abend die vorläufig vereinbarte
+                    <lb/>Form. – Für den <persName key="E0300012">Bach</persName>vortrag
+                    <lb/>kann ich Ihnen was Gutes
+                    <lb/>versprechen. Außer den <hi rend="underline"><title key="E0400149">Goldberg- 
+                        <lb break="no"/>Variationen</title></hi><orig>,</orig> (die Ihr Publikum
+                    <lb/>hoffentlich nicht ganz so vertraulich
+                    <lb/>inne<orig> </orig>hat, als dass es nicht meine
+                    <lb/>dis<choice><orig>c</orig><reg>k</reg></choice>rete Bearbeitung hinnähme,
+                    <lb/>oder gar überhörte –) schlage ich
+                                        
+                    <pb n="2"/>
+                    
+                    <note type="numbering" place="top-right" resp="#archive">(2)</note>
+                                        
+                    noch die <hi rend="underline">Übertragung eines größeren
+                        <lb/>Orgelwerkes</hi>, ferner
+                    <list>
+                        <item>Einiges aus dem <title key="E0400129"><choice><abbr>wohltemp.</abbr><expan>Wohltemperierten</expan></choice> <choice><abbr><choice><orig>C</orig><reg>K</reg></choice>lav.</abbr><reg>Klavier</reg></choice></title></item>
+                        <item><title key="E0400145">Die Abreise (Capriccio in B.)</title></item>
+                        <item><title key="E0400144">Choralvorspiele</title></item>
+                        <!-- ist wirklich das Orgelbüchlein gemeint?
+                        nicht die 10 Bach-Busoni-Choralvorspiele? -->
+                    </list>
+                    und noch anderes vor. Sollte die
+                    <lb/><hi rend="underline"><title key="E0400147">Chaconne</title></hi><orig>,</orig> oder die <hi rend="underline"><title key="E0400150"><choice><abbr>Chrom.</abbr><expan>Chromatische</expan></choice> Fantasie</title></hi><orig>,</orig>
+                    <lb/>am Platze sein?
+                </p>
+                <p rend="indent-first">
+                    (Einem befreundeten Cellisten
+                    <lb/>zu Liebe<orig>,</orig> habe ich – <foreign xml:id="en">strange to
+                        <lb/>say! – </foreign> die <title key="E0400150"><choice><abbr>chrom.</abbr><expan>Chromatische</expan></choice> Fantasie</title> für
+                    <lb/>Violoncell gesetzt. Brechen Sie
+                    <lb/>über diese Vermessenheit nicht
+                    <lb/>den Stab, bis Sie es nicht gehört
+                    <lb/>haben. Es klingt (<foreign xml:lang="gsw"><soCalled rend="dq-uu-straight">tönt</soCalled></foreign>) nämlich
+                    <lb/>überraschend gut.) —
+                </p>
+                <p rend="indent-first">
+                    Von <persName key="E0300145">Homer</persName> meint <persName key="E0300146">Lessing</persName>,
+                    <lb/>wenn ihm <choice><orig>Etwas an Jenem</orig><reg>etwas an jenem</reg></choice> nicht
+                    <lb/>gefiele, es läge – so viel hätte er
+                    <lb/>gelernt – nicht an <persName key="E0300145">Homer.</persName> –
+                    <lb/>Wenn ich auch kein <persName key="E0300146">Lessing </persName> bin,
+                    <lb/>ist deswegen <persName key="E0300147">Spitteler</persName> ein <persName key="E0300145">Homer</persName>?
+                    <lb/>Liegt es an <hi rend="underline">meinem</hi> Mangel an
+                    <lb/>Jugendlichkeit<orig>,</orig> oder an seinem?
+                    <lb/>Von <persName key="E0300148">Multatuli</persName> weiß ich wahrlich
+                    <lb/><choice><orig>N</orig><reg>n</reg></choice>ichts. Ich schaute in einige Bände
+                    
+                    <pb n="3"/>
+                    
+                    <note type="numbering" place="top-right" resp="#archive">(3)</note>
+                    
+                    dieses Mannes, dessen Pseudonym
+                    <lb/>mir schon nicht ganz geschmack
+                    <lb break="no"/>voll vorkam, und fand Sie nicht
+                    <lb/>einladend. Ich lie<choice><orig>ss</orig><reg>ß</reg></choice> Sie, <del rend="strikethrough"><unclear reason="strikethrough" cert="medium">weiter</unclear></del> mich
+                    <lb/>dem Instinkt anvertrauend, der
+                    <lb/>mich durch die Literatur seit
+                    <lb/>meiner Kindheit begleitete, liegen.
+                </p>
+                <p rend="indent-first">
+                    Ich bin an gewissen großen Erfolgen,
+                    <lb/>selbst in der <del rend="strikethrough">Zeit</del> empfänglichen Zeit
+                    <lb/>der ersten Jugend, t<orig>h</orig>eilnahmslos
+                    <lb/>vorübergegangen. Dazu gab, Gott
+                    <lb/>sei’s geklagt, die Zeit – in die meine
+                    <lb/>Jugend fällt – Veranlassung genug.
+                    <lb/>(<persName key="E0300149">Felix Dahn</persName>,<persName key="E0300150">G. Ebers</persName>,<persName key="E0300151">Scheffel</persName> und
+                    <lb/>Gefährten.) Diese Erfahrungen
+                    <lb/>schließen auch den Schriftsteller
+                    <lb/><persName key="E0300006">R. Wagner</persName> ein. – Im Mannes<choice><orig>s
+                    <lb/>A</orig><reg><lb break="no"/>a</reg></choice>lter wurde mein Instinkt, durch
+                    <lb/>Kritik, weniger verlä<choice><orig>ß</orig><reg>ss</reg></choice>lich; jetzt
+                    <lb/>fühle ich – wie in vielen anderen
+                    <lb/>Dingen –<choice><orig> daß</orig><reg>, dass</reg></choice> ich <add place="above">auch darin</add> das Wesen meiner
+                    <lb/>Kindheit zurückgewinne. –
+                </p>
+                <p rend="indent-first">
+                    <del rend="strikethrough">Wenn ich <gap reason="strikethrough" atLeast="4" unit="char"/></del> Diese Selbsterkenntnisse
+                    <lb/>sind – fürchte ich – Ihnen,
+                    <lb/>der Sie mich im grunde nicht
+                    <lb/>kennen, wenig interessant. </p>
+                
+                <pb n="4"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">(4)</note>
+                
+                <p rend="indent-first">
+                    Verzeihen sie also, das ich
+                    <lb/>mich gehen lie<choice><orig>ss</orig><reg>ß,</reg></choice> und halten 
+                    <lb/>Sie’s meiner – – Jugendlichkeit
+                    <lb/>zu Gute. –
+                </p>
+                <p rend="indent-first">
+                    Zu den Programmen zurückkehrend,
+                    <lb/>bitte ich sie noch<reg>,</reg> Ihre Wünsche
+                    <lb/><choice><abbr>u.</abbr><reg>und</reg></choice> Vorschläge weiter zu äußern.
+                    <lb/>Die letzten Hefte <title key="E0400146">Bagatellen</title>
+                    <lb/><persName key="E0300001">Beethovens</persName> möchte ich in den
+                    <lb/>Plan aufnehmen. Vielleicht ein
+                    <lb/>Variationswerk? <title key="E0400003">Opus 106?</title> –
+                    <lb/>Von <persName key="E0300137">Chopin</persName> spiele ich ziemlich
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>lles, die Mazurken <choice><abbr>u.</abbr><reg>und</reg></choice> Walzer
+                    <lb/>ausgenommen; sehr gern die
+                    <lb/><title key="E0400159">vierte Ballade</title>, <choice><abbr>u.</abbr><reg>und</reg></choice> mit Vorliebe
+                    <lb/>die Etüden. –
+                </p>
+                <p rend="indent-first">
+                    Ist Ihnen das kraftgenialische
+                    <lb/>Jugendwerk <persName key="E0300013">Liszt<orig>’</orig>s</persName> <title key="E0400148" rend="dq-du" xml:lang="fr">Fantaisie
+                        <lb/>romantique sur deux motifs
+                        <lb/>suisses</title> bekannt? (Troix
+                    <lb/>morceaux de Salon, Op. 5.) Darin
+                    <!-- offenbar keine offizielle Werkzählung, in Lexikon-Werkverzeichnissen
+                        nicht erwähnte Sammlung; wie in Busonis Ausgabe behandelt? Hoffmeister?
+                    -->
+                    <lb/>kommt <hi rend="underline">Die Weise vom Heimweh</hi>
+                    <!-- was ist das? -->
+                    <lb/>zuerst vor. – Ich habe Heimweh
+                    <lb/>allerwärts, <placeName key="E0500093">Amerika</placeName> ausgeno<choice><abbr>m̅</abbr><expan>mm</expan></choice>en;
+                    <lb/>warum sollte ich es nicht <del rend="strikethrough"><unclear reason="strikethrough" cert="medium">m</unclear></del> auch
+                    <lb/>nach diesem feinem Lande empfinden?
+                    <lb/>Vorläufig empfinde ich heimisches
+                    <lb/>Behagen, zu dem Sie und andere
+                    <cb type="margin-left"/>
+                    <lb/>treffliche <foreign xml:id="fr">Confrères</foreign> 
+                    
+                    <note type="commentary" resp="#E0300314">Frz.: Kollegen.</note>
+                    
+                    sehr <choice><orig>V</orig><reg>v</reg></choice>ieles beitragen.</p>
+
+                <closer>
+                    <salute>Haben Sie dafür innigen Dank <choice><abbr>u.</abbr><reg>und</reg></choice> seien
+                        <lb/>Sie verehrungsvoll gegrüsst von Ihrem
+                        <lb/>herzlich ergebenen</salute>
+                    <signed rend="inline"><persName key="E0300017">F. Busoni</persName></signed>
+                </closer>
+                
+                <pb n="5"/>
+                
+                <note type="objdesc" resp="#E0300326">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300326">[Rückseite von Textseite 2, vacat]</note>
+                
+                <pb n="7"/>
+                
+                <note type="objdesc" resp="#E0300326">[Rückseite von Textseite 3, vacat]</note>
+                
+                <pb n="8"/>
+                
+                <note type="objdesc" resp="#E0300326">[Rückseite von Textseite 4, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

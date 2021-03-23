@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100036">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Berlin, 3. Februar 1915)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Berlin, 3 February 1915)</title>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-05"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4563</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. A. Schönberg 24 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-736464</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300023">Schönberg</persName> erklärt seine Enthaltung bei einer von Freunden <persName key="E0300017">Busonis</persName> veranstalteten kollektiven Solidaritäts- und Geburtstagsadresse mit dem Wunsch nach einer individuellen; hofft auf intensiveren Kontakt nach <persName key="E0300017">Busonis</persName> Rückkehr nach <placeName key="E0500029">Berlin</placeName>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1915-02-03"/></docDate>
+                            <incipit>ich habe ja einen direkteren Weg an Ihre Adresse</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung durch das Archiv, mit Bleistift unten rechts auf den Vorderseiten.</foliation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="schoenberg_addr_st1" scope="minor" medium="violet_ink" scribe="author" scribeRef="#E0300023">Adressstempel des Absenders Arnold Schönberg, mit violetter Tinte</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen und die Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand der Ehefrau des Adressaten, Gerda Busoni, die auf den doppelt gefalteten Bogen mit Bleistift eine Adresse zur Weitersendung nach Mallorca (?) notiert hat.</handNote>
+                            <handNote xml:id="unknown_pencil_name" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die auf den doppelt gefalteten Bogen den Absendernamen mit Bleistift notiert hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500029">Berlin</origPlace>
+                            <origDate when-iso="1915-02-03"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800004"/>, S. 194</bibl>
+                            <bibl><ref target="#E0800005"/>, S. 200 (Brief), S. 127–129 (Kommentar)</bibl>
+                            <bibl><ref target="#E0800060"/>, S. 419</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100036">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1915-02-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" key="E0500029">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100035"/>
+                    <ref type="next" target="#D0100037"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2016-03-15" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2016-05-29" who="#E0300314">Metadaten, diplomatische Umschrift, Kommentare und Kommentarbedarf ergänzt; Lesefassung und Restkommentierung ausstehend.</change>
+            <change when-iso="2020-02-10" who="#E0300550">Verbesserungen, Korrekturlesung abgeschlossen, Status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839142692/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4500000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4500000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4500000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA4500000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    <dateline rend="margin-right"><date when-iso="1915-02-03">3<choice><orig>/2. </orig><reg>.2.</reg></choice>1915</date></dateline>
+                    <byline rend="left space-below">
+                        <stamp resp="#schoenberg_addr_st1">
+                            <address>
+                                <addrLine><persName key="E0300023">Arnold Schönberg</persName></addrLine>
+                                <addrLine><placeName key="E0500029">Berlin</placeName>-Südende</addrLine>
+                                <addrLine><placeName key="E0500080">Berliner<choice><orig>s</orig><reg> S</reg></choice>tr. 17a</placeName>,<seg rend="sup">I.</seg></addrLine>
+                                
+                                <note xml:id="del_sig" type="shelfmark" place="top-left" rend="rotate(-90)" resp="#archive">
+                                    <del rend="strikethrough">Mus.ep. A. Schönberg 24 (Busoni-Nachl. B II)</del>
+                                </note>
+                                
+                                <addrLine>Tel.: Tempelhof 174</addrLine>
+                            </address>
+                        </stamp>
+                    </byline>
+                    
+                </opener>
+                
+                <p><seg type="opener" subtype="salute">Lieber verehrter <persName key="E0300017">Herr Busoni</persName>,</seg> ich habe ja einen
+                    <lb/>d<subst><del rend="overwritten"><gap extent="2" unit="char" reason="overwritten"/></del><add place="across">ir</add></subst>ekteren Weg an Ihre Adresse<orig>,</orig>
+                    
+                    <note type="commentary" resp="#E0300314">Möglicherweise ist damit die mallorcinische Anschrift der Schwägerin <persName key="E0300017">Busonis</persName> gemeint.</note>
+                    
+                    als die Adresse,
+                    
+                    <note type="commentary" resp="#E0300314">Freunde <persName key="E0300017">Busonis</persName> planten offenbar eine Solidaritätsadresse zum bevorstehenden 49. Geburtstag des Komponisten am <date when-iso="1915-04-01">1. April 1915</date>; <persName key="E0300017">Busoni</persName> war am <date when-iso="1915-01-05">5. Januar</date> aus <placeName key="E0500029">Berlin</placeName> zu einer Konzertreise nach <placeName key="E0500031">New York</placeName> aufgebrochen, wo er am <date when-iso="1915-01-20">20. Januar</date> eintraf.</note>
+                    
+                    <lb/>die andere an Sie richten. So gern ich jeden Inhalt
+                    <lb/>mit meinem Namen decke, der bestimmt und
+                    <lb/>ge<subst><del rend="overwritten">i</del><add place="across">e</add></subst>ignet ist, Ihnen Freude zu machen und Ver
+                    <lb break="no"/>ehrung zu bekunden, so ungern decke ich mich zu
+                    <lb/>durch Namen, die in einer Menge unvermeidlich
+                    <lb/>sind, wenn auch der Inhalt mir
+                    
+                    <note type="commentary" resp="#E0300314">Bei <bibl><ref target="#E0800004"/> (194)</bibl> und <bibl><ref target="#E0800005"/> (200)</bibl> mit folgendem Gedankenstrich; diese Lesart scheint in Anbetracht von vielen weiteren vergleichbar kurzen Endstrichen sowie von <persName key="E0300023">Schönbergs</persName> für gewöhnlich sehr viel längeren Gedankenstrichen unwahrscheinlich.</note>
+                    
+                    angemessen
+                    <lb/>wäre. Lassen Sie mich also meinen eigenen
+                    <lb/>Weg zu Ihnen gehen und Ihnen sagen, da<choice><orig>ß</orig><reg>ss</reg></choice> auch
+                    <lb/>ich froh wäre, Sie wieder in <placeName key="E0500029">Berlin</placeName> zu wissen;
+                    <lb/>schon aus dem egoistischen Grunde: weil ich hoffe,
+                    <lb/>da<choice><orig>ß</orig><reg>ss</reg></choice> wir doch einmal – wenn <hi rend="underline">Sie</hi> den Weg
+                    <lb/>finden – in einen häufiger<choice><orig></orig><reg>e</reg></choice>n
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800004"/> (194)</bibl>: <quote>häufigeren</quote>.</note>
+                    
+                    Verkehr treten
+                    <lb/>werden. Geburtstagswünsche kann ich – für
+                    <lb/>den alles zum Symbol wird – <hi rend="underline">nicht unterdrücken</hi><reg>,</reg> und
+                    <lb/>auf die Gefahr hin, da<choice><orig>ß</orig><reg>ss</reg></choice> Sie sie als Formel nehmen,
+                    <lb/>will ich <del rend="strikethrough">sie</del> Ihnen sagen<subst>
+                        <del rend="overwritten">,</del>
+                        <add place="across">:</add>
+                    </subst> herzlichste Glückwünsche!</p>
+                <closer>
+                    <salute rend="align(left)">Ihr ganz ergebener</salute>
+                    <signed rend="inline"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                    
+                    <note type="stamp" place="margin-right" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spacedout">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                </closer>
+                
+                <note type="shelfmark" place="bottom-left" rend="rotate(-90) align(center)" resp="#archive">
+                    <add xml:id="add_sig">Mus.Nachl. F. Busoni<lb/>B II, 4563</add>
+                </note>
+                
+                <substJoin target="#del_sig #add_sig"/>
+                
+                <pb n="2"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 2 des Bogens]</note>
+                
+                <note type="stamp" place="bottom-center" resp="#sbb_st_blue">
+                    <stamp>Nachlaß Busoni</stamp>
+                </note>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 3 des Bogens]</note>
+                
+                <note type="foliation" place="top-right" resp="#archive">[2]</note>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300314">[Seite 4 des Bogens]</note>
+                
+                <note type="address" place="bottom-center" rend="rotate(180)" resp="#gerda.busoni">
+                    <address>
+                        <addrLine>Calle de la Garita.</addrLine>
+                        <addrLine><hi rend="underline">Palma.</hi></addrLine>
+                    </address>
+                </note>
+                
+                <note type="annotation" place="bottom-center" rend="rotate(180)" resp="#unknown_pencil_name">
+                    <persName key="E0300023">Schönberg</persName>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

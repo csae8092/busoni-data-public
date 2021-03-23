@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100558">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (Zürich, 29. November 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (Zurich, 29 November 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300390">
+                        <forename>Ulrike</forename>
+                        <surname>Japes</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 548&gt;</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 50 (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-561476</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Danksagung an <persName key="E0300208">Robert Freund</persName> und <persName key="E0300422">Emil Ábrányi</persName> für die Aufführug seiner <title key="E0400268">Sonate</title>; Titelblattvorschlag für die Zeitung <orgName key="E0600067">Signale</orgName>; <persName key="E0300017">Busoni</persName> empfiehlt <persName key="E0300208">Freund</persName> und dessen Schwester <persName key="E0300420">Etelka</persName> eine seiner Improvisationen über ein Bach’sches Chorallied</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-11-29"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-11-30"/></docDate>
+                            <docDate resp="#gerda.busoni" sameAs="#gerda_date"><date when-iso="1916-11-29"/></docDate> 
+                            <incipit>ich hatte Ihnen noch nicht für die Karte gedankt</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten. Umschlagsaufriss oben (ohne Verluste).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">Hand Gerda Busonis, die das Datum auf der Umschlagrückseite mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">Bibliotheksstempel (blaue Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="zensur_violet" scope="minor" medium="violet_ink" scribe="unknown">Zensustempel (violette Tinte)</handNote>
+                            <handNote xml:id="kriegsrecht_red" scope="minor" medium="red_ink" scribe="unknown">Stempel Kriegsrecht (rote Tinte)</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5"/> 
+                            <note type="stamp" rend="rotate(-90)" place="margin-right" resp="#post">
+                                <stamp rend="round border majuscule align(center)" xml:id="post_rec">
+                                    <placeName key="E0500132">ZÜRICH</placeName>
+                                    <lb/><date when-iso="1916-11-30">30.XI.16</date>.-2
+                                    <lb/>OBERSTRASS
+                                </stamp>
+                            </note>
+                            <address>
+                                <addrLine><hi rend="underline">offener<supplied reason="omitted"> </supplied>Brief</hi></addrLine> 
+                                <addrLine>An <persName key="E0300208">Robert Freund</persName>,</addrLine>
+                                <addrLine><placeName key="E0500469">M<choice><orig>eli</orig><reg>érle</reg></choice>g <choice><orig>g</orig><reg>G</reg></choice>asse 4</placeName> <placeName key="E0500188">Budapest<orig>h</orig></placeName></addrLine>
+                            </address>
+                            <note type="stamp" place="bottom-center" rend="rotate(-45)" resp="#unknown">
+                                <stamp><foreign xml:lang="hu">FELÜLVIZSGÁLVA</foreign><note type="commentary" resp="#E0300390">Übersetzung: überprüft</note>
+                                    <lb/>ZENSURIERT
+                                    <lb/><placeName key="E0500188">BUDAPEST</placeName>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="right-of" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <pb n="6"/> 
+                            <note type="stamp" place="center" xml:lang="hu" rend="rotate(-45)" resp="#unknown_red">
+                                <stamp rend="square border majuscule align(center)"><foreign xml:lang="hu">Hadijog alapján fölbontatott.</foreign></stamp></note><note type="commentary" resp="#E0300390">Übersetzung: Wurde aufgrund des Kriegsrechts geöffnet.</note>
+                            <note type="dating" place="margin-right" resp="#gerda.busoni" xml:id="gerda_date"><date when-iso="1916-11-29">29. <choice><abbr>Nov.</abbr><expan>November</expan></choice> 1916</date></note>
+                            <note type="shelfmark" place="bottom-right" resp="#archive">
+                                <subst>
+                                    <lb/><del rend="strikethrough">Mus, ep. F. Busoni 50
+                                        <stamp resp="#sbb_st_blue">Nachlaß Busoni<handShift new="#archive_red"/>B I</stamp>
+                                        <lb/>m. 1 Marke</del>
+                                    <lb/><add place="bottom-center">Mus. Nachl. F. Busoni B I, 548-Beil.</add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-11-29"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit doppelten Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100558">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-11-29"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <placeName ref="http://www.geonames.org/3054643" key="E0500188">Budapest</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100557"/>
+                    <ref type="next" target="#D0100559"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-02-26" who="#E0300390">Transkribierung erstellt, Codierung noch unvollständig, status unfinished.</change>
+            <change when-iso="2018-04-06" who="#E0300390">proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013622545/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CC100000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CC100000003"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CC100000002"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CC100000004"/>
+        <graphic n="5" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CC100000006"/>
+        <graphic n="6" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CC100000005"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                <note type="foliation" place="top-left" resp="#archive">[1]</note>
+                <opener>
+                    <note type="shelfmark" place="margin-left" resp="#archive">
+                        <add place="margin-left">Mus.Nachl. F. Busoni B I, 548</add>
+                    </note>    
+                    <note type="shelfmark" place="right" resp="#archive">
+                        <del rend="strikethrough">Mus.ep. F. Busoni 50
+                            <lb/>(Busoni-Nachl. <handShift new="#archive_red"/>B I)</del>
+                    </note> 
+                    <salute rend="indent">Verehrter Freund,</salute>
+                </opener>
+                <p>ich hatte Ihnen noch nicht für 
+                    <lb/>die Karte gedankt, die die
+                    <lb/>Aufführung meiner <title key="E0400268">Sonate</title> <note type="commentary" resp="#E0300390">An dieser Stelle könnte auch die <title key="E0400221">Violinsonate</title> gemeint sein.</note> und
+                    <lb/>Ihren Eindruck anzeigte.
+                    <lb/>Danken Sie – gelegentlich – 
+                    <lb/><persName key="E0300421"><choice><orig>A</orig><reg>Á</reg></choice>br<choice><orig>a</orig><reg>á</reg></choice>ny<reg>i</reg></persName>! Haben Sie schon 
+                    <lb/><persName key="E0300422">Telm<choice><orig>a</orig><reg>á</reg></choice>ny<reg>i</reg></persName> geigen gehört?
+                    <lb/>Er ist noch sehr jung <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>in den letzten Jahren hin 
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> her geworfen, auch nicht
+                    <lb/>sehr kräftig. Aber er hat
+                    <lb/>einen offenen Kopf und eine
+                    <lb/>leichte Hand und ist
+                    <lb/>(infolgedessen!) herzensgut.</p>
+                <p><note type="stamp" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>Legen Sie <choice><orig>irgend welches</orig><reg>irgendwelches</reg></choice>
+                    <lb/>Gewicht (und diese Frage
+                    <lb/>hängt mit der letzten Parenthese
+                    <lb/>zusammen) auf die Meinungs
+                    <pb n="2" break="no" rend="dh"/>
+                <note type="foliation" place="top-left" resp="#archive">[2]</note><note type="shelfmark" place="margin-left" resp="#archive">
+                    <add place="margin-left">B I, 548</add></note> 
+                    <orig><pc>=</pc></orig><soCalled rend="dq-du"><choice><orig>aü</orig><reg>äu</reg></choice><choice><orig>ss</orig><reg>ß</reg></choice>erungen</soCalled> der <orgName key="E0600067" rend="dq-du">Signale</orgName>?<note type="commentary" resp="#E0300390">Artikel in dem Heft Nr. 48 aus dem Jahr 1916. Kritische Äußerung zu <persName key="E0300017">Busonis</persName> <title key="E0400263">Sonatina Nr. 3</title>, BV 268 (1916) und der <title key="E0400372">Ballettszene Nr. 4: Walzer und Galopp</title>.</note> Ich
+                    <lb/>würde für diese, als Titelblatt,
+                    <lb/>einen Wetterhahn vorschlagen. <note type="commentary" resp="#E0300390">Eventuelle Anspielung auf den Wetterhahn als Symbol für jemanden, der seine Meinung je nach allgemein herrschender Interessenslage stetig ändert.</note></p>
+                <p><del rend="strikethrough">Über</del> <add place="above between">Aus</add> den Variationen <del rend="strikethrough">aus</del> der
+                    <lb/>Violin<choice><orig>S</orig><reg>s</reg></choice>onate gestaltete ich ein 
+                    <lb/>Stück für <choice><orig>2</orig><reg>zwei</reg></choice> <choice><orig>C</orig><reg>K</reg></choice>laviere, das ich
+                    <lb/>Ihnen <choice><abbr>u.</abbr><expan>und</expan></choice> Ihrer Schwester <persName key="E0300420">Etelka</persName>
+                    <lb/>nahe lege. (<rs key="E0400286">Improvisation</rs>
+                    <lb/>über ein <persName key="E0300012">Bach</persName>’sches <rs key="E0400285">Chorallied</rs>.)</p>
+                <p>Von ihr <choice><abbr>u.</abbr><expan>und</expan></choice> den Kindern <note type="commentary" resp="#E0300390">Eines der Kinder war <persName key="E0300454">Nicholas Milroy</persName>.</note> brachte 
+                    <lb/>das kluge <choice><abbr>u.</abbr><expan>und</expan></choice> angenehme <choice><abbr>Frl.</abbr><expan>Fräulein</expan></choice>
+                    <lb/>Fürst kleine Bilder, die uns 
+                    <lb/>erfreuten. Sie scheint unver
+                    <lb rend="sh"/><choice><orig>ae</orig><reg>ä</reg></choice>ndert im Aussehen, – um so
+                    <lb/>besser! – grüßen Sie sie sehr
+                    <lb/>herzlich. Schreiben Sie. Es
+                    <lb/>macht mich stets froh, wenn
+                    <lb/>Sie es t<orig>h</orig>un.</p>
+                
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                <closer>
+                    <salute rend="indent">Ich drücke Ihnen
+                        <lb/>freundschaftlich die Hand.</salute>
+                    <dateline> 
+                        <placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName> <date when-iso="1916-11-29">29. <choice><abbr>Nov.</abbr><expan>November</expan></choice> 1916</date>.
+                    </dateline>
+                    <lb/><signed rend="bottom(right)">Ihr <persName key="E0300017">F. Busoni</persName></signed> 
+                </closer>
+                <pb n="3"/>
+                <note type="objdesc" resp="#E0300390">[Rückseite von Textseite 1]</note>
+                <note type="stamp" place="bottom-right" rend="rotate(-90)" resp="#sbb_st_blue">Nachlaß Busoni</note>  
+                <pb n="4"/>
+                <note type="objdesc" resp="#E0300390">[Rückseite von Textseite 2, vacat]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

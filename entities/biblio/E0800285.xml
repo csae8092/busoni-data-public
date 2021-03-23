@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800285">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theurich 2004</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2019-11-19" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <forename>Jutta</forename>
+                            <surname>Theurich</surname>
+                        </author>
+                        <title level="a">Der Nachlaß <persName key="E0300017">Ferruccio Busonis</persName> in der Staatsbibliothek zu Berlin</title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <forename>Albrecht</forename>
+                            <surname>Riethmüller</surname>
+                        </editor>
+                        <editor>
+                            <forename>Hyesu</forename>
+                            <surname>Shin</surname>
+                        </editor>
+                        <title level="m"><persName key="E0300017">Busoni</persName> in <placeName key="E0500029">Berlin</placeName></title>
+                        <title level="m" type="sub">Facetten eines kosmopolitischen Komponisten</title>
+                        <idno type="DNB">971960933</idno>
+                        <imprint>
+                            <pubPlace>Wiesbaden</pubPlace>
+                            <publisher>Steiner</publisher>
+                            <date when-iso="2004"/>
+                        </imprint>
+                        <biblScope unit="page">67–75</biblScope>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

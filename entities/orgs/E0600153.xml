@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600153">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Columbia Graphophone Company</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-02-19" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="corporation">
+                    <idno type="GND">5008770-8</idno>
+                    <orgName>Columbia Graphophone Company</orgName>
+                    <desc>
+                        <date when-iso="1917">1917</date> als Ableger der amerikanischen <orgName>Columbia Phonograph Company</orgName> gegründetes Tonträgerunternehmen mit Sitz in <placeName key="E0500047">London</placeName>; seit <date when-iso="1922">1922</date> eigenständig, übernahm die ehemalige Tochterfirma <date when-iso="1925">drei Jahre später</date> die Mehrheit an ihrer Muttergesellschaft; <date when-iso="1931">1931</date> Fusion mit der britischen <orgName>Gramophone Company</orgName> zur <orgName>Electric and Musical Industries Ltd. (EMI)</orgName>. Busoni absolvierte seine einzigen akustischen Aufnahmen für Columbia (<date when-iso="1919-11-18/1919-11-19">18./19. November 1919</date>, <date when-iso="1922-02-27">27. Februar 1922</date>; nur letztere sind überliefert).
+                    </desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

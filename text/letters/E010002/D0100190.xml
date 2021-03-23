@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100190">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Basel, 22. Oktober 1911)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Basel, 22 October 1911)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> empfiehlt seinen <q>alten Freund</q> <persName key="E0300186">Anton Wolfer</persName>; hofft weiterhin auf <persName key="E0300125">Hubers</persName> neues <rs key="E0400206">Klavierkonzert</rs>; gibt sich wegen <persName key="E0300125">Hubers</persName> Abwesenheit von <placeName key="E0500097">Basel</placeName> enttäuscht.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1911-10-22"/></docDate>
+                            <incipit>ich mache mir ein besonderes Vergnügen daraus</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Briefpapier im Querformat (aufgeklappter Bogen); jeweils Vorderseite in zwei Spalten beschrieben, Rückseite vacat.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der Nummerierung und Foliierung mit Bleistift vorgenommen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097">Basel</origPlace>
+                            <origDate when-iso="1911-10-22"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;8</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100190">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1911-10-22"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100227"/>
+                    <ref type="previous" target="#D0100226"/>
+                    <ref type="next" target="#D0100227"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-24" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-08-29" who="#E0300314">Auszeichnung und Durchsicht abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+        <graphic n="7" url="#local"/>
+        <graphic n="8" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">5.</note>
+                
+                <fw place="top-left">
+                    <figure>
+                        <figDesc>Hotelsiegel</figDesc>
+                    </figure>
+                </fw>
+                
+                <fw place="top-right" rend="large">
+                    <placeName key="E0500375" rend="caps">Hôtel <seg rend="small">des</seg> Trois Rois <seg rend="small">à</seg> <placeName key="E0500097">Bâle</placeName></placeName>
+                </fw>
+                
+                <fw place="left" rend="align(center) small majuscule">
+                    Chambres
+                    <lb/>&amp; Appartements
+                    <lb/>avec Salles
+                    <lb/>de bains privés
+                    <milestone unit="section" style="–" rend="align(center)"/>
+                    <hi rend="caps italic">Auto-Garage</hi>
+                    <milestone unit="section" style="–" rend="align(center)"/>
+                    <persName rend="bold">L. A. Bossi</persName>
+                    <lb/>Propr<seg rend="tiny sup underline">re</seg>
+                </fw>
+                
+                <fw place="right">
+                    <figure>
+                        <figDesc>Ansicht des Hotels</figDesc>
+                    </figure>
+                </fw>
+                
+                <opener>
+                    <dateline rend="align(right)">
+                        <fw place="inline">le</fw> <date when-iso="1911-10-22">22 Oct <fw place="inline">191</fw>1</date>
+                    </dateline>
+                    <salute>Hochverehrter
+                        <lb/>Herr und Freund,</salute>
+                </opener>
+                
+                <p>ich mache mir
+                    <lb/>ein<del rend="strikethrough">e</del> besondere<add place="inline">s</add>
+                    <lb/>Vergnügen daraus,
+                    <lb/>Ihnen meinen
+                    <lb/>alten Freund Herrn
+                    <lb/><persName key="E0300186">Prof. Wolfer</persName> vor
+                    <lb break="no"/>zustellen.</p>
+                
+                <pb n="2"/>
+                
+                <p>Dieser hochkulti
+                    <lb break="no"/>vi<reg>e</reg>rte Musiker
+                    <lb/>wünscht herzlich<reg>,</reg>
+                    <lb/>die Ehre Ihrer Be
+                    <lb break="no" rend="after:-"/>kanntschaft zu
+                    <lb/>genie<choice><orig>ss</orig><reg>ß</reg></choice>en und
+                    <lb/>Ihnen ein theore
+                    <lb break="no" rend="after:-"/>tisches Werk seiner
+                    <lb/>Arbeit zu unterbreiten.</p>
+                
+                <p rend="indent-first">Ich bin sicher,
+                    <lb/>dass Sie der Mann
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> das Werk inte
+                    <lb break="no" rend="after:-"/>ressi<reg>e</reg>ren werden. –
+                    <lb/>Auf Ihr <rs key="E0400206"><choice><orig>ClavierC</orig><reg>Klavierk</reg></choice>on
+                        <lb break="no"/><choice><orig>c</orig><reg>z</reg></choice>ert</rs> habe ich bisher
+                    <lb/>vergeblich gehofft.</p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#archive">(3)</note>
+                
+                <fw place="top-left">
+                    <figure>
+                        <figDesc>Hotelsiegel</figDesc>
+                    </figure>
+                </fw>
+                
+                <fw place="top-right" rend="large">
+                    <placeName key="E0500375" rend="caps">Hôtel <seg rend="small">des</seg> Trois Rois <seg rend="small">à</seg> <placeName key="E0500097">Bâle</placeName></placeName>
+                </fw>
+                
+                <fw place="left" rend="align(center) small majuscule">
+                    Chambres
+                    <lb/>&amp; Appartements
+                    <lb/>avec Salles
+                    <lb/>de bains privés
+                    <milestone unit="section" style="–" rend="align(center)"/>
+                    <hi rend="caps italic">Auto-Garage</hi>
+                    <milestone unit="section" style="–" rend="align(center)"/>
+                    <persName rend="bold">L. A. Bossi</persName>
+                    <lb/>Propr<seg rend="tiny sup underline">re</seg>
+                </fw>
+                
+                <fw place="right">
+                    <figure>
+                        <figDesc>Ansicht des Hotels</figDesc>
+                    </figure>
+                </fw>
+                
+                <fw place="right">le _____ 191_</fw>
+                
+                <p>Überdies bin ich
+                    <lb/>durch Ihre Ab
+                    <lb break="no"/>wesenheit sehr
+                    <lb/>enttäuscht; <subst><del rend="strikethrough">und</del><add place="above">wenn auch</add></subst>
+                    <lb/>die Enttäuschung
+                    <lb/><del rend="strikethrough">ist</del> gemildert <add place="above" xml:id="add_ist">ist</add> <metamark function="insertion" target="#add_ist">×</metamark> durch
+                    <lb/>die Mut<choice><orig>hmass</orig><reg>maß</reg></choice>ung,
+                    <lb/>dass Ihnen der
+                    <lb/>Aufenthalt in <placeName key="E0500013">Italien</placeName>
+                    <lb/>in jeder Hinsicht
+                    
+                    <pb n="4"/>
+                    
+                    förderlich ist.</p>
+                
+                <p rend="indent-first">Dieses wünscht
+                    <lb/>Ihnen von Herzen</p>
+                
+                <closer>
+                    <salute>Ihr stets
+                        <lb/>achtungsvoll und
+                        <lb/>freundschaftlich
+                        <lb/><seg rend="align(right)">ergebener</seg></salute>
+                    <signed><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                </closer>
+                
+                
+                <pb n="5"/>
+                
+                <note type="foliation" place="top-left" resp="#archive">(2)</note>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 1 links]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 1 rechts, vacat]</note>
+                
+                <pb n="7"/>
+                
+                <note type="foliation" place="top-left" resp="#archive">(4)</note>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 2 links]</note>
+                
+                <pb n="8"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Blatt 2 rechts, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

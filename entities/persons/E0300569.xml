@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300569">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Oppler</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unchecked">
+            <change when-iso="2020-02-28" who="#E0300327">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person>
+                    <idno type="GND">119547937</idno>
+                    <idno type="VIAF">15040459</idno>
+                    <persName type="reg">
+                        <surname>Oppler</surname>,
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth>
+                        <date when-iso="1867-09-09"/>
+                        <placeName key="E0500051">Hannover</placeName>
+                    </birth>
+                    <death>
+                        <date when-iso="1929-03-01"/>
+                        <placeName key="E0500029">Berlin</placeName>
+                    </death>
+                    <sex value="m"/>
+                    <occupation>Maler</occupation>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

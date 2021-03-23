@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600165">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mechetti</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org type="publisher">
+                    <idno type="GND">4046051-4</idno>
+                    <orgName>Mechetti</orgName>
+                    <desc><placeName key="E0500002">Wiener</placeName> Musikverlag; ursprünglich Kunst- und Musikhandlung, <date from-iso="1810">ab 1810</date> auch Musikverlag; <date when-iso="1811">1811</date> Übernahme der Firma durch <persName key="E0300588">Pietro Mechetti</persName> (nach dem Tod seines Onkels)</desc>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

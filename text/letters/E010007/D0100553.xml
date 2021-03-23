@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100553">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Robert Freund an Ferruccio Busoni (Budapest, 25. Oktober 1912)</title>
+                <title xml:lang="en">Letter by Robert Freund to Ferruccio Busoni (Budapest, 25 October 1912)</title>
+                <author key="E0300208">Robert Freund</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-02"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 1728</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. R. Freund 39 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-590260</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300208">Freund</persName> bedankt sich für <persName key="E0300017">Busonis</persName> 
+                            <q>reiche Sendung</q>; informiert über seine Rückkehr nach <placeName key="E0500188">Budapest</placeName>;
+                            äußert Gefallen an der <title key="E0400352">Sonatina seconda</title>; sinniert über mögliche Gründe für sein musikalisch 
+                            schwieriges Verhältnis zu <persName key="E0300023">Schönberg</persName>; nennt <persName key="E0300017">Busoni</persName> 
+                            den <q>wahre[n] Futurist[en]</q>; kann die Veröffentlichung der <rs key="E0400395"><persName key="E0300012">Bach</persName>-Fantasie in gekürzter Ausgabe</rs> nachvollziehen,
+                            äußert aber persönliche Vorliebe für die <title key="E0400018">Fantasia contrappuntistica</title> im Original;
+                            zählt <persName key="E0300013">Liszts</persName> <rs key="E0400356">Figaro-Fantasie</rs> zu dessen eher schwachen Werken; stellt den Besuch 
+                            seiner Schwester <persName key="E0300432">Irma</persName> in <placeName key="E0500029">Berlin</placeName> in Aussicht
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="--10-25"/>25/10</docDate>
+                            <docDate resp="#archive" sameAs="#arch_date" cert="low"><date notBefore-iso="1913" notAfter-iso="1914">1913 od. 14</date></docDate>
+                            <incipit>Ihre reiche Sendung<reg>,</reg> die mich freudigst überraschte</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">4 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Die vier Seiten des Bogens hat Freund in der Reihenfolge 1, 4, 2, 3 beschrieben; davon Seite 2 auf dem Kopf stehend und die Seiten 3, 4 im Querformat.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300208">Hand des Absenders Robert Freund, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen, eine Foliierung vorgenommen und das Briefdatum ergänzt hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500188">Budapest</origPlace>
+                            <origDate when-iso="1912-10-25" cert="high"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100553">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                    <date when="1912-10-25" cert="high"/>
+                    <placeName ref="http://www.geonames.org/3054643" key="E0500188">Budapest</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <!--<ref type="replyTo" target="#D0100..."/>--><!-- liegt nicht vor -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>--><!-- liegt nicht vor -->
+                    <ref type="previous" target="#D0100550"/>
+                    <ref type="next" target="#D0100551"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+                <language ident="la"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo"</change>
+            <change when-iso="2018-02-21" who="#E0300361">Bearbeitung übernommen, status="unfinished"</change>
+            <change when-iso="2018-04-13" who="#E0300361">status="proposed"</change>
+            <!-- weitere Einträge hinzufügen, mindestens bei jedem Statuswechsel (unfinished, proposed, candidate, approved) -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013725891/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1300000001"/>
+        <graphic n="2" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1300000004"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1300000002"/>
+        <graphic n="4" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021D1300000003"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1" facs="D0100553_1.jpg"/>
+                <note type="shelfmark" place="top-left" resp="#archive">
+                    <subst>
+                        <add>Mus.Nachl. F. Busoni B II, 1728</add>
+                        <lb/><del rend="strikethrough space-below">Mus.ep. R. Freund 39 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                    </subst>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener rend="space-above">
+                    <dateline rend="align(right)">
+                        <address>
+                            <addrLine><placeName key="E0500188">Budapest</placeName>, <placeName key="E0500469">Mérleg Gasse 4</placeName></addrLine>
+                        </address>
+                        <lb/><date when-iso="--10-25"><choice><orig>25/10</orig><reg>25. Oktober</reg></choice></date>
+                        <note type="dating" place="inline" rend="small" resp="#archive">&#160;&#160;[<date when-iso="1913">1913</date> od. <date when-iso="1914">14</date>]</note> 
+                        
+                        <note type="commentary" resp="#E0300361">
+                            Der Brief stammt mit großer Sicherheit aus dem Jahr <date when-iso="1912">1912</date>. (vgl. dritte Anmerkung)
+                        </note>
+                        
+                    </dateline>
+                </opener>
+                
+                <p>
+                    <seg type="opener" subtype="salute">Lieber Freund!</seg> Ihre reiche
+                    <lb/>Sendung<reg>,</reg>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Es ist nicht überliefert, welche Beilagen dieser Brief hatte. Vmtl. handelte es sich um die nachfolgend kommentierten Werke, also Erstausgaben der 
+                        <title key="E0400352">Sonatina seconda</title> (<persName key="E0300017">Busoni</persName>  hatte die 2.&#160;, entgültige 
+                        Fassung am <date when-iso="1912-07-08">08.07.1912</date> fertiggestellt), der <rs key="E0400395"><foreign xml:lang="it">Edizione 
+                            minore</foreign> der Fantasia contrappuntistica</rs> und <persName key="E0300017">Busonis</persName> Vervollständigung 
+                        der <persName key="E0300013">Liszt</persName>schen <rs key="E0400371">Figaro-Fantasie</rs> (Komposition beendet am 
+                        <date when-iso="1912-07-11">11.07.1912</date>). Alle drei Werke sind <date when-iso="1912">1912</date> als Einzelausgaben 
+                        bei <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> im Druck erschienen. 
+                        (<bibl><ref target="#E0800121"/>, S.&#160;250&#160;f., 286&#160;ff. und 440</bibl>)
+                    </note>
+                    
+                    die mich freudigst
+                    <lb/>überraschte, wurde mir
+                    <lb/><rs key="E0500188">hieher</rs> nachgeschickt. <date when-iso="1912-09" cert="high">Ende
+                        <lb/>September</date> verlie<choice><orig>ss</orig><reg>ß</reg></choice> ich nämlich
+                    <lb/><placeName key="E0500132">Zürich</placeName> <choice><abbr>u.</abbr><expan>und</expan></choice> wohne jetzt <rs key="E0500188">hier</rs>
+                    <lb/>mit meinen <rs type="persons" key="E0300420 E0300432">Schwestern</rs>.
+                    <lb/>Wieso das kam, erzähle ich
+                    <lb/>Ihnen ein andermal. 
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300017">Busoni</persName> zitiert diesen Satz in einem Brief vom <date when-iso="1912-11-07">07.11.1912</date> 
+                        an seine Frau <persName key="E0300059">Gerda</persName> und kommentiert weiter: <q>Also ist er weg von <rs key="E0300434">seiner 
+                            Frau</rs>. Mit 60 Jahren solche Entschlüße; es muss schon ein starker Grund dazu sein!</q> 
+                        (<bibl><ref target="#E0800023"/>, Bd.&#160;1, Br.&#160;644, S.&#160;575</bibl>)
+                    </note>
+                    –</p>
+                
+                <p>Die <title key="E0400352">Sonatine</title> hat mich sofort
+                    <lb/>gefangen geno<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>en. Die so
+                    <lb/>ungewöhnliche Harmonik
+                    <lb/>passt eben zu dem fantastisch-
+                    <lb break="no"/>mystischen Charakter des
+                    <lb/>Stückes <choice><abbr>u.</abbr><expan>und</expan></choice> macht den Eindruck
+                    <lb/>des Natürlichen, Spontan-
+                    <lb break="no"/>Intuitiven.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Dieser Eindruck, auch in Bezug auf die später erwähnte <title key="E0400018">Fantasia contrappuntistica</title>, war äußerst 
+                        nachhaltig. <persName key="E0300208">Freund</persName> bestätigt ihn noch <date when-iso="1922">10 Jahre später</date>. 
+                        (vgl. <ref type="E010007" target="#D0100563">Brief vom <date when-iso="1922-08-04">04.08.1922</date></ref>)
+                    </note>
+                    
+                    Ich frage mich<reg>, </reg>
+                    
+                    <pb n="2" facs="D0100553_4.jpg"/>
+                    we<choice><orig>ss</orig><reg>s</reg></choice>halb ich zu <persName key="E0300023">Schönberg</persName> kein Verhältni<choice><orig>ss</orig><reg>s</reg></choice>
+                    <lb/>finden ka<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>, während mir bei Ihnen auch
+                    <lb/>das Kühnste (we<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> auch nicht i<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>er sogleich
+                    <lb/>wie bei der <title key="E0400352">Sonatine</title>, so doch bei häufige
+                    <lb break="no"/>rem Durchspielen) als natürlich erscheint.
+                    <lb/>Ist es bei ihm das Formal-Unvollendete <choice><abbr>u.</abbr><expan>und</expan></choice> die
+                    <lb/>Kurzat<orig>h</orig>migkeit <choice><abbr>u.</abbr><expan>und</expan></choice> Interesselosigkeit der Motive?
+                    <lb/>Sie sind der wahre Futurist<orig>,</orig>
+                    
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Die <soCalled rend="dq-du">Futuristen</soCalled> waren eine Bewegung von Künstlern (vorwiegend Schriftsteller, bildende 
+                        Künstler) im europäischen Raum (Ausgangspunkt <placeName key="E0500013">Italien</placeName>) zu Beginn des 
+                        <date when-iso="1910/1920">20.&#160;Jh.</date> (v.&#8239;a. etwa <date when-iso="1909/1914">1909&#8211;1914</date>), 
+                        die sich de facto die Zukunft selbst auf die Fahnen geschrieben hatten. Sie verstanden sich als Verfechter des Fortschritts  
+                        und wandten sich gegen überlieferte Tradition. (vgl. <bibl><ref target="#E0800221"/>, S.&#160;244&#160;f.</bibl>) 
+                        Der <soCalled rend="qu-du">Futurismus</soCalled> entzieht sich einer allgemeinen Definition oder inhaltlichen Abgrenzung und 
+                        ist vielfach von Widersprüchen geprägt. (vgl. etwa <bibl><ref target="#E0800222"/>, S.&#160;47</bibl>)
+                        Der von <persName key="E0300470">Marinetti</persName> geprägte Neologismus mutierte zum Schlagwort, das stellvertretend 
+                        für alles absolut Neue, Moderne und Avantgardistische eingesetzt wurde. <persName key="E0300017">Busoni</persName> stand
+                        den Futuristen bzw. ihren Ideen (also dem Streben nach Neuem) durchaus nahe &#8211; auch wenn er deren Begriffe nie 
+                        für sich beanspruchte &#8211;, lehnte aber den totalen Bruch mit der Tradition ab. 
+                        Bereits in seinem ersten <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title> brachte er seine Vision 
+                        einer zukünftigen Musik und Ideen in Bezug auf neue Ausdrucksmöglichkeiten zu Papier. (vgl. etwa die Abschnitte zu einer Neuordnung 
+                        der <ref type="E010004" target="#D0200001" n="15">Notation</ref> sowie des <ref type="E010004" target="#D0200001" n="22">Tonsystems</ref> 
+                        oder &#8211; noch wichtiger &#8211; zur Entwicklung von neuen <ref type="E010004" target="#D0200001" n="30">Instrumenten</ref>) 
+                        Es verwundert also kaum, dass er ein am <date when-iso="1912-03-01">1. März 1912</date> anonym veröffentlichtes 
+                        <title key="E0800250">Manifest</title> (die beliebteste Kommunikationsform der Futuristen), welches den Futurismus in der Musik
+                        verkündete, als Irritation, wenn nicht als Affront auffassen musste. Denn darin heißt es u.&#8239;a.: <q>Die Komponisten von heute […] verdienen lediglich 
+                            unsere Verachtung, insofern als sie vergeblich originale Werke mit abgestandenen Mitteln zimmern […]</q>. (zit. nach 
+                        <persName key="E0300017">Busonis</persName> Reaktion auf das Manifest; <bibl><ref target="#E0800018"/>, S.&#160;67</bibl>; 
+                        ursprüngl. veröffentlicht in: <orgName key="E0600005">Pan</orgName>, Heft 1 vom <date when-iso="1912-10-03">03.10.1912</date> unter 
+                        dem Titel <q>Futurismus der Tonkunst</q>) Unter diesen Vorbedingungen lässt sich <persName key="E0300208">Freunds</persName> Aussage 
+                        als Zeichen der Rückendeckung, ggf. auch als kleinen Trost interpretieren.
+                        <lb/>NB: Ein charakteristisches Merkmal, das den Futurismus von anderen avantgardistischen Kunstströmungen abhob, war eine Faszination 
+                        für Maschinen und moderne Technik in jeder Form. Mechanisierung, Bewegung und Tempo sind weitere wichtige Schlüsselbegriffe, 
+                        die das Leben und die Sicht auf Kunst prägten. (vgl.<bibl><ref target="#E0800221"/>, S.&#160;244</bibl>) 
+                        Doch gerade im Hinblick auf technische Errungenschaften attestierte <persName key="E0300059">Gerda Busoni</persName> 
+                        <rs key="E0300017">ihrem Mann</rs> rückblickend ein recht ambivalentes Verhältnis zum Neuen: <q><persName key="E0300017">Ferruccio</persName> 
+                            hat nie eine Schreibmaschine benutzt und höchstens 2&#8211;3mal in seinem Leben telefoniert. […] Er, der verrufene Futurist, 
+                            war in den meisten Sachen altmodisch.</q> (<bibl><ref target="#E0800220"/>, S.&#160;23</bibl>)
+                    </note>
+                    
+                    in dem Si<choice><abbr>n&#773;</abbr><expan>nn</expan></choice>e,
+                    <lb/>dass Sie in die Zukunft hinein<orig> </orig>wirken <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>(we<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> auch wider Willen) zeigen, dass unser Tonsy
+                    <lb break="no"/>stem noch i<choice><abbr>m&#773;</abbr><expan>mm</expan></choice>er geeignet ist<reg>,</reg> Neues zu sagen. –</p>
+                <p>Die neuen T<orig>h</orig>eile oder vielmehr der <title key="E0400395">neue T<orig>h</orig>eil
+                    <lb/>der <persName key="E0300012">Bach</persName>-Fantasie (das Choralvorspiel)</title> hat
+                    <lb/>mir auch gut gefallen <choice><abbr>u.</abbr><expan>und</expan></choice> ich begreife, dass
+                    
+                    <pb n="3" facs="D0100553_2.jpg"/>
+                    Sie sich bewogen fanden<reg>,</reg>
+                    <lb/>die <rs key="E0400395">gekürzte Ausgabe</rs><choice><orig>,</orig><reg> –</reg></choice> <foreign xml:lang="la">in
+                        <lb/>usum <choice><orig>d</orig><reg>D</reg></choice>elphini</foreign>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <q><foreign xml:lang="la">ad usum Delphini</foreign></q> (orthograph. Variante: <q><foreign xml:lang="la">in usum</foreign>...</q>) 
+                        [neulat.]: <q>zum Gebrauch des Dauphins</q> (des frz. Kronprinzen), für dessen Unterricht Ausgaben antiker Klassiker hergestellt wurden, die in moralischer und politischer Hinsicht 
+                        gerreinigt und kommentiert waren. Ursprünglich Terminus aus dem Buchwesen; im erweiterten Sinn (v.&#8239;a. <date when-iso="1800/1900">19.&#160;Jh.</date>): 
+                        <q>zum Gebrauch für Schüler</q> bzw. für sie bearbeitet. (<bibl><ref target="#E0800177"/>, S.&#160;119</bibl>) 
+                        <lb/>Die erstmals im Jahr <date when-iso="1910">1910</date> veröffentlichte <rs key="E0400018"><foreign xml:lang="it">Edizione definitiva</foreign> 
+                            der Fantasia contrappuntistica</rs> ist klaviertechnisch anspruchsvoll und sehr umfangreich. 
+                        <persName key="E0300017">Busoni</persName> selbst bezeichnete sie als <q>monumental</q> und <q>Monstre-Fuge [sic]</q>  
+                        (<bibl><ref target="#E0800023"/>, Bd.&#160;1, Br.&#160;520 und 523, S.&#160;470&#160;f.</bibl>)
+                        und vermerkt im Vorwort der <date when-iso="1912">zwei Jahre später</date> erschienenen <rs key="E0400395"><foreign xml:lang="it">Edizione minore</foreign></rs>: 
+                        <q>Das vorliegende, kleinere [Werk], ist mehr auf die Klavierübung, als auf den Konzertvortrag gerichtet.</q> Auch
+                        <persName key="E0300208">Freund</persName> betrachtet dies offenbar als sinnvolle Ergänzung für alle Lernenden, die (noch) 
+                        nicht auf Virtuosenniveau spielen. 
+                    </note>
+                    
+                    – erscheinen
+                    <lb/>zu lassen. Ich persönlich
+                    <lb/>halte mich aber an die
+                    <lb/><title key="E0400018">Fantasia <choice><orig>C</orig><reg>c</reg></choice>ontrappun<subst><del rend="overwritten">tt</del><add place="across">t</add></subst>istica</title>. –
+                    <lb/>A<subst><del rend="overwritten"><gap atLeast="1" unit="char" reason="overwritten"/></del><add place="across">n</add></subst> <subst><del rend="overwritten">g<gap atLeast="1" unit="char" reason="overwritten"/></del><add place="across">d</add></subst>er <rs key="E0400371">Figaro-Fantasie</rs>
+                    <lb/>ka<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> ich, offen gestanden,
+                    <lb/>nicht viel finden.
+                    
+                    <note xml:id="dsb_p3" type="stamp" place="margin-left" rend="rotate(90)" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) tiny">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <lb/>Natürlich interessi<reg>e</reg>rt mich
+                    <lb/><choice><orig>A</orig><reg>a</reg></choice>lles<reg>,</reg> was <persName key="E0300013">Liszt</persName> schrieb,
+                    <lb/>aber diese <rs key="E0400371">Fantasie</rs>
+                    <lb/>gehört doch wohl zu
+                    <lb/>den Schwachen.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        (Opern-)Paraphrasen, zu denen auch <persName key="E0300013">Liszts</persName> <rs key="E0400356">Figaro-Fantasie</rs> gehört, 
+                        waren bis zum Ende des <date when-iso="1900">19.&#160;Jh.</date> (speziell in den Jahren <date when-iso="1830/1850">1830 bis 1850</date>) 
+                        beim Publikum äußerst beliebt und gehörten als Bravourstücke in das Repertoire jedes erfolgreichen Pianisten. Diese Wahrnehmung 
+                        wandelte sich mit der <date when-iso="1900">Jahrhundertwende</date>. Ab da bis in die <date when-iso="1980">1980er Jahre</date> 
+                        hinein war es en vogue, diese Werke als <q>oberflächlich</q> und <q>von zweitrangigem künstlerischen Wert zu betrachten</q>. 
+                        (<bibl><ref target="#E0800069"/>, S.&#160;413&#160;f.</bibl>) Noch <date when-iso="1968">1968</date> lässt sich in 
+                        einschlägiger Literatur nachlesen, dass <q>die Opernfantasie […] sich nun einmal als edlere Kunstform nicht durchgesetzt [hat]</q>
+                        und konkret mit Bezug auf <persName key="E0300013">Liszt</persName> heißt es an gleicher Stelle: <q>Es sind ganz schwache 
+                            [Opernfantasien] darunter...</q> (<bibl><ref target="#E0800219"/>, Bd.&#160;2, S.&#160;31</bibl>)
+                        <persName key="E0300208">Freunds</persName> Bemerkung, dass <persName key="E0300013">Liszts</persName> <rs key="E0400356">Fantasie</rs> 
+                        <q>doch wohl zu den Schwachen</q> im Hinblick auf sein Gesamtwerk gehört, könnte also eine persönliche Präferenz ausdrücken &#8211; 
+                        oder, zumindest teilweise, auch den Zeitgeist widerspiegeln. Für <persName key="E0300017">Busoni</persName> war die Opernparaphrase 
+                        im Übrigen nicht <q>das ordinäre, exhibitionistische Virtuosenstück […] sondern eine psychologische Verdichtung der Oper und 
+                            ihrer Handlung im Medium Klavier</q>. (<bibl><ref target="#E0800204"/>, S.&#160;228</bibl>)
+                    </note>
+                    
+                    Das Allegro
+                    <lb/>hat aber Leben <choice><abbr>u.</abbr><expan>und</expan></choice> die
+                    <lb/>Coda (<choice><orig>Allá</orig><reg>alla</reg></choice> Marcia) wirkt
+                    <lb/>ausgezeichnet. Diese
+                    <lb/><q rend="dq-uu">Ergänzung</q> ist doch nicht
+                    <lb/>von Ihnen? –
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Aus unbekannten Gründen hat <persName key="E0300013">Liszt</persName> seine <rs key="E0400356">Figaro-Fantasie</rs> nie ganz 
+                        zu Ende komponiert, obwohl er sie <date when-iso="1843">1843</date> sogar selbst in <placeName key="E0500029">Berlin</placeName> 
+                        aufführte (<bibl><ref target="#E0800200"/>, S.&#160;40</bibl>). Die Lücken im <rs key="E0400356">Manuskript</rs> 
+                        sind gering und von <persName key="E0300013">Liszt</persName> im Vortrag wahrscheinlich improvisiert worden. Sie betreffen das 
+                        Ende einer kurzen Überleitung (drei leere Takte im Ms., T.&#160;574&#8211;576) und den Schluss des Werkes (Komposition bricht nach 
+                        T.&#160;601 ab; (<bibl><ref target="#E0800201"/>, S.&#160;VI&#160;ff.</bibl>). <persName key="E0300013">Liszt</persName> 
+                        verarbeitete im <rs key="E0400356">Original</rs> musikalisches Material aus zwei <persName key="E0300010">Mozart</persName>-Opern: 
+                        <title key="E0400354">Le nozze di Figaro</title> (Figaros Arie <q><foreign xml:lang="it">Non più andrai</foreign></q> aus Akt&#160;1
+                        und Cherubinos Arietta <q><foreign xml:lang="it">Voi che sapete</foreign></q> aus Akt&#160;2) sowie <title key="E0400002">Don Giovanni</title>
+                        (Tanzszene &#8211; Menuett, Kontertanz und Walzer &#8211; aus dem Finale des 1.&#160;Akts; <bibl><ref target="#E0800200"/>, S.&#160;41&#160;f.</bibl>).
+                        Das bis dato ungedruckte <rs key="E0400356">Klavierwerk</rs> wurde von <persName key="E0300017">Busoni</persName> ergänzt 
+                        und auf sein Bestreben hin im Rahmen der <persName key="E0300013">Liszt</persName>&#8211;Gesamtausgabe bei <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> 
+                        <date when-iso="1912">1912</date> erstmals veröffentlicht (<bibl><ref target="#E0800050"/>, Bd.&#160;1, Br.&#160;654, S.&#160;498</bibl>).
+                        Laut <bibl><ref target="#E0800201"/></bibl> handelt es sich bei dieser <rs key="E0400371">Erstausgabe</rs> allerdings um <q>eine stark verstümmelte Fassung</q> 
+                        (orig. engl.: <q><foreign xml:lang="en">a greatly truncated version</foreign></q>). Howard moniert, dass <q><persName key="E0300017">Busoni</persName>
+                            in der <rs key="E0400371">Ausgabe</rs> verschweigt, wie groß eigentlich seine Zugabe war</q> und <q>was und wieviel er […]
+                                weggelassen hatte</q>. Der direkte Vergleich zeigte, dass <persName key="E0300017">Busoni</persName> die <title key="E0400002">Don-Giovanni</title>-Abschnitte 
+                        ganz ausließ und somit <q>gezwungen war, <persName key="E0300013">Liszts</persName> 597 Takte umfassendes 
+                            <rs key="E0400356">Originalmanuskript</rs> um 245 Takte (!) zu reduzieren und 37 neue Takte selbst zu komponieren, um die 
+                            übrig gebliebenen Abschnitte für die Aufführung geeignet zu machen</q>. (<bibl><ref target="#E0800201"/>, S.&#160;VII</bibl>)
+                        <lb/>Das von <persName key="E0300208">Freund</persName> erwähnte Allegro und die Coda sind im Wesentlichen original <persName key="E0300013">Liszt.</persName>
+                        In <persName key="E0300017">Busonis</persName> Allegro fehlt T.&#160;258 und bei <persName key="E0300013">Liszt</persName> folgen nach 
+                        T.&#160;335 noch 16 Takte, bevor der <title key="E0400002">Don-Giovanni</title>-Abschnitt beginnt; <persName key="E0300017">Busoni</persName> notiert 19 andere 
+                        Takte nach T.&#160;335 und springt dann direkt in die Coda (alla Marcia), die als einzige Abweichung vier zusätzliche Takte nach
+                        T.&#160;587 aufweist. (Mangels Taktzahlen in der <rs key="E0400371">Liszt/Busoni-Ausgabe</rs> beziehen sich die Angaben hier auf 
+                        <bibl><ref target="#E0800201"/></bibl>.)
+                        <lb/>Es bleibt unklar, weshalb <persName key="E0300017">Busoni</persName> das <rs key="E0400356">Werk</rs> nach eigener Aussage lediglich 
+                        <q>diskret erg<choice><orig>ae</orig><reg>ä</reg></choice>nzt</q> haben will (<bibl><ref target="#E0800058"/>, Br. an 
+                            <persName key="E0300129">Andreae</persName> vom <date when-iso="1912-09-13">13.09.1912</date>, S.&#160;39</bibl>), es de facto aber so
+                        drastisch gekürzt wurde. Vorstellbar wäre, das <persName key="E0300017">Busoni</persName> nicht das vollständige <rs key="E0400356">Ms.</rs> 
+                        vorgelegen hat. <persName key="E0300013">Liszts</persName> <rs key="E0400356">Original</rs> ist auf losen Notenblättern notiert, 
+                        die nicht nummeriert sind. Der Übergang in den <title key="E0400002">Don Giovanni</title>&#8211;Teil ist in C-Dur, wie auch das Ende
+                        dieses Abschnitts, bevor die Coda beginnt. Die betreffenden 15 Seiten könnten also weggelassen werden, ohne dass es zu harmonischen
+                        Komplikationen käme. Zudem beginnt der <title key="E0400002">Don Giovanni</title>-Abschnitt auf einer neuen Notenseite und an keiner 
+                        Stelle im <rs key="E0400356">Ms.</rs> treten Motive aus beiden <persName key="E0300010">Mozart</persName>-Opern gleichzeitig in 
+                        Erscheinung. Dies wirft auch die Frage auf, ob <persName key="E0300013">Liszt</persName> überhaupt intendierte, zwei Opern miteinander zu kombienieren &#8211; 
+                        es wäre die einzige seiner zahlreichen Opernfantasien, wo dies der Fall ist &#8211; oder ob im <placeName key="E0500144">Weimarer</placeName> 
+                        Archiv ggf. fälschlich zwei separate Werke zusammengelegt wurden (<bibl><ref target="#E0800204"/>, S.&#160;235&#160;f.</bibl>).
+                    </note>
+                </p>
+                <p rend="inline">So <choice><abbr>u.</abbr><expan>und</expan></choice> nun
+                    <lb/>lassen Sie mich Ihnen
+                    <lb/>noch herzlichst danken
+                    
+                    <pb n="4" facs="D0100553_3.jpg"/>
+                    <note sameAs="#dsb_p3" type="stamp" place="top-center" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) tiny">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    für die Freude<reg>,</reg> die Sie mir gemacht.
+                    <lb/>Vielleicht findet meine Schwester <persName key="E0300432">Irma</persName>
+                    <lb/>Sie in <placeName key="E0500029">Berlin</placeName> <choice><abbr>u.</abbr><expan>und</expan></choice> Sie erfahren da<choice><abbr>n&#773;</abbr><expan>nn</expan></choice> von
+                    <lb/>ihr<reg>,</reg> was Sie sonst interessi<reg>e</reg>rt zu hören.</p>
+                <closer>
+                    <salute>In steter Anhänglichkeit</salute>
+                    <signed rend="inline">Ihr alt ergebener
+                        <lb/><seg rend="align(right) space-above"><persName key="E0300208">R. Freund</persName></seg></signed>
+                </closer>
+                <note type="foliation" resp="#archive" place="top-center" rend="rotate(90)">[2]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100121">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 17. Februar 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 17 February 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300337">
+                        <forename>Natsumi</forename>
+                        <surname>Witzmann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> erinnert sich an <persName key="E0300136">Theodor Kirchner</persName> als <q>merkwürdigerweise recht imponierend</q>; betont die Bedeutung <persName key="E0300010">Mozarts</persName> für seine eigene Ausbildung; kündigt Gesprächsthemen für ein baldiges Treffen in <placeName key="E0500132">Zürich</placeName> an.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-02-17"/></docDate>
+                            <incipit>Ihren Brief, reichen Inhalts, genoss ich.</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent> 
+                                    <measure type="folio">1 Blatt</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der den Brief mit Bleistift nummeriert hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-02-17"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;14</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100121">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-02-17"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100120"/>
+                    <ref type="previous" target="#D0100120"/>
+                    <ref type="next" target="#D0100122"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-12-10" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01-05" who="#E0300337">Bearbeitung übernommen. status="unfinished"</change>
+            <change when-iso="2017-01-15" who="#E0300337">status="proposed"</change>
+            <change when-iso="2017-06-22" who="#E0300314">Durchsicht abgeschlossen, status candidate</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" resp="#archive" place="top-right">16.</note>
+                
+                <opener>
+                    <salute rend="indent">Hochverehrter Freund,</salute>
+                </opener>
+                
+                <p rend="indent-first">
+                    <ref type="E010002" target="#D0100120">Ihren Brief</ref>, reichen Inhalts, genoss ich.
+                    <lb/>Sie haben wohl <persName key="E0300090">Nietzsche</persName> persönlich ge
+                    <lb break="no"/>kannt? Aber darüber <hi rend="underline">sprechen</hi> wir uns,
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Sie sollen sich nicht gezwungen
+                    <lb/>halten, schriftliche Antwort zu geben.
+                </p>
+                
+                <p rend="indent-first">
+                    <persName key="E0300136">Kirchner</persName> habe ich noch ge
+                    <lb break="no"/>sprochen<choice><orig>, – seinerzeit, –</orig><reg> – seinerzeit –,</reg></choice> der merkwürdiger
+                    <lb break="no"/>weise recht imponierend wirkte. Mit
+                    <lb/><persName key="E0300130">Mendelssohn</persName> behalten Sie Recht; aber
+                    <lb/>nicht dieser, sondern sein größeres
+                    <lb/>Vorbild <persName key="E0300010">Mozart</persName> war es, der mich
+                    <lb/>erzogen hat. Über <persName key="E0300131">Durigo</persName>-<placeName key="E0500132">Zurigo</placeName>, 
+                    <lb/><rs key="E0300141">Schöckli</rs> und Geckli
+                    
+                    <note type="commentary" resp="#E0300337">Ob neben dem Wortspiel mit den Nachnamen von <persName key="E0300131">Ilona Durigo</persName> und <persName key="E0300141">Othmar Schoeck</persName> (vgl. den <ref type="E010002" target="#D0100120">Brief vom 16. Februar 1916</ref>) auch <q>Geckli</q> eine solche Anspielung bedeutet, war nicht zu ermitteln.</note>
+                    
+                    <note type="commentary" subtype="ed_diff" resp="#E0300314">Bei <bibl><ref target="#E0800047"/> (14)</bibl> ist der Anfang des Satzes ausgelassen (Beginn mit <q>Weiteres</q>).</note>
+                    
+                    Weiteres in der
+                    <lb/><placeName key="E0500189">Scheuchzerstrasse</placeName>, alswo
+                    
+                    <note type="commentary" subtype="ed_diff" resp="#E0300314"><bibl><ref target="#E0800047"/> (14)</bibl>: <q>allwo</q>.</note>
+                    
+                    Sie mit 
+                    <lb/>größter Herzlichkeit <choice><abbr>u.</abbr><expan>und</expan></choice> Dankbarkeit
+                    <lb/>erwartet<orig>,</orig>
+                </p>
+                
+                <closer>
+                    <salute rend="align(right)">Ihr sehr freudig ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline>
+                        <placeName key="E0500132">Zürich</placeName><reg>,</reg>
+                        den <date when-iso="1916-02-17">17. Februar 1916</date>.
+                    </dateline> 
+                </closer>
+                
+                <pb n="2"/>
+                
+                <note type="objdesc" resp="#E0300337">[Rückseite, vacat]</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

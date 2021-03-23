@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400464">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: 2&#160;Konzert-Etüden</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-16" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="m">2&#160;Konzert-Etüden</title>
+                        <idno type="wcat">S&#160;145</idno>
+                        <idno type="wcat">R&#160;6</idno>
+                        <idno type="GND">300093497</idno>
+                        <imprint>
+                            <date when-iso="1862" type="composed"/>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1863" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600167">Cotta’sche Verlagsbuchhandlung</orgName>
+                            </publisher>
+                            <pubPlace key="E0500181">Stuttgart</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <note>Beinhaltet die Etüden <title key="E0400465">Waldesrauschen</title> und <title key="E0400466">Gnomenreigen</title>.</note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400316">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rubiner, Ludwig: Die Gewaltlosen. Drama in vier Akten</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="lit">
+               <monogr>
+                  <author key="E0300126">Ludwig Rubiner</author>
+                  <title level="m">Die Gewaltlosen</title>
+                  <title level="m" type="sub">Drama in vier Akten</title>
+                  <idno type="DNB">362197423</idno>
+                  <imprint>
+                     <pubPlace key="E0500016">Potsdam</pubPlace>
+                     <publisher>Gustav Kiepenheuer</publisher>
+                     <date when-iso="1919" type="firstprint"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1920-05-22" type="firstperf"/>
+                     <pubPlace key="E0500029">Berlin</pubPlace>
+                  </imprint>
+               </monogr>
+               <ref type="ext"
+                    target="https://archive.org/stream/diegewaltlosendr00rubiuoft#page/n5/mode/2up">Digitalisat im Internet Archive</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

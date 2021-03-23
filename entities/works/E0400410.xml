@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400410">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bach, Johann Sebastian (arr. Busoni, Ferruccio): 2 Orgeltoccaten C-Dur und d-Moll</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2019-02-05" who="#E0300361">Link zum Digitalisat ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus" subtype="arrgt">
+               <monogr>
+                  <author key="E0300012" role="cmp">Johann Sebastian Bach</author>
+                  <author key="E0300017" role="arrgr">Ferruccio Busoni</author>
+                  <title level="m">2 Orgeltoccaten C-Dur und d-Moll</title>
+                  <idno type="wcat">K B 29</idno>
+                  <idno type="DNB">1000199002</idno>
+                  <idno type="BVB">BV023895978</idno>
+                  <edition>Bearbeitung für Klavier solo</edition>
+                  <imprint>
+                     <date when-iso="1900" type="firstprint"/>
+                     <pubPlace key="E0500007">Leipzig</pubPlace>
+                     <publisher>
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                     </publisher>
+                     <note type="dedicatee"><persName key="E0300208">Robert Freund</persName></note>
+                  </imprint>
+               </monogr>
+               <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB00019B9400000000">Digitalisat des Autographs bei der Staatsbibliothek zu Berlin</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300168">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lord Byron</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">118518208</idno>
+               <idno type="VIAF">95230688</idno>
+               <persName type="reg">
+                  <surname>Byron</surname>,
+                  <addName type="common">Lord</addName>
+               </persName>
+               <persName type="birth">
+                  <forename>George</forename>
+                  <forename>Gordon</forename>
+                  <forename>Noel</forename>
+                  <surname>Byron</surname>
+               </persName>
+               <persName type="role">
+                  <roleName type="nobility">6. Baron Byron</roleName>
+               </persName>
+               <birth>
+                  <date when-iso="1788-01-22"/>
+                  <placeName key="E0500047">London</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1824-04-19"/>
+                  <placeName key="E0500228">Mesolongi</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Schriftsteller</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

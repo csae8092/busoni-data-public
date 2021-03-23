@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0600097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Franz-Liszt-Stiftung</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org type="foundation">
+               <idno type="GND">7840231-1</idno>
+               <orgName>Franz-Liszt-Stiftung</orgName>
+               <desc><date when-iso="1887">1887</date> gegründete Stiftung, welche sich durch Vergabe des <soCalled rend="dq-du">Liszt-Stipendums</soCalled> für begabte Künstler, die Entstehung der Liszt-Ausgabe sowie generell für Aufführungen der Werke von <persName key="E0300013">Franz Liszt</persName> einsetzte. Teil des <orgName key="E0600096">Allgemeinen Deutschen Musikvereins</orgName>.</desc>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

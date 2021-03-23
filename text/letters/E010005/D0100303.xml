@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100303">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Paris, 15. Januar 1913)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Paris, 15 January 1913)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300418">
+                        <forename>Marlene</forename>
+                        <surname>Everling</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4262</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. L. Rubiner 3 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723577</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300126">Rubiner</persName> hat <persName key="E0300017">Busoni</persName>s Veröffentlichung im <q rend="dq-du"><orgName key="E0600117">März</orgName></q> gelesen und findet sich in dessen Worten bestätigt.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1913"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1913-01-15"/></docDate>
+                            <incipit>Soeben habe ich mit größtem Entzücken</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Postkarte</measure>
+                                </extent>
+                                <condition>Die Postkarte ist gut erhalten; Fleck einer Flüssigkeit auf der beschriebenen Seite</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">Hand des Absenders Ludwig Rubiner, Postkartentext mit Bleistift geschrieben, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signaturen mit Bleistift eingetragen und eine Foliierung vorgenommen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb  des Busoni-Nachlasses mit Rotstift vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="post_blue" scope="minor" medium="blue_pen" scribe="postoffice">Womöglich Hand eines Mitarbeiters, der die Postbezirksnummer korrigierte.</handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="1"/>
+                            
+                            <cb type="postcard"/>
+                            <p rend="center"><hi rend="underline">Allemagne</hi></p>
+                            
+                            <note type="stamp" place="top-left" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500012">Paris</placeName> XIV - <lb/><date when-iso="1913-01-15">15 <lb/>Janv <lb/>7 <hi rend="underline">30</hi>
+                                        <lb/> 13</date>
+                                    <lb/>D’Orleans </stamp>
+                            </note>
+                            
+                            <address rend="space-above">
+                                <addrLine rend="above">Herrn</addrLine>
+                                <addrLine rend="align(right">Prof. <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500029">Berlin</placeName>  W.50</addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500072"><choice><orig>Viktoria Luise Platz 11</orig><reg>Viktoria-Luise-Platz 11</reg></choice></placeName></addrLine>
+                            </address>
+                            
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <subst>
+                                    <add>Mus.Nachl. F. Busoni B II, 4262</add>
+                                    <add place="below"><del rend="strikethrough"><note resp="#archive" rend="align(center)">Mus.ep.L.Rubiner 3 (Busoni-Nachl.</note><handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del></add>
+                                </subst>
+                            </note>
+                            
+                            <note type="stamp" place="bottom-left" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) small">Deutsche
+                                    <lb/>Staatsbibliothek <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                                                        
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500012">Paris</origPlace>
+                            <origDate when-iso="1913-01-15"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100303">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1913-01-15"/>
+                    <placeName ref="http://www.geonames.org/2988507" key="E0500012">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100302"/>
+                    <ref type="next" target="#D0100304"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-19" who="#E0300418">Metadaten, Text, status unfinished.</change>
+            <change when-iso="2018-04-06" who="#E0300418">Korrekturen, Kommentare, status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873473434/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2500000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB2500000002"/>
+        
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="2"/>
+                
+                
+                <opener>
+                    <address>
+                        <addrLine rend="right"><placeName key="E0500511">| <choice><orig>r</orig><reg>R</reg></choice>ue Joseph Bara 1 </placeName><lb/><placeName key="E0500012">Paris </placeName><placeName key="E0500512">VI </placeName><hi rend="underline" n="2">me</hi></addrLine>
+                    </address>
+                    <salute rend="align(center) space-above">Lieber <persName key="E0300017">Herr Busoni</persName>!</salute>
+                </opener>
+                
+                <p>Soeben habe ich mit 
+                    <lb/>grö<choice><orig>ss</orig><reg>ß</reg></choice>tem Entzücken 
+                    <lb/>im <q rend="dq-du"><orgName key="E0600117">März</orgName></q> Ihre Worte 
+                    <lb/>vom <hi rend="majuscule">Anfang</hi>
+                    
+                    <note type="commentary" resp="#E0300418"><persName key="E0300017">Busoni</persName> veröffentlichte in der Zeitschrift <orgName key="E0600117">März</orgName> einen Aufsatz mit dem Titel <q rend="dq-du">Neuer Anfang</q>, in der Ausgabe des <date when-iso="1913-04-05"> 5.April 1913</date>; 1. Heft, 7. Jahrgang, geleitet von <persName key="E0300518">Wilhelm Herzog</persName>. Eine Druckausgabe dieser Veröffentlichung ist in <persName key="E0300017">Busoni</persName>s Nachlass in den <ref type="ext" target="http://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN835037479">Bearbeitungen</ref> (S.45, ff.) seines <title key="E0400043">Entwurf einer neuen Ästhetik der Tonkunst</title> zu finden. <persName key="E0300017">Busoni</persName> übernahm demnach seinen Aufsatz in die <rs key="E0800326">zweite Ausgabe</rs> <ref type="E010004" target="#D0200002" n="34">(Seite 34 ff.)</ref> seines <title key="E0400043">Entwurfs einer neuen Ästhetik der Tonkunst</title>.</note>
+                    
+                    gelesen. 
+                    <lb/>Das Herrlichste, wenn ein Mensch 
+                    <lb/>schreibt, ist sicherlich, wenn
+                    <lb/>ein Anderer sich in diesen Worten 
+                    <lb/>bestätigt findet (und in seinen
+                    <lb/>geheimsten Instinkten)! 
+                </p>
+                
+                <closer rend="align(left)">
+                    <salute>Die herzlichsten Grü<choice><orig>ss</orig><reg>ß</reg></choice>e von Ihrem 
+                        <lb/>ergebenen</salute>
+                    <signed rend="align(right)"><lb/><persName key="E0300017"> Ludwig Rubiner</persName>.</signed>
+                </closer>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

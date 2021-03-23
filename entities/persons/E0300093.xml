@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300093">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hugo Leichtentritt</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">116878363</idno>
+               <persName type="reg">
+                  <surname>Leichtentritt</surname>,
+                  <forename>Hugo</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1874-01-01"/>
+                  <placeName key="E0500150">Pleschen</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1951-11-13"/>
+                  <placeName key="E0500151">Cambridge (MA)</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikwissenschaftler</occupation>
+               <occupation>Komponist</occupation>
+               <affiliation when-iso="1894">Abschluss an der <orgName key="E0600157">Harvard University</orgName> (B. A.)</affiliation>
+               <affiliation when-iso="1895/1898">Studium an der <orgName key="E0600156">Hochschule für Musik <placeName key="E0500029">Berlin</placeName></orgName></affiliation>
+               <affiliation when-iso="1898/1901">Promotion an der <orgName key="E0600132">Universität <placeName key="E0500029">Berlin</placeName></orgName></affiliation>
+               <affiliation when-iso="1901/1924">Dozent am <orgName key="E0600159">Klindworth-Scharwenka-Konservatorium</orgName></affiliation>
+               <affiliation when-iso="1933/1944">Dozent an der <orgName key="E0600157">Harvard University</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

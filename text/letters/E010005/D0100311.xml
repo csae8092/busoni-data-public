@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100311">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ludwig Rubiner an Ferruccio Busoni (Zürich, 7. Oktober 1917)</title>
+                <title xml:lang="en">Letter by Ludwig Rubiner to Ferruccio Busoni (Zurich, 7 October 1917)</title>
+                <author key="E0300126">Ludwig Rubiner</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010005">Briefwechsel Ferruccio Busoni – Ludwig Rubiner</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 4269</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim"> Mus.ep. L. Rubiner 10 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-723704</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300126">Rubiner</persName> ist erfreut über <persName key="E0300017">Busonis</persName> Einladung, den 
+                            neuen Schluss eines <rs key="E0400218">Werkes</rs> kennenzulernen; weist den Gedanken ab, er hätte Anteil an der 
+                            <q>Schlussidee</q>; <persName key="E0300339">John Philipp</persName>, ein mit <persName key="E0300126">Rubiner</persName> 
+                            befreundeter Maler, beabsichtigte auf dessen Anregung hin, <persName key="E0300017">Busoni</persName> zu porträtieren, 
+                            wurde aber bereits an der Tür abgewiesen und fühlt sich gekränkt; <persName key="E0300126">Rubiner</persName> bittet 
+                            <persName key="E0300017">Busoni</persName>, ihm einige Worte zu schreiben
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-10-07"/></docDate>
+                            <docDate resp="#archive_2" sameAs="#arch_2"><date when-iso="1917-10-07"/></docDate>
+                            <incipit>Ich bin sehr glücklich über Ihre Einladung, den Schluss kennen lernen zu dürfen</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">4 Bogen</measure>
+                                    <measure type="pages">8 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief gut erhalten; auf der Umschlagrückseite oben Papier ausgerissen (evtl. Textverlust).</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300126">
+                                Hand des Absenders Ludwig Rubiner, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistift die Signaturen eingetragen und eine Foliierung vorgenommen hat (Blatt 1).
+                            </handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat.
+                            </handNote>
+                            <handNote xml:id="archive_2" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der das Briefdatum auf dem letzten Blatt (Verso) mit Bleistift vermerkt hat.
+                            </handNote>
+                            <handNote xml:id="gerda.busoni" scope="minor" medium="pencil" scribe="relative" scribeRef="#E0300059">
+                                Hand Gerda Busonis, die mit Bleistift eine Foliierung vorgenommen hat (Blatt 2-8).
+                            </handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">
+                                Vmtl. Hand des Empfängers Ferruccio Busoni, der auf der Umschlagrückseite die Zuordnung <q>Rubiner</q> mit Bleistift notiert hat.
+                            </handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)
+                            </handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">
+                                Bibliotheksstempel (blaue Tinte)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="17"/>
+                            <address>
+                                <addrLine>Herrn</addrLine>
+                                <addrLine><persName key="E0300017">Prof. Ferruccio Busoni</persName></addrLine>
+                                <addrLine rend="align(right) underline"><placeName key="E0500132">Zürich VI</placeName></addrLine>
+                                <addrLine rend="align(right)"><placeName key="E0500189">Scheuchzerstr. 36<orig>.</orig></placeName></addrLine>
+                            </address>
+                            <pb n="18"/>
+                            <note type="annotation" place="bottom-center" rend="large" resp="#recipient">Rubiner</note>
+                            <note type="stamp" place="bottom-center" rend="small" resp="#sbb_st_blue">
+                                <del rend="strikethrough">Nachlaß Busoni<handShift new="#archive_red"/> B II</del>
+                            </note>
+                            <note type="stamp" place="bottom-left" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) tiny">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="shelfmark" place="right-of" resp="#archive">
+                                <subst>
+                                    <del rend="strikethrough"><idno type="D-B.olim">Mus.ep. L. Rubiner 10</idno></del>
+                                    <add place="below"><idno type="D-B">Mus.Nachl. F. Busoni B II, 4269-Beil.</idno></add>
+                                </subst>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1917-10-07"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis
+                    Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und
+                        werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch
+                        XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen
+                        wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts.
+                    <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100311">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118603590" key="E0300126">Rubiner, Ludwig</persName>
+                    <date when="1917-10-07"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100310"/>
+                    <ref type="next" target="#D0100312"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-12-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-01-03" who="#E0300361">Bearbeitung übernommen, status unfinished.</change>
+            <change when-iso="2018-03-12" who="#E0300361">Status proposed.</change>
+        </revisionDesc>   
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873475690/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000003"/>
+        <graphic n="3" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000005"/>
+        <graphic n="4" corresp="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000007"/>
+        <graphic n="5" corresp="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000009"/>
+        <graphic n="6" corresp="11" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000011"/>
+        <graphic n="7" corresp="13" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000013"/>
+        <graphic n="8" corresp="15" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000015"/>
+        <graphic n="9" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000002"/>
+        <graphic n="10" corresp="4"  url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000004"/>
+        <graphic n="11" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000006"/>
+        <graphic n="12" corresp="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000008"/>
+        <graphic n="13" corresp="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000010"/>
+        <graphic n="14" corresp="12" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000012"/>
+        <graphic n="15" corresp="14" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000014"/>
+        <graphic n="16" corresp="16" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000016"/>
+        <graphic n="17" corresp="17" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000017"/>
+        <graphic n="18" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EB3000000018"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="shelfmark" place="margin-left" rend="rotate(-90)" resp="#archive">
+                    <idno type="D-B">Mus.Nachl. F. Busoni B II, 4269 </idno>
+                    <del rend="strikethrough"><idno type="D-B.olim">Mus.ep. L. Rubiner 10</idno> (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                </note>
+                <note type="foliation" place="top-right" resp="#archive">[1]</note>
+                
+                <opener>
+                    <dateline>
+                        <placeName key="E0500132">Zürich</placeName>, <choice><abbr>d.</abbr><expan>den</expan></choice>
+                        <date when-iso="1917-10-07">7. Oktober 1917</date><orig>.</orig>
+                    </dateline>
+                    <salute rend="space-above"> Lieber und verehrter
+                        <lb/><seg rend="indent"><persName key="E0300017">Herr Busoni</persName>!</seg>
+                    </salute>
+                </opener>
+                <p rend="space-above">Ich bin sehr glücklich über
+                    <lb/>Ihre Einladung, den Schluss
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Von <persName key="E0300017">Busonis</persName> <title key="E0400218">Doktor Faust</title>.
+                    </note>
+                    
+                    <lb/>kennen lernen zu dürfen.
+                    <lb/>Dass hier irgendwo meine
+                    <lb/>Anregung sei, kann ich
+                    <lb/>natürlich nicht a<choice><orig>cc</orig><reg>kz</reg></choice>eptieren;
+                    <lb/>erstens aus persönlichen
+                    <lb/>Gründen nicht, und dann
+                    <lb/>auch aus sachlichen: die
+                    <lb/>Schlussidee,
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Dem handschriftlichem Libretto zu <title key="E0400218">Doktor Faust</title> lässt sich entnehmen,
+                        dass <persName key="E0300017">Busoni</persName> u.&#8239;a. die letzten Worte seines
+                        Titelhelden noch zweimal modifiziert hat: von <q>[…] ich, Faust, ein ewiger Begriff</q> 
+                        zu <q>ein ewiger Geist</q> und schließlich zu <q>ein ewiger Wille</q>. 
+                        <bibl>(<ref target="#E0800137"/>, Abb. 41, Datumsangabe auf der letzten 
+                            Manuskript-Seite: <date when-iso="1917-10-04">4.&#160;Oktober&#160;1917</date>)</bibl> Die erwähnte 
+                        <q>Schlussidee</q> bezieht sich sehr wahrscheinlich auf diese letzte Änderung 
+                        des Schlussmonologs und geht auf den Einfluss <persName key="E0300126">Rubiners</persName> zurück. 
+                        <mentioned rend="dq-du">Wille</mentioned> ist ein zentraler Begriff in dessen Drama
+                        <title key="E0400316">Die Gewaltlosen</title>, welches er <date from-iso="1917" to-iso="1918">1917/18</date> 
+                        im <placeName key="E0500092">Schweizer</placeName> Exil verfasste. Die Grundidee dieses Werkes besagt, dass 
+                        der menschliche Wille allein, ohne jedwede Anwendung von Gewalt, stärker ist als alle Macht. Im 
+                        <date when-iso="1918-10">Oktober&#160;1918</date> wurde das <rs key="E0800136">Libretto</rs> 
+                        in dieser Gestalt in den <orgName key="E0600069">Weißen Blättern</orgName> zuerst veröffentlicht. 
+                        (vgl. auch <persName key="E0300126">Rubiners</persName> <ref type="E010005" target="#D0100330">Brief</ref> an 
+                        <persName key="E0300017">Busoni</persName> vom <date when-iso="1918-10-01">1.&#160;Oktober&#160;1918</date>)
+                    </note>
+                    
+                    von der Sie mir 
+                    <lb/>sprachen<reg>,</reg> liegt zu tief 
+                    <lb/>in der Linie Ihres ganzen 
+                    <lb/>Werkes und Ihrer Persönlich 
+                    <lb break="no"/>keit begründet, als dass 
+                    <lb/>selbst eine Anregung zulässig 
+                    
+                    <pb n="2"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">2</note>
+                    wäre. – Und wenn sich die 
+                    <lb/>Gespräche von meiner Seite
+                    <lb/>wirklich <soCalled rend="dq-du">streng</soCalled> abgespielt 
+                    <lb/>haben sollten, so wäre ich nur 
+                    <lb/>tief beschämt. – Etwas ganz ande 
+                    <lb break="no"/>res ist es natürlich, dass 
+                    <lb/>ich in einem so wichtigen 
+                    <lb/>Moment Ihres Lebens, bei einer 
+                    <lb/>so wichtigen Stelle Ihres Werkes 
+                    <lb/>– mit Ihrer Erlaubnis (und das 
+                    <lb/>ist keine Floskel) –<reg>,</reg> Ihnen 
+                    <lb/>rückhaltlos Auskunft über 
+                    <lb/>meine visuellen und geistigen 
+                    <lb/>Vorstellungen gebe. Täte ich
+                    <lb/>das nicht, so würde ich 
+                    <lb/>von mir glauben müssen, 
+                    <lb/>dass ich der freundschaftlichen 
+                    <lb/>Neigung, mit der Sie mich so 
+                    <lb/>sehr erfreuen – und erquicken! –, 
+                    <lb/>nicht würdig wäre. – Ja, es 
+                    <lb/>ist<choice><orig>, </orig><reg> </reg></choice>im Gegenteile sogar so, 
+                    
+                    <pb n="3"/>
+                    <note type="shelfmark" place="margin-left" resp="#archive">B II, 4269</note>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">3</note> 
+                    dass ein Mensch, der ganz 
+                    <lb/>oben auf der Spitze steht, 
+                    <lb/>und ein Werk, dessen <choice><orig>Conc</orig><reg>Konz</reg></choice>eption 
+                    <lb/>wirklich menschheitumfassend 
+                    <lb/>ist, mich zu Bekenntnissen 
+                    <lb/>der Wahrheit treibt, die absolut 
+                    <lb/>sind, und sogar – in der 
+                    <lb/>Hitze der Liebe! – momentweise 
+                    <lb/>der geselligen Art ermangeln
+                    <lb/>können.</p>
+                <p>Natürlich hei<choice><orig>ss</orig><reg>ß</reg></choice>t mir <mentioned rend="dq-du">Wahrheit</mentioned>
+                    <lb/>nie: Kritik, oder Ansicht, oder 
+                    <lb/>Meinung – welche alle drei ich
+                    <lb/>für Unfug halte<choice><orig>. S</orig><reg>, s</reg></choice>ondern die 
+                    <lb/>Darlegung und innere Weiter 
+                    <lb break="no"/>ausbildung des geistigen Organis 
+                    <lb break="no"/>mus, den eine Schöpfung her 
+                    <lb break="no"/>vorbringt.</p>
+                <p>Daher kann man bei gro<choice><orig>ss</orig><reg>ß</reg></choice>en 
+                    <lb/>Werken nie höflich sein. (Bei 
+                    <lb/>kleinen nichts als das.) Eine 
+                    <lb/>gro<choice><orig>ss</orig><reg>ß</reg></choice>e Schöpfung ist so sehr 
+                    
+                    <pb n="4"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">4</note> 
+                    ein lebendiges Wesen, da<choice><sic>ss</sic><corr>s</corr></choice> der 
+                    <lb/>Liebende bei ihrer Enthüllung 
+                    <lb/>oft wahrnimmt: hier ist ein 
+                    <lb/>Glied verborgen – oft nur 
+                    <lb/>noch verhüllt; und je mehr 
+                    <lb/>er liebt, umso hitziger wird 
+                    <lb/>er die Befreiung des geliebten 
+                    <lb/>Wesens von den verhüllenden 
+                    <lb/>Tüchern erbitten. Und er bittet 
+                    <lb/>so lange, bis ihm der Körper 
+                    <lb/>ganz gezeigt wird.</p>
+                <p>So ging es mir mit Ihrem 
+                    <lb/>Werk. – Und nun möchte ich 
+                    <lb/>recht bald zu Ihnen kommen 
+                    <lb/>und den Schluss hören! 
+                    <milestone unit="section" style="—" rend="inline"/></p>
+                
+                <note type="stamp" place="center" resp="#dsb_st_red">
+                    <stamp rend="round border small align(center)">Deutsche 
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <p rend="indent-first">Nun eine ganz andere 
+                    <lb/>persönliche Sache.</p>
+                <p>Mein Freund, der Maler 
+                    <lb/><persName key="E0300339">John Philipp</persName> (ich sagte Ihnen, 
+                    <lb/>glaube ich, dass er ein alter 
+                    
+                    <pb n="5"/>
+                    <note type="shelfmark" place="top-left" resp="#archive">B II, 4269</note>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">5</note> 
+                    persönlicher Freund von mir 
+                    <lb/>ist), den <hi rend="underline">ich</hi> ermuntert
+                    <lb/>habe, zu Ihnen zu gehen<orig>,</orig>
+                    <lb/>und Sie zu bitten, ihm zu 
+                    <lb/>sitzen <choice><orig>(D</orig><reg>– (d</reg></choice>enn seine Porträts 
+                    <lb/>sind von der au<choice><orig>ss</orig><reg>ß</reg></choice>erordentlich 
+                    <lb break="no"/>sten, vibrierendsten Natur-
+                    <lb/>Ähnlichkeit, und ich hätte
+                    
+                    <!-- @CS: Sie meinten in unserer Konsultation, das redundante Leerzeichen zw. "-" und "Ähnlichkeit" in der
+                        Lesefassung läge daran, dass break="no" hier nicht nötig sei. Nun ist break raus, das Lz aber immer noch da?
+                        Vgl. auch RiLi: "Steht am Zeilenende ein Bindestrich zur Durchkopplung bei Komposita, wird der Bindestrich 
+                        im Code beibehalten und zusätzlich das Attribut break="no" eingefügt."  -->
+                    
+                    <lb/>es schön gefunden, wenn er 
+                    <lb/>das Ihre in ganz <placeName key="E0500015">Deutschland</placeName>
+                    <lb/>ausgestellt hätte) –<choice><orig> </orig><reg>, </reg></choice>
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Es ist kein Porträt <persName key="E0300017">Busonis</persName> von <persName key="E0300339">Philipp</persName> 
+                        überliefert; bekannte Bildnisse stammen von <persName key="E0300083">Umberto Boccioni</persName> und 
+                        <persName key="E0300348">Max Oppenheimer</persName>.
+                    </note>
+                    
+                    kam zu 
+                    <lb/>mir und musste sich beklagen. 
+                    <lb/>Er war am vergangenen 
+                    <lb/><date when-iso="1917-10-03">Mittwoch</date> bei Ihnen gewesen, 
+                    <lb/>wurde an der Tür empfangen, 
+                    <lb/>und drau<choice><orig>ss</orig><reg>ß</reg></choice>en an der Tür 
+                    <lb/>abgefertigt und fortgeschickt 
+                    <lb/><soCalled rend="dq-du">wie ein Schuster</soCalled>. Ich bin 
+                    <lb/>überzeugt, dass Sie davon keine 
+                    <lb/>Ahnung haben, weder Sie noch 
+                    
+                    <pb n="6"/>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">6</note>
+                    <persName key="E0300059">Frau Gerda</persName>. Denn bei Ihnen wird 
+                    <lb/>ja nicht einmal ein Schuster wie 
+                    <lb/>ein Schuster abgefertigt. Nun 
+                    <lb/>fühlte der <persName key="E0300339">Prof. Philipp</persName> sich 
+                    <lb/>furchtbar gekränkt, er war 
+                    <lb/>völlig deprimiert und kam 
+                    <lb/>sich geradezu geohrfeigt vor. <unclear cert="high" reason="ink-blot">Denn</unclear><orig>,</orig>
+                    <lb/>wenn wir, er und ich, auch 
+                    <lb/>mitnichten am selben Strang
+                    <lb/>der Kunstrichtung ziehen, 
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300126">Rubiner</persName> bezieht sich vermutlich auf die unterschiedlichen Strömungen, denen 
+                        die Künstler angehören. <persName key="E0300339">Philipps</persName> zum großen Teil aus
+                        Porträts bestehendes &#x0152;uvre umfasst – wie im Brief angedeutet – Bilder, die dem Naturalismus 
+                        zuzuordnen sind, wohingegen der Literat <persName key="E0300126">Rubiner</persName> ein Vertreter des Expressionismus ist. 
+                    </note> 
+                    
+                    so
+                    <lb/>muss <add place="above" rend="tiny">ich</add> doch auch heute noch
+                    <lb/>sagen, dass der Mann ein wirkli 
+                    <lb break="no"/>cher Künstler ist; und die
+                    <lb/>Stimmungsart des Künstlers 
+                    <lb/>in ihm fühlte sich natürlich 
+                    <lb/>besonders gekränkt und beleidigt – 
+                    <lb/><choice><orig>–</orig><reg>,</reg></choice> gerade weil <subst><del rend="overwritten">s</del><add place="across">S</add></subst>ie ihn einmal
+                    <lb/>schon sehr liebenswürdig 
+                    <lb/>empfangen hatten. So war er 
+                    <lb/>also davon überzeugt, dass 
+                    <lb/>jene Zurückweisung und 
+                    <lb/>die Art der Zurückweisung 
+                    
+                    <pb n="7"/>
+                    <note type="shelfmark" place="top-left" resp="#archive">B II, 4269</note>
+                    <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">7</note> 
+                    ganz besonders seine Person 
+                    <lb/>treffen sollte. – Ein ganz klein
+                    <lb/>wenig von dieser Kränkung 
+                    <lb/>spüre ich am eigenen Leibe 
+                    <lb/>mit. <add place="inline" rend="small">(Obwohl seine Auffassung natürlich 
+                        <lb/><seg rend="align(center)">subjektiv und gewiss irrig ist.)</seg></add></p>
+                <p>Es ist für mich aber<orig>,</orig> als 
+                    <lb/>ganz selbstverständlich<orig>,</orig>
+                    <lb/>klar, dass Sie natürlich 
+                    <lb/>diese Wirkung niemals 
+                    <lb/>beabsichtigt haben. Und dass 
+                    <lb/>Sie selbst gar<reg> </reg>nichts von 
+                    <lb/>ihr ahnen. – Ich kann 
+                    <lb/>mir ja auch niemanden
+                    <lb/>in der Welt denken, dem 
+                    <lb/>es ferner läge als Ihnen, 
+                    <lb/>einen Menschen zu verletzen. 
+                    <lb/>Und diese Worte, die von 
+                    <lb/>Ihrer Güte überzeugt sind,
+                    <lb/>meine ich genau<orig> </orig>so buchstäblich<reg>, </reg>
+                    <lb/>wie ich sie hier niederschrieb.</p>
+                
+                <pb n="8"/>
+                <note type="foliation" place="top-right" resp="#gerda.busoni" rend="underline">8</note>
+                <p>Ich glaube nun, Sie würden 
+                    <lb/>eine gro<choice><orig>ss</orig><reg>ß</reg></choice>e Linderung für die 
+                    <lb/>Würde meines Freundes <persName key="E0300339">Philipp</persName>
+                    <lb/>schaffen, wenn Sie ihm ein 
+                    <lb/>einziges persönliches Wort zu
+                    <lb break="no" rend="sh"/>kommen lie<choice><orig>ss</orig><reg>ß</reg></choice>en. 
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Ein solches Schreiben konnte nicht ermittelt werden; im <persName key="E0300017">Busoni</persName>-Nachlass ist kein 
+                        Briefwechsel mit <persName key="E0300339">Philipp</persName> überliefert.
+                    </note> 
+                    
+                    Und mit dieser 
+                    <lb/>kleinen Freundlichkeit würden 
+                    <lb/>Sie auch – wenn ich das 
+                    <lb/>unumwunden sagen darf –
+                    <lb/>auch mich sehr erfreuen und 
+                    <lb/>beruhigen.</p>
+                <p>Das ist natürlich noch lange 
+                    <lb/>etwas anderes, als gemalt werden. 
+                    <lb/>Aber das Wörtchen, das so unver 
+                    <lb break="no"/>bindlich einen so tiefen (und von Ihnen
+                    <lb/>so unbeabsichtigten) Depressions 
+                    <lb break="no"/>zustand heilen kann, wäre doch 
+                    <lb/>schön.</p>
+                <closer>
+                    <salute rend="indent-first">Mit den herzlichsten <lb/>Grü<choice><orig>ss</orig><reg>ß</reg></choice>en in freundschaftlicher 
+                        <lb/>Verehrung 
+                    </salute>
+                    <signed rend="margin-right">Ihr <persName key="E0300126">Ludwig Rubiner</persName>.</signed>
+                </closer>
+                
+                <pb n="9"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 1]</note>
+                <note type="stamp" place="top-center" resp="#dsb_st_red">
+                    <stamp rend="round border small align(center)">Deutsche 
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <pb n="10"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 2, vacat]</note>
+                
+                <pb n="11"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 3, vacat]</note>
+                
+                <pb n="12"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 4, vacat]</note>
+                
+                <pb n="13"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 5]</note>
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border small align(center)">Deutsche 
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <pb n="14"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 6, vacat]</note>
+                
+                <pb n="15"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 7]</note>
+                <note type="stamp" place="bottom-center" resp="#dsb_st_red">
+                    <stamp rend="round border small align(center)">Deutsche 
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <pb n="16"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 8]</note>
+                <note type="stamp" place="top-center" resp="#dsb_st_red">
+                    <stamp rend="round border small align(center)">Deutsche 
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                <note type="dating" place="bottom-center" resp="#archive_2">
+                    <date when-iso="1917-10-07">7.10. 1917</date>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

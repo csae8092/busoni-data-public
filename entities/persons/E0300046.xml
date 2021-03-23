@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alexander Zemlinsky</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-02-02" who="#E0300361">korrekturgelesen und ergänzt; status="reviewed"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">11863643X</idno>
+               <idno type="VIAF">59271270</idno>
+               <idno type="ISNI">0000000121351350</idno>
+               <persName type="reg">
+                  <surname>Zemlinsky</surname>,
+                  <forename>Alexander</forename>
+                  <nameLink>(von)</nameLink>
+               </persName>
+               <persName type="birth">
+                  <forename>Alexander</forename>
+                  <surname>Zemlinszky</surname>
+               </persName>
+               <persName type="pseud">
+                  <forename>Al</forename>
+                  <surname>Roberts</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1871-10-14"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1942-03-15"/>
+                  <placeName key="E0500078">Larchmont (New York)</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <affiliation when-iso="1893">Beitritt zum <orgName key="E0600053"><placeName key="E0500002">Wiener</placeName> Tonkünstlerverein</orgName>; ab <date from-iso="1899">1899</date> Vizepräsident</affiliation>
+               <affiliation when-iso="1904-04">Mitbegründer der <orgName key="E0600008">Vereinigung schaffender Tonkünstler</orgName></affiliation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

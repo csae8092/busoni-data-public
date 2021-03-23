@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreas Werckmeister</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="reviewed">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+         <change when-iso="2020-01-27" who="#E0300550">Korrektur und Statusänderung reviewed</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119362406</idno>
+               <idno type="VIAF">7623374</idno>
+               <idno type="ISNI">0000000110371751</idno>
+               <persName type="reg">
+                  <surname>Werckmeister</surname>,
+                  <forename>Andreas</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1645-11-30"/>
+                  <placeName key="E0500024">Benneckenstein</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1706-10-26"/>
+                  <placeName key="E0500025">Halberstadt</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Komponist</occupation>
+               <occupation>Organist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

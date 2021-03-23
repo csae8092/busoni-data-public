@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100404"><!-- header ok (bis auf offene Fragen); Brief korrekturgelesen -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Paul Bekker (Zürich, 20. Januar 1920)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Paul Bekker (Zurich, 20 January 1920)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300377">
+                        <forename>Lukas</forename>
+                        <surname>Baake</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="US-NH">Yale University, Irving S. Gilmore Music Library, New Haven, CT</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010006">Briefwechsel Ferruccio Busoni – Paul Bekker</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="US">USA</country>
+                        <settlement>New Haven (CT)</settlement>
+                        <institution key="US-NH">Gilmore Music Library</institution>
+                        <collection>The Paul Bekker Papers</collection>
+                        <idno>MSS 50, I.A. Correspondence - Individual, A-E: Box 2, Folder 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> reagiert auf <persName key="E0300111">Bekkers</persName> Aufsatz <title key="E0800170"><q>Impotenz</q> – oder Potenz?</title>; erläutert seine Idee einer <q>jungen Klassizität</q> als notwendige nächste Entwicklungsstufe in der Kunst; nennt drei grundlegende Merkmale dieser Ästhetik: die <q>Einheit in der Musik</q>, den <q>definitiven Abschied vom Thematischen und das Wieder-Ergreifen der Melodie</q> sowie ein als Hinwendung zum Objektiven apostrophiertes <q>Entsagen dem Subjektivismus</q>.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1920-01-20"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1920-01-20"/></docDate> 
+                            <docDate resp="#post" sameAs="#post_rec"><date when-iso="1920-01-22"/></docDate>
+                            <docDate resp="#post_pencil"><date when-iso="1920-01-22">22/1</date></docDate>
+                            <incipit>ich habe <choice><orig>i</orig><reg>I</reg></choice>hren Aufsatz <orig>=</orig><title key="E0800170"><q rend="dq-du">Impotenz</q> – oder Potenz?</title><orig>=</orig></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">7 Blatt</measure>
+                                    <measure type="pages">7 beschriebene Seiten</measure>
+                                </extent>
+                                <condition>Brief und Umschlag sind gut erhalten, abgesehen von einigen Einrissen und Knittern im Papier.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift</handNote>
+                            <handNote xml:id="editorial_office" scope="minor" medium="pencil" scribe="editor" cert="high">
+                                vmtl. Hand eines Redakteurs, der mit Bleistift eine Paginierung hinzugefügt, Absätze markiert und kleine Korrekturen vorgenommen hat</handNote>
+                            <handNote xml:id="editorial_office_violet" scope="minor" medium="violet_pen" scribe="editor" cert="high">
+                                vmtl. Hand eines Redakteurs, der auf der ersten Textseite mit lila Buntstift u. a. einen <q>Eilt</q>-Vermerk angebracht hat</handNote>
+                            <handNote xml:id="editorial_office_red" scope="minor" medium="red_pen" scribe="editor" cert="high">
+                                vmtl. Hand eines Redakteurs, der Textteile rot unterstrichen hat</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">
+                                unbekannte Hand, die mit Bleistift etwas auf der Rückseite des Umschlags vermerkt hat</handNote>
+                            <handNote xml:id="post_pencil" scope="minor" medium="pencil" scribe="postoffice">
+                                Hand eines Postangestellten, der auf der Rückseite des Umschlags mit Bleistift eine Anmerkung in Kurrentschrift gemacht hat</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)</handNote>
+                            <handNote xml:id="label" scope="minor" medium="black_print" scribe="postoffice">
+                                Postaufkleber</handNote>
+                        </handDesc>
+                        <accMat>
+                            
+                            <pb n="8"/>
+                            
+                            <address>
+                                <addrLine rend="underline">Dr̲. <persName key="E0300017">F. Busoni</persName></addrLine>
+                                <addrLine rend="small"><placeName key="E0500189">Scheuchzer<choice><abbr>st.</abbr><expan>straße</expan></choice> 36</placeName></addrLine>
+                            </address>
+                            <note type="label" place="below" rend="large space-above" resp="#label">
+                                <label rend="square border align(center)">Express</label>
+                            </note>
+                            <note type="stamp" place="inline" rend="rotate(-45) small" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center)">
+                                    <placeName key="E0500132"><supplied reason="paste-over">Z</supplied>ürich</placeName>
+                                    <lb/><date when-iso="1920-01-20"><supplied reason="paste-over">20.I.2</supplied>0</date>.VI–
+                                    <lb/><supplied reason="paste-over">Br</supplied>f. ✙ Aufg.
+                                </stamp>
+                            </note> 
+                            <note type="stamp" place="inline" rend="rotate(-45) small" resp="#post">
+                                <stamp rend="round border majuscule align(center)" sameAs="#post_abs">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/><date when-iso="1920-01-20">20.I.20</date>.VI–
+                                    <lb/>Brf. ✙ Aufg.
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" rend="rotate(-45) small" resp="#post">
+                                <stamp rend="round border majuscule align(center)" sameAs="#post_abs">
+                                    <placeName key="E0500132">Zürich</placeName>
+                                    <lb/><date when-iso="1920-01-20">20.<supplied reason="illegible">I.20</supplied></date><supplied reason="illegible">.VI–</supplied>
+                                    <lb/>Brf. ✙ <supplied reason="illegible">Aufg.</supplied>
+                                </stamp>
+                            </note>    
+                            <note type="label" place="center" rend="square border align(center) space-above" resp="#label">
+                                <table>
+                                    <row>
+                                        <cell rend="bold scale(1.3,1.7)">R</cell>
+                                        <cell rend="tiny">
+                                            <placeName key="E0500132">Zürich</placeName> 1
+                                            <lb/><seg rend="bold spaced-out">№ 921</seg>
+                                        </cell>
+                                    </row>
+                                </table>
+                            </note>
+                            
+                            <address>
+                                <addrLine>Herrn <persName key="E0300111">Paul Bekker</persName><orig>,</orig></addrLine>
+                                <addrLine>Redaktion der</addrLine>
+                                <addrLine><soCalled rend="dq-uu"><orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName></soCalled></addrLine> 
+                                <addrLine><hi rend="underline indent-2-first"><placeName key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></placeName><orig>.</orig></hi></addrLine>     
+                            </address>
+                            
+                            <pb n="9"/>
+                            
+                            <note type="annotation" place="center-right" rend="rotate(180)" resp="#unknown_hand">
+                                <gap reason="illegible"/>
+                            </note>
+                            <note type="stamp" place="center-left" rend="rotate(180) small" resp="#post">
+                                <stamp xml:id="post_rec" rend="round border majuscule align(center)">
+                                    <placeName key="E0500153">Frankfurt</placeName>
+                                    <lb/><date when-iso="1920-01-22">22.1.20</date>.4-5N
+                                    <lb/>(<supplied reason="illegible"><placeName key="E0500655">Main</placeName></supplied>) <gap atLeast="2" unit="char" reason="illegible"/>
+                                </stamp>
+                            </note>
+                            <note type="annotation" place="bottom" rend="align(right) rotate(180) space-below" resp="#post_pencil">
+                                nicht angetroffen
+                                <lb/>B<gap atLeast="5" unit="char" reason="illegible"/> <date when-iso="1920-01-22">22/1</date>
+                            </note>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1920-01-20"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800320"/>, S. 1</bibl>
+                            <bibl><ref target="#E0800321"/>, S. 95 f.</bibl>
+                        </listBibl>
+                    </additional>
+                    <!-- für weitere Publikationen check: Roberge 1991, FB Bio-Bibliography, S. 157+173;
+                        z.B. Musikblätter des Anbruch 3, Heft 1/2 (Januar 1921), S. 27, unter dem Titel »Aufzeichnungen und Tagebuchblätter« (zus. mit noch weiterem Text) -->
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100404">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1920-01-20"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119265052" key="E0300111">Bekker, Paul</persName>
+                    <placeName ref="http://www.geonames.org/2925533" key="E0500153">Frankfurt am <placeName key="E0500655">Main</placeName></placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100403"/>
+                    <ref type="next" target="#D0100405"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status todo.</change>
+            <change when-iso="2018-02-16" who="#E0300377">Transkription begonnen, status todo</change>
+            <change when-iso="2018-03-12" who="#E0300377">Metadaten vervollständigt</change>
+            <change when-iso="2018-03-29" who="#E0300377">Letzte Durchsicht, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+        <graphic n="7" url="#local"/>
+        <graphic n="8" url="#local"/>
+        <graphic n="9" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="commentary" resp="#E0300361">
+                    Der vorliegende Brief wurde mit <persName key="E0300017">Busonis</persName> Zustimmung und einigen einführenden Sätzen der Redaktion am <date when-iso="1920-02-07">7. Februar 1920</date> im Ersten Morgenblatt der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName> veröffentlicht (vgl. <bibl><ref target="#E0800320"/>, <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB0001ED7F00000011">Digitalisat</ref> der Staatsbibliothek zu <placeName key="E0500029">Berlin</placeName></bibl>). Offenbar war der Originalbrief die unmittelbare Vorlage für den Satz. Die verschiedenen Eintragungen mit Blei- und Farbstift wurden sehr wahrscheinlich durch Mitarbeiter der Redaktion vorgenommen, die  z. B. auf der ersten Seite <persName key="E0300017">Busonis</persName> private Postadresse getilgt, Absätze für den Druck markiert und einige Schreibfehler korrigiert haben.
+                </note>
+                
+                <note type="foliation" place="top-right" resp="#editorial_office"><unclear cert="medium">1</unclear><seg rend="underline">a</seg></note>                
+                <note type="annotation" place="top-left" resp="#editorial_office_violet">
+                    <hi rend="indent underline">Eilt</hi>
+                    <lb/>1. <unclear cert="high">Mgbl</unclear>
+                </note>
+                
+                <opener>
+                    <dateline rend="align(right)"><note type="annotation" resp="#editorial_office">[</note><placeName key="E0500132">Zürich</placeName>, den <date when-iso="1920-01-20">20<reg>.</reg> <choice><abbr>Jan.</abbr><expan>Januar</expan></choice> 1920</date></dateline>
+                    <dateline rend="align(right)"><del rend="striketrough" resp="#editorial_office"><placeName key="E0500189">Scheuchzerstra<choice><orig>ss</orig><reg>ß</reg></choice>e 36</placeName></del></dateline>
+                    <salute rend="indent-first space-above space-below"><note type="annotation" resp="#editorial_office">[</note>Sehr verehrter Herr <persName key="E0300111">Paul Bekker</persName>,</salute>                       
+                </opener>  
+                
+                <p><note type="annotation" resp="#editorial_office">｢</note>ich habe <choice><orig>i</orig><reg>I</reg></choice>hren Aufsatz <orig>=</orig><title key="E0800170"><q rend="dq-du">Impotenz</q> – oder
+                    <lb/>Potenz?</title><orig>=</orig> mit T<orig>h</orig>eilnahme und Sympathie
+                    <lb/>gelesen;
+                    
+                    <note type="commentary" resp="#E0300377">
+                        <persName key="E0300111">Bekkers</persName> <rs key="E0800170">Artikel</rs>, eine Antwort auf <persName key="E0300084">Hans Pfitzners</persName> Schrift <title key="E0800187" rend="dq-du">Die neue Ästhetik der musikalischen Impotenz. Ein Verwesungsproblem?</title>, war <date when-iso="1920-01-15/1920-01-16">wenige Tage zuvor</date> in der <orgName key="E0600070"><placeName key="E0500153">Frankfurter</placeName> Zeitung</orgName> erschienen.
+                    </note>
+                    
+                    für manches darin Gesagte bin
+                    <lb/>ich Ihnen herzlich zu Dank verpflichtet.
+                    <lb/>– Wenngleich <persName key="E0300084">Pfitzner</persName> meine T<orig>h</orig>eilnahme 
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Sympathie nicht ebenso wecken kann – 
+                    <lb/>er wünscht diese auch nicht –<reg>,</reg> so kann ich 
+                    <lb/>den Zweifel nicht ganz überwinden, dass 
+                    <lb/>zwischen ihm und dem<reg>,</reg> was er bekämpft<reg>,</reg>       
+                    <lb/>Mis<reg>s</reg>verständnisse bestehen;
+                    
+                    <note type="commentary" resp="#E0300377">
+                        Bereits in einer früheren Replik, einem <rs rend="dq-du" key="E0800115">Offenen Brief an <persName key="E0300084">Hans Pfitzner</persName></rs>, wirft <persName key="E0300017">Busoni</persName> <persName key="E0300084">Pfitzner</persName> vor, dessen Kritik beruhe vornehmlich auf Missverständnissen.
+                    </note>
+                    
+                    nicht nur
+                    <lb/>glaube ich, dass wir <choice><orig>A</orig><reg>a</reg></choice>lle – die es 
+                    <lb/>ehrlich meinen – das Beste, das möglichst
+                    <lb/>Vollkommene in der Musik erstreben – 
+                    <lb/>eine gemeinsame Eigenschaft, die jede
+                    <lb/>Gegnerschaft aufheben müsste –<reg>,</reg> sondern
+                    <lb/>ich glaube ferner, dass es wohl Unter  
+                    <lb break="no"/>schiede in den heutigen Kompositionsver
+                    <lb break="no"/>suchen gibt – namentlich Unterschiede 
+                    <lb/>der Begabung! –<reg>,</reg> <subst><del rend="striketrough">d<unclear reason="strikethrough" cert="medium">en</unclear></del><add place="above" rend="small">nicht</add></subst> aber Klüfte, die 
+                    <lb/>sie trennen: <choice><orig>i</orig><reg>I</reg></choice>ch glaube<reg>,</reg> dass sie mitsamt 
+                    <lb/>einander ähnlicher sind, als wir ver
+                    <lb break="no"/>mut<orig>h</orig>en<orig>,</orig> oder uns einreden.  
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" rend="space-below" resp="#editorial_office">2</note>        
+                    
+                    (Anders steht es mit dem Unterschied 
+                    <lb/>der Gesinnung <choice><orig>– – – –</orig><reg>…</reg></choice>)</p>
+                
+                <p rend="indent-first"><note type="annotation" resp="#editorial_office">｢</note>Zu jeder Zeit gab es – es muss gegeben 
+                    <lb/>haben – Künstler, <subst><del rend="striketrough">d<gap atLeast="1" unit="char" reason="strikethrough"/></del><add place="above" rend="small">die an</add></subst> d<choice><orig><del rend="strikethrough">i</del>er</orig><reg>ie</reg></choice> letzte<orig>n</orig>
+                    <lb/>Tradition sich klammerten<reg>,</reg> und solche<reg>,</reg> 
+                    <lb/>die sich von ihr zu befreien suchten. 
+                    <lb/>Dieser Dämmerungszustand scheint
+                    <lb/>mir der <choice><orig>s</orig><reg>S</reg></choice>tabile zu sein; Morgenröt<orig>h</orig>en
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> volle<del rend="strikethrough"><gap extent="1" unit="char" reason="strikethrough"/></del> Tagesbeleuchtungen sind
+                    <lb/>perspektivische Betrachtungen zusammen
+                    <lb break="no"/>fassender <choice><abbr>u.</abbr><expan>und</expan></choice> <del rend="strikethrough">zu</del> gern zu Ergebnissen
+                    <lb/>gelangender Historiker. – Auch die
+                    <lb/>Erscheinung von<reg> </reg><add place="above" rend="small">einzelnen</add><reg> </reg>in<reg> </reg><add place="above" rend="small">d<subst><del rend="overwritten">i</del><add place="across">e</add></subst>r</add><reg> </reg>Karikatur mündenden 
+                    <lb/>Experimenten <del rend="strikethrough">sind</del> ist eine ständige
+                    <lb/>Begleiterin der Evolutionen: bizarre 
+                    <lb/>Nachäffung hervorspringender Gesten
+                    <lb/><choice><orig>J</orig><reg>j</reg></choice>ener<reg>,</reg> die <choice><orig>E</orig><reg>e</reg></choice>twas gelten; Trotz oder
+                    <lb/>Rebellion, Sat<choice><orig>y</orig><reg>i</reg></choice>re<orig>,</orig> oder Narrheit. 
+                    <lb/>In den letzten 15 Jahren <del rend="strikethhrough">war</del> ist 
+                    <lb/>Derartiges wieder dichter aufgetreten; 
+                    <lb/>es fällt umso stärker auf<orig>,</orig> nach 
+                    <lb/>dem Stillstand der 80<orig>.g</orig>er Jahre, der 
+                    <lb/>in der Kunstgeschichte recht vereinzelt
+                    <lb/>dasteht (und leider gerade mit meiner 
+                    <lb/>eigenen Jugend zusamm<supplied reason="omitted">en</supplied>fiel<choice><orig>.)</orig><reg>).</reg></choice>
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="top-right" rend="space-below" resp="#editorial_office">3</note>  
+                    
+                    Aber das Allgemein<orig><del rend="strikethrough" resp="#editorial_office">-</del></orig>werden
+                    <lb/>der Übertreibung – womit heute 
+                    <lb/>bereits der Anfänger debüti<reg>e</reg>rt –
+                    <lb/>weist auf die <hi rend="underline">Beendigung</hi> eines 
+                    <lb/>solchen Abschnittes; und der nächste 
+                    <lb/>Schritt, den der Widerspruch fördernd 
+                    <lb/>herbeiführen muss, ist der, der 
+                    <lb/>zur neuen Klassizität le<del rend="strikethrough"><gap extent="1" unit="char" reason="strikethrough"/></del>nkt.</p>
+                
+                <p rend="indent-first"><note type="annotation" resp="#editorial_office">[</note>Unter einer <soCalled rend="dq-uu">jungen Klassizität</soCalled> 
+                    <lb/>verstehe ich die Meisterung, die
+                    <lb/>Sichtung <choice><abbr>u.</abbr><reg>und</reg></choice> Ausbeutung aller 
+                    <lb/>Errungenschaften vorausgegangener
+                    <lb/>Experimente: ihre Hineintragung 
+                    <lb/>in feste und schöne Formen.</p>
+                
+                <p rend="indent-first"><note type="annotation" resp="#editorial_office">[</note>Diese Kunst wird alt und neu 
+                    <lb/>zugleich sein – zuerst. Dahin steuern  
+                    <lb/>wir – glücklicherweise – bewusst und
+                    <lb/>unbewusst, willig oder mitgerissen.</p>
+                
+                <p rend="indent-first"><del rend="strikethrough" resp="#editorial_office"><orig>–</orig></del><note type="annotation" resp="#editorial_office"> [</note>Diese Kunst soll aber – um
+                    <lb/>in <choice><orig>I</orig><reg>i</reg></choice>hrer Neuheit rein zu erstehen, 
+                    <lb/>um dem Historiker wirklich ein 
+                    <lb/>Ergebnis zu bedeuten –<reg> </reg><add place="above" rend="small">auf</add><reg> </reg>mehrere<reg>n</reg> 
+                    <lb/>Voraussetzungen basieren, die 
+                    <lb/>heute noch nicht völlig erkannt sind.
+                    
+                    <pb n="4"/>
+                    
+                    <note type="foliation" place="top-right" rend="space-below" resp="#editorial_office">4</note>
+                    
+                    Als <subst><del rend="overwritten"><gap extent="1" unit="char" reason="overwritten"/></del><add place="across">e</add></subst>ine der wichtigsten<reg>,</reg> von diesen 
+                    <lb/>noch nicht erfassten Wahrheiten<reg>,</reg>
+                    <lb/>empfinde ich den Begriff der 
+                    <lb/><hi rend="underline">Einheit</hi> in der Musik. Ich meine 
+                    <lb/>die Idee, dass Musik an und für 
+                    <lb/>sich Musik ist, und nichts <choice><orig>A</orig><reg>a</reg></choice>nderes,
+                    <lb/>und dass sie <del rend="strikethrough"><gap extent="1" unit="word" reason="strikethrough"/></del> selbst nicht in 
+                    <lb/>verschiedene Gattungen zerfällt; au<choice><orig>ss</orig><reg>ß</reg></choice>er 
+                    <lb/>wenn Worte, Titel, Situationen, Deutungen<reg>,</reg>
+                    <lb/>die völlig von au<choice><orig>ss</orig><reg>ß</reg></choice>en in sie getragen 
+                    <lb/>werden, sie scheinbar in Varietäten
+                    <lb/>dekomponier<choice><sic><subst><del rend="overwritten">t</del><add place="across" resp="#editorial_office">en</add></subst></sic><corr>en</corr></choice>. Es gibt keine <soCalled rend="dq-uu"><hi rend="underline">Kirchen</hi></soCalled>-
+                    <lb break="no"/>Musik an und für sich; sondern
+                    <lb/>absolut nur Musik, der entweder 
+                    <lb/>ein kirchlicher Text unterlegt<orig>,</orig>
+                    <lb/><del rend="strikethrough">wird</del><orig>,</orig> oder<reg> </reg><add place="above" rend="small">die</add><reg> </reg>in der Kirche aufgeführt 
+                    <lb/>wird. Ändern Sie den Text, so <choice><orig>ae</orig><reg>ä</reg></choice>ndert 
+                    <lb/>sich scheinbar auch die Musik. <del rend="strikethrough">Sie
+                        <lb/>können aus eine</del> Nehmen Sie den 
+                    <lb/>Text ganz fort, so bleibt – illusorisch –
+                    <lb/>ein symphonischer Satz: Fügen Sie
+                    <lb/>Worte zu einem Streichquartett<reg>-</reg>Satz, 
+                    <lb/>so entsteht eine Opernszene. Spielen
+                    <lb/>Sie den ersten Satz der <rs key="E0400367" rend="dq-du">Eroica</rs> zu einem
+                    
+                    <pb n="5"/>
+                    
+                    <note type="foliation" place="top-right" rend="space-below" resp="#editorial_office">5</note>
+                    
+                    <placeName key="E0500093">amerikanischen</placeName> Indianer<orig>-</orig>film,
+                    <lb/>und die Musik wird Ihnen bis
+                    <lb/>zur Unkenntlichkeit verwandelt erschein<subst><del rend="overwritten">t</del><add place="across">en</add></subst><reg>.</reg>
+                    <lb/>– Darum sollten Sie nicht von
+                    <lb/><q rend="dq-uu">Instrumental Musik</q> <choice><abbr>u.</abbr><expan>und</expan></choice> <q rend="dq-du">dem echten
+                        <lb/>Symphoniker</q> sprechen, wie es in
+                    <!-- JT: keine Regularisierung, da Zitat!! check: korrekt zitiert, inkl. der Leerzeichen? -->
+                    <lb/>Ihrem Aufsatz über Kammersymphonie<orig>e</orig>n
+                    
+                    <note type="commentary" resp="#E0300377">
+                        Es ist nicht eindeutig festzustellen, auf welche Schrift <persName key="E0300017">Busoni</persName> sich bezieht. Möglicherweise ist der Abschnitt über <persName key="E0300023">Schönberg</persName> aus <persName key="E0300111">Bekkers</persName> <title key="E0800240" rend="dq-du">Neue Musik</title> gemeint. Möglich ist jedoch auch ein Verweis auf <persName key="E0300111">Bekkers</persName> <rs key="E0800242">Buch</rs> über <persName key="E0300001">Beethoven</persName> <bibl>(vgl. <ref target="#E0800018"/>, S. 218)</bibl>.
+                    </note>
+                    <!-- JT: Entität Aufsatz ergänzen => "Kammersinfonien", in: Frankfurter Zeitung, Heft 45 vom 17.01.1920 (64. Jg.), S. 1;
+                        Hinweis darauf in: Paul Bekker/Franz Schreker, Briefwechsel, hg. von Christopher Hailey, Aachen 1994; und: Eichhorn 2002, S. 701;
+                        ZDB-Eintrag: https://zdb-katalog.de/title.xhtml?idn=010712402 -->
+                    <!-- lt. Busoni/Weindel, VdE, S. 218/Anm. 19-20 bezieht sich Busoni hier auf Bekkers Ausführungen über Beehovens Symphonien (vgl. Bekker, Beethoven, Berlin 1921, S. 200 f. -->
+                    
+                    <lb/>Ihnen entschlüpfte: <choice><orig>i</orig><reg>I</reg></choice>ch erlaube mir
+                    <lb/>nicht, Sie zu kritisieren, aber ich litt 
+                    <lb/>unter dem Eindrucke, dass Sie sich 
+                    <lb/>mit dieser Terminologie <persName key="E0300084">Pfitzner</persName> 
+                    <lb/>näher<orig> </orig>stellten, als Sie sicherlich
+                    <lb/>beabsichtigten. –</p>
+                
+                <p rend="indent-first"><note type="annotation" resp="#editorial_office">[</note>Zur <soCalled rend="dq-uu">jungen Klassizität</soCalled> rechne 
+                    <lb/>ich noch den definitiven Abschied 
+                    <lb/>vom Thematischen und das Wieder-
+                    <lb break="no"/>Ergreifen der Melodie – nicht im
+                    <lb/>Sinne eines gefälligen Motives in 
+                    <lb/>der guten Lage eines Instrumentes<choice><orig> –</orig><reg>,</reg></choice>
+                    <lb/>sondern der Melodie als Beherrscherin 
+                    <lb/>aller Stimmen, aller Regungen, 
+                    <lb/>als Trägerin der Idee und <hi rend="underline">Erzeugerin</hi>
+                    <lb/>der Harmonie, kurz: der höchst entwickelten
+                    
+                    <pb n="6"/>
+                    
+                    <note type="foliation" place="top-right" rend="space-below" resp="#editorial_office">6</note>
+                    
+                    (nicht kompliziertesten) Polyphonie.</p>
+                
+                <p rend="space-above"><note type="annotation" resp="#editorial_office">[</note>Ein Drittes – nicht minder <choice><orig>w</orig><reg>W</reg></choice>ichtiges – 
+                    <lb/>ist die Abstreifung des <soCalled rend="dq-uu"><subst resp="#editorial_office"><del rend="overwritten">s</del><add place="across">S</add></subst>innlichen</soCalled>
+                    <lb/>und das Entsagen dem Subjektivismus<orig>,</orig> 
+                    <lb/>(der Weg zur Objektivität – das 
+                    <lb/>Zurücktreten des Autors gegenüber 
+                    <lb/>dem Werke – ein rein<choice><sic><add place="above" rend="small" resp="#editorial_office">ig</add></sic><corr>ig</corr></choice>ender Weg,
+                    <lb/>ein harter Gang, eine Feuer<reg>-</reg> und
+                    <!-- JT: Referenz auf Mozarts Zauberflöte -->
+                    <lb/>Wasserprobe)<reg>,</reg> <del rend="strikethrough">d<gap atLeast="3" unit="char" reason="strikethrough"/> die</del> die
+                    <lb/>Wiedereroberung der Heiterkeit 
+                    <lb/>(<choice><orig>S</orig><reg>s</reg></choice>erenitas): nicht die Mundwinkel
+                    <lb/><persName key="E0300001">Beethovens</persName>, und auch nicht das 
+                    <lb/><q rend="dq-uu">befreiende Lachen</q> Zarathustra<orig>’</orig>s,
+                    
+                    <note type="commentary" resp="#E0300377">
+                        Das <q rend="dq-du">befreiende Lachen Zarathustras</q> findet sich in <persName key="E0300090">Friedrich Nietzsches</persName> Dichtung <title key="E0400349" rend="dq-du">Also sprach Zarathustra</title> in dem Abschnitt <q rend="dq-du">Vom höheren Menschen</q> im vierten und letzten Teil des Werks.
+                    </note>
+                    <!-- JT: Stimmt das Kapitel überhaupt??! Das »Lachen« kommt doch quasi in allen vier Teilen vor … der lachende Löwe/Wille/Übermensch etc. … pffffff … überprüfen!!
+                        ist dann wahrscheinlich auch kein wirkliches Zitat/<q>! -->
+                    <!-- check: https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/7725/file/troeger_magister.pdf, insbes. S. 61, Anm. 221 -->
+                    
+                    <lb/>sondern das Lächeln des <hi rend="underline" resp="#editorial_office_red">Weisen</hi><subst><del rend="overwritten">.</del><add place="across">,</add></subst> <add place="inline" rend="small">der</add> 
+                    <lb/><add place="margin-left" rend="small">Gottheit. – </add>Und <hi rend="underline"><choice><orig>A</orig><reg>a</reg></choice>bsolute</hi> Musik. Nicht Tiefsinn<orig>,</orig>
+                    <!-- JT: histor. Figur des Zarathustra als der Weise … Rezeption in der griech. Antike und Aufklärung -->
+                    <lb/>und Gesinnung<orig>,</orig> und Metaphysik;
+                    <lb/>sondern: – Musik durchaus, destilliert,
+                    <lb/>niemals unter der Maske von Figuren 
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Begriffen, die anderen Bezirken 
+                    <lb/>entlehnt sind.<orig>,</orig> <del rend="strikethrough"><gap atLeast="2" unit="char" reason="strikethrough"/> die si<gap atLeast="1" unit="char" reason="strikethrough"/> die
+                        <lb/>glücklich <unclear reason="strikethrough" cert="high">–</unclear> sich nicht</del></p>
+                
+                <pb n="7"/>
+                
+                <note type="foliation" place="top-right" rend="space-below" resp="#editorial_office">7</note>
+                
+                <p>Menschliches Empfinden – aber
+                    <lb/>nicht menschliche Angelegenheiten – 
+                    <lb/>und auch dieses in den Ma<choice><orig>ass</orig><reg>ß</reg></choice>en 
+                    <lb/>des Künstlerischen ausgedrückt.</p>
+                
+                <p rend="indent-first"><note type="annotation" resp="#editorial_office">[</note>Ma<choice><orig>ass</orig><reg>ß</reg></choice>e des Künstlerischen beziehen
+                    <lb/>sich nicht nur auf die Proportionen,
+                    <lb/>auf die Grenzen der Schönheit, <del rend="strikethrough">und</del> 
+                    <lb/>die Wahrung des Geschmackes –  
+                    <lb/>sie bedeuten vor <choice><orig>A</orig><reg>a</reg></choice>llem: <del rend="strikethrough">die</del> einer 
+                    <lb/>Kunst nicht die Aufgaben <del rend="strikethrough">auf</del> zu<orig> </orig>zu<choice><orig>
+                        <lb/></orig><reg><lb break="no"/></reg></choice>ert<orig>h</orig>eilen, die au<choice><orig>ss</orig><reg>ß</reg></choice>er ihrer Natur
+                    <lb/>liegen. (Beispielsweise in der Musik: 
+                    <lb/><seg rend="indent">die Beschreibung.)</seg></p>
+                
+                <p rend="indent-first"><del rend="strikethrough" resp="#editorial_office"><orig>–</orig></del> <note type="annotation" resp="#editorial_office"> [</note><subst><del rend="overwritten">L</del><add place="across">D</add></subst>ieses ist<reg>,</reg> was ich denke. 
+                    <lb/>Kann das – um<reg> </reg><add place="above" rend="small">auf</add><reg> </reg>das zuerst Gesagte
+                    <lb/>zurückzugreifen –<reg>,</reg> <choice><orig>K</orig><reg>k</reg></choice>ann diese Ansicht <add place="inline">von</add> 
+                    <lb/><subst><add place="above small margin-left">ehrlichen Männern</add><del rend="striketrough"><gap extent="1" unit="word" reason="strikethrough"/></del></subst> bestritten werden? Reiche ich
+                    <lb/>nicht vielmehr die Hände zur 
+                    <lb/>allgemeinen Verständigung? Ist es 
+                    <lb/>möglich, dass diese Theorie<orig>e</orig>n als
+                    <lb/>schädlich, gefährlich einerseits; als  
+                    <lb/>retrograd und kompromisshaft andererseits 
+                    <lb/>betrachtet werden sollten? – Ich vertraue
+                    <lb/><choice><sic><hi rend="underline" resp="#editorial_office_red">S</hi></sic><corr>s</corr></choice>ie Ihnen an. <note type="annotation" resp="#editorial_office_violet"> [</note><seg type="closer" subtype="salute">Ihr ganz achtungsvoll ergebener</seg></p>
+                
+                <closer rend="align(right)">
+                    <note type="annotation" place="center" resp="#editorial_office_violet">｢</note><signed rend="inline"><hi rend="underline" resp="#editorial_office_violet"><persName key="E0300017">F. Busoni</persName></hi></signed>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

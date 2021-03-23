@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0200005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Das Reich der Musik</title>
+                <title xml:lang="de" type="sub">Ein Nachwort zur neuen Ästhetik</title>
+                <title xml:lang="en">The Realm of Music</title>
+                <title xml:lang="en" type="sub">An Epilogue to the New Aesthetic</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digitale Edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2020-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Essays</title>
+                <title type="subseries" key="E010004">Entwurf einer neuen Ästhetik der Tonkunst</title>
+                <editor>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </editor>
+                <editor>
+                    <persName key="E0300313">
+                        <forename>Ullrich</forename>
+                        <surname>Scheideler</surname>
+                    </persName>
+                </editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>N.Mus.Nachl. 4,114 (Nachlass Ferruccio Busoni II)</idno>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-2864027</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docDate><date when-iso="1910-03-03"/></docDate>
+                            <incipit>Kommt, folgt mir</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">5 Blatt</measure>
+                                    <measure type="pages">5 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#major_hand">Foliierung durch den Verfasser, mit Tinte oben rechts auf den Vorderseiten.</foliation>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Das Manuskript ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Autors Ferruccio Busoni, Text in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Signatur mit Bleistift eingetragen hat.</handNote>
+                            <handNote xml:id="sbbpk_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500652">Dayton (Ohio)</origPlace>
+                            <origDate when-iso="1910-03-03"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800317"/>, S. 188 f.</bibl>
+                            <bibl><ref target="#E0800045"/>, S. 136–138</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>            
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit normalen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc> 
+        <revisionDesc status="unfinished">
+            <change when-iso="2020-09-01" who="#E0300314">angelegt</change>
+        </revisionDesc>
+    </teiHeader>    
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/835057615/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000003"/>
+        <graphic n="3" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000005"/>
+        <graphic n="4" corresp="7" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000007"/>
+        <graphic n="5" corresp="9" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000009"/>
+        <graphic n="6" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000002"/>
+        <graphic n="7" corresp="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000004"/>
+        <graphic n="8" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000006"/>
+        <graphic n="9" corresp="8" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000008"/>
+        <graphic n="10" corresp="10" url="http://resolver.staatsbibliothek-berlin.de/SBB0001B18600000010"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="shelfmark" resp="#archive" place="top-left">N.Mus.Nachl. 4,114</note>
+                
+                <note type="foliation" place="top-right" resp="#major_hand">1</note>
+                
+                <fw place="margin-left" rend="huge">
+                    <figure>
+                        <figDesc>Hotelansicht</figDesc>
+                    </figure>
+                </fw>
+                <fw place="center">
+                    <placeName><seg rend="majuscule small spaced-out">The</seg>
+                        <lb/><seg rend="large">Algonquin</seg></placeName>
+                </fw>
+                <fw place="margin-right" rend="majuscule">
+                    <placeName key="E0500652">Daytons</placeName> largest and best hotel
+                    <lb/>absolutely fireproof
+                </fw>
+                <fw place="center" rend="align(center) majuscule tiny">
+                    American<lb/>and<lb/>European<lb/>plans
+                </fw>
+                <dateline rend="right">
+                    <fw place="center inline">
+                        <placeName key="E0500652">Dayton</placeName>,<reg> </reg><placeName key="E0500651">Ohio</placeName>
+                    </fw>
+                    <date when-iso="1910-03-03">3<reg>.</reg> März
+                        <lb/>1910</date>
+                </dateline>
+                
+                <!-- Kommentar Aufenthalt Busoni 1910 USA -->
+                
+                <!-- construct subtitle für writings -->
+                
+                <head rend="align(center) underline">Das Reich der Musik</head>
+                <head rend="underline" type="sub">Ein Nachwort zur <rs key="E0400043">neuen <choice><orig>Ae</orig><reg>Ä</reg></choice>sthetik</rs><orig>.</orig></head>
+                
+                <p>Kommt, folgt mir in das
+                    <lb/>Reich der Musik. Hier ist
+                    <lb/>das Gitter, das Irdische<subst><del rend="overwritten">n</del><add place="across">s</add></subst>
+                    <lb/>vom Ewigen trennt.
+                    
+                    <note type="commentary" resp="#E0300314">Vgl. den <ref type="E010004" target="#D0200001" n="35">letzten Abschnitt</ref> des <title key="E0400043">Entwurfs einer neuen Ästhetik der Tonkunst</title>, an dessen Bildlichkeit <persName key="E0300017">Busoni</persName> hier unmittelbar anschließt.</note>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> folgt Absatzwechsel.</note>
+                    
+                    <lb/>Habt ihr die Fesseln ge
+                    <lb break="no"/>löst <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <bibl><ref target="#E0800045"/></bibl> Abkürzung hier und im Folgenden stillschweigend aufgelöst.</note>
+                    
+                    abgeworfen? Nun
+                    <lb/>kommt. – Es ist nicht
+                    <lb/>so, als wenn wir früher
+                    <lb/>in ein fremdes Land traten;
+                    <lb/>bald <subst><del rend="overwritten"><gap reason="illegible" atLeast="2" unit="char"/></del><add place="across">lern</add></subst>ten wir <add place="above">dort</add> alles
+                    <lb/>kennen<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> <subst><del rend="strikethrough"><add place="above">bald</add></del> <add type="reinstated" rend="underline-dashed"><del rend="strikethrough">nichts</del></add></subst> überraschte
+                    <lb/>uns <del rend="strikethrough">nichts</del> mehr.</p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" place="top-right" resp="#major_hand">2</note>
+                
+                <p>Hier wird des Staunens kein
+                    <lb/>Ende<reg>,</reg> und <add place="above">wir</add> <subst><del rend="strikethrough">ist uns</del><add place="above">fühlen</add></subst> <add place="above">uns</add> doch von
+                    <lb/>Anfang an heimisch.</p>
+                
+                <p>Noch hört ihr <choice><orig>N</orig><reg>n</reg></choice>ichts, weil
+                    <lb/><hi rend="underline"><choice><orig>A</orig><reg>a</reg></choice>lles tönt</hi>. Nun beginnt ihr
+                    <lb/>schon zu unterscheiden.
+                    <lb/>Lauscht, jeder Stern hat
+                    <lb/>seinen Rhythmus <choice><abbr>u.</abbr><expan>und</expan></choice> jede
+                    <lb/>Welt ihren Takt. Und
+                    <lb/>auf jedem der Sterne <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>jeder der Welt<subst><del rend="overwritten">,</del><add place="across">en<orig>,</orig></add></subst> schlägt
+                    <lb/>das Herz jedes einzelnen
+                    <lb/>Lebendigen anders, und
+                    <lb/>nach seinem eigenen
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> fehlt <q>eigenen</q>.</note>
+                    
+                    <lb/>Müssen. Und alle Schläge
+                    <lb/>stimmen überein und
+                    <lb/>sind ein Einziges und
+                    <lb/>ein Ganzes.</p>
+                
+                <pb n="3"/>
+                
+                <note type="foliation" place="top-right" resp="#major_hand">3</note>
+                
+                <p>Euer inneres Ohr wird <del rend="strikethrough">allmälig</del>
+                    <lb/>schärfer. Hört ihr die Tiefen
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> die Höhen? Sie sind unme<choice><orig>ß</orig><reg>ss</reg></choice>
+                    <lb break="no"/>bar wie der Raum und
+                    <lb/>unendlich wie die Zahl. Wie
+                    <lb/><del rend="strikethrough">durch</del> Bänder <del rend="strikethrough">verbindend,</del>
+                    <lb/><subst><del rend="strikethrough">liegen, bewegen, verketten</del><add place="above">ziehen</add></subst>
+                    <lb/>sich ungeahnte S<choice><orig>c</orig><reg>k</reg></choice>alen
+                    <lb/>von einer <choice><sic>w</sic><corr>W</corr></choice>elt
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137)</bibl>: <q>Welt</q>.</note>
+                    
+                    zur anderen,
+                    <lb/><hi rend="underline">feststehend</hi> und <hi rend="underline">ewig
+                        
+                        <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> <q>ewig</q> ohne Unterstreichung.</note>
+                        
+                        bewegt</hi>.
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> folgt Absatzwechsel.</note>
+                    
+                    <lb/>Jeder Laut ist ein <choice><orig>C</orig><reg>Z</reg></choice>entrum
+                    <lb/>unerme<choice><orig>ß</orig><reg>ss</reg></choice>licher Kreise.</p>
+                
+                <p rend="indent-first">Und jetzt offenbart sich
+                    <lb/>Euch der <hi rend="underline">Klang</hi>! Ungezählt<del rend="strikethrough">e</del>
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137)</bibl>: <q>Ungezählte</q>.</note>                    
+                    <lb/><add place="margin-left">sind seine</add> <subst><del rend="strikethrough">Nuancen</del><add place="above">Stimmen</add></subst>, <subst><del rend="strikethrough">gegen die das</del><add place="above"><del rend="strikethrough">in Vergleichen</del> <subst><del rend="strikethrough">zu</del><add place="above">mit</add></subst>
+                        
+                        <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> fehlt <q>mit</q>.</note>
+                        
+                        ihnen <del rend="strikethrough">sind</del></add></subst>
+                    <lb/><add place="margin-left">verglichen<lb/>ist das</add> S<choice><orig>aü</orig><reg>äu</reg></choice>seln
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137)</bibl>: <q>Säuseln</q>.</note>
+                    
+                    der Harfe ein <del rend="strikethrough"><gap reason="illegible" unit="word" extent="1"/></del>
+                    <lb/><subst><add place="margin-left">Gepolter,</add><del rend="strikethrough"><gap reason="illegible" extent="1" unit="word"/>,</del></subst> das Schmettern
+                    <lb/>von <choice><orig>T</orig><reg>t</reg></choice>ausend Posaunen
+                    <lb/>ein Gezirp<subst><add place="inline">.</add><del rend="strikethrough">sind</del></subst></p>
+                
+                <pb n="4"/>
+                
+                <note type="foliation" place="top-right" resp="#major_hand">4</note>
+                
+                <p>Alle,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137)</bibl>: <q>Alles</q>.</note>
+                    
+                    alle Melodien, gehörte
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> ungehörte vorher, erklingen
+                    <lb/>vollzählig,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> ohne Komma.</note>
+                    
+                    <add place="above"><choice><abbr>u</abbr><expan>und</expan></choice> zugleich</add> tragen Euch, <del rend="strikethrough">durch
+                        <lb break="no"/><gap reason="illegible" unit="char" extent="1"/>a</del> überhängen Euch, streifen
+                    <lb/>Euch,
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> ohne <q>streifen Euch</q>.</note>
+                    
+                    der Liebe <choice><abbr>u.</abbr><expan>und</expan></choice> der
+                    <lb/>Leidenschaft, des Frü<subst><del rend="overwritten">g</del><add place="across">h</add></subst>lings
+                    <lb/><choice><abbr>u</abbr><expan>und</expan></choice> des Winters, der Schwer
+                    <lb break="no"/>mut<orig>h</orig> <choice><abbr>u.</abbr><expan>und</expan></choice> der Ausgelassenheit,
+                    <lb/>sind <add place="above">selbst</add> die Gemüt<orig>h</orig>er <add place="above">von</add> Millionen
+                    <lb/>von Wesen in Millionen
+                    <lb/>von Epochen. – Fasst ihr
+                    <lb/><choice><orig>E</orig><reg>e</reg></choice>ine davon näher in<orig>’</orig>s Auge<reg>,</reg>
+                    <lb/>so merkt ihr<reg>,</reg> wie <choice><sic>S</sic><corr>s</corr></choice>ie
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137)</bibl>: <q>sie</q>.</note>
+                    
+                    mit
+                    <lb/>allen übrigen zusammen<choice><sic>,<lb/></sic>
+                        <corr><lb break="no"/></corr></choice>hängt,
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137)</bibl>: <q>zusammenhängt</q>.</note>
+                    
+                    mit allen Rhythmen
+                    <lb/>kombini<reg>e</reg>rt, von allen
+                    <lb/>Klangarten gefärbt ist, <subst><del rend="strikethrough">bis</del><add place="above">von allen</add></subst>
+                    
+                    <note type="commentary" subtype="ed_diff_major" resp="#E0300314">Bei <bibl><ref target="#E0800045"/> (137)</bibl> fehlt <q>von allen</q>.</note>
+                    
+                    <lb/><add place="margin-left">Harmonien<lb/>begleitet, bis</add> in den Grund der Gründe<reg>,</reg>
+                    <lb/><del rend="strikethrough">hinunter</del><orig>,</orig> <choice><abbr>u.</abbr><expan>und</expan></choice> die Wölbung aller
+                    
+                    <pb n="5"/>
+                    
+                    <note type="foliation" place="top-right" resp="#major_hand">5</note>
+                    
+                    Wölbungen in den Höhen.</p>
+                
+                <p>Nun begreift <add place="inline">ihr,</add> wie Planeten
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Herzen eins sind mit<choice><orig><lb/></orig>
+                        <reg><lb break="no"/></reg></choice>einander <choice><abbr>u.</abbr><expan>und</expan></choice> nirgends ein
+                    <lb/>Ende, nirgends ein Hem<reg>m</reg>nis
+                    
+                    <note type="commentary" subtype="ed_diff_minor" resp="#E0300314"><bibl><ref target="#E0800045"/> (137 f.)</bibl>: <q>Hemmnis</q>.</note>
+                    
+                    <lb/><subst><add place="margin-left">sein kann</add><del rend="strikethrough">ist</del></subst>; <del rend="strikethrough">und</del> dass das Grenzen
+                    <lb break="no" rend="after:-"/>lose in dem Geiste der Wesen
+                    <lb/>vollständig <choice><abbr>u.</abbr><expan>und</expan></choice> unget<orig>h</orig>eilt
+                    <lb/>lebt; dass ein Jedes unendlich
+                    <lb/>gro<choice><orig>ss</orig><reg>ß</reg></choice> <choice><abbr>u.</abbr><expan>und</expan></choice> unendlich klein ist
+                    <lb/>zugleich: das Ausgedehnteste
+                    <lb/>gleich einem Punkte; und
+                    <lb/>dass Licht, Klang, Bewegung,
+                    <lb/>Kraft <del rend="strikethrough">– nämlich</del> identisch
+                    <lb/><del rend="strikethrough">sind</del> und jedes <subst><del rend="strikethrough">einzeln</del><add place="above">für sich</add></subst> <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>alle vereint das Leben sind.</p>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1]</note>
+                
+                <pb n="7"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2]</note>
+                
+                <pb n="8"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 3]</note>
+                
+                <pb n="9"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 4]</note>
+                
+                <pb n="10"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 5]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0400003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="de">Briefe Hugo Leichtentritts veröffentlicht</title>
+            <title xml:lang="en">Introducing: Letters by Hugo Leichtentritt</title>
+            <author key="E0300314">Christian Schaper</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date when="2020-12-05T00:00:00"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">News</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when-iso="2020-12-05" who="#E0300314">Neuigkeit verfasst.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="news">
+      <body>
+         <div xml:lang="de">
+            <p>Mit den 13 überlieferten Briefen <persName key="E0300093">Hugo Leichtentritts</persName> an <persName key="E0300017">Ferruccio Busoni</persName> wurde der Edition <ref target="#E010009">ein weiterer Briefwechsel</ref> hinzugefügt. Der Musikhistoriker <persName key="E0300093">Leichtentritt</persName> ist heute vor allem als Autor einer <title key="E0800301">Musikalischen Formenlehre</title> (<date when-iso="1911">1911</date>) bekannt, auf deren erste Revision (erschienen <date when-iso="1920">1920</date>) <persName key="E0300017">Busoni</persName> entscheidenden Einfluss ausübte. Der Briefwechsel mit <persName key="E0300017">Busoni</persName> zeigt <persName key="E0300093">Leichtentritt</persName> von weniger bekannten Seiten: als Komponisten auf meist vergeblicher Verlegersuche, daneben auch als Musikkritiker und Autor von Programmheften. Mit <persName key="E0300017">Busonis</persName> Gang ins <placeName key="E0500132">Zürcher</placeName> Exil <date when-iso="1915">im Jahr 1915</date> sowie der Situation im <placeName key="E0500015">Deutschen Reich</placeName> <date when-iso="1923">anno 1923</date> geraten außerdem politische Ereignisse in den Blick – und die offenkundigen Schwierigkeiten, sich aus dem jeweiligen Moment heraus auf sie einen Reim zu machen.</p>
+            <p>Die Transkription und Kommentierung der Briefe erfolgte im Rahmen der BA-Abschlussarbeiten von <persName key="E0300327">Juliane Imme</persName> und <persName key="E0300418">Marlene Everling</persName>. Die musikgeschichtlich noch bedeutsameren Gegenbriefe <persName key="E0300017">Busonis</persName>, aufbewahrt in der Library of Congress in <placeName key="E0500157">Washington</placeName>, konnten bisher pandemiebedingt nicht beschafft werden; sie werden der Edition so bald wie möglich hinzugefügt werden.</p>
+         </div>
+         <div xml:lang="en">
+            <p>With the 13 known letters by <persName key="E0300093">Hugo Leichtentritt</persName> to <persName key="E0300017">Ferruccio Busoni</persName>, <ref target="#E010009">another correspondence</ref> has been added to our edition. <persName key="E0300093">Leichtentritt</persName> is probably best known today for his <title key="E0800301">Musikalische Formenlehre</title> (<date when-iso="1911">1911</date>), whose revised edition (<date when-iso="1920">1920</date>) clearly shows the impact of <persName key="E0300017">Busoni’s</persName> aesthetics. But the letters also reveal that <persName key="E0300093">Leichtentritt</persName> perceived himself primarily as a composer, and they throw some light on his (mostly unsuccessful) attempts at publishing his musical works as well as on his work as a music critic and as an author of concert programmes. We also get his out-of-the moment evaluations of the political environments in <placeName key="E0500015">Germany</placeName> around <date when-iso="1915">1915</date> and <date when-iso="1923">1923</date>, respectively.</p>
+            <p>Transcription of and critical commentary to these letters have been provided as part of the Bachelor theses by <persName key="E0300327">Juliane Imme</persName> and <persName key="E0300418">Marlene Everling</persName>. Due to the COVID-19 pandemic, the <persName key="E0300017">Busoni</persName> letters to <persName key="E0300093">Leichtentritt</persName> could not yet be obtained from the Library of Congress (<placeName key="E0500157">Washington</placeName>); they will be added to our edition as soon as possible.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

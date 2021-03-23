@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400336">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liszt, Franz: Etüde in 12 Übungen</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Register</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-15" who="#E0300361">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="mus">
+                    <monogr>
+                        <author key="E0300013">Franz Liszt</author>
+                        <title level="m">Etüde in 12 Übungen</title>
+                        <idno type="wcat">S 136</idno>
+                        <idno type="wcat">R 1</idno>
+                        <idno type="GND">300093446</idno>
+                        <imprint>
+                            <date when-iso="1826" type="composed"/>
+                        </imprint>
+                        <imprint>
+                            <date when-iso="1826" type="firstprint"/>
+                            <publisher>
+                                <orgName key="E0600163"><persName key="E0300585">Dufaut</persName> &amp; <persName key="E0300586">Dubois</persName></orgName>
+                            </publisher>
+                            <pubPlace key="E0500012">Paris</pubPlace>
+                        </imprint>
+                    </monogr>
+                    <note>
+                        Ursprünglich geplant als <q><foreign xml:lang="fr">Étude pour le piano-forte en quarante-huit exercices dans tous les tons majeurs et mineurs</foreign></q>, d.h. als Zyklus von insgesamt 48&#160;Stücken, die in vier Heften publiziert werden sollten. <persName key="E0300013">Liszt</persName> hat jedoch nur 12&#160;Übungen geschrieben und veröffentlicht.
+                    </note>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300252">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oswald Jonas</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119233614</idno>
+               <idno type="VIAF">100911424</idno>
+               <idno type="ISNI">0000000110318328</idno>
+               <persName type="reg">
+                  <surname>Jonas</surname>,
+                  <forename>Oswald</forename>
+               </persName>
+               <birth>
+                  <date when-iso="1897-01-10"/>
+                  <placeName key="E0500002">Wien</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1978-03-19"/>
+                  <placeName key="E0500342">Riverside</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Musikwissenschaftler</occupation>
+               <occupation>Pianist</occupation>
+               <occupation>Jurist</occupation>
+               <education>Dr. jur.</education>
+               <education>Schüler u. a. von <persName key="E0300024">Schenker</persName> und <persName key="E0300222">Violin</persName>.</education>
+               <note>Der Nachlass beinhaltet <persName key="E0300024">Schenkers</persName> Tagebücher sowie große Teile der Korrespondenz und befindet sich in der Library of the University of California, Riverside.</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

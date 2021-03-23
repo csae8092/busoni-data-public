@@ -1,0 +1,438 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Arnold Schönberg an Ferruccio Busoni (Payerbach, 10. September 1903)</title>
+                <title xml:lang="en">Letter by Arnold Schönberg to Ferruccio Busoni (Payerbach, 10 September 1903)</title>
+                <author key="E0300023">Arnold Schönberg</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2016-03"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010001">Briefwechsel Ferruccio Busoni – Arnold Schönberg</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 3551</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. OrchesterAbend 1903, 27 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-681424</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300023">Schönberg</persName> bittet um Aufführung von <title key="E0400012">Pelleas und Melisande</title> im Rahmen der von 
+                            <persName key="E0300017">Busoni</persName> organisierten <orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabende</orgName>, 
+                            bietet Partiturzusendung an.
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1903-09-10"/></docDate>
+                            <incipit>aus Ihrem Briefe an <persName key="E0300024">Herrn Dr<reg>.</reg> Schenker</persName></incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">1 Bogen</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <foliation resp="#archive">Foliierung durch das Archiv, mit Bleistift unten rechts auf den Vorderseiten.</foliation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300023">Hand des Absenders Arnold Schönberg, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Foliierung mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500038">Payerbach</origPlace>
+                            <origDate when-iso="1903-09-10"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800003"/>, S. 316 f.</bibl>
+                            <bibl><ref target="#E0800284"/>, S. 202 f.</bibl>                            
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden anschließende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100001">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118610023" key="E0300023">Schönberg, Arnold</persName>
+                    <date when="1903-09-10"/>
+                    <placeName ref="http://www.geonames.org/7872993" key="E0500038">Payerbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="repliedBy" target="#D0100002"/>
+                    <ref type="next" target="#D0100002"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2015-12-08" who="#E0300314">Revisionselement hinzugefügt; status="unfinished"</change>
+            <change when-iso="2017-04-07" who="#E0300314">status="proposed"</change>
+            <change when-iso="2017-11-28" who="#E0300314">Schenker-Brief verlinkt</change>
+            <change when-iso="2019-11-23" who="#E0300361">korrekturgelesen und ergänzt (Transkription, Lesefassung, editorische Abweichungen)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/839133197/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2100000001"/>
+        <graphic n="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2100000002"/>
+        <graphic n="3" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2100000003"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB0001BA2100000004"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                <pb n="1"/>
+                <note type="shelfmark" place="top" resp="#archive">
+                    <subst>
+                        <del xml:id="del_sig" rend="strikethrough">Mus.ep. OrchesterAbend 1903, 27 (Busoni-Nachl. B II)</del>
+                        <add xml:id="add_sig" place="margin-left" rend="rotate(-90)">Mus.Nachl. F. Busoni B II, 3551</add>
+                    </subst>
+                </note>
+                <substJoin target="#del_sig #add_sig"/>
+                
+                <opener>
+                    <dateline rend="align(right) space-below">
+                        <placeName key="E0500038">Payerbach</placeName><reg>,</reg>
+                        <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: <q>Payersbach</q>.</note>
+                        <date when-iso="1903-09-10">10.<choice><orig>/9.</orig><reg> September </reg></choice>1903</date>
+                    </dateline>                    
+                </opener>
+                
+                <p rend="indent-first"><seg type="opener" subtype="salute">
+                    <choice><unclear cert="high">Hochverehrter</unclear><unclear cert="low">Hoch verehrter</unclear></choice>
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: <q>Hochverehrter</q> ohne alternative Lesart.</note>
+                    <rs key="E0300017">Herr Professor</rs>,</seg>
+                    <note resp="#E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    aus Ihrem Briefe
+                    <lb/>an <persName key="E0300024">Herrn Dr<reg>.</reg>
+                        <note resp="#E0300361" type="commentary" subtype="ed_diff_minor">
+                            <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: mit Punkt nach <q>Dr</q>.
+                        </note>
+                        Schenker</persName>,
+                    
+                    <note type="commentary" resp="#E0300314">
+                        <ref type="E010003" target="#D0100079">Brief vom <date when-iso="1903-08-25">25. August 1903</date></ref> oder 
+                        <ref type="E010003" target="#D0100082">Brief vom <date when-iso="1903-09-03">3. September 1903</date></ref>.
+                    </note>
+                    
+                    dessen <title key="E0400016">Syrische
+                        <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: <q>syrische</q>.</note>
+                        Tänze</title>
+                    <lb/>ich für Orchester setze,
+                    
+                    <note type="commentary" resp="#E0300314">
+                        Details der Auftragsvergabe sind u. a. dem <ref type="ext" target="http://www.schenkerdocumentsonline.org/documents/correspondence/OJ-14-15_1.html">Brief <persName key="E0300023">Schönbergs</persName></ref> vom <date when-iso="1903-09-12">12. September 1903</date> an <persName key="E0300024">Heinrich Schenker</persName> zu entnehmen.
+                    </note>
+                    
+                    entnahm ich, dass Sie
+                    <lb/>auch heuer
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl> fälschlich: <q>sicher</q> bzw. <q>undoubtedly</q>.
+                    </note>
+                    
+                    Ihre <soCalled rend="dq-du">Modernen
+                        <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: <q>modernen</q>.</note>
+                        <choice><orig>C</orig><reg>K</reg></choice>on<choice><orig>c</orig><reg>z</reg></choice>erte</soCalled>
+                    
+                    <note type="commentary" resp="#E0300314">
+                        Offenbar verwechselt <persName key="E0300023">Schönberg</persName> die Reihe zumindest ihrem Namen nach mit der von <persName key="E0300022">Richard Strauss</persName> veranstalteten; gemeint sind <persName key="E0300017">Busonis</persName> <orgName key="E0600003"><placeName key="E0500029">Berliner</placeName> Orchesterabende</orgName>.
+                    </note>
+                    
+                    in <placeName key="E0500029">Berlin</placeName>
+                    <lb/>abhalten.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Da ich schon, als ich noch in <placeName key="E0500029">Berlin</placeName>
+                    <lb/>war,
+                    
+                    <note type="commentary" resp="#E0300314">
+                        <persName key="E0300023">Schönberg</persName> war zwei Monate zuvor, im <date when-iso="1903-07">Juli 1903</date>, von <placeName key="E0500029">Berlin</placeName> zurück nach <placeName key="E0500002">Wien</placeName> gezogen.
+                    </note>
+                    
+                    die Absicht hatte<reg>,</reg> Sie aufzusuchen, darin
+                    <lb/>aber insofern missglückte, als Sie verreist
+                    <lb/>waren, erlaube ich mir<reg>,</reg> mich brieflich mit
+                    <lb/>dem an Sie zu wenden, um was ich Sie
+                    <lb/>damals angehen wollte.
+                </p>
+                
+                <p rend="indent-first">Folgendes: Ich habe eine symphonische
+                    <lb/>Dichtung<orig>:</orig>
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: ohne Doppelpunkt.</note>
+                    <title key="E0400012" rend="dq-du">Pelleas und M<choice><orig>é</orig><reg>e</reg></choice>lisande</title>
+                    <note resp="#E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: <q>Mélisande</q> ohne Akzent.
+                    </note>
+                    nach <persName key="E0300027">Maeterlinck</persName>
+                    <lb/><choice><orig>c</orig><reg>k</reg></choice>omponiert.
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: <q>componirt</q>.</note>
+                    
+                    Da diese nun leider insofern
+                    <lb/>zu den <q rend="dq-du"><add xml:id="change2" place="inline"></add>selten <del xml:id="change1" rend="strikethrough">„</del>aufgeführten Werken</q> gehört, als
+                    <substJoin target="#change1 #change2"/>
+                    <lb/>sie noch gar nicht aufgeführt ist und meine
+                    <lb/>bisherigen Versuche<reg>,</reg> sie zu pla<choice><orig>c</orig><reg>tz</reg></choice>ieren<reg>,</reg> durchaus
+                    <lb/>verg<subst><del rend="overwritten"><gap extent="1" unit="char" reason="overwritten"/></del><add place="across">e</add></subst>blich waren, so möchte ich mir erlauben<reg>,</reg>
+                    <note resp="#E0300361" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: mit Komma.</note>
+                    
+                    <note type="foliation" place="bottom-right" resp="#archive">[1]</note>
+                    
+                    <pb n="2"/>
+                    Sie zu fragen, ob Sie sie nicht einmal<del rend="strikethrough"><gap extent="1" unit="char" reason="strikethrough"/></del>
+                    <lb/>ansehen
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_major">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl> fälschlich: <q>ansagen oder ansetzen</q> [sic!] bzw. <q>announce […] or schedule</q>.
+                    </note>
+                    
+                    wollten.
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (316)</bibl>: <q>wollen</q>.</note>
+                </p>
+                
+                <p rend="indent-first">Besonders empfehlend ist es nicht, was ich
+                    <lb/>Ihnen über das Schicksal des <rs key="E0400012">Werkes</rs> hier mit
+                    <lb break="no"/>t<orig>h</orig>eilen will.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Nämlich: <persName key="E0300025">Nikisch</persName> hat mir <del rend="strikethrough">si</del>e<add place="inline">s</add>
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> interpretiert das überschriebene <q>sie</q> als die Hauptlesart.
+                    </note>
+                    
+                    <lb/>nach einem Tage<orig>,</orig>
+                    <note resp="#E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl>: ohne Komma.
+                    </note>
+                    
+                    ohne ein Wort der Antwort
+                    <lb/>zurückgeschickt.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (316)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Und <persName key="E0300026">Weingartner</persName> hat mir
+                    <lb/>nicht einmal Gelegenheit gegeben, <subst><del rend="overwritten">sie</del><add place="across">es</add></subst>
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (317)</bibl> interpretiert das überschriebene <q>sie</q> als die Hauptlesart.
+                    </note>
+                    
+                    ihm
+                    <lb/>zu zeigen.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Freunde, die sich damit bekannt
+                    <lb/>machen wollten<reg>,</reg> kamen über die ersten
+                    <lb/>Seiten
+                    <note resp="#E0300361" type="commentary" subtype="ed_diff_major">
+                         <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl> fälschlich: <q>Proben</q> bzw. <q>rehearsal</q>.
+                    </note>
+                    
+                    nicht hinaus.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl>: im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Und hier liegt auch
+                    
+                    <lb/>der Grund, warum ich das <rs key="E0400012">Werk</rs> nirgends an
+                    <lb break="no"/>bringen kann: <choice><orig>d</orig><reg>D</reg></choice>ie Sache ist so <choice><orig>c</orig><reg>k</reg></choice>ompli<choice><orig>c</orig><reg>z</reg></choice>iert,
+                    <lb/>dass es wirklich ein Opfer ist, wenn jemand
+                    <lb/>sich die Mühe
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_major"><bibl><ref target="#E0800003"/> (317)</bibl> fälschlich: <q>Muse</q>.</note>
+                    
+                    nimmt<reg>,</reg> <subst><del rend="overwritten">es</del><add place="across">sie</add></subst> anzusehen.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_major">
+                        <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (202)</bibl> fälschlich: <q>anzusetzen</q> bzw. <q>devote […] to a performance 
+                            of it</q>; beide im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Dann
+                    <lb/>noch <choice><orig>E</orig><reg>e</reg></choice>ines: ein sehr großes
+                    <note resp="#E0300361" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>grosses</q>.</note>
+                    
+                    Orchester!
+                    <lb/>(<choice>
+                        <abbr>kl Fl., 3 gr Fl.,
+                            <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>kl. Fl. 3 gr. Fl,</q>.</note>
+                            3  Ob., 1 Engl
+                            <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>Engl.</q>.</note>
+                            H., Es<pc>=</pc>Cl, 3 Clar, Baß<pc>=</pc>Clar,
+                            <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>BassClar,</q>.</note>
+                            <lb/>3 Fagotte, Ctr<pc>=</pc>Fag, 8 Hörner, 4 Trp,</abbr>
+                        <expan>kleine Flöte, 3&#160;große Flöten, 3&#160;Oboen, 1&#160;Englischhorn, Es-Klarinette, 3&#160;Klarinetten, Bass-Klarinette, 3&#160;Fagotte, Kontrafagott, 
+                            8&#160;Hörner, 4&#160;Trompeten,</expan>
+                    </choice>
+                    6&#160;Posaunen<reg>,</reg>
+                    <lb/>2&#160;Harfen und viele Streicher).
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_minor">
+                        <bibl><ref target="#E0800284"/> (202)</bibl>: Auflösung sämtlicher Abkürzungen (<q>piccolo, 3&#160;flutes, 3&#160;oboes, 1&#160;English horn, e-flat&#160;clarinet, 
+                            3&#160;clarinets, bass clarinet, 3&#160;bassoons, contrabassoon, 8&#160;horns, 4&#160;trumpets, 6&#160;trombones, 2&#160;harps, and many strings</q>) sowie 
+                        stillschweigende Ergänzung von fehlendem Komma nach <q>Posaunen</q>; <bibl><ref target="#E0800284"/></bibl> und <bibl><ref target="#E0800003"/> (317)</bibl>: 
+                        im Anschluss mit neuem Absatz.
+                    </note>
+                    
+                    Ich setze Ihnen
+                    <lb/><subst><del rend="overwritten">a</del><add place="across"><choice><orig>A</orig><reg>a</reg></choice></add></subst>lles dies schon vorher auseinander, weil
+                    <lb/>über diese Punkte hinweg, bis zur Frage<reg>,</reg>
+                    
+                    <note type="stamp" place="bottom-right" resp="#dsb_st_red">
+                        <stamp xml:id="dsb_p2" rend="round border align(center) small">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    
+                    <pb n="3"/>
+                    ob an der Sache auch etwas dran ist, noch
+                    <lb/><choice><orig>K</orig><reg>k</reg></choice>einer gekommen ist.
+                </p>
+                
+                <p rend="indent-first">Wenn Sie also die Freundlichkeit hätten<reg>,</reg>
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: mit Komma.</note>
+                    <lb/>sich meine Partitur an<del rend="strikethrough">zu</del>sehen <add place="above">zu wollen</add>, so möchte ich
+                    <lb/><choice><sic>S</sic><corr>s</corr></choice>ie Ihnen gerne schicken.
+                </p>
+                
+                <p rend="indent-first">Verzeihen Sie<sic>,</sic> die Kühnheit, mit der ich
+                    <lb/>mich an Sie wende; Mut dazu gi<orig>e</orig>bt mir
+                    <lb/>die Ihre:
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: ohne Doppelpunkt.</note>
+                    
+                    sich für moderne oder gar neue
+                    <lb/>Werke einsetzen zu wollen, trotz des Gekläffes
+                    <lb/>der <q rend="dq-du">Neidinge</q>.
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_major">
+                        <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (203)</bibl> fälschlich: <q>Neidlinge</q> bzw. <q>envious ones</q> (letzteres ohne Anführungszeichen).
+                    </note>
+                    
+                    <note type="commentary" resp="#E0300314">
+                        Anspielung auf <title key="E0400034">Die Walküre</title> von <persName key="E0300006">Richard Wagner</persName> (I. Akt, 2. Szene, Siegmund: <q>Ein starkes Jagen auf uns / stellten die Neidinge an</q>), dort wie hier zugleich anklingend an <soCalled>Neider</soCalled>. <persName key="E0300017">Busoni</persName> spinnt die <persName key="E0300006">Wagner</persName>-Allegorie in <ref type="E010001" target="#D0100002">seiner Antwort</ref> unter Verweis auf <title key="E0400035">Siegfried</title> fort.
+                    </note>
+                    
+                    Und da wage ich es denn<reg>,</reg>
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>dann</q>.</note>
+                    
+                    <lb/>bloß 
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>blos</q>.</note>
+                    
+                    vom Werke zu reden<reg>,</reg> und so tritt
+                    <lb/>meine sonst
+                    <note resp="#E0300314 #E0300361" type="commentary" subtype="ed_diff_major">
+                        <bibl><ref target="#E0800003"/> (317)</bibl> und <bibl><ref target="#E0800284"/> (203)</bibl> fälschlich: <q>fast</q> bzw. <q>almost</q>.
+                    </note>
+                    
+                    bescheidene Person — in
+                    <lb/>den Hintergrund, wodurch merkwürdiger
+                    <lb break="no"/>weise die Unbescheidenheit
+                    <lb/>dieses Briefes entsteht.
+                </p>
+                
+                <p rend="indent-first">In der Hoffnung auf eine freundliche
+                    <lb/>Antwort empfehle ich mich mit dem
+                    <lb/>Au<supplied reason="omitted">s</supplied>drucke
+                </p>
+                
+                <closer>
+                    <salute rend="align(center)">der vorzüglichsten Hochachtung
+                        <lb/>ergebenst
+                    </salute>
+                    <signed rend="align(center)"><persName key="E0300023">Arnold Schönberg</persName></signed>
+                    <dateline rend="align(center)">
+                        <address>
+                            <addrLine><placeName key="E0500038">Payerbach</placeName>
+                                <note resp="#E0300314" type="commentary" subtype="ed_diff_minor"><bibl><ref target="#E0800003"/> (317)</bibl>: <q>Payersbach</q>.</note> 126
+                                <note type="commentary" resp="#E0300314">
+                                    <persName key="E0300023">Schönberg</persName> wohnte in <placeName key="E0500038">Payerbach</placeName> offenbar immer in der <placeName key="E0500131">Villa Rumpler</placeName>.
+                                </note>
+                            </addrLine>
+                            <addrLine><placeName key="E0500081"><choice><abbr>Nied-Oesterr.</abbr><expan>Niederösterreich</expan></choice></placeName></addrLine>
+                        </address>
+                    </dateline>
+                </closer>
+                
+                <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                    <stamp sameAs="#dsb_p2" rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+                <note type="foliation" place="bottom-right" resp="#archive">[2]</note>
+                
+                <pb n="4"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 3, vacat]</note>
+            </div>
+        </body>
+    </text>
+</TEI>

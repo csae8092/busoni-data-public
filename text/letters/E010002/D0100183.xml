@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100183">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (22. Mai 1917, vmtl. Zürich)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (22 May 1917, prob. Zurich)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-08"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> präzisiert, das <placeName key="E0500097">Basler</placeName> Gastspiel von <title key="E0400133">Arlecchino</title> und <title key="E0400153">Turandot</title> solle eines der <placeName key="E0500132">Zürcher</placeName> Produktion sein; hat keine Pläne für den Herbst; will bis Kriegsende in der <placeName key="E0500092">Schweiz</placeName> bleiben; hofft auf Ablenkung durch ein <q>neues Werk</q>.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1917-05-22"/></docDate>
+                            <incipit>Sie haben sich meinetwegen so viele Mühe gegeben</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist" cert="high">Hand des Archivars, der mit Bleistift die Foliierung vorgenommen und das Datum auf die erste Seite übertragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1917-05-22"/>
+                        </origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S.&#8239;30</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100183">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1917-05-22"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132" cert="high">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="replyTo" target="#D0100158"/>
+                    <ref type="repliedBy" target="#D0100159"/>
+                    <ref type="previous" target="#D0100158"/>
+                    <ref type="next" target="#D0100159"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-08-09" who="#E0300314">Bearbeitung übernommen, status unfinished.</change>
+            <change when-iso="2017-08-09" who="#E0300314">Codierung abgeschlossen, status proposed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" resp="#archive" place="top-right">51.</note>
+                
+                <note type="dating" resp="#archive" place="right">22. Mai 1917</note>
+                
+                <opener><salute>Lieber, Verehrter,</salute></opener>
+                
+                <p rend="indent-first">
+                    Sie haben sich meinet
+                    <lb break="no"/>wegen so viele Mühe gegeben<reg>,</reg>
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> ich habe wieder Ihnen zu
+                    <lb/>danken! – Infolge meiner
+                    <lb/>unvollkommenen Ausdrucks
+                    <lb break="no"/>weise hat sich ein Mis<reg>s</reg>ver
+                    <lb break="no"/>ständnis eingestellt. Ich
+                    <lb/>dachte an ein
+                    <lb/><hi rend="align(center)">einmaliges Gastspiel</hi>
+                    <lb/>des gesam<orig>m</orig>ten <placeName key="E0500132">Züricher</placeName>
+                    <lb/>Theater-Apparates in <placeName key="E0500097">Basel</placeName><orig>,</orig>
+                    <lb/>(denn ich musste selbst
+                    <lb/>schließen können, dass Proben
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> Dekorationen nicht von
+                    <lb/>heute auf morgen zu<choice><orig> S</orig><reg>s</reg></choice>tande
+                    <lb/>kommen). Die Idee eines
+                    <lb/>Gastspieles<orig>,</orig> (schon hier ange
+                    <lb break="no"/>regt) erschien (<choice><abbr>u.</abbr><expan>und</expan></choice> erscheint
+                    <lb/>mir noch) nicht un<orig>-</orig>ausführbar.
+                </p>
+                
+                <pb n="2"/>
+                
+                <note type="foliation" resp="#archive" place="top-right">(2)</note>
+                
+                <p rend="indent-first">
+                    Ich habe die Absicht, mir
+                    <lb/>die Freude zu gönnen, <rs key="E0400142">Ihre
+                        <lb/>neue Symphonie</rs> anzuhören.
+                    <lb/>Ich freue mich, dass die <title key="E0400156">schöne
+                        <lb/>Bel<supplied>l</supplied>inda</title> in <placeName key="E0500097">Basel</placeName>
+                    <lb/>– und auch <placeName key="E0500108">Mannheim</placeName>? – zur
+                    <lb/>Darstellung kommt. – Noch
+                    <lb/>immer hoffe ich auf baldigen
+                    <lb/>Frieden<reg>,</reg> <choice><abbr>u.</abbr><expan>und</expan></choice> infolgedessen wei<choice><orig>ss</orig><reg>ß</reg></choice>
+                    <lb/>ich wirklich nicht, wie ich
+                    <lb/>meine Pläne für den Herbst
+                    <lb/>gestalten soll. – Die Schweizer
+                    <lb/>würde ich begreifen, wenn sie
+                    <lb/>nun meiner satt wären –
+                    <lb/>trotzdem müsste ich bei andauern
+                    <lb break="no"/>dem Kriege noch bei Ihnen bleiben.
+                </p>
+                
+                <p rend="indent-first">
+                    <lb/>Ich baue auf ein keimendes
+                    <lb/><hi rend="underline">neues Werk</hi>, das meine Gedanken
+                    <lb/>von <choice><orig>Auss</orig><reg>auß</reg></choice>en abziehen würde: das
+                    <lb/>w<choice><orig>ae</orig><reg>ä</reg></choice>re die Lösung vieler Fragen.
+                </p>
+                
+                <closer>
+                    <salute rend="align(right)">Ihr verehrungsvoll grü<choice><orig>ss</orig><reg>ß</reg></choice>ender<reg>,</reg>
+                    <lb/>treu ergebener</salute>
+                    <signed rend="align(right)"><persName key="E0300017">F. Busoni</persName></signed>
+                    <dateline>22<reg>.</reg> Mai 1917.</dateline>
+                </closer>
+                
+                <pb n="3"/>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4"/>
+                
+                <note type="dating" resp="#archive" place="top-center">22. Mai 1917</note>
+                
+                <note type="objdesc" resp="#E0300314">[Rückseite von Textseite 2]</note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

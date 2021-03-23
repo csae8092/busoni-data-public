@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500652">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dayton (Ohio)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-09-02" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="settlement">
+               <placeName>Dayton</placeName>
+               <location>
+                  <region type="state" key="E0500651">Ohio</region>
+                  <country key="US"/>
+                  <geo>39.762778 -84.196667</geo>
+               </location>
+               <idno type="GND">4085402-4</idno>
+               <idno type="geonames">4509884</idno>
+               <idno type="GNIS">1064514</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

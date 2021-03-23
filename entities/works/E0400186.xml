@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400186">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schubert, Franz (arr. Liszt, Franz): Lieder von Schubert</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus" subtype="arrgt">
+               <monogr>
+                  <author key="E0300002" role="cmp">Franz Schubert</author>
+                  <author key="E0300013" role="arrgr">Franz Liszt</author>
+                  <title level="m">Lieder von <persName key="E0300002">Schubert</persName></title>
+                  <idno type="wcat">S 558</idno>
+                  <idno type="wcat">R 243</idno>
+                  <idno type="GND">300094051</idno>
+                  <edition>Bearbeitung für Klavier solo</edition>
+                  <imprint>
+                     <date when-iso="1837/1838" type="arranged"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1838" type="firstprint"/>
+                     <pubPlace key="E0500002">Wien</pubPlace>
+                     <publisher>Diabelli</publisher>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1838" type="firstprint"/>
+                     <pubPlace key="E0500012">Paris</pubPlace>
+                     <publisher>Richault</publisher>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

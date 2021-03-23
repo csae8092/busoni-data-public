@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800338">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni 1912</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2020-10-18" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <analytic>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <title level="a">Futurismus der Tonkunst</title>
+               </analytic>
+               <monogr>
+                  <title level="j"><orgName key="E0600005">Pan</orgName></title>
+                  <idno type="DNB">4173165-7</idno>
+                  <imprint>
+                     <date when-iso="1912-10-03"/>
+                  </imprint>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="no">1</biblScope>
+                  <biblScope unit="page">11 f.</biblScope>
+               </monogr>
+               <ref type="ext" target="http://resolver.staatsbibliothek-berlin.de/SBB0001B1A700000000">Digitalisat der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</ref>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

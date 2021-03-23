@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0300559">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfred Cortot</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der <orgName>Humboldt-Universität zu Berlin</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="2020-02-17" who="#E0300314">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="GND">119351064</idno>
+               <idno type="VIAF">46852483</idno>
+               <idno type="ISNI">0000000110261456</idno>
+               <persName type="reg">
+                  <surname>Cortot</surname>,
+                  <forename>Alfred</forename>
+               </persName>
+               <persName type="birth">
+                  <forename>Alfred</forename>
+                  <forename>Denis</forename>
+                  <surname>Cortot</surname>
+               </persName>
+               <birth>
+                  <date when-iso="1877-09-26"/>
+                  <placeName key="E0500633">Nyon</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1962-06-15"/>
+                  <placeName key="E0500187">Lausanne</placeName>
+               </death>
+               <sex value="m"/>
+               <occupation>Pianist</occupation>
+               <occupation>Dirigent</occupation>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

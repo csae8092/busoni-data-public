@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100130">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Hans Huber (Zürich, 13. September 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Hans Huber (Zurich, 13 September 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300332">
+                        <forename>Tim</forename>
+                        <forename>Martin</forename>
+                        <surname>Hoffmann</surname>
+                    </persName>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="CH-Bu">Basel, Universitätsbibliothek</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="CH">Schweiz</country>
+                        <settlement>Basel</settlement>
+                        <institution key="CH-Bu">Universitätsbibliothek</institution>
+                        <idno>NL 30 : 22:A-H:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300017">Busoni</persName> will <persName key="E0300125">Huber</persName> statt der <rs key="E0800113">Überarbeitung</rs> von <persName key="E0300012">Bach</persName>-Toccaten nun eine <q><rs key="E0400140">neue Arbeit</rs> über das <title key="E0400139">Musikalische Opfer</title></q> widmen, die er als Klavier- wie Kompositions-Lehrmaterial versteht; weist auf die <rs key="E0800091">Bach-Busoni-Gesamtausgabe</rs> sowie den geplanten <rs key="E0800090">Nachtragsband</rs> hierzu hin.</summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-09-13"/></docDate>
+                            <incipit>ich danke Ihnen dafür, dass Sie so bereitwillig</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">3 Blätter</measure>
+                                    <measure type="pages">3 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Vorderseiten sind beschrieben.</collation>
+                                <condition>Der Brief ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der die Nummerierungen und Foliierungen mit Bleistift vorgenommen hat.</handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">Unbekannte Hand, die mit Bleistift auf der letzten Rückseite <q>III</q> eingetragen hat.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-09-13"/>
+                        </origin> 
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl><ref target="#E0800047"/>, S. 18 f.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-09-13"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                </correspAction>
+                <correspContext>
+                    <!--<ref type="replyTo" target="#1916-09-08-hb"/>-->
+                    <ref type="repliedBy" target="#D0100131"/>
+                    <ref type="previous" target="#D0100234"/>
+                    <ref type="next" target="#D0100131"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="candidate">
+            <change when-iso="2016-12-10" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-01-14" who="#E0300332">Bearbeitung übernommen.</change>
+            <change when-iso="2017-02-16" who="#E0300332">Bearbeitung abgeschlossen, status proposed.</change>
+            <change when-iso="2017-06-28" who="#E0300314">Durchsicht abgeschlossen, status candidate.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="1" url="#local"/>
+        <graphic n="2" url="#local"/>
+        <graphic n="3" url="#local"/>
+        <graphic n="4" url="#local"/>
+        <graphic n="5" url="#local"/>
+        <graphic n="6" url="#local"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <note type="numbering" place="top-right" resp="#archive">23.</note>
+                
+                <dateline rend="align(right)"><placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName><reg>,</reg> 13. <choice><abbr>S.</abbr><expan>September</expan></choice> 1916</dateline>
+                <opener><salute>Verehrtester Freund,</salute></opener>
+                
+                <p rend="first-right">ich danke
+                    <lb/>Ihnen dafür, dass Sie so
+                    <lb/>bereitwillig – <foreign xml:lang="fr">et gracieuse
+                        <lb break="no"/>ment</foreign> –
+                    
+                    <note type="commentary" resp="#E0300314">Frz.: anmutig, charmant; oder auch: unentgeltlich.</note>
+                    
+                    die Widmung an
+                    <lb break="no"/>nahmen. Inzwischen aber
+                    <lb/>habe ich mich besonnen, als
+                    <lb/>ich eine <rs key="E0400140">neue Arbeit</rs> über 
+                    <lb/><hi rend="align(center)">das <title key="E0400139">Musikalische Opfer</title></hi>
+                    <lb/>begann, und finde – mit
+                    <lb/>Ihrer gütigen Zustimmung –
+                    <lb/>dass diese Arbeit Ihres Na
+                    <lb break="no"/>mens würdiger wäre<orig>,</orig> als
+                    <lb/>die schlichte <rs key="E0800113">Revision</rs> der
+                    <lb/><hi rend="align(center)">Toccatas.</hi>
+                    
+                    <pb n="2"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">(2)</note>
+                    
+                    Bevor sie zum Drucke
+                    <lb/>abgeht, werde ich sie Ihnen
+                    <lb/>unterbreiten. Ihrer Scha<orig>a</orig>r
+                    <lb/>von Scholaren wird sie 
+                    <lb/>eine Übung, ebenso wohl
+                    <lb/>auf dem <choice><orig>C</orig><reg>K</reg></choice>laviere <subst><del rend="overwritten">wie</del><add place="across">als</add></subst> in
+                    <lb/>der <choice><orig>C</orig><reg>K</reg></choice>ompositionsklasse, ab
+                    <lb break="no"/>geben. Denn ich möchte,
+                    <lb/>dass man meine späteren 
+                    <lb/><persName key="E0300012">Bach</persName>-Revisionen in diesem
+                    <lb/>doppelten Sinne betrachtete.
+                </p>
+                <!-- Werkverständnis Bach-Busoni -->
+                
+                <p>
+                    <q rend="none" xml:lang="fr">Vivre en travaillant
+                        <lb/><seg rend="align(right)">ou mourir en combattant</seg></q><reg> –</reg>
+                    
+                    <note type="commentary" resp="#E0300314">Frz.: <q>Arbeitend leben [d. i.: von seiner Arbeit würdevoll leben können] oder kämpfend sterben</q>. Das Motto des Ersten Aufstands des Seidenweber in <placeName key="E0500352">Lyon</placeName> im <date when-iso="1831-11">November 1831</date> war niemals offizielle Devise der Stadt.</note>
+                    
+                    <lb/>dieses Motto der Stadt <placeName key="E0500352">Lyon</placeName>
+                    <lb/>gilt heute der ganzen Welt.
+                    <lb/>Das <persName key="E0300013">Liszt</persName>’sche <rs key="E0400434">Album d’un
+                        <lb/>voyageur</rs> beginnt damit,
+                    
+                    <note type="commentary" resp="#E0300314">Das Motto gehört zum ersten Stück <title key="E0400261">Lyon</title> des ersten Buchs <title key="E0400141">Impressions et poésies</title>. <persName key="E0300013">Liszt</persName> hatte Ende <date when-iso="1837-07">Juli 1837</date> in <placeName key="E0500352">Lyon</placeName> ein Konzert zugunsten der aufständischen Seidenweber gegeben <bibl>(<ref target="#E0800088"/>, Sp. 210)</bibl>.</note>
+                    
+                    <pb n="3"/>
+                    
+                    <note type="foliation" place="top-right" resp="#archive">(3)</note>
+                    
+                    und ich mache Sie darauf
+                    <lb/>aufmerksam, das<supplied>s</supplied> dasselbe
+                    <lb/>(erste Version von <title key="E0400123" rend="dq-du">La Suisse</title>)
+                    <lb/>nun in der <rs key="E0800089">gro<choice><orig>ss</orig><reg>ß</reg></choice>en Gesamt<choice><orig>-<lb break="no"/>A</orig><reg><lb break="no"/>a</reg></choice>usgabe</rs> <hi rend="underline">erschienen</hi>
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff">Bei <bibl><ref target="#E0800047"/> (19)</bibl> ohne Hervorhebung.</note>
+                    
+                    ist.
+                </p>
+                
+                <p rend="indent-first">
+                    Desgleichen, dass
+                    
+                    <note resp="#E0300314" type="commentary" subtype="ed_diff">Bei <bibl><ref target="#E0800047"/> (19)</bibl> <q>dass</q> ausgelassen.</note>
+                    
+                    <rs key="E0800091">meine
+                        <lb/>6-bändige <persName key="E0300012">Bach</persName>-Kollektion</rs>
+                    <lb/>ebenfalls vollständig auf den 
+                    <lb/>Markt gelangte;
+                    mittler
+                    <lb break="no"/>weile aber <rs key="E0800090">ein siebenter Band</rs>
+                    <lb/>notwendig geworden ist<orig>,</orig>
+                    <lb/>durch neu<reg> </reg>entstandene 
+                    <lb/><hi rend="align(center)">Nachträge.</hi>
+                </p>
+                
+                <closer>
+                    <salute>Ich grü<choice><orig>ss</orig><reg>ß</reg></choice>e Sie herzlich <choice><abbr>u.</abbr><expan>und</expan></choice>
+                        <lb/>verehrungsvoll
+                        <lb/><seg rend="align(right)">als Ihr anhänglicher</seg>
+                    </salute>
+                    <signed rend="align(right)"><persName key="E0300017">Ferruccio Busoni</persName></signed>
+                </closer>
+                
+                <pb n="4"/>
+                
+                <note type="objdesc" resp="#E0300332">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="5"/>
+                
+                <note type="objdesc" resp="#E0300332">[Rückseite von Textseite 2, vacat]</note>
+                
+                <pb n="6"/>
+                
+                <note type="objdesc" resp="#E0300332">[Rückseite von Textseite 3]</note>
+                
+                <note type="numbering" place="top-left" resp="#unknown_hand">III</note>
+            
+            </div>
+        </body>
+    </text>
+</TEI>

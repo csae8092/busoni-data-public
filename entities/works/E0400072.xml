@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0400072">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strauss, Richard: Don Quixote. Phantastische Variationen über ein Thema ritterlichen Charakters op. 35</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="mus">
+               <monogr>
+                  <author key="E0300022">Richard Strauss</author>
+                  <title level="m">Don Quixote</title>
+                  <title level="m" type="sub">Phantastische Variationen über ein Thema ritterlichen Charakters</title>
+                  <idno type="op">35</idno>
+                  <idno type="wcat">TrV 184</idno>
+                  <idno type="GND">300156456</idno>
+                  <imprint>
+                     <date when-iso="1897" type="composed"/>
+                  </imprint>
+                  <imprint>
+                     <date when-iso="1898-03-08" type="firstperf"/>
+                     <pubPlace key="E0500033">Köln</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

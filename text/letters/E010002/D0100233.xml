@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100233">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Postkarte von Hans Huber an Ferruccio Busoni (Basel, 19. Juni 1916)</title>
+                <title xml:lang="en">Postcard by Hans Huber to Ferruccio Busoni (Basel, 19 June 1916)</title>
+                <author key="E0300125">Hans Huber</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300314">
+                        <forename>Christian</forename>
+                        <surname>Schaper</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>In collaboration with</resp>
+                    <persName key="E0300316">
+                        <forename>Patrick</forename>
+                        <surname>Becker</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2017-10"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010002">Briefwechsel Ferruccio Busoni – Hans Huber</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B II, 2264</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. H. Huber 37 (Busoni-Nachl. B II)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-621755</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><persName key="E0300125">Huber</persName> kündigt für <date when-iso="1916-07">Juli</date> Aufenthalt in <placeName key="E0500200">Vitznau</placeName> an; lädt <persName key="E0300017">Busoni</persName> samt Familie dorthin ein.</summary>
+                        <msItem>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-06-19"/></docDate>
+                            <incipit><foreign xml:lang="la">Ubi terrarum</foreign>?</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="card">1 Postkarte</measure>
+                                    <measure type="pages">1 beschriebene Seite</measure>
+                                </extent>
+                                <condition>Die Postkarte ist gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300125">Hand des Absenders Hans Huber, Brieftext in schwarzer Tinte, in deutscher Kurrentschrift.</handNote>
+                            <handNote xml:id="recipient" scope="minor" medium="pencil" scribe="recipient" scribeRef="#E0300017" cert="high">Vmtl. Hand des Empfängers Ferruccio Busoni, der die Zuordnung <q>Huber</q> mit Bleistift notiert hat.</handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">Hand des Archivars, der mit Bleistift die Signaturen eingetragen hat.</handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat</handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">Bibliotheksstempel (rote Tinte)</handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">Poststempel (schwarze Tinte)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500097">Basel</origPlace>
+                            <origDate when-iso="1916-06-19"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="dh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit Doppelbindestrichen (⸗).</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100233">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707469" key="E0300125">Huber, Hans</persName>
+                    <date when="1916-06-19"/>
+                    <placeName ref="http://www.geonames.org/2661604" key="E0500097">Basel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="previous" target="#D0100128"/>
+                    <ref type="next" target="#D0100191"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2017-01" who="#E0300315">Datei als Platzhalter erstellt, Transkription ausstehend.</change>
+            <change when-iso="2017-10-27" who="#E0300314">Transkription von Patrick Becker eingefügt, status unfinished</change>
+            <change when-iso="2017-11-02" who="#E0300314">Briefreihenfolge eingefügt, Entzifferung vervollständigt und korrigiert, rudimentäre Regularisierung für Lesefassung</change>
+            <change when-iso="2017-11-10" who="#E0300314">Auszeichnung abgeschlossen, status proposed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/873374363/manifest">
+        <graphic n="1" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EABC00000002"/>
+        <graphic n="2" corresp="1" url="http://resolver.staatsbibliothek-berlin.de/SBB0001EABC00000001"/>
+    </facsimile>
+    <text type="postcard">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1"/>
+                
+                <p rend="large align(center)"><foreign xml:lang="la">Ubi terrarum</foreign>?
+                    
+                    <note type="commentary" resp="#E0300314">Lat.: Wo in aller Welt [sind Sie]?</note>
+                </p>
+                
+                <p rend="indent-first">In 14 Tagen ziehen
+                    <lb/>wir uns in den Seehafen von
+                    <lb/><placeName key="E0500200">Vitznau</placeName> zurück <choice><abbr>&amp;</abbr><expan>und</expan></choice> hoffen, Sie einmal
+                    <lb/>mit Ihrer Familie auf dem historisch<pc>=</pc>
+                    <lb break="no"/>kla<choice><orig>ß</orig><reg>ss</reg></choice>ischem Boden der <placeName key="E0500092">Schweiz</placeName> herum
+                    <lb break="no"/>führen zu dürfen!</p>
+                <closer>
+                    <salute rend="align(center)">Saluti distinti</salute>
+                    <signed rend="inline">
+                        <notatedMusic place="inline">
+                            <ptr target="nb/D0100233_nb1.xml"/>
+                            <graphic width="49px" height="47px" url="D0100233_ex_1.png"/>
+                            <desc>Noteninitialen h–h" (für <persName key="E0300125">Hans Huber</persName></desc>
+                        </notatedMusic>
+                    </signed>
+                </closer>
+                
+                <pb n="2"/>
+                
+                <cb type="postcard"/>
+                
+                <note type="shelfmark" place="top-left" rend="rotate(-90)" resp="#archive">
+                    <subst>
+                        <del rend="strikethrough">Mus.ep. H. Huber 37 (Busoni-Nachl. <handShift new="#archive_red"/>B II<handShift new="#archive"/>)</del>
+                        <add place="below">Mus.Nachl. F. Busoni B II, 2264</add>
+                    </subst>
+                </note>
+                
+                <fw place="left" rend="small rotate(0)">
+                    Adresse des Absenders. – Text.
+                    <lb/><foreign xml:lang="fr">Adresse de l’expéditeur. – Texte.</foreign>
+                    <lb/><foreign xml:lang="it">Indirizzo del mittente. – Testo.</foreign>
+                </fw>
+                
+                <cb type="postcard"/>
+                
+                <note type="annotation" resp="#recipient">Huber</note>
+                
+                <fw place="left" rend="large align(center)">
+                    Postkarte. <foreign xml:lang="fr">Carte postale</foreign>
+                    <lb/><foreign xml:lang="it">Cartolina postale.</foreign>
+                </fw>
+                
+                <note type="stamp" place="right-of right" resp="#post">
+                    <stamp rend="round border align(center) majuscule" xml:id="post_abs">
+                        <placeName key="E0500097">Basel</placeName> 2
+                        <lb/><date when-iso="1916-06-19">19.VI.16</date>.–8
+                        <lb/>Brf. Exp.
+                    </stamp>
+                </note>
+                
+                <note type="address" resp="#major_hand">
+                    <address rend="align(center)">
+                        <addrLine>Herrn <persName key="E0300017">Ferruccio Busoni</persName></addrLine>
+                        <addrLine rend="indent"><placeName key="E0500189">Scheuchzerstr. 36</placeName></addrLine>
+                        <addrLine rend="indent"><placeName key="E0500132">Zürich</placeName>.</addrLine>
+                    </address>
+                </note>
+                
+                <note type="stamp" place="left" resp="#dsb_st_red">
+                    <stamp rend="round border align(center) small">Deutsche
+                        <lb/>Staatsbibliothek
+                        <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                    </stamp>
+                </note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

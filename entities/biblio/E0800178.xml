@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800178">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bach / Busoni / Mugellini / Petri 1894</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300012" role="cmp">
+                     <forename>Johann</forename>
+                     <forename>Sebastian</forename>
+                     <surname>Bach</surname>
+                  </author>
+                  <editor key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </editor>
+                  <editor key="E0300272">
+                     <forename>Bruno</forename>
+                     <surname>Mugellini</surname>
+                  </editor>
+                  <editor key="E0300031">
+                     <forename>Egon</forename>
+                     <surname>Petri</surname>
+                  </editor>
+                  <title level="m"><persName key="E0300012">Johann Sebastian Bach</persName>: Sämtliche Klavierwerke in 25 Bänden</title>
+                  <title level="m" type="sub">bearbeitet, erläutert und mit daran anknüpfenden Beispielen und Anweisungen für das Studium der modernen Klaviertechnik herausgegeben von <persName key="E0300017">Ferruccio Busoni</persName> unter Mitarbeit von <persName key="E0300272">Bruno Mugellini</persName> und <persName key="E0300031">Egon Petri</persName></title>
+                  <edition>Gesamtausgabe</edition>
+                  <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <publisher>
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>
+                     </publisher>
+                     <date when-iso="1894/1923">1894-1923</date>
+                  </imprint>
+                  <extent>25 Bde.</extent>
+                  <biblScope unit="volume" n="1">
+                     <title level="m" key="E0400129">Das Wohltemperierte Klavier, I. Teil</title>
+                     <date when-iso="1894">1894</date>
+                     <idno type="PPN">072572639</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="2">
+                     <title level="m" key="E0400136">Das Wohltemperierte Klavier, II. Teil</title>
+                     <date when-iso="1916">1916</date>
+                     <idno type="PPN">072572647</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="3">
+                     <title level="m">18 kleine Präludien, Fughetta; 4 Duette</title>
+                     <date when-iso="1916">1916</date>
+                     <idno type="PPN">487884485</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="4">
+                     <title level="m">Zweistimmige Inventionen</title>
+                     <date when-iso="1914">1914</date>
+                     <idno type="PPN">826780628</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="5">
+                     <title level="m">Dreistimmige Inventionen</title>
+                     <date when-iso="1914">1914</date>
+                     <idno type="PPN">512661200</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="6">
+                     <title level="m">Französische Suiten 1-6</title>
+                     <date when-iso="1918">1918</date>
+                     <idno type="PPN">51266126X</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="7">
+                     <title level="m">Englische Suiten 1-3</title>
+                     <date when-iso="1916">1916</date>
+                     <idno type="PPN">543238407</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="8">
+                     <title level="m">Englische Suiten 4-6</title>
+                     <date when-iso="1917">1917</date>
+                     <idno type="PPN">543238598</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="9">
+                     <title level="m">Partiten 1-3</title>
+                     <date when-iso="1918">1918</date>
+                     <idno type="PPN">600021998</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="10">
+                     <title level="m">Partiten 4-6</title>
+                     <date when-iso="1923">1923</date>
+                     <idno type="PPN">600022250</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="11">
+                     <title level="m">Konzerte nach B. Marcello. G. Ph. Telemann, A. Vivaldi u.a. 1-8</title>
+                     <date when-iso="1915">1915</date>
+                     <idno type="PPN">485804298</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="12">
+                     <title level="m">Konzerte nach B. Marcello. G. Ph. Telemann, A. Vivaldi u.a. 9-16</title>
+                     <date when-iso="1915">1915</date>
+                     <idno type="PPN">485804352</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="13">
+                     <title level="m">Italienisches Konzert; Partita h-Moll</title>
+                     <date when-iso="1918">1918</date>
+                     <idno type="PPN">485804549</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="14">
+                     <title level="m">Mehrsätzige Vortragsstücke (Chromatische Fantasie und Fuge; Capriccio über die Abreise des vielgeliebten Bruders; Fantasia, Adagio und Fuge; Präludium, Fuge und Allegro)</title>
+                     <date when-iso="1915">1915</date>
+                     <idno type="PPN">485804646</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="15">
+                     <title level="m">Aria mit 30 Veränderungen (Goldbergische Variationen)</title>
+                     <date when-iso="1915">1915</date>
+                     <idno type="PPN">600023001</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="16">
+                     <title level="m">Variationswerke (Fantasie, Fuge, Andante und Scherzo; Sarabande con partite; Aria variata alla maniera italiana)</title>
+                     <date when-iso="1921">1921</date>
+                     <idno type="PPN">543239608</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="17">
+                     <title level="m">Tokkaten</title>
+                     <date when-iso="1922">1922</date>
+                     <idno type="PPN">600023257</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="18">
+                     <title level="m">Tokkaten; Fantasie und Fuge a-Moll</title>
+                     <date when-iso="1920">1920</date>
+                     <idno type="PPN">487939271</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="19">
+                     <title level="m">Präludien und Fugen</title>
+                     <date when-iso="1917">1917</date>
+                     <idno type="PPN">600023672</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="20">
+                     <title level="m">Präludien, Fughetten, Fugen</title>
+                     <date when-iso="1917">1917</date>
+                     <idno type="PPN">600023796</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="21">
+                     <title level="m">Fugen</title>
+                     <date when-iso="1917">1917</date>
+                     <idno type="PPN">600023931</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="22">
+                     <title level="m">Fantasien (Präludien) und Fugen</title>
+                     <date when-iso="1922">1922</date>
+                     <idno type="PPN">600024067</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="23">
+                     <title level="m">Suiten</title>
+                     <date when-iso="1923">1923</date>
+                     <idno type="PPN">512844712</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="24">
+                     <title level="m">Suiten und 2 Sonaten</title>
+                     <date when-iso="1921">1921</date>
+                     <idno type="PPN">720638542</idno>
+                  </biblScope>
+                  <biblScope unit="volume" n="25">
+                     <title level="m">3 Sonaten; Konzert und Fuge c-Moll; Capriccio E-Dur; 3 Menuette</title>
+                     <date when-iso="1923">1923</date>
+                     <idno type="PPN">683137395</idno>
+                  </biblScope>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

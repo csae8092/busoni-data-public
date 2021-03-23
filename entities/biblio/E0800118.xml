@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0800118">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Busoni / Vianna da Motta / Wassermann Beirão 2004</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <author key="E0300017">
+                     <forename>Ferruccio</forename>
+                     <surname>Busoni</surname>
+                  </author>
+                  <author key="E0300232">
+                     <forename>José</forename>
+                     <surname>Vianna</surname>
+                     <surname>da Motta</surname>
+                  </author>
+                  <editor>
+                     <forename>Christine</forename>
+                     <surname>Wassermann</surname>
+                     <surname>Beirão</surname>
+                  </editor>
+                  <title level="m">Briefwechsel <date when-iso="1898/1921">1898–1921</date></title>
+                  <title level="m" type="sub">mit Anmerkungen und einem Vorwort</title>
+                  <idno type="DNB">97315831X</idno>
+                  <imprint>
+                     <pubPlace>Wilhelmshaven</pubPlace>
+                     <publisher>Noetzel</publisher>
+                     <date when-iso="2004"/>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Taschenbücher zur Musikwissenschaft</title>
+                  <biblScope unit="volume">148</biblScope>
+               </series>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="E0500395">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reisnerstraße 18 (3. Gemeindebezirk, Wien)</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+            <title type="genre">Register</title>
+            <editor key="E0300314">Christian Schaper</editor>
+            <editor key="E0300313">Ullrich Scheideler</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when-iso="2017-08-04" who="#E0300314">Revisionselement hinzugefügt</change>
+         <change when-iso="2018-08-04" who="#E0300314">Aufspaltung der Indexlisten in Einzeldateien</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="building">
+               <placeName>Reisnerstraße 18</placeName>
+               <location>
+                  <district key="E0500379">3. Gemeindebezirk</district>
+                  <settlement key="E0500002">Wien</settlement>
+                  <country key="AT"/>
+                  <geo>48.198699 16.383848</geo>
+               </location>
+               <desc>Wohnort <persName key="E0300024">Heinrich Schenkers</persName> vom <date when-iso="1896-10-08">Oktober 1896</date> (<bibl><ref type="ext" target="http://www.schenkerdocumentsonline.org/profiles/place/entity-002277.html">Schenker Documents Online</ref>, Aufruf am <date when-iso="2017-11-22">22. November 2017</date></bibl>) bis mind. <date when-iso="1897-06-26">26. Juni 1897</date> (<ref type="E010003" target="#D0100056"><persName key="E0300024">Schenker</persName> an <persName key="E0300017">Busoni</persName></ref>).</desc>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D0100556">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="de">Brief von Ferruccio Busoni an Robert Freund (Zürich, 24. September 1916)</title>
+                <title xml:lang="en">Letter by Ferruccio Busoni to Robert Freund (Zurich, 24 September 1916)</title>
+                <author key="E0300017">Ferruccio Busoni</author>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName key="E0300361">
+                        <forename>Judith</forename>
+                        <surname>Treumann</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitization by</resp>
+                    <orgName key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Institut für Musikwissenschaft und Medienwissenschaft der Humboldt-Universität zu Berlin</publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date when-iso="2018-02"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Ferruccio Busoni – Briefe und Schriften</title>
+                <title type="genre">Briefe</title>
+                <title type="subseries" key="E010007">Briefwechsel Ferruccio Busoni – Robert Freund</title>
+                <editor key="E0300314">Christian Schaper</editor>
+                <editor key="E0300313">Ullrich Scheideler</editor>
+            </seriesStmt>             
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="DE">Deutschland</country>
+                        <settlement>Berlin</settlement>
+                        <institution key="D-B">Staatsbibliothek zu Berlin · Preußischer Kulturbesitz</institution>
+                        <repository>Musikabteilung mit Mendelssohn-Archiv</repository>
+                        <collection>Nachlass Ferruccio Busoni</collection>
+                        <idno>Mus.Nachl. F. Busoni B I, 546</idno>
+                        <altIdentifier>
+                            <idno type="D-B.olim">Mus.ep. F. Busoni 48 (Busoni-Nachl. B I)</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <institution>Kalliope-Verbund</institution>
+                            <idno>DE-611-HS-561474</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <persName key="E0300017">Busoni</persName> bedauert die lange Kontaktpause und dass 
+                            <persName key="E0300208">Freund</persName> nicht mehr in <placeName key="E0500132">Zürich</placeName> weilt;
+                            empfindet <rs key="E0500132">die Stadt</rs> auf Dauer als <q>nicht gross genug</q> für musikalische Inspiration 
+                            und Beschäftigung; fühlt sich <q>trotz aller Herzlichkeit</q> fremd; erwägt, in ein anderes Land zu ziehen, was 
+                            kriegsbedingt aber nicht möglich ist; benennt Werke, die seit <date when-iso="1916-01-01">Anfang 1916</date> neu 
+                            entstanden sind; hofft, dass die <q><rs key="E0400133">1-aktige Oper</rs></q> in <placeName key="E0500132">Zürich</placeName> 
+                            aufgeführt wird; fügt zwei Druckbeilagen bei
+                        </summary>
+                        <msItem>
+                            <docDate><date when-iso="1916-09-24"/></docDate>
+                            <docDate resp="#post" sameAs="#post_abs"><date when-iso="1916-09-24"/></docDate>
+                            <docDate resp="#unknown_hand" sameAs="#unknown_date"><date when-iso="1916-09-24"/></docDate>
+                            <incipit>Zu lange, verehrter Freund, allzulange hatte ich nicht die Freude</incipit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">2 Blatt</measure>
+                                    <measure type="pages">2 beschriebene Seiten</measure>
+                                </extent>
+                                <collation>Nur die Recto-Seiten sind beschrieben.</collation>
+                                <condition>Brief und Umschlag sind gut erhalten.</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="major_hand" scope="major" medium="black_ink" scribe="author" scribeRef="#E0300017">
+                                Hand des Absenders Ferruccio Busoni, Brieftext in schwarzer Tinte, in lateinischer Schreibschrift.
+                            </handNote>
+                            <handNote xml:id="archive" scope="minor" medium="pencil" scribe="archivist">
+                                Hand des Archivars, der mit Bleistrift die Signaturen eingetragen und eine Foliierung vorgenommen hat.
+                            </handNote>
+                            <handNote xml:id="archive_red" scope="minor" medium="red_pen" scribe="archivist">
+                                Hand des Archivars, der die Zuordnung innerhalb des Busoni-Nachlasses mit Rotstift vorgenommen hat
+                            </handNote>
+                            <handNote xml:id="unknown_hand" scope="minor" medium="pencil" scribe="unknown">
+                                Unbekannte Hand, die auf der Umschlagrückseite das Briefdatum notiert hat.
+                            </handNote>
+                            <handNote xml:id="dsb_st_red" scope="minor" medium="red_ink" scribe="archivist">
+                                Bibliotheksstempel (rote Tinte)
+                            </handNote>
+                            <handNote xml:id="sbb_st_blue" scope="minor" medium="blue_ink" scribe="archivist">
+                                Bibliotheksstempel (blaue Tinte)
+                            </handNote>
+                            <handNote xml:id="post" scope="minor" medium="black_ink" scribe="postoffice">
+                                Poststempel (schwarze Tinte)
+                            </handNote>
+                            <handNote xml:id="censor_violet" scope="minor" medium="violet_ink" scribe="censor">
+                                Zensurstempel (violette Tinte)
+                            </handNote>
+                            <handNote xml:id="label" scope="minor" medium="red_print" scribe="censor">
+                                Verschlusszettel (Zensur)
+                            </handNote>
+                        </handDesc>
+                        <accMat>
+                            <pb n="5" facs="D0100556_6.jpg"/>
+                            <note type="annotation" place="top-center" rend="underline" n="2" resp="#major_hand">offener Brief und Drucksache</note>
+                            <note type="stamp" place="below" resp="#dsb_st_red">
+                                <stamp rend="round border align(center) tiny">Deutsche
+                                    <lb/>Staatsbibliothek
+                                    <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post">
+                                <stamp xml:id="post_abs" rend="round border majuscule align(center) small">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1916-09-24">24 IX.16</date>.–7
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) small">
+                                    <placeName key="E0500132"><supplied reason="low-ink">Zü</supplied>rich</placeName> 3
+                                    <lb/><date when-iso="1916-09-24">24 IX.16</date>.–7
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) small">
+                                    <placeName key="E0500132">Zürich</placeName> 3
+                                    <lb/><date when-iso="1916-09-24">24 IX.16</date>.–<supplied reason="overwritten">7</supplied>
+                                    <lb/>Bahnhof
+                                </stamp>
+                            </note>
+                            <note type="stamp" place="inline" resp="#post" sameAs="#post_abs">
+                                <stamp rend="round border majuscule align(center) small">
+                                    <placeName key="E0500132"><supplied reason="overwritten">Zü</supplied>rich</placeName> 3
+                                    <lb/><date when-iso="1916-09-24"><supplied reason="overwritten">2</supplied>4 IX.16</date>.–7
+                                    <lb/>Bahnho<supplied reason="low-ink">f</supplied>
+                                </stamp>
+                            </note>
+                            <address rend="right">
+                                <addrLine>Herrn <persName key="E0300208">Robert Freund</persName>,</addrLine>
+                                <addrLine><placeName key="E0500469">Mérleg Gasse 4</placeName><choice><orig> </orig><reg>, </reg></choice>
+                                    <placeName key="E0500188"><hi rend="underline">Budapest</hi></placeName>.</addrLine>
+                                <addrLine><placeName key="E0500325"><hi rend="underline">Ungarn</hi></placeName>.</addrLine>
+                            </address>
+                            <note type="stamp" place="center" resp="#censor_violet">
+                                <stamp rend="majuscule align(center) tiny">
+                                    <foreign xml:lang="hu"><hi rend="bold">felülvizsgálva</hi></foreign>
+                                    <lb/>zensuriert
+                                    <lb/><placeName key="E0500188"><hi rend="spaced-out">Budapest</hi></placeName> 72&#8260;40
+                                </stamp>
+                                <note type="commentary" resp="#E0300361">
+                                    <foreign xml:lang="hu">felülvizsgálva</foreign> [ungarisch]: <q>überprüft, zensuriert</q>. Während des 
+                                    <date when-iso="1914/1918">Ersten Weltkrieges</date> in <placeName key="E0500188">Budapest</placeName> gebräuchlicher 
+                                    Zensurstempel. Die obere Zahl am Ende der dritten Zeile bezieht sich auf das überprüfende Postamt 
+                                    (<placeName key="E0500188">Budapest</placeName>&#61;72), die untere Zahl ist die jeweilige Zensornummer.
+                                    (<bibl><ref target="#E0800198"/>, S.&#160;181</bibl>) Das in <placeName key="E0500515">Österreich-Ungarn</placeName> 
+                                    als Grundrecht der Staatsbürger gesetzlich verankerte Briefgeheimnis (Art.&#160;10 des Staatsgrundgestzes
+                                    von <date when-iso="1867">1867</date>) wurde am <date when-iso="1914-07-25">25.&#160;Juli 1914</date> per Verordnung 
+                                    des Ministerrates suspendiert. Ab diesem Zeitpunkt erfolgte u.&#8239;a. eine Überprüfung sämtlicher Zivilpost (Telegramme, 
+                                    Briefe, Pakete, auch Zeitungen und andere Druckerzeugnisse) vom oder ins Ausland durch Zensurkommissionen. 
+                                    In Kombination mit schwerschwiegenden Einschränkungen der Transport-Möglichkeiten, etwa per Bahn oder Schiff, ergaben 
+                                    sich drastische Verzögerungen in der Übermittlung, die <q>Wochen, ja Monate</q> dauern konnte (vgl. 
+                                    <persName key="E0300208">Freunds</persName> <ref type="E010007" target="#D0100554">Brief vom <date when-iso="1917-02-19">19.02.1917</date></ref>).
+                                    Zudem mussten alle Briefe offen versendet werden. Eine Lockerung der Bestimmungen ergab die Zensurreform vom 
+                                    <date when-iso="1916-11">November 1916</date>. Sie betraf aber nur den Postverkehr mit 
+                                    <placeName key="E0500015">Deutschland</placeName> und sah vor, dass Briefe wieder geschlossen 
+                                    aufgegeben werden durften, was eine Zensur trotzdem nicht grundsätzlich ausschloss. (<bibl><ref target="#E0800198"/>, 
+                                        S.&#160;11&#160;ff. und 127&#160;f.</bibl>)
+                                </note>
+                            </note>
+                            
+                            <pb n="6" facs="D0100556_5.jpg"/>
+                            <note type="label" place="top-center" resp="#label">
+                                <label rend="square border align(center) small">
+                                    <foreign xml:lang="hu">Hadijog alapján fölbontatott.</foreign>
+                                </label>
+                                <note type="commentary" resp="#E0300361">
+                                    <foreign xml:lang="hu">Hadijog alapján fölbontatott.</foreign> [ungarisch]: <q>Nach dem Kriegsrecht geöffnet.</q> Neutraler
+                                    Verschlusszettel (d.h. ohne Ortsangabe), der von fast allen Zensurstellen in <placeName key="E0500325">Ungarn</placeName> 
+                                    verwendet wurde, um zensurierte Briefe nach ihrer Überprüfung wieder zu verschließen. 
+                                    (<bibl><ref target="#E0800199"/>, Bd.&#160;1, S.&#160;85&#160;ff.</bibl>; <bibl><ref target="#E0800198"/>, 
+                                        S.&#160;185</bibl>)
+                                </note>
+                            </note>
+                            
+                            <note type="shelfmark" place="margin-right" rend="space-above" resp="#archive">
+                                <del xml:id="delSig1" rend="strikethrough">Mus.ep. F. Busoni 48</del>
+                            </note>
+                            <note type="annotation" place="right" rend="small" resp="#archive">
+                                <del rend="strikethrough">m. 4 Marken</del>
+                            </note>
+                            <note type="shelfmark" place="margin-right" resp="#archive">
+                                <del xml:id="delSig2" rend="strikethrough">
+                                    <stamp resp="#sbb_st_blue">Nachlaß Busoni <handShift new="#archive_red"/>B I</stamp>
+                                </del>
+                            </note>
+                            <note type="dating" place="right" rend="large" resp="#unknown_hand" xml:id="unknown_date">
+                                <date when-iso="1916-09-24">24 Sept 1916</date>
+                            </note>
+                            <note type="shelfmark" place="bottom-center" resp="#archive">
+                                <add xml:id="addSig">Mus.Nachl. F. Busoni B I, 546-Beil.</add>
+                            </note>
+                            <substJoin target="#delSig1 #delSig2 #addSig"/>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace key="E0500132">Zürich</origPlace>
+                            <origDate when-iso="1916-09-24"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Erfassung von Briefen und Schriften von Ferruccio Busoni, ausgehend von Busonis Nachlass in der Staatsbibliothek zu Berlin · Preußischer Kulturbesitz.</p>
+            </projectDesc>
+            <editorialDecl>
+                <hyphenation eol="hard" rend="sh">
+                    <p>Worttrennungen an Zeilenumbrüchen im Original mit einfachen Bindestrichen.</p>
+                </hyphenation>
+                <punctuation marks="all" placement="external">
+                    <p>Alle im Text vorkommenden Interpunktionszeichen wurden beibehalten und werden in der diplomatischen Umschrift wiedergegeben. Bei Auszeichnung durch XML-Elemente wurden umgebende Satzzeichen nicht mit einbezogen.</p>
+                </punctuation>
+                <quotation marks="none">
+                    <p>Anführungszeichen wurden i. d. R. nicht beibehalten; die Art der Zeichen wurde im Attribut <att>rend</att> der entsprechenden Elemente codiert.</p>
+                </quotation>
+                <p>Die Übertragung folgt den Editionsrichtlinien des Projekts. <ptr target="http://www.busoni-nachlass.org/E1000003"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc ref="http://www.busoni-nachlass.org/D0100556">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118518011" key="E0300017">Busoni, Ferruccio</persName>
+                    <date when="1916-09-24"/>
+                    <placeName ref="http://www.geonames.org/2657896" key="E0500132">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116781718" key="E0300208">Freund, Robert</persName>
+                </correspAction>
+                <correspContext>
+                    <!--<ref type="replyTo" target="#D0100..."/>--><!-- evtl. D0100555, aber zweifelhaft; liegt vmtl. nicht vor -->
+                    <!--<ref type="repliedBy" target="#D0100..."/>--><!-- liegt nicht vor -->
+                    <ref type="previous" target="#D0100555"/>
+                    <ref type="next" target="#D0100557"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="de"/>
+                <language ident="hu"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when-iso="2018-02-14" who="#E0300314">Vorlagen-Datei erstellt, Transkription ausstehend, status="todo"</change>
+            <change when-iso="2018-02-26" who="#E0300361">Bearbeitung übernommen, status="unfinished"</change>
+            <change when-iso="2018-04-13" who="#E0300361">status="proposed"</change>
+            <!-- weitere Einträge hinzufügen, mindestens bei jedem Statuswechsel (unfinished, proposed, candidate, approved) -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://content.staatsbibliothek-berlin.de/dc/1013622456/manifest">
+        <graphic n="1" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CBF00000001"/>
+        <graphic n="2" corresp="3" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CBF00000003"/>
+        <graphic n="3" corresp="2" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CBF00000002"/>
+        <graphic n="4" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CBF00000004"/>
+        <graphic n="5" corresp="6" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CBF00000006"/>
+        <graphic n="6" corresp="5" url="http://resolver.staatsbibliothek-berlin.de/SBB00021CBF00000005"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="transcription">
+                
+                <pb n="1" facs="D0100556_1.jpg"/>
+                <note type="foliation" place="top-left" resp="#archive">[1]</note>
+                <note type="shelfmark" place="top-right" resp="#archive">
+                    <subst>
+                        <add>Mus.Nachl. F. Busoni B I, 546&#160;&#160;&#160;</add>
+                        <del rend="strikethrough">Mus.ep. F. Busoni 48 (Busoni-
+                            <lb/>Nachl. <handShift new="#archive_red"/>B I<handShift new="#archive"/>)</del>
+                    </subst>                    
+                </note>
+                <opener>
+                    <dateline rend="align(right) space-above">
+                        <placeName key="E0500132"><choice><abbr>Zür.</abbr><expan>Zürich</expan></choice></placeName><reg>,</reg>
+                        <date when-iso="1916-09-24"><choice><abbr>24 S.1916</abbr><expan>24. September 1916</expan></choice></date>
+                    </dateline>
+                </opener>
+                <p rend="space-above">Zu lange, verehrter Freund, allzulange
+                    <lb/>hatte ich nicht die Freude in anre
+                    <lb break="no"/>gendem Gespräche, schriftlichem Verkehre<orig>,</orig>
+                    <lb/>mit Ihnen zu sein – <choice><abbr>u.</abbr><expan>und</expan></choice> dass ich gerade
+                    <lb/>in <placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName> sein muss, als Sie nicht mehr
+                    <lb/>da sind, ist eine von jenen Ironie<orig>e</orig>n
+                    <lb/>des Fatums, wie wir ihnen in
+                    <lb/>dieser Zeit dicht begegnen<orig>..</orig>, ohne dass
+                    <lb/>es uns gegen sie abstumpfen könne.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300208">Freund</persName> hatte <placeName key="E0500132">Zürich</placeName> im 
+                        <date when-iso="1912-09">September 1912</date> verlassen und war in seine Heimatstadt 
+                        <placeName key="E0500188">Budapest</placeName> zurückgekehrt, wo er bis zu seinem Lebensende blieb. (vgl. Anm. in <persName key="E0300208">Freunds</persName> 
+                        <ref type="E010007" target="#D0100553">Brief vom <date when-iso="1912-10-25" cert="high">25.10.1912</date></ref>)
+                        <persName key="E0300017">Busoni</persName> zog mit <rs key="E0300059">seiner Frau</rs> erst im Herbst 
+                        <date when-iso="1915">1915</date> nach <placeName key="E0500132">Zürich</placeName>, um die 
+                        <date when-iso="1914-07/1918-11">Zeit des Ersten Weltkrieges</date> im neutralen <placeName key="E0500092">Schweizer</placeName> 
+                        Exil zu verbringen. (<bibl><ref target="#E0800016"/>, S.&#160;41</bibl>)
+                    </note>
+                    
+                    <lb/>Dafür treten <choice><orig>E</orig><reg>e</reg></choice>inem hier unablässig
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> überall Ihre Reminiszenzen ent
+                    <lb break="no"/>gegen, die Sympathie <choice><abbr>u.</abbr><expan>und</expan></choice> Achtung
+                    <lb/>für Sie ist allerorts lebendig, man
+                    <lb/>vermisst Sie, man erhofft Ihre Rückkehr.
+                    <note type="stamp" place="margin-left" resp="#dsb_st_red">
+                        <stamp rend="round border align(center) tiny">Deutsche
+                            <lb/>Staatsbibliothek
+                            <lb/><placeName key="E0500029"><hi rend="spaced-out">Berlin</hi></placeName>
+                        </stamp>
+                    </note>
+                    <lb/>Ich erhoffte sie mit <choice><abbr>u.</abbr><expan>und</expan></choice> das Gerücht
+                    <lb/>stärkte meine Hoffnung – –</p>
+                <p rend="indent-first">Im vorigen <date when-iso="1915/1916">Saison<choice><orig>J</orig><reg>j</reg></choice>ahre</date> richtete ich 
+                    <lb/>musikalisch hier <choice><orig>M</orig><reg>m</reg></choice>anches aus,
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Vor allem dank <persName key="E0300129">Volkmar Andreae</persName> wurde <persName key="E0300017">Busoni</persName> in 
+                        <placeName key="E0500132">Zürich</placeName> bei seiner Ankunft sofort künstlerisch eingebunden. In einem Brief an 
+                        <persName key="E0300455">Arrigo Serato</persName> (orig. ital.) zeigt er sich überaus angetan: <quote><foreign xml:lang="en">Here 
+                            I have had a splendid reception and, no sooner had I arrived, than I received a wide range of offers as pianist, composer and 
+                            conductor in <placeName key="E0500132">Zurich</placeName> and elsewhere.</foreign></quote> (<bibl><ref target="#E0800060"/>, 
+                                Br.&#160;187 vom <date when-iso="1915-10-07">07.10.1915</date>, S.&#160;220</bibl>)
+                    </note>
+                    
+                    aber
+                    <lb/>nun erschöpft sich der Stoff; <rs key="E0500092">das Land</rs>,
+                    <lb/><rs key="E0500132">die Stadt</rs><orig>,</orig> sind nicht gro<choice><orig>ss</orig><reg>ß</reg></choice> genug,
+                    <lb/>zu vielen Anregungen zu entsprechen,
+                    <lb/>genügende zu geben. Der Dirigenten
+                    <lb break="no"/>stab<reg>,</reg> den ich in Vertretung <persName key="E0300129">Andreaes</persName>
+                    <note type="stamp" place="right" rend="small" resp="#sbb_st_blue">Nachlaß Busoni</note>
+                    
+                    <pb n="2" facs="D0100556_3.jpg"/>
+                    <note type="foliation" place="top-left" resp="#archive">[2]</note>
+                    <note type="shelfmark" place="inline" rend="space-below" resp="#archive">B I, 546</note>
+                    <lb/>führte,
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <persName key="E0300129">Volkmar Andreae</persName> war zum Militärdienst einberufen worden und bekleidete dort (wie nachfolgend erwähnt) 
+                        tatsächlich den Rang eines Majors. (<bibl><ref target="#E0800058"/>, S.&#160;55, Anm.&#160;1</bibl>) Auf seinen 
+                        Vorschlag übernahm <persName key="E0300017">Busoni</persName> während seiner Abwesenheit die Leitung von vier Abonnementkonzerten 
+                        der <placeName key="E0500132">Zürcher</placeName> <orgName key="E0600024">Tonhalle-Gesellschaft</orgName>.
+                        (<bibl><ref target="#E0800058"/>, Br.&#160;8&#160;ff., S.&#160;44&#160;ff.</bibl>)
+                        <lb/><lb/>Das Programm las sich wie folgt: <seg rend="small">(vgl. <bibl><ref target="#E0800022"/>, S.&#160;23&#160;f.</bibl>)</seg>
+                        <lb/><lb/><hi rend="spaced-out">3.&#160;Abonnementkonzert &#10070; <date when-iso="1916-02-21/1916-02-22">21. und 22.02.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><hi rend="bold"><persName key="E0300013">Liszt</persName></hi> <title key="E0400383">Les Préludes</title>, <title key="E0400384">Klavierkonzert Nr.&#160;2</title>, <title key="E0400385">Faust-Symphonie</title></seg><lb/></hi>
+                        <lb/><hi rend="spaced-out">4.&#160;Abonnementkonzert &#10070; <date when-iso="1916-03-13/1916-03-14">13. und 14.03.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><hi rend="bold"><persName key="E0300177">Sibelius</persName></hi> <title key="E0400382">Symphonie Nr.&#160;2</title>
+                            <lb/><hi rend="bold"><persName key="E0300010">Mozart</persName></hi> <title key="E0400392">Bald muß ich dich verlassen (Konzertarie)</title>
+                            <lb/><hi rend="bold"><persName key="E0300458">Tschaikowski</persName></hi> <title key="E0400393">Violinkonzert D-Dur op.&#160;35</title>
+                            <lb/><hi rend="bold space-below"><persName key="E0300006">Wagner</persName></hi> Wotans Abschied und Feuerzauber aus <q><title key="E0400034">Die Walküre</title></q></seg></hi>
+                        <lb/><hi rend="spaced-out">5.&#160;Abonnementkonzert &#10070; <date when-iso="1916-03-27/1916-03-28">27. und 28.03.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><hi rend="bold">Mendelssohn Bartholdy</hi> <title key="E0400390">Sinfonie Nr.&#160;4</title>
+                            <lb/><hi rend="bold"><persName key="E0300017">Busoni</persName></hi> <title key="E0400233">Rondò Arlecchinesco op.&#160;46</title>
+                            <lb/><hi rend="bold"><persName key="E0300010">Mozart</persName></hi> <title key="E0400391">Klavierkonzert Nr. 9 Es-Dur</title>
+                            <lb/><hi rend="bold"><persName key="E0300005">Berlioz</persName></hi> Ouvertüre zu <q><title key="E0400226">Le Carnaval romain</title></q></seg></hi>
+                        <lb/><hi rend="spaced-out">6.&#160;Abonnementkonzert &#10070; <date when-iso="1916-04-17/1916-04-18">17. und 18.04.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><hi rend="bold"><persName key="E0300010">Mozart</persName></hi> Ouvertüre zur <q><title key="E0400387">Entführung aus dem Serail</title></q>
+                            <lb/>(mit hinzugefügtem Konzertschluss von <persName key="E0300017">Busoni</persName>)
+                            <lb/><hi rend="bold"><persName key="E0300010">Mozart</persName></hi> <title key="E0400389">Maurerische Trauermusik</title>
+                            <lb/><hi rend="bold"><persName key="E0300001">Beethoven</persName></hi> Ouvertüre zu <q><title key="E0400398">Die Geschöpfe des Prometheus</title></q>
+                            <lb/><hi rend="bold"><persName key="E0300466">Haydn</persName></hi> <title key="E0400394">Cellokonzert Nr. 2 D-Dur</title>
+                            <lb/><hi rend="bold"><persName key="E0300001">Beethoven</persName></hi> <title key="E0400367">Symphonie Nr. 3</title> (&#42;)</seg></hi>
+                        <lb/><lb/><seg rend="small">(&#42;) Bei <bibl><ref target="#E0800022"/></bibl> fälschlich: <persName key="E0300462">Vitali</persName> <title key="E0400388">Ciacona für Violine, Streichorchester und Orgel</title>
+                            an zweiter Stelle im Programm und <persName key="E0300459">Dvořák</persName> <title key="E0400386">Violinkonzert a-Moll op. 53</title>
+                            an vierter Stelle. <persName key="E0300455">Arrigo Serato</persName>, der für die beiden Konzerttermine als Violin-Solist verpflichtet gewesen war, 
+                            musste kurzfristig absagen, weil ihm <q>die Reisebewilligung von den <placeName key="E0500013">italienischen</placeName> Militärbehörden nicht erteilt wurde</q>. Stattdessen spielte
+                            <persName key="E0300467">Fritz Reitz</persName>, Solo-Cellist des Orchesters, das <persName key="E0300466">Haydn</persName>-<rs key="E0400394">Konzert</rs>.
+                            (vgl. <bibl><ref target="#E0800205"/>, <rs key="E0600026">NZZ</rs> Feuilleton vom <date when-iso="1916-04-20">20.04.1916</date></bibl>)</seg>
+                        <lb/><lb/><persName key="E0300017">Busoni</persName> trat nicht das erste Mal als Dirigent in Erscheinung. Das Urteil der Hörer und Kritiker fiel dennoch ambivalent aus:
+                        <quote><persName key="E0300017">Busoni</persName> als Dirigent […] war eines der merkwürdigsten musikalischen Phänomena. 
+                            Ohne jegliche Schlagtechnik, mit souveräner Verachtung alles dessen, was beim Dirigieren <q rend="dq-du">Handwerk</q> ist, brachte 
+                            er es fertig, […] die Atmosphäre eines Werkes so darzustellen, daß es in herrlichster Wiedergabe erstrahlte. Und 
+                            mochten auch die Orchestermusiker an ihren Pulten verzweifeln […] – das Publikum jubelte. Denn ein Meister stand am 
+                            Pult, wenn auch kein Kapellmeister.</quote> (<bibl><ref target="#E0800022"/>, S.&#160;20&#160;f.</bibl>)
+                    </note>
+                    
+                    liegt nun wieder in Händen
+                    <lb/>des <rs key="E0300129">Herrn Majors</rs>, der mit erstaunlicher
+                    <lb/>Behendigkeit vom Pferdesattel herunter
+                    <lb/><choice><abbr>u.</abbr><expan>und</expan></choice> auf das Konzert<choice><orig>P</orig><reg>p</reg></choice>odium springt, <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>vom anbefohlenen Trommelwirbel
+                    <lb/>zur geleiteten fünften Symphonie
+                    <lb/>übergeht. – Spielen<choice><orig><pc>=</pc></orig><reg> </reg></choice>gehört hat man
+                    <lb/>mich ausgiebig,
+                    
+                    <note type="commentary" resp="#E0300361">                        
+                        In seiner ersten <placeName key="E0500132">Zürcher</placeName> Saison trat <persName key="E0300017">Busoni</persName> als Klavier-Solist mit folgenden Programmen in Erscheinung:
+                        <lb/><lb/><hi rend="spaced-out">1.&#160;Abonnementkonzert &#10070; <date when-iso="1916-01-17/1916-01-18">17. und 18.01.1916</date></hi>
+                        <lb/><seg rend="small align(center)">(Ltg. <persName key="E0300129">Volkmar Andreae</persName>)</seg>
+                        <lb/><hi rend="indent"><seg rend="small"><hi rend="bold"><persName key="E0300001">Beethoven</persName></hi> <title key="E0400108">Klavierkonzert Nr.&#160;5</title>
+                            <lb/><hi rend="bold"><persName key="E0300017">Busoni</persName></hi> <title key="E0400120">Indianische Fantasie op.&#160;44</title>
+                            <lb/><hi rend="bold"><persName key="E0300013">Liszt</persName></hi> <title key="E0400365">Totentanz für Klavier und Orchester</title></seg></hi>
+                        <lb/><lb/><hi rend="spaced-out">1. Klavierabend: <hi rend="bold"><persName key="E0300012">Bach</persName></hi> &#10070; <date when-iso="1916-03-23">23.03.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><title key="E0400377">Präludium und Fuge Es-Dur</title>, Choralvorspiele (<title key="E0400195">Wachet auf</title>, <title key="E0400197">In dir ist Freude</title>, <title key="E0400199">Nun freut euch</title>), 
+                            <title key="E0400376">Capriccio über die Abreise des vielgeliebten Bruders</title>, <title key="E0400378">Chromatische Fantasie und Fuge</title>, <title key="E0400379">Goldberg-Variationen</title></seg></hi>
+                        <lb/><hi rend="spaced-out">2. Klavierabend: <hi rend="bold"><persName key="E0300001">Beethoven</persName></hi> &#10070; <date when-iso="1916-04-06">06.04.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><title key="E0400152">Sonate op.&#160;111</title>, <title key="E0400146">Sechs Bagatellen op.&#160;126</title>, <title key="E0400003">Sonate op.&#160;106</title></seg></hi>
+                        <lb/><hi rend="spaced-out">3. Klavierabend: <hi rend="bold"><persName key="E0300137">Chopin</persName></hi> &#10070; <date when-iso="1916-04-13">13.04.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><title key="E0400169">Zwölf Etüden op.&#160;25</title>, <title key="E0400170">24&#160;Präludien</title>, <title key="E0400159">Ballade Nr.&#160;4 f-Moll</title>, <title key="E0400375">Scherzo Nr.&#160;3 cis-Moll</title>, <title key="E0400176">Polonaise As-Dur</title></seg></hi>
+                        <lb/><hi rend="spaced-out">4. Klavierabend: <hi rend="bold"><persName key="E0300013">Liszt</persName></hi> &#10070; <date when-iso="1916-04-27">27.04.1916</date></hi>
+                        <lb/><hi rend="indent"><seg rend="small"><title key="E0400157">Sonate h-Moll</title>, <title key="E0400123">Années de pélerinage <q>La Suisse</q></title>, <title key="E0400244">Zwei Legenden</title>
+                            <lb/>Zugaben: <rs key="E0400189">Rigoletto-Paraphrase</rs>, <rs key="E0400284">La campanella</rs>(&#42;)</seg></hi>
+                        <lb/><lb/><seg rend="small">(<bibl><ref target="#E0800022"/>, S.&#160;23 und 25&#160;f.</bibl> und (&#42;) <bibl><ref target="#E0800206"/>, <rs key="E0600026">NZZ</rs> Feuilleton vom <date when-iso="1916-05-02">02.05.1916</date></bibl>)</seg>
+                    </note>
+                    
+                    <choice><abbr>u.</abbr><expan>und</expan></choice> trotz aller Herz
+                    <lb break="no"/>li<subst><del rend="overwritten"><gap atLeast="1" unit="char" reason="overwritten"/></del><add place="across">ch</add></subst>keit <choice><abbr>u.</abbr><expan>und</expan></choice> T<orig>h</orig>eilnahme bleibt man
+                    <lb/>in der <placeName key="E0500092">Schweiz</placeName> (wie in <placeName key="E0500140">England</placeName>) der
+                    <lb/><q rend="dq-du">Fremde</q><reg>,</reg> der Auswärtige. – Also w<choice><orig>ae</orig><reg>ä</reg></choice>re
+                    <lb/>es eigentlich an der Zeit<reg>,</reg> seine Zelte
+                    <lb/>um ein Ländchen weiter zu tragen, wenn
+                    <lb/>die Grenzen die Überführung der Zelte
+                    <lb/>gestatteten. 
+                    
+                    <note type="commentary" resp="#E0300361">
+                        <placeName key="E0500013">Italien</placeName> hatte <placeName key="E0500015">Deutschland</placeName> am <date when-iso="1916-08-28">28.08.1916</date>
+                        den Krieg erklärt. <persName key="E0300017">Busonis</persName> Situation im <placeName key="E0500092">Schweizer</placeName> 
+                        Exil gestaltete sich dadurch zunehmend schwieriger. In einem <ref type="E010002" target="#D0100193">Brief vom <date when-iso="1916-09-16">16.09.1916</date></ref> 
+                        (S.&#160;3) schreibt er an <persName key="E0300125">Huber</persName>: <q>Die kluge Tat meines <rs key="E0500013">Vaterlandes</rs> 
+                            hat mich völlig isoliert und auch wirtschaftlich eingeschränkt.</q> Im Süden <placeName key="E0500013">Italien</placeName>, 
+                        sein Vaterland, im Norden <placeName key="E0500015">Deutschland</placeName>, seine geistige Heimat &#8211; dass sich beide 
+                        nun im Krieg befanden und er sich weder in die eine noch die andere Richtung bewegen konnte, war für den Kosmopoliten (und
+                        Pazifisten) <persName key="E0300017">Busoni</persName> ein schwerer Schlag. (vgl. <bibl><ref target="#E0800016"/>, S.&#160;43</bibl>)
+                    </note>
+                    
+                    – Das Verzeichnis meiner
+                    <lb/>Werke gilt <subst><del rend="strikethrough">vom</del><add place="above">bis</add></subst> <date when-iso="1916-01-01">1.&#160;Januar&#160;1916</date><orig> </orig><del rend="strikethrough"><gap reason="strikethrough" atLeast="2" unit="char"/></del>;
+                    
+                    <note type="commentary" resp="#E0300361">
+                        In einem Brief vom <date when-iso="1916-01-08">08.01.1916</date> bittet <persName key="E0300017">Busoni</persName> 
+                        <orgName key="E0600002">Breitkopf &amp; Härtel</orgName>: <quote>[…] möchten Sie mir, von meinem letzten 
+                            Kompositionen-Verzeichnis, eine Handvoll Abzüge auf losen Blättern senden?</quote> Die <rs key="E0600002">Verleger</rs> 
+                        reagieren positiv: <quote>Gestern Abend sandten wir Ihnen […] 100 Abzüge[n] Ihres Werkverzeichnisses.</quote> (Schreiben vom 
+                        <date when-iso="1916-01-13">13.01.1916</date>) – und Busoni bestätigt <date when-iso="1916-01-20">7 Tage später</date> 
+                        den Erhalt derselben. (<bibl><ref target="#E0800050"/>, Bd.&#160;2, S.&#160;102&#160;ff.</bibl>) Ein solches Verzeichnis 
+                        schickte <persName key="E0300017">Busoni</persName> vmtl. auch an <persName key="E0300208">Freund</persName> und bezieht 
+                        sich hier darauf. Hanau weist darauf hin, dass eine immer stärkere 
+                        <quote source="#E0800050">Hinwendung <persName key="E0300017">Busonis</persName> zum Sammeln und 
+                            Inventarisieren seiner Werke</quote> erfolgte. (<bibl><ref target="#E0800050"/>, S.&#160;670, Anm. zu Br.&#160;1035</bibl>)
+                        Nach <persName key="E0300017">Busonis</persName> Tod, veröffentlichten <orgName key="E0600002">Breitkopf &amp; Härtel</orgName> 
+                        im <date when-iso="1924-10">Oktober 1924</date> ein <rs key="E0800197">Werk-Verzeichnis</rs>, <q>auf Grund der Aufzeichnungen 
+                            Busonis zusammengestellt und herausgegeben</q>.
+                    </note>
+                    
+                    <lb/>seitdem ist wieder <choice><orig>n</orig><reg>N</reg></choice>eues entstanden;
+                    <lb/>so z.&#8239;B. eine <rs key="E0400286">Improvisation zu <choice><orig>2 C</orig><reg>zwei K</reg></choice>lavieren</rs>,
+                    <lb/>eine <rs key="E0400133">1-aktige Oper</rs>, die am Ende gar
+                    <lb/>in <placeName key="E0500132"><choice><abbr>Z.</abbr><expan>Zürich</expan></choice></placeName> zur Darstellung kommen mag.
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Gemeint ist das <q>theatralische Capriccio</q> <title key="E0400133">Arlecchino</title>, zu dem <persName key="E0300017">Busoni</persName> bereits 
+                        <date when-iso="1914">1914</date> erste Skizzen gefertigt hatte. Das Gros der Arbeit fiel aber in die <placeName key="E0500132">Zürcher</placeName> 
+                        Zeit und im <date when-iso="1916-08">August 1916</date> war sie beendet. Das <orgName key="E0600037">Stadttheater Zürich</orgName> 
+                        war bereit, die Premiere zu übernehmen, sah aber ein Problem darin, dass der <rs key="E0400133">Einakter</rs> allein nicht abendfüllend 
+                        war. <persName key="E0300017">Busoni</persName> griff in Folge die Idee einer <title key="E0400153">Turandot</title>-Oper wieder auf 
+                        und beendete diese Komposition in nur drei Monaten. Die Uraufführung beider Werke fand am <date when-iso="1917-05-11">11.05.1917</date>
+                        unter der Leitung <persName key="E0300017">Busonis</persName> statt und war ein Erfolg. (<bibl><ref target="#E0800016"/>, S.&#160;42</bibl>;
+                        <bibl><ref target="#E0800121"/>, S.&#160;304&#160;ff. und 319&#160;ff.</bibl>)
+                    </note>
+                    
+                    <lb/>(Das würde meine Zeit gut ausfüllen <choice><abbr>u.</abbr><expan>und</expan></choice>
+                    <lb/>mich über <choice><orig>E</orig><reg>e</reg></choice>iniges hinwegt<choice><orig>ae</orig><reg>ä</reg></choice>uschen.)
+                    <lb/>Die übrigen beiden Druckbeilagen erklären
+                    <lb/>sich von selbst. 
+                    
+                    <note type="commentary" resp="#E0300361">
+                        Die Art der Druckbeilagen konnte nicht ermittelt werden. Evtl. handelt es sich um die im <ref type="E010007" target="#D0100557">
+                            folgenden Brief</ref> erwähnten <q>Klavierhefte</q>.
+                    </note>
+                    Ich hoffe<reg>,</reg> von Ihnen (und
+                    <lb/>Gutes) zu hören. <seg type="closer" subtype="salute">Ich grü<choice><orig>ss</orig><reg>ß</reg></choice>e Sie (<choice><abbr>u.</abbr><expan>und</expan></choice> die
+                        <lb/><rs type="persons" key="E0300420 E0300432">Schwestern</rs>) freundschaftlich.</seg> <seg type="closer" subtype="signed">Ihr
+                            <lb/><seg rend="align(right)"><persName key="E0300017">F.&#8239;B.</persName></seg></seg>
+                    
+                </p>
+                
+                <pb n="3" facs="D0100556_2.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 1, vacat]</note>
+                
+                <pb n="4" facs="D0100556_4.jpg"/>
+                <note type="objdesc" resp="#E0300361">[Rückseite von Textseite 2, vacat]</note>  
+            </div>
+        </body>
+    </text>
+</TEI>
